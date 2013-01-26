@@ -1,93 +1,97 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<usergroup>
-    <name>Python UserGroup RheinMain</name>
-    <nickname>PyUGRM</nickname>
-    <description>Pythonistas aus dem Rhein-Main-Gebiet treffen sich alle zwei Monate an wechselnden Locations im
-        Rhein-Main-Gebiet. Ruby-Entwickler sind ebenfalls herzlich eingeladen.
-    </description>
-    <url>http://wiki.python-forum.de/PyUGRM</url>
-    <contact>
-        <mailinglist>
-            <url>http://groups.google.com/group/pyugrm</url>
-            <label>Mailingliste</label>
-            <description>zum Austausch von Mitgliedern und Interessierten</description>
-        </mailinglist>
-        <mailinglist>
-            <url>http://groups.google.com/group/pyugrm-orga</url>
-            <label>Orga-Mailingliste</label>
-            <description>nur für Termine und Organisatorisches, moderiert</description>
-        </mailinglist>
-        <twitter>@PyUGRM</twitter>
-        <hashtag>#PyUGRM</hashtag>
-    </contact>
-    <ical>
-        https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
-    </ical>
-    <nextmeeting>
-        <date>2013-01-01</date>
-        <location></location>
-        <description></description>
-        <publictransport></publictransport>
-    </nextmeeting>
-    <statistics>
-        <members>20</members>
-        <schedule>alle 2 Monate</schedule>
-    </statistics>
-    <tags>
-        <tag>Python</tag>
-        <tag>Ruby</tag>
-    </tags>
-    <credits>
-        <logo>Das Python-Logo stammt aus dem [[http://tango.freedesktop.org/|Tango-Projekt]].</logo>
-        <team>Foto: Lukas Koerdt.</team>
-    </credits>
-    <sponsors>
-        <sponsor>
-            <name>Walter Ebert</name>
-            <url>http://www.walterebert.de/</url>
-            <city>Frankfurt</city>
-        </sponsor>
-        <sponsor>
-            <name>Brot &amp; Spiele GmbH</name>
-            <url>http://spieletipps.de/</url>
-            <city>Bad Homburg</city>
-        </sponsor>
-        <sponsor>
-            <name>arago Institut für komplexes Datenmanagement AG</name>
-            <url>http://www.arago.de/</url>
-            <city>Frankfurt</city>
-        </sponsor>
-        <sponsor>
-            <name>OFfenraum · coworking space</name>
-            <url>http://offenraum.de/</url>
-            <city>offenbach/main</city>
-        </sponsor>
-        <sponsor>
-            <name>Die Zentrale</name>
-            <url>http://die-zentrale-ffm.de/</url>
-            <city>Frankfurt</city>
-        </sponsor>
-    </sponsors>
-    <meetings>
-        <meeting>
-            <date>2012-05-08</date>
-            <url>http://wiki.python-forum.de/PyUGRM/Treffen20120508</url>
-        </meeting>
-        <meeting>
-            <date>2012-07-18</date>
-            <url>http://wiki.python-forum.de/PyUGRM/Treffen20120718</url>
-        </meeting>
-        <meeting>
-            <date>2012-09-20</date>
-            <url>http://wiki.python-forum.de/PyUGRM/Treffen20120920</url>
-        </meeting>
-        <meeting>
-            <date>2012-11-22</date>
-            <url>http://wiki.python-forum.de/PyUGRM/Treffen20121122</url>
-        </meeting>
-        <meeting>
-            <date>2013-01-16</date>
-            <url>http://wiki.python-forum.de/PyUGRM/Treffen20130116</url>
-        </meeting>
-    </meetings>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+	<name>Python UserGroup RheinMain</name>
+	<nickname>PyUGRM</nickname>
+	<description>Pythonistas aus dem Rhein-Main-Gebiet treffen sich alle
+		zwei Monate an wechselnden Locations im
+		Rhein-Main-Gebiet.
+		Ruby-Entwickler sind ebenfalls herzlich eingeladen.
+	</description>
+	<url>http://wiki.python-forum.de/PyUGRM</url>
+	<contact>
+		<mailinglist>
+			<url>http://groups.google.com/group/pyugrm</url>
+			<label>Mailingliste</label>
+			<description>zum Austausch von Mitgliedern und Interessierten
+			</description>
+		</mailinglist>
+		<mailinglist>
+			<url>http://groups.google.com/group/pyugrm-orga</url>
+			<label>Orga-Mailingliste</label>
+			<description>nur für Termine und Organisatorisches, moderiert
+			</description>
+		</mailinglist>
+		<twitter>@PyUGRM</twitter>
+		<hashtag>#PyUGRM</hashtag>
+	</contact>
+	<schedule>
+		<!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+		<!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics 
+			</ical -->
+		<meeting>
+			<date>2013-01-01T19:00:00+01:00</date>
+			<location></location>
+			<description></description>
+			<publictransport></publictransport>
+		</meeting>
+	</schedule>
+	<tags>
+		<tag>Python</tag>
+		<tag>Ruby</tag>
+	</tags>
+	<photocredits>
+		<logo>Das Python-Logo stammt aus dem
+			[[http://tango.freedesktop.org/|Tango-Projekt]].</logo>
+		<group>Foto: Lukas Koerdt.</group>
+	</photocredits>
+	<sponsors>
+		<sponsor>
+			<name>Walter Ebert</name>
+			<url>http://www.walterebert.de/</url>
+			<city>Frankfurt</city>
+		</sponsor>
+		<sponsor>
+			<name>Brot &amp; Spiele GmbH</name>
+			<url>http://spieletipps.de/</url>
+			<city>Bad Homburg</city>
+		</sponsor>
+		<sponsor>
+			<name>arago Institut für komplexes Datenmanagement AG</name>
+			<url>http://www.arago.de/</url>
+			<city>Frankfurt</city>
+		</sponsor>
+		<sponsor>
+			<name>OFfenraum · coworking space</name>
+			<url>http://offenraum.de/</url>
+			<city>offenbach/main</city>
+		</sponsor>
+		<sponsor>
+			<name>Die Zentrale</name>
+			<url>http://die-zentrale-ffm.de/</url>
+			<city>Frankfurt</city>
+		</sponsor>
+	</sponsors>
+	<meetings>
+		<meeting>
+			<date>2012-05-08</date>
+			<url>http://wiki.python-forum.de/PyUGRM/Treffen20120508</url>
+		</meeting>
+		<meeting>
+			<date>2012-07-18</date>
+			<url>http://wiki.python-forum.de/PyUGRM/Treffen20120718</url>
+		</meeting>
+		<meeting>
+			<date>2012-09-20</date>
+			<url>http://wiki.python-forum.de/PyUGRM/Treffen20120920</url>
+		</meeting>
+		<meeting>
+			<date>2012-11-22</date>
+			<url>http://wiki.python-forum.de/PyUGRM/Treffen20121122</url>
+		</meeting>
+		<meeting>
+			<date>2013-01-16</date>
+			<url>http://wiki.python-forum.de/PyUGRM/Treffen20130116</url>
+		</meeting>
+	</meetings>
 </usergroup>

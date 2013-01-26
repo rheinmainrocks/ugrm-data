@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema elementFormDefault="qualified"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="usergroup">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="name" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>Vollständiger Name der Usergroup in Langfassung,
+							z.B. Python UserGroup RheinMain
+						</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="nickname" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>Kurzform des Usergroup-Namens, z.B. PyUGRM
+						</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="description" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>Eine Beschreibung der Usergroup. Kann gerne
+							ausführlich sein.
+						</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="url" type="xs:anyURI">
+					<xs:annotation>
+						<xs:documentation>Die URL der Homepage der Usergroup.
+						</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="contact">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="mailinglist" minOccurs="0"
+								maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="url" type="xs:anyURI"></xs:element>
+										<xs:element name="label" type="xs:string"></xs:element>
+										<xs:element name="description" type="xs:string"
+											minOccurs="0"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="twitter" minOccurs="0" type="twitter"></xs:element>
+							<xs:element name="hashtag" minOccurs="0" type="hashtag"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ical" minOccurs="0" type="xs:anyURI"></xs:element>
+				<xs:element name="schedule">
+					<xs:complexType>
+						<xs:annotation>
+							<xs:documentation>Liefert Information zu den nächsten Treffen der
+								UserGroup. Entweder kann die URL zu einem iCal-Feed angegeben
+								werden, oder die Meetings werden manuell konfiguriert.
+							</xs:documentation>
+						</xs:annotation>
+						<xs:choice>
+							<xs:element name="ical" type="xs:anyURI"></xs:element>
+							<xs:element name="meeting" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="date" type="xs:dateTime"></xs:element>
+										<xs:element name="location" type="xs:string"></xs:element>
+										<xs:element name="description" type="xs:string"
+											minOccurs="0"></xs:element>
+										<xs:element name="publictransport" type="xs:string"
+											minOccurs="0"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:choice>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="tags">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="tag" type="xs:token" maxOccurs="unbounded"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="photocredits" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="logo" type="xs:string" minOccurs="0"></xs:element>
+							<xs:element name="group" type="xs:string" minOccurs="0"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="sponsors" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sponsor" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="name" type="xs:string"></xs:element>
+										<xs:element name="url" type="xs:anyURI"></xs:element>
+										<xs:element name="city" type="xs:string"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="meetings" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Links zu den Infoseiten oder Protokollen
+							vergangener Treffen.
+						</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="meeting" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="date" type="xs:date"></xs:element>
+										<xs:element name="url" type="xs:anyURI"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="twitter">
+		<xs:annotation>
+			<xs:documentation>Definiert einen Datentype für Twitter-Handles
+			</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="@[a-zA-Z0-9_]{1,15}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="hashtag">
+		<xs:annotation>
+			<xs:documentation>Definiert einen Datentype für Hashtags
+			</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="#[a-zA-Z0-9]+"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>
