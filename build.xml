@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="pyugrm-data" default="test">
+	<target name="test" description="Perform xmllint validation on XML files">
+		<apply executable="xmllint" failonerror="true">
+			<arg value="--schema" />
+			<arg value="${basedir}/xsd/usergroup.xsd" />
+			<arg value="--noout" />
+			<fileset dir="${basedir}/usergroup">
+				<include name="**/*.xml" />
+			</fileset>
+		</apply>
+	</target>
+</project>
