@@ -1,7 +1,4 @@
-# Strukturierte Daten zu Technologie-Usergroups im RheinMain-Gebiet
-
-
-[![UGRM](https://raw.github.com/tacker/ugrm-data/master/logo.png)](http://ugrm.coderbyheart.de/)
+# [![UGRM Usergroups RheinMain](https://raw.github.com/tacker/ugrm-data/master/logo.png)](http://ugrm.coderbyheart.de/)
 
 In diesem Repository finden sich mittels XML strukturierte Information zu Technologie-Usergroups im RheinMain-Gebiet. 
 Eine Technologie-Usergroup hat im weitesten Sinne etwas mit dem Internet, Software oder Hardware zu tun.
