@@ -118,6 +118,7 @@
 									<xs:sequence>
 										<xs:element name="date" type="xs:date"></xs:element>
 										<xs:element name="url" type="xs:anyURI"></xs:element>
+										<xs:element name="description" type="xs:string" minOccurs="0"></xs:element>
 									</xs:sequence>
 								</xs:complexType>
 							</xs:element>
