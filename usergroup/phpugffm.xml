@@ -4,10 +4,10 @@
 	<name>PHP Usergroup Frankfurt am Main</name>
 	<nickname>PHPUGFFM</nickname>
 	<description>
-        Alle zwei Monate trifft sich die PHPUGFFM
-        in verschiedenen Locations um über Tipps und Neuigkeiten der
-        weitverbreiteten Serverscriptsprache zu Diskutieren.
-        Auch Programmierer aus anderen Bereichen sind herzlich willkommen!
+		Alle zwei Monate trifft sich die PHPUGFFM
+		in verschiedenen Locations um über Tipps und Neuigkeiten der
+		weitverbreiteten Serverscriptsprache zu diskutieren.
+		Auch Programmierer aus anderen Bereichen sind herzlich willkommen!
 	</description>
 	<url>http://phpugffm.de</url>
 	<contact>
@@ -61,25 +61,30 @@
 		</sponsor>
 	</sponsors>
 	<meetings>
-        <meeting>
-            <date>2013-03-21</date>
-            <url>http://www.phpugffm.de/?event=phpugffm-ii-2013</url>
-        </meeting>
-        <meeting>
-            <date>2013-05-23</date>
-            <url>http://www.phpugffm.de/?event=phpugffm-iii-2013</url>
-        </meeting>
-        <meeting>
-            <date>2013-08-31</date>
-            <url>http://www.phpugffm.de/?event=phpugffm-iii-iv-2013-php-bbq</url>
-        </meeting>
-        <meeting>
-            <date>2013-09-19</date>
-            <url>http://www.phpugffm.de/?event=phpugffm-iv-2013</url>
-        </meeting>
-        <meeting>
-            <date>2013-11-21</date>
-            <url>http://www.phpugffm.de/?event=phpugffm-v-2013</url>
-        </meeting>
+		<meeting>
+			<date>2013-03-21</date>
+			<url>http://www.phpugffm.de/?event=phpugffm-ii-2013</url>
+			<description>PHPUGFFM II / 2013</description>
+		</meeting>
+		<meeting>
+			<date>2013-05-23</date>
+			<url>http://www.phpugffm.de/?event=phpugffm-iii-2013</url>
+			<description>PHPUGFFM III / 2013</description>
+		</meeting>
+		<meeting>
+			<date>2013-08-31</date>
+			<url>http://www.phpugffm.de/?event=phpugffm-iii-iv-2013-php-bbq</url>
+			<description>PHP BBQ 2013</description>
+		</meeting>
+		<meeting>
+			<date>2013-09-19</date>
+			<url>http://www.phpugffm.de/?event=phpugffm-iv-2013</url>
+			<description>PHPUGFFM IV / 2013</description>
+		</meeting>
+		<meeting>
+			<date>2013-11-21</date>
+			<url>http://www.phpugffm.de/?event=phpugffm-v-2013</url>
+			<description>PHPUGFFM V / 2013</description>
+		</meeting>
 	</meetings>
 </usergroup>
