@@ -1,97 +1,110 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-	<name>Python UserGroup RheinMain</name>
-	<nickname>PyUGRM</nickname>
-	<description>Pythonistas aus dem Rhein-Main-Gebiet treffen sich alle
-		zwei Monate an wechselnden Locations im
-		Rhein-Main-Gebiet.
-		Ruby-Entwickler sind ebenfalls herzlich eingeladen.
-	</description>
-	<url>http://wiki.python-forum.de/PyUGRM</url>
-	<contact>
-		<mailinglist>
-			<url>http://groups.google.com/group/pyugrm</url>
-			<label>Mailingliste</label>
-			<description>zum Austausch von Mitgliedern und Interessierten
-			</description>
-		</mailinglist>
-		<mailinglist>
-			<url>http://groups.google.com/group/pyugrm-orga</url>
-			<label>Orga-Mailingliste</label>
-			<description>nur für Termine und Organisatorisches, moderiert
-			</description>
-		</mailinglist>
-		<twitter>@PyUGRM</twitter>
-		<hashtag>#PyUGRM</hashtag>
-	</contact>
-	<schedule>
-		<!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
-		<!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics 
-			</ical -->
-		<meeting>
-			<date>2013-01-01T19:00:00+01:00</date>
-			<location></location>
-			<description></description>
-			<publictransport></publictransport>
-		</meeting>
-	</schedule>
-	<tags>
-		<tag>Python</tag>
-		<tag>Ruby</tag>
-	</tags>
-	<photocredits>
-		<logo>Das Python-Logo stammt aus dem
-			[[http://tango.freedesktop.org/|Tango-Projekt]].</logo>
-		<group>Foto: Lukas Koerdt.</group>
-	</photocredits>
-	<sponsors>
-		<sponsor>
-			<name>Walter Ebert</name>
-			<url>http://www.walterebert.de/</url>
-			<city>Frankfurt</city>
-		</sponsor>
-		<sponsor>
-			<name>Brot &amp; Spiele GmbH</name>
-			<url>http://spieletipps.de/</url>
-			<city>Bad Homburg</city>
-		</sponsor>
-		<sponsor>
-			<name>arago Institut für komplexes Datenmanagement AG</name>
-			<url>http://www.arago.de/</url>
-			<city>Frankfurt</city>
-		</sponsor>
-		<sponsor>
-			<name>OFfenraum · coworking space</name>
-			<url>http://offenraum.de/</url>
-			<city>offenbach/main</city>
-		</sponsor>
-		<sponsor>
-			<name>Die Zentrale</name>
-			<url>http://die-zentrale-ffm.de/</url>
-			<city>Frankfurt</city>
-		</sponsor>
-	</sponsors>
-	<meetings>
-		<meeting>
-			<date>2012-05-08</date>
-			<url>http://wiki.python-forum.de/PyUGRM/Treffen20120508</url>
-		</meeting>
-		<meeting>
-			<date>2012-07-18</date>
-			<url>http://wiki.python-forum.de/PyUGRM/Treffen20120718</url>
-		</meeting>
-		<meeting>
-			<date>2012-09-20</date>
-			<url>http://wiki.python-forum.de/PyUGRM/Treffen20120920</url>
-		</meeting>
-		<meeting>
-			<date>2012-11-22</date>
-			<url>http://wiki.python-forum.de/PyUGRM/Treffen20121122</url>
-		</meeting>
-		<meeting>
-			<date>2013-01-16</date>
-			<url>http://wiki.python-forum.de/PyUGRM/Treffen20130116</url>
-		</meeting>
-	</meetings>
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Python UserGroup RheinMain</name>
+    <nickname>PyUGRM</nickname>
+    <description>Pythonistas aus dem Rhein-Main-Gebiet treffen sich alle
+        zwei Monate an wechselnden Locations im
+        Rhein-Main-Gebiet.
+        Ruby-Entwickler sind ebenfalls herzlich eingeladen.
+    </description>
+    <url>http://wiki.python-forum.de/PyUGRM</url>
+    <tags>
+        <tag>Python</tag>
+        <tag>Ruby</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://groups.google.com/group/pyugrm</url>
+            <label>Mailingliste</label>
+            <description>zum Austausch von Mitgliedern und Interessierten
+            </description>
+        </mailinglist>
+        <mailinglist>
+            <url>http://groups.google.com/group/pyugrm-orga</url>
+            <label>Orga-Mailingliste</label>
+            <description>nur für Termine und Organisatorisches, moderiert
+            </description>
+        </mailinglist>
+        <twitter>@PyUGRM</twitter>
+        <hashtag>#PyUGRM</hashtag>
+    </contact>
+    <schedule>
+        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
+            </ical -->
+        <meeting>
+            <time>2013-03-20T19:00:00+01:00</time>
+            <location>arago Institut für komplexes Datenmanagement AG, Eschersheimer Landstrasse 526–532, 60433
+                Frankfurt am Main
+            </location>
+            <publictransport>U1, U2, U3, U8 Weißer Stein, S6 Frankfurt-Eschenheim</publictransport>
+            <description>6. Treffen der PyUGRM</description>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20130320</url>
+        </meeting>
+        <meeting>
+            <time>2012-05-08T19:00:00+01:00</time>
+            <location>Brot &amp; Spiele GmbH, Benzstr. 11, 61352 Bad Homburg</location>
+            <description>1. Treffen der PyUGRM</description>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20120508</url>
+        </meeting>
+        <meeting>
+            <time>2012-07-18T19:00:00+01:00</time>
+            <location>Bürogemeinschaft paratio.com e.K., Gr. Eschenheimer Str. 41a, 60313 Frankfurt</location>
+            <description>2. Treffen der PyUGRM</description>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20120718</url>
+        </meeting>
+        <meeting>
+            <time>2012-09-20T19:00:00+01:00</time>
+            <location>CloudOps Summit 2012, Campus Westend, Frankfurt</location>
+            <description>3. Treffen der PyUGRM</description>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20120920</url>
+        </meeting>
+        <meeting>
+            <time>2012-11-22T19:00:00+01:00</time>
+            <location>OFfenraum coworking space, Senefelderstr. 63, Offenbach am Main</location>
+            <description>4. Treffen der PyUGRM</description>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20121122</url>
+        </meeting>
+        <meeting>
+            <time>2013-01-16T19:00:00+01:00</time>
+            <location>Die Zentrale, Berger Straße 175, 60385 Frankfurt</location>
+            <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+            <description>5. Treffen der PyUGRM</description>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20130116</url>
+        </meeting>
+    </schedule>
+    <sponsors>
+        <sponsor>
+            <name>Walter Ebert</name>
+            <url>http://www.walterebert.de/</url>
+            <city>Frankfurt</city>
+        </sponsor>
+        <sponsor>
+            <name>Brot &amp; Spiele GmbH</name>
+            <url>http://spieletipps.de/</url>
+            <city>Bad Homburg</city>
+        </sponsor>
+        <sponsor>
+            <name>arago Institut für komplexes Datenmanagement AG</name>
+            <url>http://www.arago.de/</url>
+            <city>Frankfurt</city>
+        </sponsor>
+        <sponsor>
+            <name>OFfenraum · coworking space</name>
+            <url>http://offenraum.de/</url>
+            <city>offenbach/main</city>
+        </sponsor>
+        <sponsor>
+            <name>Die Zentrale</name>
+            <url>http://die-zentrale-ffm.de/</url>
+            <city>Frankfurt</city>
+        </sponsor>
+    </sponsors>
+    <photocredits>
+        <logo>Das Python-Logo stammt aus dem
+            [[http://tango.freedesktop.org/|Tango-Projekt]].
+        </logo>
+        <group>Foto: Lukas Koerdt.</group>
+    </photocredits>
 </usergroup>
