@@ -56,7 +56,7 @@
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
-				<xs:element name="schedule">
+				<xs:element name="schedule" minOccurs="0">
 					<xs:complexType>
 						<xs:annotation>
 							<xs:documentation>Liefert Information zu den nächsten Treffen der
