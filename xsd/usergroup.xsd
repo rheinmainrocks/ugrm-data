@@ -37,7 +37,7 @@
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
-				<xs:element name="contact">
+				<xs:element name="contact" minOccurs="0">
 					<xs:complexType>
 						<xs:sequence>
 							<xs:element name="mailinglist" minOccurs="0"
