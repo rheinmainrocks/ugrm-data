@@ -11,7 +11,7 @@
 						</xs:documentation>
 					</xs:annotation>
 				</xs:element>
-				<xs:element name="nickname" type="nonEmptyString">
+				<xs:element name="nickname" type="nonEmptyString" minOccurs="0">
 					<xs:annotation>
 						<xs:documentation>Kurzform des Usergroup-Namens, z.B. PyUGRM
 						</xs:documentation>
