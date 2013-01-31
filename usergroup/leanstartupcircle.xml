@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Lean Startup Circle Rhein-Main</name>
+    <nickname>LeanStartupRM</nickname>
+    <description>Der Lean Startup Circle Rhein-Main ist eine Gruppe Gleichgesinnter, die sich über die Ideen und
+        Methoden des Lean Startup austauschen möchte. Lean Startup ist ein Vorgehen für die Realisierung von Produkten
+        und Dienstleistungen unter Unsicherheit, das sich zunehmender Beliebtheit erfreut.
+    </description>
+    <url>https://www.xing.com/net/prib45109x/leanstartuprm</url>
+    <tags>
+        <tag>Lean Startup</tag>
+    </tags>
+</usergroup>

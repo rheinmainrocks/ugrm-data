@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>#FotoFFM</name>
+    <description>#FotoFFM ist eine lockeren Gruppe von Fotobegeisterten, die sich unregelmäßig zu gemeinsamen Fotowalks
+        in Frankfurt am Main und Umgebung trifft. Wir freuen uns immer über neue Fotografen, die ihre Erfahrungen mit
+        uns teilen, fotografieren oder einfach nur klönen möchten.
+    </description>
+    <url>http://fotoffm.org/</url>
+    <tags>
+        <tag>Fotografie</tag>
+    </tags>
+    <contact>
+        <twitter>@FotoFFM</twitter>
+        <hashtag>#FotoFFM</hashtag>
+    </contact>
+</usergroup>

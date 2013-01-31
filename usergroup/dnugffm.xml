@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>.NET User Group Frankfurt/Main</name>
+    <nickname>DNUGFFM</nickname>
+    <description>Die .NET User Group Frankfurt/Main beschäftig sich als freie, unabhängige und heterogene Gruppe mit der
+        .NET-Programmierung im Allgemeinen aber auch mit Produkten und Tools, die in diesem Umfeld existieren.
+
+        Im Vordergrund steht dabei der Austausch von technologischem Wissen und Erfahrungen. Diesen Know-How Transfer
+        versuchen wir in monatlichen Meetings, mit Vorträgen von Mitgliedern und namhaften Sprechern sowie mit
+        Diskussionen, zu realisieren.
+
+        Da bei uns jede .NET Programmiersprache (C#, VB.NET, IronPython, Powershell, etc.) sowie .NET Implementierung
+        (z.B Rotor, Mono) willkommen ist, sind wir auch offen für alles im .NET-Universum und laden alle Interessierten
+        dazu ein, Mitglied dieser Benutzergruppe zu werden.
+    </description>
+    <url>http://www.dotnet-usergroup.de/</url>
+    <tags>
+        <tag>.NET</tag>
+        <tag>C#</tag>
+    </tags>
+    <contact>
+        <twitter>@dnugffm</twitter>
+    </contact>
+</usergroup>

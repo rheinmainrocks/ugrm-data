@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>ExtJS User Group Frankfurt</name>
+    <description>User Group für alle Nutzer und Interessenten der Javascript Library Ext JS, die sich regelmäßig zum
+        Austausch von Wissen und Neuigkeiten trifft.
+    </description>
+    <url>http://www.meetup.com/Ext-JS-User-Group-Frankfurt/</url>
+    <tags>
+        <tag>ExtJS</tag>
+        <tag>JavaScript</tag>
+    </tags>
+</usergroup>

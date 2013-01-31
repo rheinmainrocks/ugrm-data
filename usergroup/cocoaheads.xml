@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>CocoaHeads Frankfurt</name>
+    <description>CocoaHeads is a group devoted to discussion of Apple Computer's Cocoa Framework for programming on
+        MacOS X (including the iPhone). During monthly meetings, members present on their projects and offer tutorials
+        on various programming topics. We meet each 1st Monday. We usually have one presentation and some discussions
+        and then go for beers.
+    </description>
+    <url>http://cocoaheads.org/de/Frankfurt/index.html</url>
+    <tags>
+        <tag>iOS</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://groups.google.com/group/cocoaheads-frankfurt/</url>
+            <label>Google Group</label>
+            <description>We use this Google group to organize the meetings.</description>
+        </mailinglist>
+        <twitter>@CocoaHeadsFFM</twitter>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-02-04T18:30:00+01:00</time>
+            <description>Februar-Treffen</description>
+            <location>
+                <name>Die Zentrale</name>
+                <description>Die Zentrale. Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+                    Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+                </description>
+                <url>http://www.die-zentrale-ffm.de/#section-n5</url>
+                <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+                <street>Berger Straße 175</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>

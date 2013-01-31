@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Mobile Developer Group Ffm</name>
+    <nickname>MobileDevFFM</nickname>
+    <description>Bei der Mobile Developer Group Ffm handelt es sich um eine Usergroup für alle die sich für die
+        Entwicklung von Apps für Smartphones/Tablets oder mobilen Webseiten interessieren. Dabei liegt der Fokus auf der
+        Technik. Ein Treffen beginnt dabei mit einem Vortrag, anschliessend haben die Teilnehmer die Möglichkeit, das
+        Vorgetragene praktisch an Ihren eigenen Rechner auszuprobieren.
+    </description>
+    <url>http://www.mobiledevffm.de/</url>
+    <tags>
+        <tag>Mobile</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>https://groups.google.com/group/mobiledevffm</url>
+            <label>Mailingliste</label>
+        </mailinglist>
+        <twitter>@mobiledevffm</twitter>
+        <hashtag>#modevffm</hashtag>
+        <googleplus>https://plus.google.com/b/103810418774428708062/</googleplus>
+    </contact>
+</usergroup>

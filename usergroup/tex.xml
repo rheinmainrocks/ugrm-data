@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Frankfurter TeX-Stammtisch</name>
+    <nickname>TeXStammtisch</nickname>
+    <description>Austausch zu TeX/LaTeX in Frankfurt.
+    </description>
+    <url>http://www.lug-frankfurt.de/TeXStammtisch</url>
+    <tags>
+        <tag>Latex</tag>
+        <tag>Tex</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>https://wiki.lugfrankfurt.de/mailman/listinfo/tex</url>
+            <label>Mailingliste</label>
+        </mailinglist>
+    </contact>
+</usergroup>

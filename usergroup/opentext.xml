@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Open Text Web Solutions Usergroup</name>
+    <description>Als Kunde oder Partner der Open Text Software GmbH (vormals RedDot Solutions AG) bringt Ihnen die
+        Mitgliedschaft in der Open Text Web Solutions Usergroup eine Vielzahl von Vorteilen. Sie können Kontakte zu
+        Personen und Unternehmen knüpfen, die sich intensiv mit den Open text Web Solutions Group-Produkten beschäftigen
+        und Erfahrungen, Sorgen und Nöte, aber auch Lösungen und Ideen austauschen.
+    </description>
+    <url>http://www.opentext-usergroup.org/</url>
+    <tags>
+        <tag>RedDot</tag>
+        <tag>OpenText</tag>
+    </tags>
+</usergroup>

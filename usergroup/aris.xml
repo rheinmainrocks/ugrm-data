@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>ARIS User Group Deutschland</name>
+    <description>Seit über 20 Jahren ist die Software AG Weltmarktführer im Bereich der Geschäftsprozessoptimierung. In
+        Deutschland gibt es eine große Anzahl zufriedener Anwender der ARIS-Produkte, denen wir mit dieser Gruppe eine
+        virtuelle Plattform zum Austausch bieten. Nutzen Sie die besonderen Möglichkeiten des Networkings und
+        Erfahrungsaustauschs. Knüpfen Sie Kontakte zu anderen Usern und bleiben Sie auf dem Laufenden.
+    </description>
+    <url>http://www.ariscommunity.com/group/aris-user-group-deutschland</url>
+    <tags>
+        <tag>BPM</tag>
+    </tags>
+</usergroup>

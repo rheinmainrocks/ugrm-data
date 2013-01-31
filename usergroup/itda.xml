@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>IT-Stammtisch Darmstadt</name>
+    <description>Stammtisch für ITler. Alter, Ausbildungsstand und Arbeitssituation egal. Am jeweils zweiten Dienstag im Monat.</description>
+    <url>http://www.it-stammtisch-darmstadt.de/</url>
+    <tags>
+        <tag>IT</tag>
+    </tags>
+</usergroup>

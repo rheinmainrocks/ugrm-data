@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Frankfurt Perl Mongers</name>
+    <nickname>Frankfurt.pm</nickname>
+    <description>Frankfurt Perl Mongers sind Menschen, die sich mit der dynamischen Programmiersprache Perl beschäftigen
+        und gerne darüber reden.
+
+        Wir treffen uns seit dem Jahr 2000 ein Mal im Monat in lockerer Atmosphäre. Der
+        Schwerpunkt ist natürlich Perl, dennoch widmen wir uns auch Randgebieten und auch schon mal anderen
+        Programmiersprachen.
+
+        Wir richten uns an alle, die das Interesse haben, etwas mit Perl zu machen. Dabei spielt keine Rolle, ob
+        beruflich oder nur als "Hobby". Jeder ist willkommen, der auch nur einen Funken Interesse am Programmieren mit
+        Perl hat.
+    </description>
+    <url>http://frankfurt.pm.org/</url>
+    <tags>
+        <tag>Perl</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://mail.pm.org/mailman/listinfo/frankfurt-pm?language=de</url>
+            <label>Mailingliste (deutsch)</label>
+            <description>Such Dir aus, ob Du auf deutsch (auch hessisch wenns denn sein soll) oder englisch schreibst
+                (auch kleinere Mengen Perl Code sind ganz ok), und erlaube Anderen in der Sprache zu antworten, in der
+                es ihnen zu antworten gefällt.
+            </description>
+        </mailinglist>
+        <mailinglist>
+            <url>http://mail.pm.org/mailman/listinfo/frankfurt-pm?language=en</url>
+            <label>Frankfurt/Main Perl Mongers Mailing List (English)</label>
+            <description>Feel free to write either in English or in German (Hessian if you prefer) or post small amounts
+                of Perl code there and ask for opinions. Allow others to reply in the language they prefer to reply in.
+            </description>
+        </mailinglist>
+    </contact>
+</usergroup>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>JavaScript User Group für Wiesbaden und Rhein-Main</name>
+    <nickname>RheinMainJS</nickname>
+    <description>RheinMainJS ist eine User Group zum Thema JavaScript und angrenzende Gebiete wie mobile Entwicklung.
+        Wir treffen uns zurzeit in unregelmäßigen Abständen in Wiesbaden. Die Teilnahme steht dabei offen und ist
+        kostenlos. Bei jedem Treffen werden in der Regel zwei Vorträge mit anschließender Diskussion gehalten.
+    </description>
+    <url>http://rheinmainjs.de/</url>
+    <tags>
+        <tag>Javascript</tag>
+    </tags>
+    <contact>
+        <googleplus>https://plus.google.com/113716277582361446417/</googleplus>
+    </contact>
+</usergroup>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Softwerkskammer Rhein-Main</name>
+    <nickname>SKRM</nickname>
+    <description>Wir sind eine Community of Professionals, die über ganz Deutschland verteilt sind. Wir wollen die
+        richtige Software entwickeln, und wir wollen die Software richtig entwickeln.
+    </description>
+    <url>http://www.softwerkskammer.de/wiki/SoftwerkskammerFfm</url>
+    <tags>
+        <tag>Software Craftsmanship</tag>
+    </tags>
+    <contact>
+        <hashtag>#skrm</hashtag>
+    </contact>
+</usergroup>

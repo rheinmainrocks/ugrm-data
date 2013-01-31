@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Joomla! Forum Frankfurt/Rhein-Main</name>
+    <description>Networking, Erfahrungsaustausch, gegenseitige Hilfe und gemmeinsame Projekte - das Joomla! Forum
+        Frankfurt / RheinMain ist die zentrale Plattform für Joomla-Anwender im RheinMain-Gebiet. Wir laden alle
+        Joomla!-User und solche, die es erst noch werden möchten, zum Gedankenaustausch ein. Im Joomla! Forum Frankfurt
+        / RheinMain treffen sich Webentwickler, Webdesigner, Programmierer und Endanwender, die beruflich oder privat
+        mit dem Joomla! CMS arbeiten. Du interessierst dich auch für Joomla, bzw. setzt das Joomla CMS bereits ein? Dann
+        laden wir dich herzlich ein: Registriere dich gleich hier rechts und werde Teil unserer Community. Und natürlich
+        freuen wir uns darauf, dich auf einem unserer nächsten Treffen persönlich kennen zu lernen.
+    </description>
+    <url>http://www.joomla-rhein-main.de/</url>
+    <tags>
+        <tag>Joomla</tag>
+        <tag>PHP</tag>
+    </tags>
+</usergroup>

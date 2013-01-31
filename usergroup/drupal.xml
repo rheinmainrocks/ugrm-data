@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Drupal Stammtisch Rhein-Main</name>
+    <description>Hier ist jeder Drupalaner willkommen. Ziel der Gruppe ist es einen (un)regelmäßigen Stammtisch zu
+        organiseren.
+    </description>
+    <url>http://groups.drupal.org/rhein-main-gebiet</url>
+    <tags>
+        <tag>Drupal</tag>
+        <tag>PHP</tag>
+    </tags>
+</usergroup>

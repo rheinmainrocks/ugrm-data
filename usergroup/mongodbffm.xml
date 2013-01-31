@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>MongoDB User-Gruppe Frankfurt</name>
+    <nickname>MongoDB FFM</nickname>
+    <description>Ziel dieser Gruppe ist der regelmäßige Informationsaustausch zwischen MongoDB-Usern aus dem Großraum
+        Frankfurt (und auch gerne darüber hinaus). Wir wollen im Rahmen einer Vortragsserie unsere MongoDB-Projekte
+        vorstellen, diskutieren und unsere Erfahrungen weitergeben.
+    </description>
+    <url>https://www.xing.com/net/mongodb-ffm/</url>
+    <tags>
+        <tag>MongoDB</tag>
+    </tags>
+</usergroup>

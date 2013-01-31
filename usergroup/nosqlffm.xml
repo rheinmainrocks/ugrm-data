@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>NoSQL Group Frankfurt</name>
+    <nickname>NoSQLFFM</nickname>
+    <description>Die NoSQL Group Frankfurt wurde gegründet um den Informationsaustausch unter Nutzern und Interessierte
+        um das Thema NoSQL zu ermöglichen. Ziel ist es die Entwicklung der diversen Anwendungen und Strömungen mit
+        einander zu diskutieren. Jeder, der sich für das Thema NoSQL interessiert darf mitmachen und an den Treffen
+        teilnehmen.
+    </description>
+    <url>http://www.meetup.com/NoSQL-DE/events/50940802/</url>
+    <tags>
+        <tag>NoSQL</tag>
+    </tags>
+</usergroup>

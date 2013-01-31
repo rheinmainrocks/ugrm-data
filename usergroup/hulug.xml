@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Hanau Linux User Group</name>
+    <nickname>HULUG</nickname>
+    <description>Unser offener HuLUG-Treff findet jeden zweiten und vierten Mittwoch eines Monats statt.</description>
+    <url>http://www.hulug.de/</url>
+    <tags>
+        <tag>Linux</tag>
+    </tags>
+</usergroup>

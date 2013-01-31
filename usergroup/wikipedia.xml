@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Treffen der Wikipedianer Frankfurt</name>
+    <description>In Frankfurt am Main findet etwa alle vier Wochen ein Treffen der Wikipedianer statt. Wir treffen uns
+        ab 18:00 Uhr in der Apfelweinwirtschaft „Zur Stalburg“ in Nordend-West. Wir haben weder ein festes Programm noch
+        verbindliche Anmeldelisten. Auch und gerade Wikipedia-Neulinge aus der Region sind herzlich eingeladen, sich auf
+        einen Ebbelwoi, ein Bier oder eine Bionade zu uns zu gesellen und sich zwanglos über Themen rund um die
+        Wikipedia zu unterhalten.
+    </description>
+    <url>http://de.wikipedia.org/wiki/Wikipedia:Frankfurt</url>
+    <tags>
+        <tag>Internet</tag>
+        <tag>Wikipedia</tag>
+    </tags>
+</usergroup>

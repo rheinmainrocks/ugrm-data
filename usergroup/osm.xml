@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Frankfurter OSM-Stammtisch</name>
+    <description>trifft sich in geraden Monaten am 1. Mittwoch, in ungeraden Monaten am 1. Dienstag in der Brotfabrik.
+    </description>
+    <url>http://wiki.openstreetmap.org/wiki/Frankfurt_am_Main/OSM-Fr%C3%BChschoppen</url>
+    <tags>
+        <tag>OpenStreetMap</tag>
+    </tags>
+</usergroup>

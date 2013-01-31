@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Sharepoint Usergroup Frankfurt</name>
+    <description>Die Sharepoint Usergroup Frankfurt ist der Treffpunkt im Rhein Main Gebiet für Sharepoint Interessierte
+        um Erfahrungen und Wissen auszutauschen. Wir treffen uns alle 4 Wochen am letzten Dienstag des Monats.
+    </description>
+    <url>http://sharepointcommunity.de/groups/frankfurt/default.aspx</url>
+    <tags>
+        <tag>Microsoft</tag>
+        <tag>Sharepoint</tag>
+    </tags>
+</usergroup>

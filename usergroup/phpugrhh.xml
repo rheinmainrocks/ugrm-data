@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>PHP UG Rheinhessen</name>
+    <nickname>PHPUGRHH</nickname>
+    <description>Wir sind eine Gruppe von PHP interessierten Entwicklern. Unser Interesse besteht im gegenseitigen
+        Austausch von Wissen und Erfahrungsberichten. Jeder Interessierte ist willkommen, sich bei unserer Gruppe zu
+        beteiligen.
+    </description>
+    <url>http://www.phpug-rheinhessen.de/</url>
+    <tags>
+        <tag>PHP</tag>
+    </tags>
+    <contact>
+        <twitter>@phpugrhh</twitter>
+        <facebook>http://www.facebook.com/group.php?gid=192655655785</facebook>
+    </contact>
+</usergroup>

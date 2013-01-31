@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>palusergroup frankfurt</name>
+    <nickname>pugffm</nickname>
+    <description>Seit März 2003 gibt es bereits die Palmusergroup Frankfurt. In dieser Zeit haben wir viele
+        Stammteilnehmer, aber immer wieder auch Neulinge anziehen können. Hier können sich PDA /
+        Smartphone-Interessierte (alle Betriebssysteme), Anfänger und Freaks austauschen, Spaß haben und nach
+        Herzenslust fachsimpeln. Über "normale" Themen darf natürlich auch geredet werden. Mittlerweile wird auch
+        ausgiebig über Navigation gefachsimpelt, sowohl mit dem PDA / Smartphone als auch mit Standalone Geräten.
+    </description>
+    <url>http://pugfrankfurt.blogspot.de/</url>
+    <tags>
+        <tag>Palm</tag>
+        <tag>Mobile</tag>
+        <tag>Smartphone</tag>
+        <tag>PDA</tag>
+    </tags>
+</usergroup>

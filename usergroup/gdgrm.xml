@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Google Developer Group Rhein-Main</name>
+    <nickname>GDGRM</nickname>
+    <description>Everything Google.</description>
+    <url>http://gdgrm.org</url>
+    <tags>
+        <tag>Google Technologien</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>https://sites.google.com/site/gdgrheinmain/get-in-contact/anmeldung-zur-mailinglist</url>
+            <label>Mailingliste</label>
+        </mailinglist>
+        <twitter>@gdgrheinmain</twitter>
+    </contact>
+</usergroup>

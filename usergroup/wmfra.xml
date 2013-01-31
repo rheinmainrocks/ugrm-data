@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Webmontag Frankfurt</name>
+    <nickname>WMFRA</nickname>
+    <description>Der Webmontag Frankfurt bringt Anwender, Entwickler, Gründer, Unternehmer, Venture Capitalists,
+        Forscher, Web-Pioniere, Blogger, Podcaster, Designer und sonstige Interessenten zum Thema Web 2.0 zusammen. Die
+        Veranstaltung ist kostenlos und findet immer am 2. Montag im Monat statt.
+    </description>
+    <url>http://www.wmfra.de/</url>
+    <tags>
+        <tag>Internet</tag>
+    </tags>
+    <contact>
+        <twitter>@wmfra</twitter>
+        <hashtag>#wmfra</hashtag>
+        <facebook>http://www.facebook.com/wmfra</facebook>
+        <googleplus>https://plus.google.com/110561795970285494597</googleplus>
+    </contact>
+</usergroup>

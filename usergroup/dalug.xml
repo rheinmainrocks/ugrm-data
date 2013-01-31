@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Darmstadt Linux User Group</name>
+    <nickname>DaLUG</nickname>
+    <description>Die Linux User Group Darmstadt ist ein loser Zusammenschluß von Leuten, die sich für das Betriebssystem
+        Linux interessieren. Mitmachen kann jeder, indem er sich in die Mailingliste einträgt oder zu den
+        Veranstaltungen kommt.
+    </description>
+    <url>http://www.dalug.org/</url>
+    <tags>
+        <tag>Linux</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://www.dalug.org/mailinglisten/</url>
+            <label>Mailingliste</label>
+        </mailinglist>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-01-25T19:30:00+01:00</time>
+            <description>Treffen der Linux User Group Darmstadt</description>
+            <location>
+                <name>Kneipe "41"</name>
+                <street>Kahlertstr. 41</street>
+                <zip>64293</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>

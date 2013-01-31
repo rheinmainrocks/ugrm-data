@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Penguin User Group</name>
+    <nickname>PUG</nickname>
+    <description>PUG ist die Linux User Group (nicht nur) im Raum Wiesbaden/Mainz und Umgebung.
+        Sowohl Anfänger als auch Profis sind herzlich willkommen. Jeder darf seine Lieblingsdistribution ungestraft
+        öffentlich loben; es gibt sogar eine kleine Dunkelziffer von *BSD-Nutzern.
+    </description>
+    <url>https://www.pug.org/mediawiki/index.php/Startseite</url>
+    <tags>
+        <tag>Linux</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>https://www.pug.org/mediawiki/index.php/Mailingliste</url>
+            <label>talk@pug.org</label>
+            <description>Es handelt sich um eine offene und unmoderierte Mailingliste mit einem Volumen von ca. 300-600
+                Mails (saisonabhängig) monatlich.
+            </description>
+        </mailinglist>
+    </contact>
+</usergroup>
