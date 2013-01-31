@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>WordPress UserGroup Frankfurt</name>
+    <nickname>WPUGFFM</nickname>
+    <description>Die Treffen sollen grundsätzlich zwei Gruppen ansprechen: Blogger, Publisher und Nutzer von WordPress
+        (.org und .com), und Programmierer, Plugin- und Theme-Entwickler.
+        In einem allgemeinen Teil können die neuesten Entwicklungen rund um WP, die schönsten Themes und
+        interessantesten neuen Plugins von den Usern vorgestellt werden, sowie Fragen in die Runde gestellt werden.
+        Im zweiten Teil geht es ans Eingemachte, nämlich praktisches Lernen des Umgangs mit WP. Für die User &amp;
+        Anfänger geht es von der Entscheidung ob gehostet oder selber installiert über die Einrichtung zum ersten Post.
+        In späteren Treffen geht es um den Betrieb, Best Practices, SEO und alles, was dazu gehört.
+
+        Die Entwickler lernen worauf es bei der Erstellung eines Plugins oder Themes ankommt, was möglich ist, und wie
+        man es am besten macht.
+
+        Die Treffen sollen aufeinander aufbauen und beginnen mit zunächst mit den Basics. Solltest du mit WP erfahren
+        sein, oder sogar schon dafür entwickelt haben, komm einfach bei den späteren Treffen dazu, um nicht zu lernen,
+        wie man WordPress installiert. Wir werden die Agenda immer im Vorfeld posten, so dass jeder weiß, was sie/ihn
+        erwartet.
+    </description>
+    <url>http://www.die-zentrale-ffm.de/wir-wollen-die-wordpress-usergroup-frankfurt/</url>
+    <tags>
+        <tag>PHP</tag>
+        <tag>WordPress</tag>
+    </tags>
+    <schedule>
+        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
+            </ical -->
+        <meeting>
+            <time>2013-02-20T19:00:00+01:00</time>
+            <description>1. Treffen der WPUGFFM</description>
+            <url>http://www.die-zentrale-ffm.de/wir-wollen-die-wordpress-usergroup-frankfurt/</url>
+            <location>
+                <name>Die Zentrale</name>
+                <description>Die Zentrale. Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+                    Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+                </description>
+                <url>http://www.die-zentrale-ffm.de/#section-n5</url>
+                <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+                <street>Berger Straße 175</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
