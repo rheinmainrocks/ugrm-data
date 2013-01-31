@@ -56,7 +56,6 @@
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
-				<xs:element name="ical" minOccurs="0" type="xs:anyURI"></xs:element>
 				<xs:element name="schedule">
 					<xs:complexType>
 						<xs:annotation>
