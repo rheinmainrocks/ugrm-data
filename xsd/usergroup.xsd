@@ -54,6 +54,7 @@
 							<xs:element name="twitter" minOccurs="0" type="twitter"></xs:element>
 							<xs:element name="hashtag" minOccurs="0" type="hashtag"></xs:element>
                             <xs:element name="facebook" minOccurs="0" type="facebook"></xs:element>
+                            <xs:element name="googleplus" minOccurs="0" type="googleplus"></xs:element>
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
@@ -123,6 +124,15 @@
         </xs:annotation>
         <xs:restriction base="xs:anyURI">
             <xs:pattern value="https*://www\.facebook\.com/.*"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="googleplus">
+        <xs:annotation>
+            <xs:documentation>Definiert eine URL auf Google+
+            </xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:anyURI">
+            <xs:pattern value="https://plus\.google\.com/.*"></xs:pattern>
         </xs:restriction>
     </xs:simpleType>
 	<xs:simpleType name="nonEmptyString">
