@@ -18,21 +18,4 @@
         </mailinglist>
         <twitter>@CocoaHeadsFFM</twitter>
     </contact>
-    <schedule>
-        <meeting>
-            <time>2013-02-04T18:30:00+01:00</time>
-            <description>Februar-Treffen</description>
-            <location>
-                <name>Die Zentrale</name>
-                <description>Die Zentrale. Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
-                    Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
-                </description>
-                <url>http://www.die-zentrale-ffm.de/#section-n5</url>
-                <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
-                <street>Berger Straße 175</street>
-                <zip>60385</zip>
-                <city>Frankfurt</city>
-            </location>
-        </meeting>
-    </schedule>
 </usergroup>
