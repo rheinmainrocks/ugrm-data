@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-    <name>Java UG Ffm</name>
-    <nickname>JUGFFM</nickname>
+    <name>Java User Group Frankfurt</name>
+    <nickname>JUGF</nickname>
     <description>Die Java User Group Frankfurt ist ein lokaler Verbund von Entwicklern, die sich für Themen rund um die
         Programmiersprache Java interessieren. Schwerpunkte der User Group sind die Themen Enterprise Applications mit
         dem Spring Framework, Skriptsprachen auf der JVM: Groovy &amp; Scala,
@@ -10,11 +10,21 @@
         Nach Möglichkeit soll für jedes Treffen ein Thema festgelegt werden, über welches ein oder mehrere Teilnehmer
         referieren.
     </description>
-    <url>https://sites.google.com/site/jugffm/</url>
+    <url>http://www.jugf.de</url>
     <tags>
         <tag>Java</tag>
+        <tag>Groovy</tag>
+        <tag>Spring</tag>
+        <tag>JEE</tag>
+        <tag>Scala</tag>
+        <tag>Clojure</tag>
+        <tag>Xtend</tag>
+        <tag>Kotlin</tag>
+        <tag>JavaFX</tag>
+        <tag>JPA</tag>
     </tags>
     <contact>
         <twitter>@jugffm</twitter>
+        <googleplus>https://plus.google.com/u/0/communities/116872166355404683062</googleplus>
     </contact>
 </usergroup>
