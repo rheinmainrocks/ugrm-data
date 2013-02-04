@@ -10,4 +10,10 @@
     <tags>
         <tag>TYPO3</tag>
     </tags>
+    <contact>
+        <mailinglist>
+            <url>http://lists.typo3.org/cgi-bin/mailman/listinfo/typo3-frankfurt</url>
+            <label>Mailingliste</label>
+        </mailinglist>
+    </contact>
 </usergroup>
