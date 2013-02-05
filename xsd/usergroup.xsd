@@ -55,6 +55,7 @@
 							<xs:element name="hashtag" minOccurs="0" type="hashtag"></xs:element>
                             <xs:element name="facebook" minOccurs="0" type="facebook"></xs:element>
                             <xs:element name="googleplus" minOccurs="0" type="googleplus"></xs:element>
+                            <xs:element name="xing" minOccurs="0" type="xing"></xs:element>
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
@@ -124,6 +125,15 @@
         </xs:annotation>
         <xs:restriction base="xs:anyURI">
             <xs:pattern value="https*://www\.facebook\.com/.*"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="xing">
+        <xs:annotation>
+            <xs:documentation>Definiert eine URL auf xing.com
+            </xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:anyURI">
+            <xs:pattern value="https*://www\.xing\.com/.*"></xs:pattern>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="googleplus">
