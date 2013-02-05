@@ -161,7 +161,8 @@
 		</xs:annotation>
 		<xs:sequence>
 			<xs:element name="time" type="xs:dateTime"></xs:element>
-			<xs:element name="description" type="nonEmptyString"></xs:element>
+			<xs:element name="name" type="nonEmptyString"></xs:element>
+			<xs:element name="description" type="nonEmptyString" minOccurs="0"></xs:element>
 			<xs:element name="url" type="xs:anyURI" minOccurs="0"></xs:element>
 			<xs:element name="location" minOccurs="0">
 				<xs:complexType>

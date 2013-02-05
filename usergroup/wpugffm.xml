@@ -30,7 +30,7 @@
             </ical -->
         <meeting>
             <time>2013-02-20T19:00:00+01:00</time>
-            <description>1. Treffen der WPUGFFM</description>
+            <name>1. Treffen der WPUGFFM</name>
             <url>http://wpug.die-zentrale-ffm.de/termine/</url>
             <location>
                 <name>Die Zentrale</name>
