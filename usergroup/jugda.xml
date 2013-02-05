@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+  <name>Java User Group Darmstadt</name>
+  <nickname>JUGDA</nickname>
+  <description>Die JUG DA ist eine offene Non-Profit-Community mit dem Ziel
+		sich über aktuelle Themen zur Anwendung von Java Technologie
+		auszutauschen – und darüber hinaus einen Blick auf andere (VM-) Sprachen
+		und Technologien wie JavaScript, Closure, oder Maven zu werfen.
+    </description>
+  <url>http://www.jug-da.de</url>
+  <tags>
+    <tag>Java</tag>
+    <tag>JavaScript</tag>
+    <tag>Spring</tag>
+    <tag>Java EE</tag>
+    <tag>JavaFX</tag>
+  </tags>
+  <contact>
+    <mailinglist>
+      <url>http://groups.google.com/group/jug-da</url>
+      <label>Mailingliste</label>
+      <description>Termine und News</description>
+    </mailinglist>
+    <twitter>@JUG_DA</twitter>
+  </contact>
+  <schedule>
+    <ical>https://www.google.com/calendar/ical/q5vt4sq9qt7i8bjsdfgshg4b94%40group.calendar.google.com/public/basic.ics</ical>
+  </schedule>
+</usergroup>
+
