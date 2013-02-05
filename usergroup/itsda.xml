@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>IT-Stammtisch Darmstadt</name>
+    <description>Der IT-Stammtisch Darmstadt besteht seit 7 Jahren und aus derzeit ca. 50 Personen (in jedem Alter, vom
+        Azubi/Studenten über Festangestellte, Arbeitssuchende bis zu Selbststandigen/Firmeninhabern) hauptsachlich aus
+        Darmstadt und Umgebung. Zu den Treffen erscheinen davon meist ca. 20 bis 30 Personen.
+
+        Man trifft sich einmal im Monat um in gemütlicher Atmosphäre über Computer und anderes zu plauschen. Gedacht ist
+        dieses Treffen nicht als reine Networking-Veranstaltung, sondern dient in erster Linie zum Knüpfen sozialer
+        Kontakte bei einem gemütlichen Feierabendbier, wobei sich natürlich aber auch hin und wieder berufliche Kontakte
+        ergeben.
+
+        In unregelmäßigen Abständen gibt es außerdem kostenlose fachliche Vorträge, Workshops und Veranstaltungen, zu
+        denen auch befreundete Computergruppen, die Mitglieder der IHK und die Studenten der FH und TUD eingeladen
+        werden. Die Veranstaltungen sind in der Regel kostenlos und stehen auch allen Interessierten offen.
+    </description>
+    <url>http://www.it-stammtisch-darmstadt.de/</url>
+    <tags>
+        <tag>IT</tag>
+        <tag>EDV</tag>
+        <tag>Computer</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://www.it-stammtisch-darmstadt.de</url>
+            <label>hallo@it-stammtisch-darmstadt.de</label>
+            <description>Zur Aufnahme in die Mailingliste bitte einfach eine zwanglose Mail an
+                hallo@it-stammtisch-darmstadt.de.
+            </description>
+        </mailinglist>
+    </contact>
+</usergroup>
