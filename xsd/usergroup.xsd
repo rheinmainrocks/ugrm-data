@@ -33,7 +33,7 @@
 				<xs:element name="tags">
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element name="tag" type="xs:token" maxOccurs="unbounded"></xs:element>
+							<xs:element name="tag" type="xs:token" maxOccurs="3"></xs:element>
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
