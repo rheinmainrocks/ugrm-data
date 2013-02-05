@@ -188,6 +188,12 @@
 								</xs:documentation>
 							</xs:annotation>
 						</xs:element>
+                        <xs:element name="twitter" type="twitter" minOccurs="0">
+                            <xs:annotation>
+                                <xs:documentation>z.B. @OFfenraum
+                                </xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
 						<xs:element name="publictransport" type="nonEmptyString"
 							minOccurs="0">
 							<xs:annotation>
