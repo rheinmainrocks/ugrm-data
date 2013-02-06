@@ -33,7 +33,7 @@
 				<xs:element name="tags">
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element name="tag" type="xs:token" maxOccurs="unbounded"></xs:element>
+							<xs:element name="tag" type="xs:token" maxOccurs="3"></xs:element>
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
@@ -161,7 +161,8 @@
 		</xs:annotation>
 		<xs:sequence>
 			<xs:element name="time" type="xs:dateTime"></xs:element>
-			<xs:element name="description" type="nonEmptyString"></xs:element>
+			<xs:element name="name" type="nonEmptyString"></xs:element>
+			<xs:element name="description" type="nonEmptyString" minOccurs="0"></xs:element>
 			<xs:element name="url" type="xs:anyURI" minOccurs="0"></xs:element>
 			<xs:element name="location" minOccurs="0">
 				<xs:complexType>
@@ -188,6 +189,12 @@
 								</xs:documentation>
 							</xs:annotation>
 						</xs:element>
+                        <xs:element name="twitter" type="twitter" minOccurs="0">
+                            <xs:annotation>
+                                <xs:documentation>z.B. @OFfenraum
+                                </xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
 						<xs:element name="publictransport" type="nonEmptyString"
 							minOccurs="0">
 							<xs:annotation>

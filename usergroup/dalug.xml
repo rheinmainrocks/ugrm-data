@@ -19,7 +19,7 @@
     <schedule>
         <meeting>
             <time>2013-01-25T19:30:00+01:00</time>
-            <description>Treffen der Linux User Group Darmstadt</description>
+            <name>Treffen der Linux User Group Darmstadt</name>
             <location>
                 <name>Kneipe "41"</name>
                 <street>Kahlertstr. 41</street>

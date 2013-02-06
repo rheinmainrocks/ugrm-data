@@ -30,7 +30,7 @@
             </ical -->
         <meeting>
             <time>2013-02-20T19:00:00+01:00</time>
-            <description>1. Treffen der WPUGFFM</description>
+            <name>1. Treffen der WPUGFFM</name>
             <url>http://wpug.die-zentrale-ffm.de/termine/</url>
             <location>
                 <name>Die Zentrale</name>
@@ -38,6 +38,7 @@
                     Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
                 </description>
                 <url>http://www.die-zentrale-ffm.de/#section-n5</url>
+                <twitter>@zentrale_ffm</twitter>
                 <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
                 <street>Berger Straße 175</street>
                 <zip>60385</zip>

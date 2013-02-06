@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Typostammtisch Offenbach</name>
+    <nickname>tpostmtshoff</nickname>
+    <description>Seit 2004 treffen sich einmal im Monat Typografie- und Schriftbegeisterte in Offenbach.</description>
+    <url>https://www.facebook.com/pages/Typostammtisch-Offenbach/348203441925830</url>
+    <tags>
+        <tag>Typografie</tag>
+    </tags>
+    <contact>
+        <twitter>@typo_stammtisch</twitter>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-02-05T20:00:00+01:00</time>
+            <name>Typostammtisch</name>
+            <location>
+                <name>Weinstube Offenbach</name>
+                <url>http://www.die-weinstube.eu/</url>
+                <twitter>@die_weinstube</twitter>
+                <street>Taunusstraße 19</street>
+                <zip>63067</zip>
+                <city>Offenbach</city>
+            </location>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <logo>Logo: [Facebook](https://www.facebook.com/media/set/?set=a.348205621925612.79305.348203441925830&amp;type=3)</logo>
+        <group>Foto: [Facebook](https://www.facebook.com/photo.php?fbid=348207005258807&amp;set=pb.348203441925830.-2207520000.1360061532&amp;type=3&amp;theater)</group>
+    </photocredits>
+</usergroup>

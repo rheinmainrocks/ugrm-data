@@ -29,27 +29,27 @@
 			</ical -->
 		<meeting>
 			<time>2013-03-21T19:00:00+01:00</time>
-			<description>PHPUGFFM II / 2013</description>
+			<name>PHPUGFFM II / 2013</name>
 			<url>http://www.phpugffm.de/?event=phpugffm-ii-2013</url>
 		</meeting>
 		<meeting>
 			<time>2013-05-23T19:00:00+01:00</time>
-			<description>PHPUGFFM III / 2013</description>
+			<name>PHPUGFFM III / 2013</name>
 			<url>http://www.phpugffm.de/?event=phpugffm-iii-2013</url>
 		</meeting>
 		<meeting>
 			<time>2013-08-31T19:00:00+01:00</time>
-			<description>PHP BBQ 2013</description>
+			<name>PHP BBQ 2013</name>
 			<url>http://www.phpugffm.de/?event=phpugffm-iii-iv-2013-php-bbq</url>
 		</meeting>
 		<meeting>
 			<time>2013-09-19T19:00:00+01:00</time>
-			<description>PHPUGFFM IV / 2013</description>
+			<name>PHPUGFFM IV / 2013</name>
 			<url>http://www.phpugffm.de/?event=phpugffm-iv-2013</url>
 		</meeting>
 		<meeting>
 			<time>2013-11-21T19:00:00+01:00</time>
-			<description>PHPUGFFM V / 2013</description>
+			<name>PHPUGFFM V / 2013</name>
 			<url>http://www.phpugffm.de/?event=phpugffm-v-2013</url>
 		</meeting>
 	</schedule>

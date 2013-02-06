@@ -15,13 +15,6 @@
         <tag>Java</tag>
         <tag>Groovy</tag>
         <tag>Spring</tag>
-        <tag>JEE</tag>
-        <tag>Scala</tag>
-        <tag>Clojure</tag>
-        <tag>Xtend</tag>
-        <tag>Kotlin</tag>
-        <tag>JavaFX</tag>
-        <tag>JPA</tag>
     </tags>
     <contact>
         <mailinglist>
@@ -32,4 +25,5 @@
         <googleplus>https://plus.google.com/u/0/communities/116872166355404683062</googleplus>
         <xing>https://www.xing.com/net/pria6135dx/jugf/</xing>
     </contact>
+    <schedule><ical>https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics</ical></schedule>
 </usergroup>
