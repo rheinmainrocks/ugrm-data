@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>WordPress Meetup Frankfurt</name>
+    <nickname>WPFRA</nickname>
+    <description>Das WordPress Meetup Frankfurt ist ein lockeres Treffen von WordPress-Fans, die sich mit WordPress
+        beschäftigen. Der ungezwungene Austausch zum Thema WordPress steht im Vordergrund, daneben gehören auch kurze,
+        themenbezogene Talks zum Programm. Willkommen ist jede und jeder, die oder der sich für WordPress interessiert –
+        egal, ob Anwender, Designer, Entwickler, SEOs, Marketeers oder Hobby-Blogger. Unsere WP Meetups sind
+        ausdrücklich keine Akquise-Veranstaltungen! Wir legen Wert auf einen offenen, ungezwungenen Austausch und
+        bitten, dass alle Teilnehmenden dies berücksichtigen.
+    </description>
+    <url>http://wpmeetup-frankfurt.de/</url>
+    <tags>
+        <tag>PHP</tag>
+        <tag>WordPress</tag>
+    </tags>
+    <contact>
+        <twitter>@WPFRA</twitter>
+        <hashtag>#WPFRA</hashtag>
+        <googleplus>https://plus.google.com/b/116393943838212542865/116393943838212542865/posts</googleplus>
+    </contact>
+    <schedule>
+        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
+            </ical -->
+        <meeting>
+            <time>2013-02-12T19:00:00+01:00</time>
+            <name>3. Frankfurter WP Meetup</name>
+            <url>http://wpmeetup-frankfurt.de/termine/anmeldung/?ee=3</url>
+            <location>
+                <name>SAE Institut Frankfurt</name>
+                <description>Das SAE Institute Frankfurt bietet Studiengänge in den Bereichen Audio Engineering, Digital
+                    Film &amp; VFX, Webdesign &amp; Development, Cross-Media Production &amp; Publishing, Game Art &amp;
+                    3D Animation sowie Game Programming an.
+                </description>
+                <url>http://frankfurt.sae.edu/de/home/</url>
+                <twitter>@SAE_Institute</twitter>
+                <street>Homburger Landstraße 182</street>
+                <zip>60435</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
