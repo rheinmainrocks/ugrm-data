@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-    <name>Frankfurt Area OpenSolaris User Group</name>
+    <name>OpenSolaris User Group Frankfurt Area</name>
     <nickname>FRAOSUG</nickname>
     <description>OpenSolaris and (Oracle) Solaris Users Group for the area around Frankfurt, Germany
         including Darmstadt, Wiesbaden, Offenbach, Hanau, Langen.
