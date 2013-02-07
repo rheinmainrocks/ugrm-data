@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Chaos Computer Club Mainz / Wiesbaden</name>
+    <nickname>CCCMZ</nickname>
+    <description>Unsere lockeren Treffen sind Basis für Projekte: Zusammen programmieren oder wilde Lötaktionen,
+        organisieren von Veranstaltungen oder Diskussionsrunden, planen neuer Projekte, die neusten Memes bequatschen…
+        alles das ist das Chaos. Durch diese Vielzahl von unterschiedlichen Aktivitäten trifft man immer wieder auf sehr
+        interessante Leute bei uns. Bei uns ist jeder herzlich willkommen, auch wenn er sich nicht den ganzen Tag mit
+        Computern auseinander setzt.
+    </description>
+    <url>http://cccmz.de/</url>
+    <tags>
+        <tag>Computer</tag>
+        <tag>CCC</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>https://lists.metarheinmain.de/mailman/listinfo/darmstadt</url>
+            <label>Die große Liste, offen für alle.</label>
+        </mailinglist>
+        <twitter>@cccmz</twitter>
+        <facebook>https://www.facebook.com/cccmz</facebook>
+    </contact>
+</usergroup>

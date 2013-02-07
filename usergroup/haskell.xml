@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Haskell User Group Frankfurt</name>
+    <description>For all who are fascinated by the Haskell Programming Language and want to exchange ideas, knowledge,
+        experience. Of course this includes academia, programmers in industry, hobbyists ... It also includes
+        discussions about FP in general and topics of other FP languages - for example Clojure, Scala, F#, OCaml - are
+        welcome. Focus of course is Haskell (therefore the name). It is fun meeting face to face, so instead reading and
+        writing more listening and talking!
+    </description>
+    <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/</url>
+    <tags>
+        <tag>Haskell</tag>
+        <tag>Funktionales Programmieren</tag>
+    </tags>
+</usergroup>
