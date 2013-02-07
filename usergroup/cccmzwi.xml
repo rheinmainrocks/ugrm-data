@@ -9,22 +9,35 @@
         interessante Leute bei uns. Bei uns ist jeder herzlich willkommen, auch wenn er sich nicht den ganzen Tag mit
         Computern auseinander setzt.
     </description>
+    <!--<location>
+      <street>Sedanplatz 7</street>
+      <zip>65183</zip>
+      <city>Wiesbaden</city>
+      <publictransport>Mit der Buslinie 1 zur Haltestelle Sedanplatz. Alternativ die Linien 3, 33 und 6 zur Haltestelle Michelsberg oder Riederbergstraße und fünf Minuten Fußweg</publictransport>
+    </location>-->
     <url>http://www.cccmz.de/</url>
     <tags>
         <tag>CCC</tag>
-        <tag>Chaos Computer Club Mainz</tag>
-        <tag>Chaos Computer Club Wiesbaden</tag>
+        <tag>Hackerspace</tag>
     </tags>
     <contact>
+        <email>kontakt@cccmz.de</email>
         <twitter>@cccmz</twitter>
         <hashtag>#cccmz</hashtag>
         <facebook>https://www.facebook.com/cccmz</facebook>
-        <!--<irc>irc://irc.hackint.eu/%23cccmz</irc>-->
+        <irc>
+          <server>irc://irc.hackint.eu/</server>
+          <room>#cccmz</room>
+        </irc>
+        <xmpp>
+          <server>conference.jabber.ccc.de</server>
+          <room>cccmz</room>
+        </xmpp>
     </contact>
     <schedule>
         <ical>https://www.cccmz.de/feed/my-calendar-ics/</ical>
     </schedule>
     <photocredits>
-        <logo>Vielen Dank an @miracula_de</logo>
+        <logo>Vielen Dank an [@miracula_de](https://twitter.com/miracula_de)</logo>
     </photocredits>
 </usergroup>

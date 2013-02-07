@@ -40,22 +40,37 @@
 				<xs:element name="contact" minOccurs="0">
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element name="mailinglist" minOccurs="0"
-								maxOccurs="unbounded">
+							<xs:element name="mailinglist" minOccurs="0" maxOccurs="unbounded">
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="url" type="xs:anyURI"></xs:element>
 										<xs:element name="label" type="nonEmptyString"></xs:element>
-										<xs:element name="description" type="nonEmptyString"
-											minOccurs="0"></xs:element>
+										<xs:element name="description" type="nonEmptyString" minOccurs="0"></xs:element>
 									</xs:sequence>
 								</xs:complexType>
 							</xs:element>
+							<xs:element name="email" minOccurs="0" type="email"></xs:element>
 							<xs:element name="twitter" minOccurs="0" type="twitter"></xs:element>
 							<xs:element name="hashtag" minOccurs="0" type="hashtag"></xs:element>
-                            <xs:element name="facebook" minOccurs="0" type="facebook"></xs:element>
-                            <xs:element name="googleplus" minOccurs="0" type="googleplus"></xs:element>
-                            <xs:element name="xing" minOccurs="0" type="xing"></xs:element>
+							<xs:element name="facebook" minOccurs="0" type="facebook"></xs:element>
+							<xs:element name="googleplus" minOccurs="0" type="googleplus"></xs:element>
+							<xs:element name="xing" minOccurs="0" type="xing"></xs:element>
+							<xs:element name="irc" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="server" type="xs:anyURI"></xs:element>
+										<xs:element name="room" type="nonEmptyString"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="xmpp" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="server" type="xs:anyURI"></xs:element>
+										<xs:element name="room" type="nonEmptyString"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
@@ -100,6 +115,15 @@
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
+	<xs:simpleType name="email">
+		<xs:annotation>
+			<xs:documentation>Definiert einen Datentyp für E-Mail Adressen
+			</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(\w[-._\w]*\w@\w[-._\w]*\w\.\w{2,3})"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
 	<xs:simpleType name="twitter">
 		<xs:annotation>
 			<xs:documentation>Definiert einen Datentyp für Twitter-Handles
