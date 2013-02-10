@@ -21,8 +21,8 @@
     </description>
     <url>http://wpug.die-zentrale-ffm.de/</url>
     <tags>
-        <tag>PHP</tag>
         <tag>WordPress</tag>
+        <tag>PHP</tag>
     </tags>
     <schedule>
         <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
