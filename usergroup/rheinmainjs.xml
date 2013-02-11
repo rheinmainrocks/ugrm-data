@@ -11,6 +11,53 @@
         <tag>Javascript</tag>
     </tags>
     <contact>
+        <twitter>@RheinMainJS</twitter>
+        <hashtag>#RheinMainJS</hashtag>
         <googleplus>https://plus.google.com/113716277582361446417/</googleplus>
     </contact>
+    <schedule>
+        <meeting>
+            <time>2012-09-03T19:00:00+01:00</time>
+            <name>1. Treffen der JavaScript User Group Wiesbaden</name>
+            <url>https://plus.google.com/u/0/events/crr2ur59a156c9kfljj24nif6gc</url>
+            <location>
+                <name>Seibert Media GmbH</name>
+                <street>Kirchgasse 6</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2012-12-10T19:00:00+01:00</time>
+            <name>2. Treffen der JavaScript User Group Wiesbaden</name>
+            <url>https://plus.google.com/u/0/events/cum4br4i9a0qou8mik98rjmv9m4</url>
+            <location>
+                <name>Die Firma Gesellschaft für innovative Kommunikation mbH</name>
+                <street>Schwalbacher Straße 74</street>
+                <zip>65183</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2013-03-04T19:00:00+01:00</time>
+            <name>3. Treffen der JavaScript User Group Wiesbaden</name>
+            <url>https://plus.google.com/events/c0t9i6tbhjarhi95gaijtf492mc</url>
+            <location>
+                <name>heimathafen Wiesbaden</name>
+                <description>
+                    Unsere Vision ist es, eine Plattform zu schaffen. Eine Plattform für Kreative &amp; Wissensarbeiter,
+                    für Freiberufler &amp; Startups, für Selbstständige und Agenturen in Wiesbaden.
+                </description>
+                <url>http://heimathafen-wiesbaden.de/</url>
+                <twitter>@heimathafenWI</twitter>
+                <publictransport>Mit den Buslinien 3, 6, 16, 28, 33, 36, 60, 67 zur Haltestelle Adelheidstraße (2 Minuten Fußweg)</publictransport>
+                <street>Karlstraße 22</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <logo>https://github.com/voodootikigod/logo.js</logo>
+    </photocredits>
 </usergroup>
