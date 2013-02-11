@@ -8,6 +8,9 @@
         <tag>Scrum</tag>
         <tag>Kanban</tag>
     </tags>
+    <contact>
+        <hashtag>#agileRM</hashtag>
+    </contact>
     <schedule>
         <meeting>
             <time>2013-02-04T18:30:00+01:00</time>
