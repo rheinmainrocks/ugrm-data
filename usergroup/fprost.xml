@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Frankfurter Projekt-Stammtisch</name>
+    <nickname>F-PROST</nickname>
+    <description>Der Frankfurter Projekt-Stammtisch ist Anfang 2012 gegründet worden. Die Idee hinter dem
+        Projekt-Stammtisch ist es, Austausch und Networking zwischen den Freelancern, KMUs und Personaldienstleister zu
+        ermöglichen. Im besten Fall sollen Aufträge zwischen Dienstleistern, Freiberuflern einerseits und KMUs und
+        Personaldienstleister andererseits generiert werden. Der Stammtisch dient als regelmäßiger Treffpunkt
+        unterstützt durch Facebook, Twitter etc. Gerne gesehen sind auch Vorträge und Erfahrungsberichte.
+    </description>
+    <url>http://www.projektstammtisch.de/</url>
+    <tags>
+        <tag>Business</tag>
+    </tags>
+    <contact>
+        <facebook>http://www.facebook.com/pages/Frankfurter-Projekt-Stammtisch/324906780934877</facebook>
+        <xing>https://www.xing.com/net/pri5a1d16x/fl-to-fl</xing>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-02-21T18:00:00+01:00</time>
+            <name>Frankfurter Projekt-Stammtisch #12</name>
+            <url>
+                https://www.xing.com/events/frankfurter-projekt-stammtisch-12-1183762
+            </url>
+            <location>
+                <name>Restaurant Shangrila</name>
+                <url>http://www.shangrila-restaurant.de/</url>
+                <street>Friedberger Anlage 1</street>
+                <zip>60314</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
