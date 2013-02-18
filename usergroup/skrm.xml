@@ -12,6 +12,24 @@
     <contact>
         <hashtag>#skrm</hashtag>
     </contact>
+    <schedule>
+        <meeting>
+            <time>2013-02-25T19:00:00+01:00</time>
+            <name>Treffen #15</name>
+            <location>
+                <name>Die Zentrale</name>
+                <description>Die Zentrale. Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+                    Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+                </description>
+                <url>http://www.die-zentrale-ffm.de/#section-n5</url>
+                <twitter>@zentrale_ffm</twitter>
+                <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+                <street>Berger Straße 175</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
     <photocredits>
         <group>Foto: [Markus Tacker](http://tckr.cc/).</group>
     </photocredits>
