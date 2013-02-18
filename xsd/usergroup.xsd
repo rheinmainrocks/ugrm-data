@@ -120,7 +120,7 @@
             </xs:documentation>
         </xs:annotation>
         <xs:restriction base="xs:string">
-            <xs:pattern value="(\w[-._\w]*\w@\w[-._\w]*\w\.\w{2,3})"/>
+            <xs:pattern value="\w[-._\w+]*\w@\w[-.\w]*\w\.\w{2,}"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="twitter">
