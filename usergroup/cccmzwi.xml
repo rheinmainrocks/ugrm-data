@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Chaos Computer Club Mainz / Wiesbaden</name>
+    <nickname>CCCMZWI</nickname>
+    <description>Unsere lockeren Treffen sind Basis für Projekte: Zusammen programmieren oder wilde Lötaktionen,
+        organisieren von Veranstaltungen oder Diskussionsrunden, planen neuer Projekte, die neusten Memes bequatschen…
+        alles das ist das Chaos. Durch diese Vielzahl von unterschiedlichen Aktivitäten trifft man immer wieder auf sehr
+        interessante Leute bei uns. Bei uns ist jeder herzlich willkommen, auch wenn er sich nicht den ganzen Tag mit
+        Computern auseinander setzt.
+    </description>
+    <!--<location>
+      <street>Sedanplatz 7</street>
+      <zip>65183</zip>
+      <city>Wiesbaden</city>
+      <publictransport>Mit der Buslinie 1 zur Haltestelle Sedanplatz. Alternativ die Linien 3, 33 und 6 zur Haltestelle Michelsberg oder Riederbergstraße und fünf Minuten Fußweg</publictransport>
+    </location>-->
+    <url>http://www.cccmz.de/</url>
+    <tags>
+        <tag>CCC</tag>
+        <tag>Hackerspace</tag>
+    </tags>
+    <contact>
+        <email>kontakt@cccmz.de</email>
+        <twitter>@cccmz</twitter>
+        <hashtag>#cccmz</hashtag>
+        <facebook>https://www.facebook.com/cccmz</facebook>
+        <irc>
+          <server>irc://irc.hackint.eu/</server>
+          <room>#cccmz</room>
+        </irc>
+        <xmpp>
+          <server>conference.jabber.ccc.de</server>
+          <room>cccmz</room>
+        </xmpp>
+    </contact>
+    <schedule>
+        <ical>https://www.cccmz.de/feed/my-calendar-ics/</ical>
+    </schedule>
+    <photocredits>
+        <logo>Vielen Dank an [@miracula_de](https://twitter.com/miracula_de)</logo>
+    </photocredits>
+</usergroup>
