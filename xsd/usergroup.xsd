@@ -55,22 +55,6 @@
                             <xs:element name="facebook" minOccurs="0" type="facebook"/>
                             <xs:element name="googleplus" minOccurs="0" type="googleplus"/>
                             <xs:element name="xing" minOccurs="0" type="xing"/>
-                            <xs:element name="irc" minOccurs="0" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:sequence>
-                                        <xs:element name="server" type="xs:anyURI"/>
-                                        <xs:element name="room" type="nonEmptyString"/>
-                                    </xs:sequence>
-                                </xs:complexType>
-                            </xs:element>
-                            <xs:element name="xmpp" minOccurs="0" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:sequence>
-                                        <xs:element name="server" type="xs:anyURI"/>
-                                        <xs:element name="room" type="nonEmptyString"/>
-                                    </xs:sequence>
-                                </xs:complexType>
-                            </xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>

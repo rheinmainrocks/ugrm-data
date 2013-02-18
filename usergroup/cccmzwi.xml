@@ -19,14 +19,6 @@
         <twitter>@cccmz</twitter>
         <hashtag>#cccmz</hashtag>
         <facebook>https://www.facebook.com/cccmz</facebook>
-        <irc>
-            <server>irc://irc.hackint.eu/</server>
-            <room>#cccmz</room>
-        </irc>
-        <xmpp>
-            <server>conference.jabber.ccc.de</server>
-            <room>cccmz</room>
-        </xmpp>
     </contact>
     <defaultmeetinglocation>
         <name>CCCMZ</name>
