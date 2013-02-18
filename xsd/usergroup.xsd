@@ -77,7 +77,8 @@
                 <xs:element name="defaultmeetinglocation" type="location" minOccurs="0">
                     <xs:annotation>
                         <xs:documentation>Dieses Element beschreibt die den Ort, an dem sich die Usergroup normalerweise
-                            trifft. Kann durch die Information einzelnen Meetings überschrieben werden.
+                            trifft. Kann durch die Information einzelnen Meetings überschrieben werden. Bei iCal
+                            überschreibt die defaultlocation immer die Angabe aus dem iCal-Feed.
                         </xs:documentation>
                     </xs:annotation>
                 </xs:element>
