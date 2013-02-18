@@ -17,20 +17,27 @@
         <facebook>http://www.facebook.com/pages/Frankfurter-Projekt-Stammtisch/324906780934877</facebook>
         <xing>https://www.xing.com/net/pri5a1d16x/fl-to-fl</xing>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>Restaurant Shangrila</name>
+        <url>http://www.shangrila-restaurant.de/</url>
+        <street>Friedberger Anlage 1</street>
+        <zip>60314</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
         <meeting>
             <time>2013-02-21T18:00:00+01:00</time>
             <name>Frankfurter Projekt-Stammtisch #12</name>
             <url>
                 https://www.xing.com/events/frankfurter-projekt-stammtisch-12-1183762
             </url>
-            <location>
-                <name>Restaurant Shangrila</name>
-                <url>http://www.shangrila-restaurant.de/</url>
-                <street>Friedberger Anlage 1</street>
-                <zip>60314</zip>
-                <city>Frankfurt</city>
-            </location>
+        </meeting>
+        <meeting>
+            <time>2013-03-14T18:00:00+01:00</time>
+            <name>Frankfurter Projekt-Stammtisch #13</name>
+            <url>
+                https://www.xing.com/events/frankfurter-projekt-stammtisch-13-1188754
+            </url>
         </meeting>
     </schedule>
 </usergroup>
