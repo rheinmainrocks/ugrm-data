@@ -9,12 +9,6 @@
         interessante Leute bei uns. Bei uns ist jeder herzlich willkommen, auch wenn er sich nicht den ganzen Tag mit
         Computern auseinander setzt.
     </description>
-    <!--<location>
-      <street>Sedanplatz 7</street>
-      <zip>65183</zip>
-      <city>Wiesbaden</city>
-      <publictransport>Mit der Buslinie 1 zur Haltestelle Sedanplatz. Alternativ die Linien 3, 33 und 6 zur Haltestelle Michelsberg oder Riederbergstraße und fünf Minuten Fußweg</publictransport>
-    </location>-->
     <url>http://www.cccmz.de/</url>
     <tags>
         <tag>CCC</tag>
@@ -26,18 +20,27 @@
         <hashtag>#cccmz</hashtag>
         <facebook>https://www.facebook.com/cccmz</facebook>
         <irc>
-          <server>irc://irc.hackint.eu/</server>
-          <room>#cccmz</room>
+            <server>irc://irc.hackint.eu/</server>
+            <room>#cccmz</room>
         </irc>
         <xmpp>
-          <server>conference.jabber.ccc.de</server>
-          <room>cccmz</room>
+            <server>conference.jabber.ccc.de</server>
+            <room>cccmz</room>
         </xmpp>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>CCCMZ</name>
+        <publictransport>Mit der Buslinie 1 zur Haltestelle Sedanplatz. Alternativ die Linien 3, 33 und 6 zur
+            Haltestelle Michelsberg oder Riederbergstraße und fünf Minuten Fußweg
+        </publictransport>
+        <street>Sedanplatz 7</street>
+        <zip>65183</zip>
+        <city>Wiesbaden</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
         <ical>https://www.cccmz.de/feed/my-calendar-ics/</ical>
     </schedule>
     <photocredits>
-        <logo>Vielen Dank an [@miracula_de](https://twitter.com/miracula_de)</logo>
+        <logo>Vielen Dank an [@miracula_de](https://twitter.com/miracula_de) für unser Logo.</logo>
     </photocredits>
 </usergroup>
