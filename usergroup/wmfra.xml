@@ -16,4 +16,62 @@
         <facebook>http://www.facebook.com/wmfra</facebook>
         <googleplus>https://plus.google.com/110561795970285494597</googleplus>
     </contact>
+    <defaultmeetinglocation>
+        <name>Brotfabrik Hausen e.V.</name>
+        <description>Die Brotfabrik im Stadtteil Hausen von Frankfurt am Main ist ein selbstverwaltetes Zentrum in einer
+            ehemaligen Brotfabrik (bis 1962). Insgesamt elf verschiedene Projekte teilen sich fast 1500 m².
+            Neben zwei Bühnen gibt es noch einen großen Veranstaltungssaal in dem regelmässig die Konzerte stattfindent,
+            zwei Lokale mit gutem Essen, drei psychosoziale Projekte, eine Werbeagentur und ein Atelier.
+        </description>
+        <url>http://www.brotfabrik.info/</url>
+        <twitter>@brotfabrik</twitter>
+        <publictransport>U6/U7 in Richtung Heerstraße/Hausen. Nachtbus: N6/7. Haltestellen: Industriehof / Fischstein /
+            Große Nelkenstraße
+        </publictransport>
+        <street>Bachmannstr. 2-4</street>
+        <zip>60488</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-03-11T19:00:00+01:00</time>
+            <name>Webmontag #46: Cloud &amp; Big Data</name>
+        </meeting>
+        <meeting>
+            <time>2013-04-08T19:00:00+01:00</time>
+            <name>Webmontag #47: ignite</name>
+        </meeting>
+        <meeting>
+            <time>2013-05-13T19:00:00+01:00</time>
+            <name>Webmontag #48: Medien</name>
+        </meeting>
+        <meeting>
+            <time>2013-06-10T19:00:00+01:00</time>
+            <name>Webmontag #49: StartUp</name>
+        </meeting>
+        <meeting>
+            <time>2013-07-08T19:00:00+01:00</time>
+            <name>Webmontag #50: Code</name>
+        </meeting>
+        <meeting>
+            <time>2013-08-12T19:00:00+01:00</time>
+            <name>Webmontag #51: Social Entrepreneurship</name>
+        </meeting>
+        <meeting>
+            <time>2013-09-09T19:00:00+01:00</time>
+            <name>Webmontag #52: Mobility</name>
+        </meeting>
+        <meeting>
+            <time>2013-10-14T19:00:00+01:00</time>
+            <name>Webmontag #53: ignite</name>
+        </meeting>
+        <meeting>
+            <time>2013-11-11T19:00:00+01:00</time>
+            <name>Webmontag #54: Future of Work</name>
+        </meeting>
+        <meeting>
+            <time>2013-12-09T19:00:00+01:00</time>
+            <name>Webmontag #55: RheinMainRocks</name>
+        </meeting>
+    </schedule>
 </usergroup>

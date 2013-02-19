@@ -1,130 +1,153 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xs:schema elementFormDefault="qualified"
-	xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<xs:element name="usergroup">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="name" type="nonEmptyString">
-					<xs:annotation>
-						<xs:documentation>Vollständiger Name der Usergroup in Langfassung,
-							z.B. Python UserGroup RheinMain
-						</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="nickname" type="nonEmptyString" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Kurzform des Usergroup-Namens, z.B. PyUGRM
-						</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="description" type="nonEmptyString">
-					<xs:annotation>
-						<xs:documentation>Eine Beschreibung der Usergroup. Kann gerne
-							ausführlich sein.
-						</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="url" type="xs:anyURI">
-					<xs:annotation>
-						<xs:documentation>Die URL der Homepage der Usergroup.
-						</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="tags">
-					<xs:complexType>
-						<xs:sequence>
-							<xs:element name="tag" type="xs:token" maxOccurs="3"></xs:element>
-						</xs:sequence>
-					</xs:complexType>
-				</xs:element>
-				<xs:element name="contact" minOccurs="0">
-					<xs:complexType>
-						<xs:sequence>
-							<xs:element name="mailinglist" minOccurs="0"
-								maxOccurs="unbounded">
-								<xs:complexType>
-									<xs:sequence>
-										<xs:element name="url" type="xs:anyURI"></xs:element>
-										<xs:element name="label" type="nonEmptyString"></xs:element>
-										<xs:element name="description" type="nonEmptyString"
-											minOccurs="0"></xs:element>
-									</xs:sequence>
-								</xs:complexType>
-							</xs:element>
-							<xs:element name="twitter" minOccurs="0" type="twitter"></xs:element>
-							<xs:element name="hashtag" minOccurs="0" type="hashtag"></xs:element>
-                            <xs:element name="facebook" minOccurs="0" type="facebook"></xs:element>
-                            <xs:element name="googleplus" minOccurs="0" type="googleplus"></xs:element>
-                            <xs:element name="xing" minOccurs="0" type="xing"></xs:element>
-						</xs:sequence>
-					</xs:complexType>
-				</xs:element>
-				<xs:element name="schedule" minOccurs="0">
-					<xs:complexType>
-						<xs:annotation>
-							<xs:documentation>Liefert Information zu den nächsten Treffen der
-								UserGroup. Entweder kann die URL zu einem iCal-Feed angegeben
-								werden, oder die Meetings werden manuell konfiguriert.
-							</xs:documentation>
-						</xs:annotation>
-						<xs:choice>
-							<xs:element name="ical" type="xs:anyURI"></xs:element>
-							<xs:element name="meeting" maxOccurs="unbounded" type="meeting"></xs:element>
-						</xs:choice>
-					</xs:complexType>
-				</xs:element>
-				<xs:element name="sponsors" minOccurs="0">
-					<xs:complexType>
-						<xs:sequence>
-							<xs:element name="sponsor" maxOccurs="unbounded">
-								<xs:complexType>
-									<xs:sequence>
-										<xs:element name="name" type="nonEmptyString"></xs:element>
-										<xs:element name="url" type="xs:anyURI"></xs:element>
-									</xs:sequence>
-								</xs:complexType>
-							</xs:element>
-						</xs:sequence>
-					</xs:complexType>
-				</xs:element>
-				<xs:element name="photocredits" minOccurs="0">
-					<xs:complexType>
-						<xs:sequence>
-							<xs:element name="logo" type="nonEmptyString"
-								minOccurs="0"></xs:element>
-							<xs:element name="group" type="nonEmptyString"
-								minOccurs="0"></xs:element>
-						</xs:sequence>
-					</xs:complexType>
-				</xs:element>
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
-	<xs:simpleType name="twitter">
-		<xs:annotation>
-			<xs:documentation>Definiert einen Datentyp für Twitter-Handles
-			</xs:documentation>
-		</xs:annotation>
-		<xs:restriction base="xs:string">
-			<xs:pattern value="@[a-zA-Z0-9_]{1,15}"></xs:pattern>
-		</xs:restriction>
-	</xs:simpleType>
-	<xs:simpleType name="hashtag">
-		<xs:annotation>
-			<xs:documentation>Definiert einen Datentyp für Hashtags
-			</xs:documentation>
-		</xs:annotation>
-		<xs:restriction base="xs:string">
-			<xs:pattern value="#[a-zA-Z0-9]+"></xs:pattern>
-		</xs:restriction>
-	</xs:simpleType>
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="usergroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="nonEmptyString">
+                    <xs:annotation>
+                        <xs:documentation>Vollständiger Name der Usergroup in Langfassung,
+                            z.B. Python UserGroup RheinMain
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="nickname" type="nonEmptyString" minOccurs="0">
+                    <xs:annotation>
+                        <xs:documentation>Kurzform des Usergroup-Namens, z.B. PyUGRM
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="description" type="nonEmptyString">
+                    <xs:annotation>
+                        <xs:documentation>Eine Beschreibung der Usergroup. Kann gerne
+                            ausführlich sein.
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="url" type="xs:anyURI">
+                    <xs:annotation>
+                        <xs:documentation>Die URL der Homepage der Usergroup.
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="tags">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="tag" type="xs:token" maxOccurs="3"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="contact" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="mailinglist" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="url" type="xs:anyURI"/>
+                                        <xs:element name="label" type="nonEmptyString"/>
+                                        <xs:element name="description" type="nonEmptyString" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="email" minOccurs="0" type="email"/>
+                            <xs:element name="twitter" minOccurs="0" type="twitter"/>
+                            <xs:element name="hashtag" minOccurs="0" type="hashtag"/>
+                            <xs:element name="facebook" minOccurs="0" type="facebook"/>
+                            <xs:element name="googleplus" minOccurs="0" type="googleplus"/>
+                            <xs:element name="xing" minOccurs="0" type="xing"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="defaultmeetinglocation" type="location" minOccurs="0">
+                    <xs:annotation>
+                        <xs:documentation>Dieses Element beschreibt die den Ort, an dem sich die Usergroup normalerweise
+                            trifft. Kann durch die Information einzelnen Meetings überschrieben werden. Bei iCal
+                            überschreibt die defaultlocation immer die Angabe aus dem iCal-Feed.
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="schedule" minOccurs="0">
+                    <xs:complexType>
+                        <xs:annotation>
+                            <xs:documentation>Liefert Information zu den nächsten Treffen der
+                                UserGroup. Entweder kann die URL zu einem iCal-Feed angegeben
+                                werden, oder die Meetings werden manuell konfiguriert.
+                            </xs:documentation>
+                        </xs:annotation>
+                        <xs:choice>
+                            <xs:element name="ical" type="xs:anyURI"/>
+                            <xs:element name="meeting" maxOccurs="unbounded" type="meeting"/>
+                        </xs:choice>
+                        <xs:attribute name="usedefaultmeetinglocation" type="xs:boolean"
+                                      default="false" use="optional">
+                            <xs:annotation>
+                                <xs:documentation>Gibt an, ob für die Ortsangabe die Angaben aus
+                                    ../defaultmeetinglocation verwendet werden sollen (wenn
+                                    vorhanden).
+                                </xs:documentation>
+                            </xs:annotation>
+                        </xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="sponsors" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="sponsor" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="name" type="nonEmptyString"/>
+                                        <xs:element name="url" type="xs:anyURI"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="photocredits" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="logo" type="nonEmptyString" minOccurs="0"/>
+                            <xs:element name="group" type="nonEmptyString" minOccurs="0"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:simpleType name="email">
+        <xs:annotation>
+            <xs:documentation>Definiert einen Datentyp für E-Mail Adressen
+            </xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\w[-._\w+]*\w@\w[-.\w]*\w\.\w{2,}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="twitter">
+        <xs:annotation>
+            <xs:documentation>Definiert einen Datentyp für Twitter-Handles
+            </xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:pattern value="@[a-zA-Z0-9_]{1,15}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="hashtag">
+        <xs:annotation>
+            <xs:documentation>Definiert einen Datentyp für Hashtags
+            </xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:pattern value="#[a-zA-Z0-9]+"/>
+        </xs:restriction>
+    </xs:simpleType>
     <xs:simpleType name="facebook">
         <xs:annotation>
             <xs:documentation>Definiert eine URL auf facebook.com
             </xs:documentation>
         </xs:annotation>
         <xs:restriction base="xs:anyURI">
-            <xs:pattern value="https*://www\.facebook\.com/.*"></xs:pattern>
+            <xs:pattern value="https*://www\.facebook\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="xing">
@@ -133,7 +156,7 @@
             </xs:documentation>
         </xs:annotation>
         <xs:restriction base="xs:anyURI">
-            <xs:pattern value="https*://www\.xing\.com/.*"></xs:pattern>
+            <xs:pattern value="https*://www\.xing\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="googleplus">
@@ -142,106 +165,105 @@
             </xs:documentation>
         </xs:annotation>
         <xs:restriction base="xs:anyURI">
-            <xs:pattern value="https://plus\.google\.com/.*"></xs:pattern>
+            <xs:pattern value="https://plus\.google\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
-	<xs:simpleType name="nonEmptyString">
-		<xs:annotation>
-			<xs:documentation>Ein nicht-leerer String</xs:documentation>
-		</xs:annotation>
-		<xs:restriction base="xs:string">
-			<xs:minLength value="1"></xs:minLength>
-		</xs:restriction>
-	</xs:simpleType>
-	<xs:complexType name="meeting">
-		<xs:annotation>
-			<xs:documentation>Definiert einen Datentyp für Meetings (zukünftige
-				und vergangene)
-			</xs:documentation>
-		</xs:annotation>
-		<xs:sequence>
-			<xs:element name="time" type="xs:dateTime"></xs:element>
-			<xs:element name="name" type="nonEmptyString"></xs:element>
-			<xs:element name="description" type="nonEmptyString" minOccurs="0"></xs:element>
-			<xs:element name="url" type="xs:anyURI" minOccurs="0"></xs:element>
-			<xs:element name="location" minOccurs="0">
-				<xs:complexType>
-					<xs:sequence>
-						<xs:element name="name" type="nonEmptyString">
-							<xs:annotation>
-								<xs:documentation>z.B. OFfenraum Coworking Space
-								</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="description" type="nonEmptyString"
-							minOccurs="0">
-							<xs:annotation>
-								<xs:documentation>z.B. OFfenraum ist ein Coworking Space im
-									Rhein-Main-Gebiet südlich von Frankfurt in Offenbach am Main,
-									in der Nähe des Hauptbahnhofs, Hassia Fabrik und
-									Stadtkrankenhaus.
-								</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="url" type="xs:anyURI" minOccurs="0">
-							<xs:annotation>
-								<xs:documentation>z.B. http://offenraum.de/#lage
-								</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-                        <xs:element name="twitter" type="twitter" minOccurs="0">
-                            <xs:annotation>
-                                <xs:documentation>z.B. @OFfenraum
-                                </xs:documentation>
-                            </xs:annotation>
-                        </xs:element>
-						<xs:element name="publictransport" type="nonEmptyString"
-							minOccurs="0">
-							<xs:annotation>
-								<xs:documentation>z.B. Regionalbahn HBf Offenbach. S1, S2, S8,
-									S9 Offenbach Markplatz. Bus 104 Haydnstraße.
-								</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="street" type="nonEmptyString">
-							<xs:annotation>
-								<xs:documentation>z.B. Senefelderstr. 63</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="zip" type="plz">
-							<xs:annotation>
-								<xs:documentation>z.B. 63069</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="city" type="nonEmptyString">
-							<xs:annotation>
-								<xs:documentation>z.B. Offenbach</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="region" type="nonEmptyString"
-							minOccurs="0">
-							<xs:annotation>
-								<xs:documentation>z.B. Hessen</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="country" type="nonEmptyString"
-							minOccurs="0">
-							<xs:annotation>
-								<xs:documentation>z.B. Deutschland</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-					</xs:sequence>
-				</xs:complexType>
-			</xs:element>
-		</xs:sequence>
-	</xs:complexType>
-	<xs:simpleType name="plz">
-		<xs:annotation>
-			<xs:documentation>Eine deutsche PLZ</xs:documentation>
-		</xs:annotation>
-		<xs:restriction base="xs:positiveInteger">
-			<xs:minInclusive value="10000"></xs:minInclusive>
-			<xs:maxInclusive value="99999"></xs:maxInclusive>
-		</xs:restriction>
-	</xs:simpleType>
+    <xs:simpleType name="nonEmptyString">
+        <xs:annotation>
+            <xs:documentation>Ein nicht-leerer String</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="meeting">
+        <xs:annotation>
+            <xs:documentation>Definiert einen Datentyp für Meetings (zukünftige
+                und vergangene)
+            </xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="time" type="xs:dateTime"/>
+            <xs:element name="name" type="nonEmptyString"/>
+            <xs:element name="description" type="nonEmptyString" minOccurs="0"/>
+            <xs:element name="url" type="xs:anyURI" minOccurs="0"/>
+            <xs:element name="location" type="location" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="plz">
+        <xs:annotation>
+            <xs:documentation>Eine deutsche PLZ</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:positiveInteger">
+            <xs:minInclusive value="10000"/>
+            <xs:maxInclusive value="99999"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="location">
+        <xs:sequence>
+            <xs:element name="name" type="nonEmptyString">
+                <xs:annotation>
+                    <xs:documentation>z.B. OFfenraum Coworking Space
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="description" type="nonEmptyString"
+                        minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. OFfenraum ist ein Coworking Space im
+                        Rhein-Main-Gebiet südlich von Frankfurt in Offenbach am Main,
+                        in der Nähe des Hauptbahnhofs, Hassia Fabrik und
+                        Stadtkrankenhaus.
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="url" type="xs:anyURI" minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. http://offenraum.de/#lage
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="twitter" type="twitter" minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. @OFfenraum
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="publictransport" type="nonEmptyString"
+                        minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. Regionalbahn HBf Offenbach. S1, S2, S8,
+                        S9 Offenbach Markplatz. Bus 104 Haydnstraße.
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="street" type="nonEmptyString">
+                <xs:annotation>
+                    <xs:documentation>z.B. Senefelderstr. 63</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="zip" type="plz">
+                <xs:annotation>
+                    <xs:documentation>z.B. 63069</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="city" type="nonEmptyString">
+                <xs:annotation>
+                    <xs:documentation>z.B. Offenbach</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="region" type="nonEmptyString"
+                        minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. Hessen</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="country" type="nonEmptyString"
+                        minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. Deutschland</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
 </xs:schema>

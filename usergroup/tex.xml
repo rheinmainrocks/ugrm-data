@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-    <name>Frankfurter TeX-Stammtisch</name>
+    <name>TeX-Stammtisch Frankfurt</name>
     <nickname>TeXStammtisch</nickname>
     <description>Austausch zu TeX/LaTeX in Frankfurt.
     </description>

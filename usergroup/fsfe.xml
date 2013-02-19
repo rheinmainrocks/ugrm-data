@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Free Software Foundation Europe Fellowship Rhein-Main</name>
+<nickname>FSFE</nickname>
+    <description>
+Treffen der Regional-Gruppe Rhein-Main der Free Software Foundation Europe.
+    </description>
+    <url>http://wiki.fsfe.org/groups/Rhein-Main</url>
+    <tags>
+        <tag>Free Software</tag>
+        <tag>Open Source</tag>
+    </tags>
+</usergroup>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>XP User Group Frankfurt</name>
+    <nickname>XPUG FFM</nickname>
+    <description>Die Frankfurter XP User Group trifft sich üblicherweise 1x im Monat und beschäftigt sich mit Themen der
+        agilen Software-Entwicklung aber auch mit vielem anderen in der Nähe wie Projektmanagement, Psychologisches (mit
+        Bezug auf Software-Entwicklung), intensiv-technische Themen, ...
+    </description>
+    <url>http://agilewiki.ipponsoft.de/doku.php?id=xpug_ffm</url>
+    <tags>
+        <tag>Extreme Programming</tag>
+        <tag>Agile</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2013-03-05T18:30:00+01:00</time>
+            <name>XPUG FFM (84)</name>
+            <description>Possumus Projectmanagement Games - Der außergewöhnliche Weg, Projekte zum Erfolg zu führen!
+            </description>
+            <url>
+                https://www.xing.com/events/xpug-ffm-84-possumus-projectmanagement-games-aussergewohnliche-weg-projekte-erfolg-fuhren-1195334
+            </url>
+            <location>
+                <name>NorCom Information Technology AG</name>
+                <url>http://www.norcom.de/de/norcom-frankfurt</url>
+                <twitter>@NorComAG</twitter>
+                <street>Solmsstraße 14</street>
+                <zip>60486</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>

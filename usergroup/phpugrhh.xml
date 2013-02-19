@@ -12,6 +12,36 @@
     </tags>
     <contact>
         <twitter>@phpugrhh</twitter>
+        <hashtag>#phpugrhh</hashtag>
         <facebook>http://www.facebook.com/group.php?gid=192655655785</facebook>
+        <xing>https://www.xing.com/net/pri3a328cx/phpugrhh/</xing>
     </contact>
+    <schedule>
+        <meeting>
+            <time>2013-03-05T19:00:00+01:00</time>
+            <name>23. Treffen der PHP User Group Rheinhessen</name>
+            <url>https://www.xing.com/events/23-treffen-phpug-rheinhessen-1205190</url>
+            <location>
+                <name>NIDAG GmbH</name>
+                <url>http://www.nidag.com/</url>
+                <publictransport>Bus 58 und 70 bis Haltestelle Feldbergplatz/Stadtwerke Mainz AG</publictransport>
+                <street>Taunusstraße 59-61</street>
+                <zip>55120</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
+    </schedule>
+    <sponsors>
+        <sponsor>
+            <name>netz98 new media GmbH</name>
+            <url>http://www.netz98.de/</url>
+        </sponsor>
+        <sponsor>
+            <name>NIDAG GmbH</name>
+            <url>http://www.nidag.com/</url>
+        </sponsor>
+    </sponsors>
+    <photocredits>
+        <logo>Das Logo stammt von UG-Mitglied [Lukas Giebel](https://plus.google.com/102794229174790604056/about)</logo>
+    </photocredits>
 </usergroup>

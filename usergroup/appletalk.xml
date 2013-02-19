@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Apple-Talk Frankfurt</name>
+    <description>In Frankfurt am Main treffen wir uns alle 14 Tage im kp21 in der Brotfabrik zum zwanglosen Austausch
+        von Erfahrungen und Infos.</description>
+    <url>http://dir.groups.yahoo.com/group/apple-talk/</url>
+    <tags>
+        <tag>Apple</tag>
+        <tag>Computer</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://dir.groups.yahoo.com/group/apple-talk/</url>
+            <label>Mailingliste</label>
+        </mailinglist>
+    </contact>
+</usergroup>
