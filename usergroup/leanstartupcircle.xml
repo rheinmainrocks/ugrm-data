@@ -10,4 +10,26 @@
     <tags>
         <tag>Lean Startup</tag>
     </tags>
+    <schedule>
+        <meeting>
+            <time>2013-02-25T18:30:00+01:00</time>
+            <name>6. Treffen des Lean Startup Circle Rhein-Main in Wiesbaden</name>
+            <url>https://www.xing.com/events/6-treffen-lean-startup-circle-rhein-main-wiesbaden-1191900</url>
+            <location>
+                <name>heimathafen Wiesbaden</name>
+                <description>
+                    Unsere Vision ist es, eine Plattform zu schaffen. Eine Plattform für Kreative &amp; Wissensarbeiter,
+                    für Freiberufler &amp; Startups, für Selbstständige und Agenturen in Wiesbaden.
+                </description>
+                <url>http://heimathafen-wiesbaden.de/</url>
+                <twitter>@heimathafenWI</twitter>
+                <publictransport>Mit den Buslinien 3, 6, 16, 28, 33, 36, 60, 67 zur Haltestelle Adelheidstraße (2
+                    Minuten Fußweg)
+                </publictransport>
+                <street>Karlstraße 22</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+    </schedule>
 </usergroup>
