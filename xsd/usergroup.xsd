@@ -112,6 +112,13 @@
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>
+            <xs:attribute name="female" type="xs:boolean"
+                          default="true" use="optional">
+                <xs:annotation>
+                    <xs:documentation>Ob der Eintrag mit männlichen Präfixen dargestellt werden soll, z.B. der WMFRA.
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:attribute>
         </xs:complexType>
     </xs:element>
     <xs:simpleType name="email">

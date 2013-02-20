@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>WordPress Meetup Frankfurt</name>
     <nickname>WPFRA</nickname>
     <description>Das WordPress Meetup Frankfurt ist ein lockeres Treffen von WordPress-Fans, die sich mit WordPress

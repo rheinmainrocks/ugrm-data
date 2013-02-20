@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>Social Media Stammtisch Frankfurt</name>
     <nickname>SM/FFM</nickname>
     <description>Neuste Trends und Erfahrungen um das Social Web werden ausgetauscht und wirtschaftlich, kulturell oder

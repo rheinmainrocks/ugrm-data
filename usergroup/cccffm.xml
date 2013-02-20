@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
     <name>Chaos Computer Club Frankfurt e.V.</name>
     <nickname>CCCFFM</nickname>
     <description>Wir sind eine Gruppe von Leuten, die sich teilweise schon seit Jahren wöchentlich zum Meinungs-,

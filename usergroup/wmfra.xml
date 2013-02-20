@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
     <name>Webmontag Frankfurt</name>
     <nickname>WMFRA</nickname>
     <description>Der Webmontag Frankfurt bringt Anwender, Entwickler, Gründer, Unternehmer, Venture Capitalists,

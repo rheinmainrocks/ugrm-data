@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
     <name>SEM-Stammtisch-Frankfurt</name>
     <description>Ein Stammtisch für alle SEO Themen im Rhein-Main-Gebiet. Der Standort wechselt immer mal wieder und ist
         mal in Aschaffenburg oder auch in Darmstadt.

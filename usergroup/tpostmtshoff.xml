@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
     <name>Typostammtisch Offenbach</name>
     <nickname>tpostmtshoff</nickname>
     <description>Seit 2004 treffen sich einmal im Monat Typografie- und Schriftbegeisterte in Offenbach.</description>

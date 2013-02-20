@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
     <name>Chaos Darmstadt</name>
     <description>Chaos Darmstadt ist die örtliche Vertretung des Chaos in Darmstadt. Wir sind "ErfA"-Kreis des CCC und
         eine Hochschulgruppe der TU Darmstadt. (Bei uns sind aber natürlich auch nicht studierende Personen herzlich

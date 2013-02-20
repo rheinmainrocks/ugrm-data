@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>Chaos Computer Club Mainz / Wiesbaden</name>
     <nickname>CCCMZWI</nickname>
     <description>Unsere lockeren Treffen sind Basis für Projekte: Zusammen programmieren oder wilde Lötaktionen,
