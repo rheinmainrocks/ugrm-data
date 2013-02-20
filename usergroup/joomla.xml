@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
-           male="false">
+           female="false">
     <name>Joomla! Forum Frankfurt/Rhein-Main</name>
     <description>Networking, Erfahrungsaustausch, gegenseitige Hilfe und gemmeinsame Projekte - das Joomla! Forum
         Frankfurt / Rhein-Main ist die zentrale Plattform für Joomla-Anwender im Rhein-Main-Gebiet.
