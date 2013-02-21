@@ -24,26 +24,76 @@
         <tag>WordPress</tag>
         <tag>PHP</tag>
     </tags>
-    <schedule>
-        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
-        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
-            </ical -->
+    <contact>
+        <hashtag>#wpugffm</hashtag>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Die Zentrale</name>
+        <description>Die Zentrale. Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+            Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+        </description>
+        <url>http://www.die-zentrale-ffm.de/#section-n5</url>
+        <twitter>@zentrale_ffm</twitter>
+        <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+        <street>Berger Straße 175</street>
+        <zip>60385</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
         <meeting>
             <time>2013-02-20T19:00:00+01:00</time>
             <name>1. Treffen der WPUGFFM</name>
             <url>http://wpug.die-zentrale-ffm.de/termine/</url>
-            <location>
-                <name>Die Zentrale</name>
-                <description>Die Zentrale. Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
-                    Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
-                </description>
-                <url>http://www.die-zentrale-ffm.de/#section-n5</url>
-                <twitter>@zentrale_ffm</twitter>
-                <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
-                <street>Berger Straße 175</street>
-                <zip>60385</zip>
-                <city>Frankfurt</city>
-            </location>
+        </meeting>
+        <meeting>
+            <time>2013-03-20T19:00:00+01:00</time>
+            <name>2. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-04-17T19:00:00+01:00</time>
+            <name>3. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-05-15T19:00:00+01:00</time>
+            <name>4. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-06-19T19:00:00+01:00</time>
+            <name>5. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-07-17T19:00:00+01:00</time>
+            <name>6. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-08-14T19:00:00+01:00</time>
+            <name>7. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-09-18T19:00:00+01:00</time>
+            <name>8. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-10-16T19:00:00+01:00</time>
+            <name>9. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-11-13T19:00:00+01:00</time>
+            <name>10. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
+        </meeting>
+        <meeting>
+            <time>2013-12-18T19:00:00+01:00</time>
+            <name>11. Treffen der WPUGFFM</name>
+            <url>http://wpug.die-zentrale-ffm.de/termine/</url>
         </meeting>
     </schedule>
 </usergroup>
