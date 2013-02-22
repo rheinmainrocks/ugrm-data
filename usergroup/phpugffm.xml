@@ -1,76 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-	<name>PHP Usergroup Frankfurt am Main</name>
-	<nickname>PHPUGFFM</nickname>
-	<description>
-		Alle zwei Monate trifft sich die PHPUGFFM
-		in verschiedenen Locations um über Tipps und Neuigkeiten der
-		weitverbreiteten Serverscriptsprache zu diskutieren.
-		Auch Programmierer aus anderen Bereichen sind herzlich willkommen!
-	</description>
-	<url>http://phpugffm.de</url>
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>PHP Usergroup Frankfurt am Main</name>
+    <nickname>PHPUGFFM</nickname>
+    <description>
+        Alle zwei Monate trifft sich die PHPUGFFM
+        in verschiedenen Locations um über Tipps und Neuigkeiten der
+        weitverbreiteten Serverscriptsprache zu diskutieren.
+        Auch Programmierer aus anderen Bereichen sind herzlich willkommen!
+    </description>
+    <url>http://phpugffm.de</url>
     <tags>
         <tag>PHP</tag>
     </tags>
-	<contact>
-		<mailinglist>
-			<url>https://groups.google.com/forum/#!forum/phpugffm</url>
-			<label>Mailingliste</label>
-			<description>zum Austausch von Mitgliedern und Interessierten
-			</description>
-		</mailinglist>
-		<twitter>@phpugffm</twitter>
-		<hashtag>#phpugffm</hashtag>
-	</contact>
-	<schedule>
-		<!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
-		<!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics 
-			</ical -->
-		<meeting>
-			<time>2013-03-21T19:00:00+01:00</time>
-			<name>PHPUGFFM II / 2013</name>
-			<url>http://www.phpugffm.de/?event=phpugffm-ii-2013</url>
-		</meeting>
-		<meeting>
-			<time>2013-05-23T19:00:00+01:00</time>
-			<name>PHPUGFFM III / 2013</name>
-			<url>http://www.phpugffm.de/?event=phpugffm-iii-2013</url>
-		</meeting>
-		<meeting>
-			<time>2013-08-31T19:00:00+01:00</time>
-			<name>PHP BBQ 2013</name>
-			<url>http://www.phpugffm.de/?event=phpugffm-iii-iv-2013-php-bbq</url>
-		</meeting>
-		<meeting>
-			<time>2013-09-19T19:00:00+01:00</time>
-			<name>PHPUGFFM IV / 2013</name>
-			<url>http://www.phpugffm.de/?event=phpugffm-iv-2013</url>
-		</meeting>
-		<meeting>
-			<time>2013-11-21T19:00:00+01:00</time>
-			<name>PHPUGFFM V / 2013</name>
-			<url>http://www.phpugffm.de/?event=phpugffm-v-2013</url>
-		</meeting>
-	</schedule>
-	<sponsors>
-		<sponsor>
-			<name>O'Reilly Verlag</name>
-			<url>http://www.oreilly.de</url>
-		</sponsor>
-		<sponsor>
-			<name>Jetbrains</name>
-			<url>http://jetbrains.com/</url>
-		</sponsor>
-		<sponsor>
-			<name>Brot und Spiele GmbH</name>
-			<url>http://spieletipps.de/</url>
-		</sponsor>
-		<sponsor>
-			<name>dmr solutions gmbh</name>
-			<url>http://www.dmr-solutions.com/</url>
-		</sponsor>
-	</sponsors>
+    <contact>
+        <mailinglist>
+            <url>https://groups.google.com/forum/#!forum/phpugffm</url>
+            <label>Mailingliste</label>
+            <description>zum Austausch von Mitgliedern und Interessierten
+            </description>
+        </mailinglist>
+        <twitter>@phpugffm</twitter>
+        <hashtag>#phpugffm</hashtag>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-03-21T19:00:00+01:00</time>
+            <name>PHPUGFFM II / 2013</name>
+            <url>http://www.phpugffm.de/?event=phpugffm-ii-2013</url>
+            <location>
+                <name>iBrams GmbH &amp; Co. KG</name>
+                <url>http://www.ibrams.com/en/ibrams-company-information/</url>
+                <street>Hanauer Landstraße 135-137</street>
+                <zip>60314</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2013-05-23T19:00:00+01:00</time>
+            <name>PHPUGFFM III / 2013</name>
+            <url>http://www.phpugffm.de/?event=phpugffm-iii-2013</url>
+        </meeting>
+        <meeting>
+            <time>2013-08-31T19:00:00+01:00</time>
+            <name>PHP BBQ 2013</name>
+            <url>http://www.phpugffm.de/?event=phpugffm-iii-iv-2013-php-bbq</url>
+        </meeting>
+        <meeting>
+            <time>2013-09-19T19:00:00+01:00</time>
+            <name>PHPUGFFM IV / 2013</name>
+            <url>http://www.phpugffm.de/?event=phpugffm-iv-2013</url>
+        </meeting>
+        <meeting>
+            <time>2013-11-21T19:00:00+01:00</time>
+            <name>PHPUGFFM V / 2013</name>
+            <url>http://www.phpugffm.de/?event=phpugffm-v-2013</url>
+        </meeting>
+    </schedule>
+    <sponsors>
+        <sponsor>
+            <name>O'Reilly Verlag</name>
+            <url>http://www.oreilly.de</url>
+        </sponsor>
+        <sponsor>
+            <name>Jetbrains</name>
+            <url>http://jetbrains.com/</url>
+        </sponsor>
+        <sponsor>
+            <name>Brot und Spiele GmbH</name>
+            <url>http://spieletipps.de/</url>
+        </sponsor>
+        <sponsor>
+            <name>dmr solutions gmbh</name>
+            <url>http://www.dmr-solutions.com/</url>
+        </sponsor>
+    </sponsors>
     <photocredits>
         <logo>Das Logo ist eine Eigenkreation mehrerer Schöpfer, u.A. Tamara Bryun und Christian Nielebock.</logo>
         <group>Foto: Markus Tacker.</group>
