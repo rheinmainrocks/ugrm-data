@@ -1,4 +1,4 @@
-# [![UGRM Usergroups RheinMain](https://raw.github.com/tacker/ugrm-data/master/logo.png)](http://ugrm.coderbyheart.de/)
+# [![UGRM Usergroups RheinMain](https://raw.github.com/tacker/ugrm-data/master/logo.png)](http://usergroups.rheinmainrocks.de/)
 
 In diesem Repository finden sich mittels XML strukturierte Information zu Technologie-Usergroups im RheinMain-Gebiet. 
 Eine Technologie-Usergroup hat im weitesten Sinne etwas mit dem Internet, Software oder Hardware zu tun.
@@ -46,4 +46,4 @@ Pull Requests, bei denen Tests fehl schlagen werden nicht gemerged.
 
 ## Darstellung
 
-Die Darstellung der Daten erfolgt *when it's done* unter http://ugrm.coderbyheart.de/.
+Die Darstellung der Daten erfolgt unter http://usergroups.rheinmainrocks.de/.
