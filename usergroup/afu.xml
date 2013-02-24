@@ -1,264 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<xs:schema elementFormDefault="qualified"
-           xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="usergroup">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="name" type="nonEmptyString">
-                    <xs:annotation>
-                        <xs:documentation>DARC Ortsverband Frankfurt F05
-                        </xs:documentation>
-                    </xs:annotation>
-                </xs:element>
-                <xs:element name="nickname" type="nonEmptyString" minOccurs="0">
-                    <xs:annotation>
-                        <xs:documentation>DARC:F05
-                        </xs:documentation>
-                    </xs:annotation>
-                </xs:element>
-                <xs:element name="description" type="nonEmptyString">
-                    <xs:annotation>
-                        <xs:documentation>Ortsverband der Frankfurter Funkamateure, welche im DARC organisiert sind.
-                        </xs:documentation>
-                    </xs:annotation>
-                </xs:element>
-                <xs:element name="url" type="xs:anyURI">
-                    <xs:annotation>
-                        <xs:documentation>http://www.F05.de
-                        </xs:documentation>
-                    </xs:annotation>
-                </xs:element>
-                <xs:element name="tags">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="tag" type="xs:token" maxOccurs="3"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-                <xs:element name="contact" minOccurs="0">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="mailinglist" minOccurs="0" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:sequence>
-                                        <xs:element name="url" type="xs:anyURI"/>
-                                        <xs:element name="label" type="nonEmptyString"/>
-                                        <xs:element name="description" type="nonEmptyString" minOccurs="0"/>
-                                    </xs:sequence>
-                                </xs:complexType>
-                            </xs:element>
-                            <xs:element name="email" minOccurs="0" type="email"/>
-                            <xs:element name="twitter" minOccurs="0" type="twitter"/>
-                            <xs:element name="hashtag" minOccurs="0" type="hashtag"/>
-                            <xs:element name="facebook" minOccurs="0" type="facebook"/>
-                            <xs:element name="googleplus" minOccurs="0" type="googleplus"/>
-                            <xs:element name="xing" minOccurs="0" type="xing"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-                <xs:element name="defaultmeetinglocation" type="location" minOccurs="0">
-                    <xs:annotation>
-                        <xs:documentation>Saalbau Bürgerhaus Bornheim, Arnsburger Str. 24
-                        </xs:documentation>
-                    </xs:annotation>
-                </xs:element>
-                <xs:element name="schedule" minOccurs="0">
-                    <xs:complexType>
-                        <xs:annotation>
-                            <xs:documentation>Jeden 3. Freitag im Monat, 20.00 Uhr
-                            </xs:documentation>
-                        </xs:annotation>
-                        <xs:choice>
-                            <xs:element name="ical" type="xs:anyURI"/>
-                            <xs:element name="meeting" maxOccurs="unbounded" type="meeting"/>
-                        </xs:choice>
-                        <xs:attribute name="usedefaultmeetinglocation" type="xs:boolean"
-                                      default="false" use="optional">
-                            <xs:annotation>
-                                <xs:documentation>
-                                </xs:documentation>
-                            </xs:annotation>
-                        </xs:attribute>
-                    </xs:complexType>
-                </xs:element>
-                <xs:element name="sponsors" minOccurs="0">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="sponsor" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:sequence>
-                                        <xs:element name="name" type="nonEmptyString"/>
-                                        <xs:element name="url" type="xs:anyURI"/>
-                                    </xs:sequence>
-                                </xs:complexType>
-                            </xs:element>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-                <xs:element name="photocredits" minOccurs="0">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="logo" type="nonEmptyString" minOccurs="0"/>
-                            <xs:element name="group" type="nonEmptyString" minOccurs="0"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-            </xs:sequence>
-            <xs:attribute name="female" type="xs:boolean"
-                          default="true" use="optional">
-                <xs:annotation>
-                    <xs:documentation>
-                    </xs:documentation>
-                </xs:annotation>
-            </xs:attribute>
-        </xs:complexType>
-    </xs:element>
-    <xs:simpleType name="email">
-        <xs:annotation>
-            <xs:documentation>Definiert einen Datentyp für E-Mail Adressen
-            </xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:string">
-            <xs:pattern value="\w[-._\w+]*\w@\w[-.\w]*\w\.\w{2,}"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:simpleType name="twitter">
-        <xs:annotation>
-            <xs:documentation>
-            </xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:string">
-            <xs:pattern value="@[a-zA-Z0-9_]{1,15}"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:simpleType name="hashtag">
-        <xs:annotation>
-            <xs:documentation>
-            </xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:string">
-            <xs:pattern value="#[a-zA-Z0-9]+"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:simpleType name="facebook">
-        <xs:annotation>
-            <xs:documentation>
-            </xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:anyURI">
-            <xs:pattern value="https*://www\.facebook\.com/.*"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:simpleType name="xing">
-        <xs:annotation>
-            <xs:documentation>
-            </xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:anyURI">
-            <xs:pattern value="https*://www\.xing\.com/.*"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:simpleType name="googleplus">
-        <xs:annotation>
-            <xs:documentation>
-            </xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:anyURI">
-            <xs:pattern value="https://plus\.google\.com/.*"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:simpleType name="nonEmptyString">
-        <xs:annotation>
-            <xs:documentation>Ein nicht-leerer String</xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:string">
-            <xs:minLength value="1"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:complexType name="meeting">
-        <xs:annotation>
-            <xs:documentation>Definiert einen Datentyp für Meetings (zukünftige
-                und vergangene)
-            </xs:documentation>
-        </xs:annotation>
-        <xs:sequence>
-            <xs:element name="time" type="xs:dateTime"/>
-            <xs:element name="name" type="nonEmptyString"/>
-            <xs:element name="description" type="nonEmptyString" minOccurs="0"/>
-            <xs:element name="url" type="xs:anyURI" minOccurs="0"/>
-            <xs:element name="location" type="location" minOccurs="0"/>
-        </xs:sequence>
-    </xs:complexType>
-    <xs:simpleType name="plz">
-        <xs:annotation>
-            <xs:documentation></xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:positiveInteger">
-            <xs:minInclusive value="10000"/>
-            <xs:maxInclusive value="99999"/>
-        </xs:restriction>
-    </xs:simpleType>
-    <xs:complexType name="location">
-        <xs:sequence>
-            <xs:element name="name" type="nonEmptyString">
-                <xs:annotation>
-                    <xs:documentation>
-                    </xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="description" type="nonEmptyString"
-                        minOccurs="0">
-                <xs:annotation>
-                    <xs:documentation>
-                    </xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="url" type="xs:anyURI" minOccurs="0">
-                <xs:annotation>
-                    <xs:documentation>
-                    </xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="twitter" type="twitter" minOccurs="0">
-                <xs:annotation>
-                    <xs:documentation>
-                    </xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="publictransport" type="nonEmptyString"
-                        minOccurs="0">
-                <xs:annotation>
-                    <xs:documentation>U-Bahn U4, Station Höhenstraße
-                    </xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="street" type="nonEmptyString">
-                <xs:annotation>
-                    <xs:documentation>Arnsburger Straße 24</xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="zip" type="plz">
-                <xs:annotation>
-                    <xs:documentation></xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="city" type="nonEmptyString">
-                <xs:annotation>
-                    <xs:documentation>Frankfurt am Main</xs:documentation></xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="region" type="nonEmptyString"
-                        minOccurs="0">
-                <xs:annotation>
-                    <xs:documentation>Hessen</xs:documentation>
-                </xs:annotation>
-            </xs:element>
-            <xs:element name="country" type="nonEmptyString"
-                        minOccurs="0">
-                <xs:annotation>
-                    <xs:documentation>Deutschland</xs:documentation>
-                </xs:annotation>
-            </xs:element>
-        </xs:sequence>
-    </xs:complexType>
-</xs:schema>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Funkamateure DARC Ortsverband Frankfurt (F05)</name>
+    <nickname>PyUGRM</nickname>
+    <description>Ca. 90 Funkamateure aus Frankfurt und Umgebung, die im DARC organsiert sind, treffen sich 
+    gemeinsam und partizipieren an Funkwettbewerben sowie Bastelprojekten und richten Lehrveranstaltungen aus.
+    </description>
+    <url>http://www.F05.de</url>
+    <tags>
+        <tag>Amateurfunk</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://de.groups.yahoo.com/group/F05/</url>
+            <label>Mailingliste</label>
+            <description>zum Austausch von Informationen und Terminen
+            </description>
+        </mailinglis>
+    </contact>
+    <schedule>
+        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
+</ical -->
+        <meeting>
+            <time>2013-03-22T20:00:00+01:00</time>
+            <name>Ortsverbandsabend mit Jahreshauptversammlung</name>
+            <url>http://www.landolt.de/termine/termine.htm</url>
+            <location>
+                <name>Saalbau Bürgerhaus Bornheim</name>
+                <url>http://www.landolt.de/termine/termine.htm</url>
+                <publictransport>U4 Höhenstraße</publictransport>
+                <street>Arnsburgerstraße 24</street>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
