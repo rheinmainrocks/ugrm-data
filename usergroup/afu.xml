@@ -215,7 +215,7 @@
             </xs:element>
             <xs:element name="url" type="xs:anyURI" minOccurs="0">
                 <xs:annotation>
-                    <xs:documentation>z.B. http://offenraum.de/#lage
+                    <xs:documentation>
                     </xs:documentation>
                 </xs:annotation>
             </xs:element>
@@ -234,29 +234,29 @@
             </xs:element>
             <xs:element name="street" type="nonEmptyString">
                 <xs:annotation>
-                    <xs:documentation>z.B. Senefelderstr. 63</xs:documentation>
+                    <xs:documentation>Arnsburger Straße 24</xs:documentation>
                 </xs:annotation>
             </xs:element>
             <xs:element name="zip" type="plz">
                 <xs:annotation>
-                    <xs:documentation>z.B. 63069</xs:documentation>
+                    <xs:documentation></xs:documentation>
                 </xs:annotation>
             </xs:element>
             <xs:element name="city" type="nonEmptyString">
                 <xs:annotation>
-                    <xs:documentation>z.B. Offenbach</xs:documentation>
+                    <xs:documentation>Frankfurt am Main</xs:documentation></xs:documentation>
                 </xs:annotation>
             </xs:element>
             <xs:element name="region" type="nonEmptyString"
                         minOccurs="0">
                 <xs:annotation>
-                    <xs:documentation>z.B. Hessen</xs:documentation>
+                    <xs:documentation>Hessen</xs:documentation>
                 </xs:annotation>
             </xs:element>
             <xs:element name="country" type="nonEmptyString"
                         minOccurs="0">
                 <xs:annotation>
-                    <xs:documentation>z.B. Deutschland</xs:documentation>
+                    <xs:documentation>Deutschland</xs:documentation>
                 </xs:annotation>
             </xs:element>
         </xs:sequence>
