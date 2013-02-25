@@ -14,6 +14,10 @@
         <hashtag>#skrm</hashtag>
     </contact>
     <schedule>
+    <meeting>
+            <time>2013-03-25T19:00:00+01:00</time>
+            <name>Treffen #16</name>
+        </meeting>
         <meeting>
             <time>2013-02-25T19:00:00+01:00</time>
             <name>Treffen #15</name>
