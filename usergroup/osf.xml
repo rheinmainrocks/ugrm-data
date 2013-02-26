@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>Online-Stammtisch Frankfurt</name>
+    <nickname>OSF</nickname>
+    <description>Ziel der Initiative ist die Förderung des brancheninternen Informationsaustauschs sowie die
+        nachhaltigere Vernetzung der Teilnehmer auf regelmäßig stattfindenden Veranstaltungen in exklusiver und
+        gleichzeitig unkonventioneller Atmosphäre.
+
+        Der Erfolg des OSF liegt besonders im Grundsatz, die Gäste aktiv miteinander zu vernetzen. Nicht nur Referenten
+        oder Themen stehen im Fokus – es gilt Kontakte zu erschließen und Kooperationen anzustoßen. Hilfreich ist dabei
+        das seit Anfang etablierte SpeedNETworking, bei dem die Teilnehmer leicht und gesteuert in Kontakt zueinander
+        kommen. Das macht nicht nur Spaß, sondern ist oft Initialentzündung für Geschäftsabschlüsse und Partnerschaften
+        in der Online-Branche.
+
+        Ob Online-Marketing, Suchmaschinenoptimierung, Content, Mobile, Web-TV oder Web 3.0 – alle Themenbereiche der
+        digitalen Webwelt werden diskutiert. Die NETworks finden in quartalsweisen Zyklen statt.
+
+        Zu den Events sind alle Menschen aus Frankfurt und dem Rhein-Main-Gebiet eingeladen, die sich beruflich
+        professionell im Internet bewegen oder für ihr Unternehmen den Kontakt zu Spezialisten suchen. Die
+        Veranstaltungsorte wechseln nach Verfügbarkeit, ermöglichen den Gästen aber stets Networking in einer
+        unkonventionellen Atmosphäre.
+    </description>
+    <url>http://frankfurt.online-stammtisch.com/</url>
+    <tags>
+        <tag>Online-Marketing</tag>
+        <tag>SEO</tag>
+    </tags>
+    <contact>
+        <twitter>@OSFrankfurt</twitter>
+        <xing>https://www.xing.com/net/online-frankfurt/</xing>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-03-20T19:00:00+01:00</time>
+            <name>OSF 8.0</name>
+            <url>http://frankfurt.online-stammtisch.com/maerz-osf-mainonline-stammtisch-frankfurt-speed-networking-_id596.html</url>
+            <location>
+                <name>Mainnizza</name>
+                <url>http://mainnizza.de/</url>
+                <street>Untermainkai 17</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
