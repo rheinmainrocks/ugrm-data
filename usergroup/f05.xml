@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Funkamateure DARC Ortsverband Frankfurt</name>
+    <nickname>F05</nickname>
+    <description>Ca. 90 Funkamateure aus Frankfurt und Umgebung, die im DARC organsiert sind, treffen sich
+        gemeinsam und partizipieren an Funkwettbewerben sowie Bastelprojekten und richten Lehrveranstaltungen aus.
+    </description>
+    <url>http://www.F05.de</url>
+    <tags>
+        <tag>Amateurfunk</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://de.groups.yahoo.com/group/F05/</url>
+            <label>Mailingliste</label>
+            <description>zum Austausch von Informationen und Terminen</description>
+        </mailinglist>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Saalbau Bürgerhaus Bornheim</name>
+        <publictransport>U4 Höhenstraße</publictransport>
+        <street>Arnsburgerstraße 24</street>
+        <zip>60385</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-03-22T20:00:00+01:00</time>
+            <name>Ortsverbandsabend mit Jahreshauptversammlung</name>
+            <url>http://www.landolt.de/termine/termine.htm</url>
+        </meeting>
+        <meeting>
+            <time>2013-04-26T20:00:00+01:00</time>
+            <name>Ortsverbandsabend</name>
+            <url>http://www.landolt.de/termine/termine.htm</url>
+        </meeting>
+        <meeting>
+            <time>2013-05-24T20:00:00+01:00</time>
+            <name>Ortsverbandsabend</name>
+            <url>http://www.landolt.de/termine/termine.htm</url>
+        </meeting>
+        <meeting>
+            <time>2013-06-15T20:00:00+01:00</time>
+            <name>Kid's Day</name>
+            <url>http://www.landolt.de/termine/termine.htm</url>
+            <location>
+                <name>Museum für Kommunikation</name>
+                <url>http://www.mfk-frankfurt.de/</url>
+                <street>Schaumainkai 53</street>
+                <zip>60596</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
