@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           plural="true">
     <name>webgrrls Rhein-Main</name>
     <description>webgrrls ist das Netzwerk für weibliche Fach- und Führungskräfte, die in oder für Neue Medien arbeiten.
         First give, then take - nach diesem Motto fördern die webgrrls die berufliche Weiterentwicklung, die Präsenz und

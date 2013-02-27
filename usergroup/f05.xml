@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" plural="true">
     <name>Funkamateure DARC Ortsverband Frankfurt</name>
     <nickname>F05</nickname>
     <description>Ca. 90 Funkamateure aus Frankfurt und Umgebung, die im DARC organsiert sind, treffen sich

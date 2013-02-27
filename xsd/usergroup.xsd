@@ -119,6 +119,13 @@
                     </xs:documentation>
                 </xs:annotation>
             </xs:attribute>
+            <xs:attribute name="plural" type="xs:boolean"
+                          default="false" use="optional">
+                <xs:annotation>
+                    <xs:documentation>Ob der Eintrag als Mehrzahl dargestellt werden soll, z.B. die Digital Media Women
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:attribute>
         </xs:complexType>
     </xs:element>
     <xs:simpleType name="email">
