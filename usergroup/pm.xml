@@ -14,7 +14,7 @@
         beruflich oder nur als "Hobby". Jeder ist willkommen, der auch nur einen Funken Interesse am Programmieren mit
         Perl hat.
     </description>
-    <url>http://frankfurt.pm.org/</url>
+    <url>http://frankfurt.pm/</url>
     <tags>
         <tag>Perl</tag>
     </tags>
@@ -35,4 +35,7 @@
             </description>
         </mailinglist>
     </contact>
+    <schedule>
+        <ical>https://www.google.com/calendar/ical/1jf5irg12jgt1stlhl3ame1kh8%40group.calendar.google.com/public/basic.ics</ical>
+    </schedule>
 </usergroup>
