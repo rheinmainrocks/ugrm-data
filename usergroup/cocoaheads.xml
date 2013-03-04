@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" plural="true">
     <name>CocoaHeads Frankfurt</name>
     <description>CocoaHeads is a group devoted to discussion of Apple Computer's Cocoa Framework for programming on
         MacOS X (including the iPhone). During monthly meetings, members present on their projects and offer tutorials
