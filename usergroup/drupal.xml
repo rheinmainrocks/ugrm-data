@@ -9,4 +9,19 @@
         <tag>Drupal</tag>
         <tag>PHP</tag>
     </tags>
+    <schedule>
+        <meeting>
+            <time>2013-03-14T19:00:00+01:00</time>
+            <name>Drupal-Donnerstag</name>
+            <url>http://groups.drupal.org/node/286163</url>
+            <location>
+                <name>Cocomore AG</name>
+                <url>http://www.cocomore.de/Kontakt/Frankfurt</url>
+                <twitter>@CocomoreAG</twitter>
+                <street>Gutleutstraße 30</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
 </usergroup>
