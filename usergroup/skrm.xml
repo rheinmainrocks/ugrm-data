@@ -20,14 +20,18 @@
             <time>2013-03-25T19:00:00+01:00</time>
             <name>Treffen #16</name>
             <location>
-                <name>OFfenraum</name>
-                <description>Der OFfenraum ist der erste unabhängige, inhabergeführte Coworking Space in Offenbach am Main. In Coworking Spaces kannst Du dir einen Arbeitsplatz mieten, ganz nach deinen Bedürfnissen und sogar auch nur für einen Tag.</description>
+                <name>OFfenraum coworking space</name>
+                <description>Der OFfenraum ist der erste unabhängige, inhabergeführte Coworking Space in Offenbach am
+                    Main.
+                </description>
                 <url>http://offenraum.de/#lage</url>
                 <twitter>@OFfenraum</twitter>
-                <publictransport>S-Bahn bis Offenbach Hauptbahnhof</publictransport>
+                <publictransport>Regionalbahn HBf Offenbach. S1, S2, S8,
+                    S9 Offenbach Markplatz. Bus 104 Haydnstraße.
+                </publictransport>
                 <street>Senefelderstr. 63</street>
                 <zip>63069</zip>
-                <city>Offenbach</city>
+                <city>Offenbach am Main</city>
             </location>
         </meeting>
         <meeting>
