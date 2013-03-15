@@ -10,4 +10,18 @@
     <tags>
         <tag>MongoDB</tag>
     </tags>
+    <schedule>
+        <meeting>
+            <time>2013-03-20T19:00:00+01:00</time>
+            <name>MongoDB Stammtisch</name>
+            <url>https://www.xing.com/events/mongodb-stammtisch-1220268</url>
+            <location>
+                <name>Kaminzimmer im Eschenheimer</name>
+                <url>www.eschenheimer.de</url>
+                <street>Eschenheimer Turm</street>
+                <zip>60318</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
 </usergroup>
