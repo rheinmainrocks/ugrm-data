@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>OpenStack MeetUp Frankfurt</name>
+    <description>Thinking about an OpenStack and Open Source Way to Cloud this Group should bring together anyone
+        interested in the topic from all different sides. We are looking for Open Source Enthusiasts but also people who
+        are new to the Open Approach.
+    </description>
+    <url>http://www.meetup.com/OpenStack-MeetUp-Frankfurt/</url>
+    <tags>
+        <tag>OpenStack</tag>
+        <tag>Cloud</tag>
+        <tag>Virtualization</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2013-04-08T18:00:00+01:00</time>
+            <name>Meetup</name>
+            <location>
+                <name>Red Hat Frankfurt</name>
+                <street>Messeturm</street>
+                <zip>60308</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
