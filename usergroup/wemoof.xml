@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>Webmontag Offenbach</name>
+    <nickname>WEMO♥F</nickname>
+    <description>Der Webmontag Offenbach bringt Menschen zusammen, die sich für das Web begeistern, Teil davon sind oder
+        es werden wollen.
+
+        In Offenbach fehlt eine regelmäßige, durch die Community organisierte
+        Veranstaltung, die Interessierte aus allen kreativen Branchen
+        zusammenbringt und so die Raum für neue Verbindungen und Synergien
+        schafft. Ein Webmontag bietet hierfür den idealen Rahmen, da das
+        Internet ist ohne Zweifel das Leitmedium der kreativen Wirtschaft
+        geworden ist und sich viele Menschen mit den Grundprinzipien des Webs
+        identifizieren können: Offenheit, Transparenz und Freiheit. Ich bin
+        überzeugt, dass Offenbach diese Veranstaltung braucht und glaub daran,
+        dass wir als kreative Gemeinschaft den Termin in den nächsten Wochen
+        realisieren können.
+    </description>
+    <url>http://wemoof.de/</url>
+    <tags>
+        <tag>Internet</tag>
+    </tags>
+    <contact>
+        <twitter>@wemoof</twitter>
+        <hashtag>#weemoof</hashtag>
+        <facebook>https://www.facebook.com/pages/wemoof/435444859870520</facebook>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-05-13T18:00:00+01:00</time>
+            <name>Webmontag Offenbach #1</name>
+            <url>http://wemoof.de/</url>
+        </meeting>
+    </schedule>
+</usergroup>
