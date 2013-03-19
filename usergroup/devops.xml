@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           plural="true">
     <name>DevOps Frankfurt</name>
     <description>Wir tauschen Erfahrungen und Best Practices aus, die wir beim Integrieren von Continuous Integration,
         Continuous Deployment, Configuration Management, Agilen Methoden etc. im eigenen Arbeitsalltag gesammelt haben.
