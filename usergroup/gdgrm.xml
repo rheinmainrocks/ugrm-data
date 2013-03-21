@@ -14,18 +14,23 @@
         </mailinglist>
         <twitter>@gdgrheinmain</twitter>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>SRZ Gastro</name>
+        <url>https://plus.google.com/105879634205744206011/about?hl=de</url>
+        <street>Rotfeder-Ring 13</street>
+        <zip>60327</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-03-28T19:00:00+01:00</time>
+            <name>GDG RheinMain Stammtisch - März 2013</name>
+            <url>https://plus.google.com/events/cn7le5nalpljb5a6eoce3fpcv3o</url>
+        </meeting>
         <meeting>
             <time>2013-03-01T19:00:00+01:00</time>
-            <name>GDG RheinMain Stammtisch Februar 2013</name>
+            <name>GDG RheinMain Stammtisch - Februar 2013</name>
             <url>https://plus.google.com/u/0/events/cj6qaa8m2df9gvmv1v6bp5g43t0</url>
-            <location>
-                <name>SRZ Gastro</name>
-                <url>https://plus.google.com/105879634205744206011/about?hl=de</url>
-                <street>Rotfeder-Ring 13</street>
-                <zip>60327</zip>
-                <city>Frankfurt</city>
-            </location>
         </meeting>
     </schedule>
 </usergroup>
