@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Agile Rhein-Main</name>
-    <description>Die "Agile Rhein-Main" ist ein regionales Netzwerk mit den Interessengebieten: Agil, Scrum, agiles Projektmanagement, agile Software-Entwicklung, Kanban, Lean Software Development, Agile Organisation etc.</description>
+    <description>Die "Agile Rhein-Main" ist ein regionales Netzwerk mit den Interessengebieten: Agil, Scrum, agiles
+        Projektmanagement, agile Software-Entwicklung, Kanban, Lean Software Development, Agile Organisation etc.
+    </description>
     <url>https://www.xing.com/net/pri4044d1x/agilerheinmain/</url>
     <tags>
         <tag>Agile</tag>
@@ -13,10 +15,26 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-04-04T19:00:00+01:00</time>
+            <name>Agile Vorgehensweisen und Methoden in der Konstruktion physischer Produkte</name>
+            <url>https://www.xing.com/events/agile-vorgehensweisen-methoden-konstruktion-physischer-produkte-1215834
+            </url>
+            <location>
+                <name>//SEIBERT/MEDIA GmbH</name>
+                <street>Kirchgasse 6 / LuisenForum</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-02-04T18:30:00+01:00</time>
             <name>The S.O.L.I.D. Principles of OO and Agile Design</name>
-            <description>Robert "Uncle Bob" Martin spricht am 4.2. in Frankfurt über “The S.O.L.I.D. Principles of OO and Agile Design”</description>
-            <url>https://www.xing.com/events/robert-uncle-bob-martin-spricht-4-2-frankfurt-the-principles-of-oo-and-agile-design-1183895</url>
+            <description>Robert "Uncle Bob" Martin spricht am 4.2. in Frankfurt über “The S.O.L.I.D. Principles of OO
+                and Agile Design”
+            </description>
+            <url>
+                https://www.xing.com/events/robert-uncle-bob-martin-spricht-4-2-frankfurt-the-principles-of-oo-and-agile-design-1183895
+            </url>
         </meeting>
     </schedule>
 </usergroup>
