@@ -28,6 +28,13 @@
         </mailinglist>
         <twitter>@PyUGRM</twitter>
         <hashtag>#PyUGRM</hashtag>
+        <team>
+            <person>
+                <name>Markus Tacker</name>
+                <url>http://tckr.cc/</url>
+                <email>m@tckr.cc</email>
+            </person>
+        </team>
     </contact>
     <schedule>
         <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->

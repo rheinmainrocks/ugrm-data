@@ -55,6 +55,13 @@
                             <xs:element name="facebook" minOccurs="0" type="facebook"/>
                             <xs:element name="googleplus" minOccurs="0" type="googleplus"/>
                             <xs:element name="xing" minOccurs="0" type="xing"/>
+                            <xs:element name="team" minOccurs="0" maxOccurs="1">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="person" type="person" minOccurs="1" maxOccurs="unbounded"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
@@ -142,7 +149,7 @@
             </xs:documentation>
         </xs:annotation>
         <xs:restriction base="xs:string">
-            <xs:pattern value="\w[-._\w+]*\w@\w[-.\w]*\w\.\w{2,}"/>
+            <xs:pattern value="\w[-._\w+]*@\w[-.\w]*\w\.\w{2,}"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="twitter">
@@ -222,6 +229,9 @@
         </xs:restriction>
     </xs:simpleType>
     <xs:complexType name="location">
+        <xs:annotation>
+            <xs:documentation>Beschreibt einen Ort</xs:documentation>
+        </xs:annotation>
         <xs:sequence>
             <xs:element name="name" type="nonEmptyString">
                 <xs:annotation>
@@ -284,6 +294,28 @@
                         minOccurs="0">
                 <xs:annotation>
                     <xs:documentation>z.B. Deutschland</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="person">
+        <xs:annotation>
+            <xs:documentation>Beschreibt einen Ansprechpartner einer Usergroup</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="name" type="nonEmptyString">
+                <xs:annotation>
+                    <xs:documentation>z.B. Markus Tacker</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="url" type="xs:anyURI" minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. http://tckr.cc/</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="email" type="email" minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. m@tckr.cc</xs:documentation>
                 </xs:annotation>
             </xs:element>
         </xs:sequence>
