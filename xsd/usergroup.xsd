@@ -126,6 +126,14 @@
                     </xs:documentation>
                 </xs:annotation>
             </xs:attribute>
+            <xs:attribute name="incubator" type="xs:boolean"
+                          default="false" use="optional">
+                <xs:annotation>
+                    <xs:documentation>Gibt an, ob sich die Usergruppe noch in der Gründungsphase befindet und weitere
+                        Interessenten gesucht werden.
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:attribute>
         </xs:complexType>
     </xs:element>
     <xs:simpleType name="email">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" incubator="true">
     <name>Limited WIP Society Rhein-Main</name>
     <nickname>LWSRM</nickname>
     <description>Eine Kanban Usergroup für die Rhein-Main Region</description>
