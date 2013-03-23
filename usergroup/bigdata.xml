@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" incubator="true">
+    <name>Big Data UG RheinMain</name>
+    <description>Andreas möchte eine Big Data Usergroup im RheinMain-Gebiet gründen.</description>
+    <url>http://usergroups.rheinmainrocks.de/~bigdata</url>
+    <tags>
+        <tag>Big Data</tag>
+    </tags>
+    <contact>
+        <team>
+            <person>
+                <name>Andreas Gutheil</name>
+                <url>https://www.xing.com/profile/Andreas_Gutheil</url>
+                <email>andreas.gutheil@namics.com</email>
+            </person>
+        </team>
+    </contact>
+</usergroup>
