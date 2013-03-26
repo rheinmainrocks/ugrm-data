@@ -2,10 +2,8 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Rails- und Ruby-Usergroup Rhein-Main</name>
     <nickname>RUGRM</nickname>
-    <description>Wir treffen uns einmal pro Monat, um gemeinsam über aktuelle Themen in der Web-Entwicklung zu sprechen
-        und Erfahrungen auszutauschen.
-    </description>
-    <url>http://rugrm.tumblr.com/</url>
+    <description>Wir treffen uns einmal pro Monat, um gemeinsam über aktuelle Themen in der Web-Entwicklung zu sprechen und Erfahrungen auszutauschen.</description>
+    <url>http://rug-rheinmain.de/</url>
     <tags>
         <tag>Rails</tag>
         <tag>Ruby</tag>
