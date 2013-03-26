@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           incubator="true">
+    <name>Ruby-Usergroup Rhein-Main</name>
+    <description>Max möchte eine Ruby-Usergroup im RheinMain-Gebiet gründen.</description>
+    <url>http://usergroups.rheinmainrocks.de/~ruby</url>
+    <tags>
+        <tag>Ruby</tag>
+        <tag>Rails</tag>
+    </tags>
+    <contact>
+        <team>
+            <person>
+                <name>Max Trense</name>
+                <url>http://www.namics.com/menschen/mitarbeiter/uebersicht/zeige/max-trense/</url>
+                <email>max.trense@namics.com</email>
+            </person>
+        </team>
+    </contact>
+</usergroup>
