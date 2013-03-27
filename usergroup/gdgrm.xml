@@ -23,6 +23,19 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-04-15T19:00:00+01:00</time>
+            <name>GDG RheinMain Google IO Extended</name>
+            <url>https://plus.google.com/events/c2g6kkonjc74nj8bl4qbc58jqss</url>
+            <location>
+                <name>MRM Frankfurt</name>
+                <url>http://www.mrm.de/</url>
+                <twitter>@MRMWorldWide_de</twitter>
+                <street>Großer Hasenpfad 44</street>
+                <zip>60598</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-03-28T19:00:00+01:00</time>
             <name>GDG RheinMain Stammtisch - März 2013</name>
             <url>https://plus.google.com/events/cn7le5nalpljb5a6eoce3fpcv3o</url>
