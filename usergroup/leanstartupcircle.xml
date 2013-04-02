@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
     <name>Lean Startup Circle Rhein-Main</name>
     <description>Der Lean Startup Circle Rhein-Main ist eine Gruppe Gleichgesinnter, die sich über die Ideen und
         Methoden des Lean Startup austauschen möchte. Lean Startup ist ein Vorgehen für die Realisierung von Produkten
@@ -31,4 +32,9 @@
             </location>
         </meeting>
     </schedule>
+    <photocredits>
+        <group>Foto: [Paul Herwarth von
+            Bittenfeld](http://www.flickr.com/photos/pherwarth/7179080251/in/set-72157630046900577/)
+        </group>
+    </photocredits>
 </usergroup>
