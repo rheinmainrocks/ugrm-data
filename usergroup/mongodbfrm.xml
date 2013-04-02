@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>MongoDB User Group Frankfurt Rhein-Main</name>
+    <description>Ziel dieser Gruppe ist der regelmäßige Informationsaustausch zwischen MongoDB-Usern aus dem Großraum
+        Frankfurt (und auch gerne darüber hinaus). Wir wollen im Rahmen einer Vortragsserie unsere MongoDB-Projekte
+        vorstellen, diskutieren und unsere Erfahrungen weitergeben.
+    </description>
+    <url>http://www.meetup.com/Frankfurt-Rhine-Main-MongoDB-User-Group/</url>
+    <tags>
+        <tag>MongoDB</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2013-04-24T19:00:00+02:00</time>
+            <name>#1 - MongoDB Replication/Sharding</name>
+            <url>http://www.meetup.com/Frankfurt-Rhine-Main-MongoDB-User-Group/events/111519292/</url>
+        </meeting>
+    </schedule>
+</usergroup>
