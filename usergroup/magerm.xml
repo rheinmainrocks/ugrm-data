@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>Magento Stammtisch Rhein-Main</name>
     <nickname>magerm</nickname>
     <description>
@@ -8,8 +8,8 @@
     </description>
     <url>http://magerm.de</url>
     <tags>
-        <tag>PHP</tag>
         <tag>Magento</tag>
+        <tag>PHP</tag>
     </tags>
     <contact>
         <twitter>@mage_stammtisch</twitter>
