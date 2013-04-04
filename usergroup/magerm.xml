@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Magento Stammtisch Rhein-Main</name>
+    <nickname>magerm</nickname>
+    <description>
+        Alle zwei Monate trifft sich der Magento Stammtisch Rhein-Main.
+    </description>
+    <url>http://magerm.de</url>
+    <tags>
+        <tag>PHP</tag>
+        <tag>Magento</tag>
+    </tags>
+    <contact>
+        <twitter>@mage_stammtisch</twitter>
+        <hashtag>#magerm</hashtag>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-04-03T19:00:00+01:00</time>
+            <name>Magento Stammtisch Rhein-Main #7</name>
+            <url>https://www.xing.com/events/magento-stammtisch-rhein-main-7-1226420</url>
+            <location>
+                <name>AOE media GmbH</name>
+                <url>http://www.aoemedia.de/anfahrtsbeschreibung.html</url>
+                <street>Borsigstraße 3</street>
+                <zip>65205</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
