@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>#SchnitzelFFM</name>
+    <description>Gemütliches Beisammensein bei Frankfurter Schnitzel.</description>
+    <url>http://schnitzelffm.de/</url>
+    <tags>
+        <tag>Schnitzel</tag>
+        <tag>Frankfurt</tag>
+    </tags>
+    <contact>
+        <twitter>@SchnitzelFFM</twitter>
+        <hashtag>#SchnitzelFFM</hashtag>
+    </contact>
+</usergroup>
