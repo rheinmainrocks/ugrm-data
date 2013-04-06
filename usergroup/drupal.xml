@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-    <name>Drupal Stammtisch Rhein-Main</name>
-    <description>Hier ist jeder Drupalaner willkommen. Ziel der Gruppe ist es einen (un)regelmäßigen Stammtisch zu
-        organiseren.
+    <name>Drupal User Group Rhein-Main</name>
+    <description>Wir treffen uns regelmäßig zu einem "Drupal Donnerstag", d.h. jeden Monat den 2. Donnerstag in jedem Monat (evtl. Ausnahmen bei Feiertagen). Abwechselnd findet dann abends ein Stammtisch oder ein Meetup mit Vorträgen statt. Am Nachmittag des Drupal-Donnerstags gibt es die Contrib-Hours zur kooperativem Weiterentwicklung von Drupal. Außerdem werden gelegentlich Sonderveranstaltungen organisiert z.B. so genannte Code-Sprints. 
     </description>
     <url>http://groups.drupal.org/rhein-main-gebiet</url>
     <tags>
@@ -11,15 +10,15 @@
     </tags>
     <schedule>
         <meeting>
-            <time>2013-03-14T19:00:00+01:00</time>
-            <name>Drupal-Donnerstag</name>
-            <url>http://groups.drupal.org/node/286163</url>
+            <time>2013-04-11T14:00:00+01:00</time>
+            <name>Drupal-Donnerstag - Contrib Hours (abends Stammtisch, Location noch offen)</name>
+            <url>http://groups.drupal.org/node/292213</url>
             <location>
-                <name>Cocomore AG</name>
-                <url>http://www.cocomore.de/Kontakt/Frankfurt</url>
-                <twitter>@CocomoreAG</twitter>
-                <street>Gutleutstraße 30</street>
-                <zip>60329</zip>
+                <name>paratio.com - Büro</name>
+                <url>http://paratio.com/</url>
+                <twitter>@C_Logemann</twitter>
+                <street>Gr. Eschenheimer Str. 41a</street>
+                <zip>60313</zip>
                 <city>Frankfurt</city>
             </location>
         </meeting>
