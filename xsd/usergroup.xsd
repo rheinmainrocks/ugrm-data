@@ -318,6 +318,11 @@
                     <xs:documentation>z.B. m@tckr.cc</xs:documentation>
                 </xs:annotation>
             </xs:element>
+            <xs:element name="twitter" type="twitter" minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. @markustacker</xs:documentation>
+                </xs:annotation>
+            </xs:element>
         </xs:sequence>
     </xs:complexType>
 </xs:schema>
