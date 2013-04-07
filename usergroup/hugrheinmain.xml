@@ -20,13 +20,13 @@
     	<tag>Big Data</tag>	
     </tags>
     <contact>
-        <twitter>@uweseiler</twitter>
         <hashtag>#HUGRM</hashtag>
         <team>
             <person>
                 <name>Uwe Seiler</name>
                 <url>https://www.xing.com/profile/Uwe_Seiler</url>
                 <email>uwe.seiler@gmail.com</email>
+                <twitter>@uweseiler</twitter>
             </person>
             <person>
                 <name>Andreas Gutheil</name>
