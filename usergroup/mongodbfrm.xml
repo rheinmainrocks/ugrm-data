@@ -6,6 +6,7 @@
         vorstellen, diskutieren und unsere Erfahrungen weitergeben.
     </description>
     <url>http://www.meetup.com/Frankfurt-Rhine-Main-MongoDB-User-Group/</url>
+    <!-- url>https://www.xing.com/net/mongodb-ffm/</url -->
     <tags>
         <tag>MongoDB</tag>
     </tags>
@@ -15,5 +16,18 @@
             <name>#1 - MongoDB Replication/Sharding</name>
             <url>http://www.meetup.com/Frankfurt-Rhine-Main-MongoDB-User-Group/events/111519292/</url>
         </meeting>
+        <meeting>
+            <time>2013-03-20T19:00:00+01:00</time>
+            <name>MongoDB Stammtisch</name>
+            <url>https://www.xing.com/events/mongodb-stammtisch-1220268</url>
+            <location>
+                <name>Kaminzimmer im Eschenheimer</name>
+                <url>www.eschenheimer.de</url>
+                <street>Eschenheimer Turm</street>
+                <zip>60318</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
     </schedule>
 </usergroup>
+
