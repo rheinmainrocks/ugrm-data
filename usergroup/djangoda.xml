@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           incubator="true">
+    <name>Django Users Darmstadt</name>
+    <description>Zoran möchte eine Django-Usergroup im Raum Darmstadt gründen.
+    </description>
+    <url>https://usergroups.rheinmainrocks.de/~djangoda</url>
+    <tags>
+        <tag>Django</tag>
+        <tag>Python</tag>
+    </tags>
+    <team>
+        <person>
+            <name>Zoran Zaric</name>
+            <twitter>@zoranzaric</twitter>
+        </person>
+    </team>
+</usergroup>
