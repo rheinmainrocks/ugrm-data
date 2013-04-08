@@ -12,16 +12,4 @@
         <tag>Cloud</tag>
         <tag>Virtualization</tag>
     </tags>
-    <schedule>
-        <meeting>
-            <time>2013-04-08T18:00:00+02:00</time>
-            <name>Meetup</name>
-            <location>
-                <name>Red Hat Frankfurt</name>
-                <street>Messeturm</street>
-                <zip>60308</zip>
-                <city>Frankfurt</city>
-            </location>
-        </meeting>
-    </schedule>
 </usergroup>
