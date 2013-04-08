@@ -55,13 +55,6 @@
                             <xs:element name="facebook" minOccurs="0" type="facebook"/>
                             <xs:element name="googleplus" minOccurs="0" type="googleplus"/>
                             <xs:element name="xing" minOccurs="0" type="xing"/>
-                            <xs:element name="team" minOccurs="0" maxOccurs="1">
-                                <xs:complexType>
-                                    <xs:sequence>
-                                        <xs:element name="person" type="person" minOccurs="1" maxOccurs="unbounded"/>
-                                    </xs:sequence>
-                                </xs:complexType>
-                            </xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
@@ -94,6 +87,13 @@
                                 </xs:documentation>
                             </xs:annotation>
                         </xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="team" minOccurs="0" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="person" type="person" minOccurs="1" maxOccurs="unbounded"/>
+                        </xs:sequence>
                     </xs:complexType>
                 </xs:element>
                 <xs:element name="sponsors" minOccurs="0">

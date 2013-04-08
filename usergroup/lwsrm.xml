@@ -10,13 +10,13 @@
     </tags>
     <contact>
         <hashtag>#lwsrm</hashtag>
-        <team>
-            <person>
-                <name>Kurt Häusler</name>
-                <url>https://www.xing.com/profile/Kurt_Haeusler2</url>
-                <email>kurt.haeusler@gmail.com</email>
-                <twitter>@Kurt_Haeusler</twitter>
-            </person>
-        </team>
     </contact>
+    <team>
+        <person>
+            <name>Kurt Häusler</name>
+            <url>https://www.xing.com/profile/Kurt_Haeusler2</url>
+            <email>kurt.haeusler@gmail.com</email>
+            <twitter>@Kurt_Haeusler</twitter>
+        </person>
+    </team>
 </usergroup>
