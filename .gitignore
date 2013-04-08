@@ -3,3 +3,6 @@
 .project
 cache.properties
 usergroup/*.ical
+.classpath
+/bin
+/report

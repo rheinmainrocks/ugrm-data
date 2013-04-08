@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="pyugrm-data" default="test">
-	<target name="test" description="Perform xmllint validation on XML files">
+
+	<property name="srcdir" value="${basedir}/src" />
+	<property name="bindir" value="${basedir}/bin" />
+	<property name="libdir" value="${basedir}/lib" />
+	<property name="reportdir" value="${basedir}/report" />
+
+	<path id="junitcp">
+		<pathelement path="${libdir}/junit-4.11.jar" />
+		<pathelement path="${libdir}/hamcrest-core-1.3.jar" />
+	</path>
+
+	<target name="compile" description="Java-Sourcen compilieren">
+		<mkdir dir="${bindir}" />
+		<javac srcdir="${srcdir}" destdir="${bindir}" debug="on"
+			classpathref="junitcp" includeantruntime="false" />
+	</target>
+
+	<target name="test" depends="compile"
+		description="Perform xmllint validation on XML files">
 		<apply executable="xmllint" failonerror="true">
 			<arg value="--schema" />
 			<arg value="${basedir}/xsd/usergroup.xsd" />
 			<arg value="--noout" />
 			<fileset dir="${basedir}/usergroup">
 				<include name="**/*.xml" />
-                <modified/>
+				<modified />
 			</fileset>
 		</apply>
+		<mkdir dir="${reportdir}/junit" />
+		<junit fork="yes" printsummary="on" haltonfailure="no">
+			<jvmarg value="-Dbuildmode=true" />
+			<sysproperty key="ugdatadir" value="${basedir}/usergroup"/>
+			<classpath location="${bindir}" />
+			<classpath refid="junitcp" />
+			<formatter type="xml" />
+			<batchtest todir="${reportdir}/junit">
+				<fileset dir="${srcdir}" includes="**/*Test.java" />
+			</batchtest>
+		</junit>
 	</target>
+
 </project>
