@@ -41,7 +41,7 @@
         <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
             </ical -->
         <meeting>
-            <time>2013-05-16T19:00:00+01:00</time>
+            <time>2013-05-16T19:00:00+02:00</time>
             <name>7. Treffen der PyUGRM</name>
             <url>http://wiki.python-forum.de/PyUGRM/Treffen20130516</url>
         </meeting>
@@ -59,7 +59,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2012-05-08T19:00:00+01:00</time>
+            <time>2012-05-08T19:00:00+02:00</time>
             <name>1. Treffen der PyUGRM</name>
             <url>http://wiki.python-forum.de/PyUGRM/Treffen20120508</url>
             <location>
@@ -70,7 +70,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2012-07-18T19:00:00+01:00</time>
+            <time>2012-07-18T19:00:00+02:00</time>
             <name>2. Treffen der PyUGRM</name>
             <url>http://wiki.python-forum.de/PyUGRM/Treffen20120718</url>
             <location>
@@ -81,7 +81,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2012-09-20T19:00:00+01:00</time>
+            <time>2012-09-20T19:00:00+02:00</time>
             <name>3. Treffen der PyUGRM</name>
             <url>http://wiki.python-forum.de/PyUGRM/Treffen20120920</url>
             <location>
