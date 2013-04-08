@@ -19,7 +19,16 @@
         <meeting>
             <time>2013-04-29T19:00:00+02:00</time>
             <name>Treffen #17</name>
-            <description>Location wird noch bekannt gegeben.</description>
+            <description>Siehe Wiki-Seite des Treffens http://www.softwerkskammer.de/wiki/SoftwerkskammerFfm/April2013</description>
+            <location>
+            	<name>Namics</name>
+            	<url>http://www.namics.com/namics/standorte/frankfurt/</url>
+            	<twitter>Namics</twitter>
+            	<publictransport>Frankfurt Südbahnhof. S3, S4, S5, S6, U1, U2, U3</publictransport>
+                <street>Hedderichstrasse 108 - 110</street>
+                <zip>60596</zip>
+                <city>Frankfurt</city>
+            </location>
         </meeting>
         <meeting>
             <time>2013-03-25T19:00:00+01:00</time>
