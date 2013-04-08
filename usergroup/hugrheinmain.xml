@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Hadoop User Group Rhein-Main</name>
+    <nickname>HUG Rhein-Main</nickname>
+    <description>Interessiert an Apache Hadoop und dem Ökosystem (Pig, Hive, HBase, 
+  		HCatalog, Ambari, ...)? Oder schon Erfahrungen mit Hadoop gesammelt? Oder sogar 
+		schon ein Hadoop-Ninja? Und dazu noch in der schönen Rhein-Main-Region unterwegs? 
+		Dann ist diese Gruppe genau der richtige Ort, um andere Hadoop-Verrückte 
+		kennenzulernen, mehr über Hadoop zu lernen, inspirierende Vortrag anzuhören, mit 
+		großartigen Menschen zu diskutieren und zusammen eine lebendige Community zu 
+		bilden. Wir werden uns regelmäßig alle zwei Monate an verschiedenen Locations in 
+		in der Rhein-Main-Region treffen. Falls du Interesse daran hast ein zukünftiges 
+		Treffen zu hosten oder einen Vortrag halten willst, gib uns bitte einfach kurz 
+		Bescheid...
+    </description>
+    <url>http://www.meetup.com/HUG-Rhein-Main/</url>
+    <tags>
+    	<tag>Hadoop</tag>
+    	<tag>Big Data</tag>	
+    </tags>
+    <contact>
+        <hashtag>#HUGRM</hashtag>
+        <team>
+            <person>
+                <name>Uwe Seiler</name>
+                <url>https://www.xing.com/profile/Uwe_Seiler</url>
+                <email>uwe.seiler@gmail.com</email>
+                <twitter>@uweseiler</twitter>
+            </person>
+            <person>
+                <name>Andreas Gutheil</name>
+                <url>https://www.xing.com/profile/Andreas_Gutheil</url>
+                <email>andreas.gutheil@namics.com</email>
+            </person>
+        </team>
+    </contact>
+    <schedule>
+        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
+            </ical -->
+        <meeting>
+            <time>2013-04-23T19:30:00</time>
+            <name>#1 - Erstes Treffen der HUG Rhein-Main</name>
+            <url>http://www.meetup.com/HUG-Rhein-Main/events/112847132/</url>
+            <location>
+                <name>TBD</name>
+                <street>TBD</street>
+                <zip>55116</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
