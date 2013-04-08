@@ -29,4 +29,17 @@
             </description>
         </mailinglist>
     </contact>
+    <schedule>
+        <meeting>
+            <time>2013-04-09T19:30:00+02:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+            <url>https://www.xing.com/events/it-stammtisch-darmstadt-1229953</url>
+            <location>
+                <name>Viva El Sol</name>
+                <street>Friedensplatz 11</street>
+                <zip>64283</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+    </schedule>
 </usergroup>
