@@ -26,10 +26,14 @@
             <url>http://www.meetup.com/DevOps-Frankfurt/events/109294502/</url>
             <location>
                 <name>dkd Internet Service GmbH</name>
+                <description>Die dkd Internet Service GmbH ist eine auf TYPO3 spezialisierte
+                    Full-Service-Internetagentur, die komplexe Firmen-Websites plant, erstellt und betreibt.
+                </description>
                 <url>http://goo.gl/maps/4aN83</url>
                 <twitter>@dkd_de</twitter>
                 <publictransport>Hauptbahnof Frankfurt, fast alles</publictransport>
                 <street>Kaiserstrasse 73</street>
+                <zip>60329</zip>
                 <city>Frankfurt</city>
             </location>
         </meeting>
