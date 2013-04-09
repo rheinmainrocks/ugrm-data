@@ -24,6 +24,14 @@
             <time>2013-04-17T19:00:00+02:00</time>
             <name>2. Treffen der DevOps FFM</name>
             <url>http://www.meetup.com/DevOps-Frankfurt/events/109294502/</url>
+            <location>
+                <name>dkd Internet Service GmbH</name>
+                <url>http://goo.gl/maps/4aN83</url>
+                <twitter>@dkd_de</twitter>
+                <publictransport>Hauptbahnof Frankfurt, fast alles</publictransport>
+                <street>Kaiserstrasse 73</street>
+                <city>Frankfurt</city>
+            </location>
         </meeting>
     </schedule>
 </usergroup>
