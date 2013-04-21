@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-    <name>Rails- und Ruby-Usergroup Rhein-Main</name>
+    <name>Ruby on Rails Usergroup Rhein-Main</name>
     <nickname>RUGRM</nickname>
     <description>Wir treffen uns einmal pro Monat, um gemeinsam über aktuelle Themen in der Web-Entwicklung zu sprechen und Erfahrungen auszutauschen.</description>
     <url>http://rug-rheinmain.de/</url>
@@ -10,9 +10,8 @@
     </tags>
     <schedule>
         <meeting>
-            <time>2013-04-16T18:00:00+02:00</time>
-            <name>Erstes Treffen im Jahr 2013</name>
-            <url>http://rugrm.tumblr.com/post/46335133589/erstes-treffen-im-jahr-2013</url>
+            <time>2013-05-21T18:00:00+02:00</time>
+            <name>Mai-Treffen 2013</name>
             <location>
                 <name>Namics (Deutschland) GmbH</name>
                 <twitter>@namics</twitter>
