@@ -12,4 +12,24 @@
         <tag>Haskell</tag>
         <tag>Funktionales Programmieren</tag>
     </tags>
+    <defaultmeetinglocation>
+        <name>Die Zentrale</name>
+        <description>Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+            Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+        </description>
+        <url>http://www.die-zentrale-ffm.de/#section-n6</url>
+        <twitter>@zentrale_ffm</twitter>
+        <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+        <street>Berger Straße 175</street>
+        <zip>60385</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule>
+        <meeting>
+            <time>2013-04-24T19:00:00+02:00</time>
+            <name>April Meeting</name>
+            <description>Pascal berichtet über Yesod, das bekannte Haskell Web-Framework.</description>
+            <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/113435452/</url>
+        </meeting>
+    </schedule>
 </usergroup>
