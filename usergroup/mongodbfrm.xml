@@ -15,6 +15,12 @@
             <time>2013-04-24T19:00:00+02:00</time>
             <name>#1 - MongoDB Replication/Sharding</name>
             <url>http://www.meetup.com/Frankfurt-Rhine-Main-MongoDB-User-Group/events/111519292/</url>
+            <location>
+                <name>Ibis Hotel Mainz City</name>
+                <street>Holzhofstrasse 2</street>
+                <zip>55116</zip>
+                <city>Mainz</city>
+            </location>
         </meeting>
         <meeting>
             <time>2013-03-20T19:00:00+01:00</time>
