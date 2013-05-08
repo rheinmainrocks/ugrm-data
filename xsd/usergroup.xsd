@@ -197,6 +197,15 @@
             <xs:pattern value="https://plus\.google\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
+    <xs:simpleType name="foursquare">
+        <xs:annotation>
+            <xs:documentation>Definiert eine URL auf foursquare.com
+            </xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:anyURI">
+            <xs:pattern value="https*://[a-z]{2}\.foursquare\.com/.*"/>
+        </xs:restriction>
+    </xs:simpleType>
     <xs:simpleType name="nonEmptyString">
         <xs:annotation>
             <xs:documentation>Ein nicht-leerer String</xs:documentation>
@@ -252,6 +261,12 @@
             <xs:element name="url" type="xs:anyURI" minOccurs="0">
                 <xs:annotation>
                     <xs:documentation>z.B. http://offenraum.de/#lage
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="foursquare" type="foursquare" minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>z.B. https://de.foursquare.com/offenraum
                     </xs:documentation>
                 </xs:annotation>
             </xs:element>
