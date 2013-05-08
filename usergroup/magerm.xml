@@ -17,6 +17,19 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-05-15T19:00:00+02:00</time>
+            <name>Magento Stammtisch Rhein-Main #8</name>
+            <url>https://www.xing.com/events/magento-stammtisch-rhein-main-8-1245953</url>
+            <location>
+                <name>Sitewards GmbH</name>
+                <url>http://www.sitewards.com/</url>
+                <foursquare>https://de.foursquare.com/v/sitewards/4fe19e43e4b0aaff315747c2</foursquare>
+                <street>Untermainkai 30</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-04-03T19:00:00+02:00</time>
             <name>Magento Stammtisch Rhein-Main #7</name>
             <url>https://www.xing.com/events/magento-stammtisch-rhein-main-7-1226420</url>
