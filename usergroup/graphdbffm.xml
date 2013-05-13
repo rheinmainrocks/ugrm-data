@@ -16,4 +16,28 @@
         <tag>GraphDB</tag>
         <tag>Neo4J</tag>
     </tags>
+    <defaultmeetinglocation>
+        <name>K1 Business Club</name>
+        <url>http://www.k1bc.de/</url>
+        <foursquare>https://de.foursquare.com/v/k1-businessclub-gmbh/4dc1ac2552b1877d85b9a17e</foursquare>
+        <twitter>@k1bc</twitter>
+        <street>Hanauer Landstraße 204</street>
+        <zip>60314</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-05-16T09:00:00+02:00</time>
+            <name>Neo4j Tutorial - Frankfurt</name>
+            <description>Dieser Neo4j Workshop führt in die Funktionsweise und Nutzung der Neo4j Graphendatenbank ein.
+                Durch eine Mischung aus Theorie und praktischen Übungen können die Teilnehmer schnell erlernen, wie
+                einfach es ist, eine auf Neo4j basierende Applikation zu erstellen.
+            </description>
+            <url>http://www.meetup.com/graphdb-frankfurt/events/118706232/</url>
+        </meeting>
+        <meeting>
+            <time>2013-05-16T19:00:00+02:00</time>
+            <name>Let's spread some graph love :-)</name>
+        </meeting>
+    </schedule>
 </usergroup>
