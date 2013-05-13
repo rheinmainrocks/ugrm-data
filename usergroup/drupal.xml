@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Drupal User Group Rhein-Main</name>
-    <description>Wir treffen uns regelmäßig zu einem "Drupal Donnerstag", d.h. jeden Monat den 2. Donnerstag in jedem Monat (evtl. Ausnahmen bei Feiertagen). Abwechselnd findet dann abends ein Stammtisch oder ein Meetup mit Vorträgen statt. Am Nachmittag des Drupal-Donnerstags gibt es die Contrib-Hours zur kooperativem Weiterentwicklung von Drupal. Außerdem werden gelegentlich Sonderveranstaltungen organisiert z.B. so genannte Code-Sprints. 
+    <description>Wir treffen uns regelmäßig zu einem "Drupal Donnerstag", d.h. jeden Monat den 2. Donnerstag in jedem
+        Monat (evtl. Ausnahmen bei Feiertagen). Abwechselnd findet dann abends ein Stammtisch oder ein Meetup mit
+        Vorträgen statt. Am Nachmittag des Drupal-Donnerstags gibt es die Contrib-Hours zur kooperativem
+        Weiterentwicklung von Drupal. Außerdem werden gelegentlich Sonderveranstaltungen organisiert z.B. so genannte
+        Code-Sprints.
     </description>
     <url>http://groups.drupal.org/rhein-main-gebiet</url>
     <tags>
@@ -9,6 +13,19 @@
         <tag>PHP</tag>
     </tags>
     <schedule>
+        <meeting>
+            <time>2013-05-16T19:00:00+02:00</time>
+            <name>Drupal-Donnerstag 2013-05 in Frankfurt am Main: Meetup</name>
+            <url>http://groups.drupal.org/node/296998</url>
+            <location>
+                <name>1xINTERNET</name>
+                <url>http://www.1xinternet.de/</url>
+                <twitter>@1xINTERNET</twitter>
+                <street>Seelenberger Str. 2</street>
+                <zip>60489</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
         <meeting>
             <time>2013-04-11T14:00:00+02:00</time>
             <name>Drupal-Donnerstag - Contrib Hours (abends Stammtisch, Location noch offen)</name>
