@@ -17,6 +17,21 @@
         <xing>https://www.xing.com/net/pri3a328cx/phpugrhh/</xing>
     </contact>
     <schedule>
+    <meeting>
+            <time>2013-05-28T19:00:00+02:00</time>
+            <name>25. Treffen der PHPUG Rheinhessen</name>
+            <url>https://www.xing.com/events/25-treffen-phpug-rheinhessen-1247180</url>
+            <foursquare>https://foursquare.com/v/netz98-new-media/4c8df67fd68c6dcbb1e3f7a1</foursquare>
+            <location>
+                <name>netz98 new media GmbH</name>
+                <url>http://www.netz98.de/kontakt/anfahrt/</url>
+                <twitter>@netz98</twitter>
+                <publictransport>Bus: Gutenberg-Center (Nord, Ost)</publictransport>
+                <street>Haifa-Allee 2</street>
+                <zip>55128</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
         <meeting>
             <time>2013-04-16T19:00:00+02:00</time>
             <name>24. Treffen der PHPUG Rheinhessen</name>
