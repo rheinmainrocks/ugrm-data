@@ -203,7 +203,7 @@
             </xs:documentation>
         </xs:annotation>
         <xs:restriction base="xs:anyURI">
-            <xs:pattern value="https*://[a-z]{2}\.foursquare\.com/.*"/>
+            <xs:pattern value="https*://([a-z]{2}\.)*foursquare\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="nonEmptyString">
