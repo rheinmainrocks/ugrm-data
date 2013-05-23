@@ -40,6 +40,15 @@
             <time>2013-05-23T19:00:00+02:00</time>
             <name>PHPUGFFM III / 2013</name>
             <url>http://www.phpugffm.de/?event=phpugffm-iii-2013</url>
+            <location>
+                <name>Cocomore AG</name>
+                <url>http://www.cocomore.de/ueberuns/frankfurt-am-main</url>
+                <foursquare>https://foursquare.com/v/cocomore-ag/4c2d92cc1683b713eb6326ec</foursquare>
+                <twitter>@CocomoreAG</twitter>
+                <street>Gutleutstraße 30</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
         </meeting>
         <meeting>
             <time>2013-08-31T19:00:00+02:00</time>
