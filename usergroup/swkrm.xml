@@ -2,9 +2,13 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Softwerkskammer Rhein-Main</name>
     <nickname>SWKRM</nickname>
-    <description>Wir sind eine Gruppe von Softwareentwicklern, die professionell Software entwickeln möchten. 
-	Dazu tauschen wir Erfahrungen zu Themen wie Clean Code, Behaviour Driven Design, Test Driven Development, Objekt-Orientiertem Design, Softwarearchitektur aber auch zu den sog. &quot;Soft Skills&quot; und den oft vernachlässigten menschlichen Aspekten der Softwareentwicklung in einem Team. 
-	Wir treffen uns durchschnittlich einmal im Monat wobei das stets wechselnde Rahmenthema für ein Treffen beim vorherigen Treffen festgelegt werden.</description>
+    <description>Wir sind eine Gruppe von Softwareentwicklern, die professionell Software entwickeln möchten.
+        Dazu tauschen wir Erfahrungen zu Themen wie Clean Code, Behaviour Driven Design, Test Driven Development,
+        Objekt-Orientiertem Design, Softwarearchitektur aber auch zu den sog. &quot;Soft Skills&quot; und den oft
+        vernachlässigten menschlichen Aspekten der Softwareentwicklung in einem Team.
+        Wir treffen uns durchschnittlich einmal im Monat wobei das stets wechselnde Rahmenthema für ein Treffen beim
+        vorherigen Treffen festgelegt werden.
+    </description>
     <url>http://www.softwerkskammer.de/wiki/SoftwerkskammerFfm</url>
     <tags>
         <tag>Software Craftsmanship</tag>
@@ -17,14 +21,29 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-05-28T19:00:00+02:00</time>
+            <name>Treffen #18</name>
+            <description>Siehe Wiki-Seite des Treffens</description>
+            <url>http://www.softwerkskammer.de/wiki/SoftwerkskammerFfm/Mai2013</url>
+            <location>
+                <name>MRM Frankfurt</name>
+                <url>http://www.mrm.de/</url>
+                <twitter>@MRMWorldWide_de</twitter>
+                <street>Großer Hasenpfad 44</street>
+                <zip>60598</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-04-29T19:00:00+02:00</time>
             <name>Treffen #17</name>
-            <description>Siehe Wiki-Seite des Treffens http://www.softwerkskammer.de/wiki/SoftwerkskammerFfm/April2013</description>
+            <description>Siehe Wiki-Seite des Treffens http://www.softwerkskammer.de/wiki/SoftwerkskammerFfm/April2013
+            </description>
             <location>
-            	<name>Namics</name>
-            	<url>http://www.namics.com/namics/standorte/frankfurt/</url>
-            	<twitter>@Namics</twitter>
-            	<publictransport>Frankfurt Südbahnhof. S3, S4, S5, S6, U1, U2, U3</publictransport>
+                <name>Namics</name>
+                <url>http://www.namics.com/namics/standorte/frankfurt/</url>
+                <twitter>@Namics</twitter>
+                <publictransport>Frankfurt Südbahnhof. S3, S4, S5, S6, U1, U2, U3</publictransport>
                 <street>Hedderichstrasse 108 - 110</street>
                 <zip>60596</zip>
                 <city>Frankfurt</city>
