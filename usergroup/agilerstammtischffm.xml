@@ -5,7 +5,7 @@
 		Sie sind Entwickler oder Projektleiter im IT-Bereich und möchten sich gern mit 
 		Gleichgesinnten über agiles Testen, agile Entwicklung, agiles Projektmanagement 
 		oder einfach Agilität im Allgemeinen austauschen? Dann sind Sie beim Agilen Stammtisch 
-		der codecentric AG genau richtig! 
+		der1. Agilen Stammtisch Frankfurt - Marketing Nachricht codecentric AG genau richtig!
 		In entspannter Atmosphäre können knifflige Probleme aus Ihrem beruflichen Alltag mit 
 		Gleichgesinnten besprochen werden und natürlich wollen wir auch gegenseitig 
 		Erfahrungen und Best Practices austauschen.
@@ -23,21 +23,22 @@
         <meeting>
             <time>2013-06-13T18:30:00+02:00</time>
             <name>1. Agiler Stammtisch Frankfurt</name>
-			<url>https://www.xing.com/events/1-agiler-stammtisch-frankfurt-1252844</url>
             <description>
-				Nach einem kurzen Vortrag als Impuls setzen wir den Stammtisch in einen 
-				Lean-Kaffee Format (www.leancoffee.org) fort, welches Diskussionen rund um alle 
-				wichtigen Themen der Agilität fördert. Das Format lebt von den Teilnehmern, 
-				Sie sind also herzlich eingeladen, Ihre eigenen Themen mitzubringen.
-				Das Schwerpunktthema des Abends werden Retrospektiven sein. 
-				Getränke werden von codecentric AG gesponsort.
+                Nach einem kurzen Vortrag als Impuls setzen wir den Stammtisch in einen
+                Lean-Kaffee Format (www.leancoffee.org) fort, welches Diskussionen rund um alle
+                wichtigen Themen der Agilität fördert. Das Format lebt von den Teilnehmern,
+                Sie sind also herzlich eingeladen, Ihre eigenen Themen mitzubringen.
+                Das Schwerpunktthema des Abends werden Retrospektiven sein.
+                Getränke werden von codecentric AG gesponsort.
             </description>
+			<url>https://www.xing.com/events/1-agiler-stammtisch-frankfurt-1252844</url>
             <location>
                 <name>Die Zentrale</name>
                 <street>Berger Straße 175</street>
                 <zip>60385</zip>
                 <city>Frankfurt</city>
             </location>
+
         </meeting>
     </schedule>
 </usergroup>
