@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Grosses Treffen aller Frankfurter Usergroups &amp; Friends</name>
+    <nickname>FUxCon</nickname>
+    <description>Am 15. Juni 2013 ist es soweit: In der Stadthalle Bergen findet in Frankfurt am Main zum ersten Mal
+        eine Zusammenkunft aller Frankfurter Usergroups und Computervereine statt. Einlass: 10.00 Uhr. Eintritt frei.
+
+        Wir wollen uns dabei der Frankfurter Öffentlichkeit präsentieren und demonstrieren, wie wir als ehrenamtliche
+        Aktivisten Tag für Tag daran mitwirken, das Wissen über Computertechnologien und Software unterschiedlichster
+        Art zu teilen und zu vermehren. Da wir uns auch sonst noch niemals allesamt getroffen haben, wollen wir uns bei
+        dieser Gelegenheit natürlich auch selbst kennenlernen.
+
+        Die Veranstaltung wird teils Messe- und teils Konferenzcharakter haben. Neben Vorträgen, Workshops und Keynotes,
+        hat jede Usergroup Gelegenheit, sich mit einem Stand zu präsentieren.
+    </description>
+    <url>http://www.fuxcon.de/</url>
+    <tags>
+        <tag>Usergroups</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2013-06-15T10:00:00+02:00</time>
+            <name>FUxCon 2013</name>
+            <url>http://www.fuxcon.de/index.php/veranstaltungen</url>
+            <location>
+                <name>Stadthalle Bergen</name>
+                <url>http://www.saalbau.com/die-frankfurter-saalbauten-raumangebot/saalbau-stadthalle-bergen.html</url>
+                <street>Schelmenburgplatz 2 / Gangstraße 5</street>
+                <zip>60388</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Harald Vajkonny</name>
+            <url>http://www.fuxcon.de/index.php/kontakte/80-fuxcon/9-harald-vajkonny</url>
+        </person>
+        <person>
+            <name>Nadja Vajkonny</name>
+            <url>http://www.fuxcon.de/index.php/kontakte/80-fuxcon/10-nadja-vajkonny</url>
+        </person>
+    </team>
+    <sponsors>
+        <sponsor>
+            <name>S&amp;S Media Group</name>
+            <url>http://sandsmedia.com/</url>
+        </sponsor>
+        <sponsor>
+            <name>Namics.</name>
+            <url>https://www.namics.com/</url>
+        </sponsor>
+        <sponsor>
+            <name>dkd Internet Service GmbH</name>
+            <url>http://www.dkd.de/</url>
+        </sponsor>
+        <sponsor>
+            <name>msg systems</name>
+            <url>http://www.msg-systems.com/</url>
+        </sponsor>
+        <sponsor>
+            <name>dpunkt.verlag</name>
+            <url>https://www.dpunkt.de/</url>
+        </sponsor>
+    </sponsors>
+</usergroup>
