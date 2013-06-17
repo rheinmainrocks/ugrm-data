@@ -27,6 +27,19 @@
     </defaultmeetinglocation>
     <schedule>
         <meeting>
+            <time>2013-06-19T19:00:00+02:00</time>
+            <name>FRP mit Netwire + Hackathon Planung</name>
+            <description>Da wir beim letzten Meetup mit der Hackathon Planung nicht so richtig weitergekommen sind,
+                diesmal ein neuer Anlauf. Ideen und organisatorische Vorschläge sind gefragt!
+
+                Damit wir etwas mehr Motivation zum Treffen haben, werde ich außerdem etwas ausführlicher über die
+                netwire bibliothek berichten (http://www.haskell.org/haskellwiki/Netwire).
+
+                Als "playground" verwende ich eine FRP GUI mit Yesod und netwire als minimaler prototyp!
+            </description>
+            <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/122879122/</url>
+        </meeting>
+        <meeting>
             <time>2013-05-22T19:00:00+02:00</time>
             <name>Mai Meeting</name>
             <description>Harald berichtet über Sprachverarbeitung / Hackathon planung</description>
