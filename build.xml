@@ -29,7 +29,7 @@
 			</fileset>
 		</apply>
 		<mkdir dir="${reportdir}/junit" />
-		<junit fork="yes" printsummary="on" haltonfailure="no">
+		<junit fork="yes" printsummary="on" haltonfailure="yes">
 			<jvmarg value="-Dbuildmode=true" />
 			<sysproperty key="ugdatadir" value="${basedir}/usergroup"/>
 			<classpath location="${bindir}" />
