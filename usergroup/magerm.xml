@@ -41,5 +41,27 @@
                 <city>Wiesbaden</city>
             </location>
         </meeting>
+        <meeting>
+             <time>2013-07-24T19:00:00+02:00</time>
+             <name>Magento Stammtisch Frankfurt #2</name>
+             <location>
+                 <name>Sitewards GmbH</name>
+                 <url>http://www.sitewards.com/</url>
+                 <street>Untermainkai 30</street>
+                 <zip>60329</zip>
+                 <city>Frankfurt</city>
+             </location>
+        </meeting>
+        <meeting>
+             <time>2013-07-24T19:00:00+02:00</time>
+             <name>Magento Stammtisch Wiesbaden #8</name>
+             <location>
+                 <name>AOE media GmbH</name>
+                 <url>http://www.aoemedia.de/anfahrtsbeschreibung.html</url>
+                 <street>Borsigstraße 3</street>
+                 <zip>65205</zip>
+                 <city>Wiesbaden</city>
+          </location>
+     </meeting>
     </schedule>
 </usergroup>
