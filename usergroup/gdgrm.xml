@@ -23,6 +23,20 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-06-27T19:00:00+02:00</time>
+            <name>GDG Rhein-Main Stammtisch - Juni 2013</name>
+            <description>Zu diesem Stammtisch gibt es diesen Monat einige besondere Schmankerls! +Marc Reichelt war dieses Jahr bei der Google I/O in San Francisco dabei und kann aus dem Nähkästchen plaudern – etwa über Glass, WebP, Android und viele weitere Themen.
+
+Außerdem: Ihr wollt ein älteres Android-Handy mit neuer Software versehen? Wir zeigen wie es geht und geben Tipps worauf man achten sollte! Eventuell sogar live an einem mitgebrachten Gerät… ;-)
+
+Und vielleicht bekommen wir noch ein Händchen auf einen Tolino Shine um diesen gleich mal mit eigenen Apps zu bestücken. Man darf gespannt sein!
+
+Sommer, Sonne, Apfelwein und brandaktuelle Technik-Themen!
+
+Wir freuen uns auf euch! :-)</description>
+            <url>https://plus.google.com/events/c62ba1o0j2ipdqc3f7gkq95e7ek</url>
+        </meeting>
+        <meeting>
             <time>2013-05-15T18:00:00+02:00</time>
             <name>GDG RheinMain Google IO Extended</name>
             <url>https://plus.google.com/events/c2g6kkonjc74nj8bl4qbc58jqss</url>
