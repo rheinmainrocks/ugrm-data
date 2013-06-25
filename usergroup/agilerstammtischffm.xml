@@ -4,8 +4,8 @@
     <description>
 		Sie sind Entwickler oder Projektleiter im IT-Bereich und möchten sich gern mit 
 		Gleichgesinnten über agiles Testen, agile Entwicklung, agiles Projektmanagement 
-		oder einfach Agilität im Allgemeinen austauschen? Dann sind Sie beim Agilen Stammtisch 
-		der1. Agilen Stammtisch Frankfurt - Marketing Nachricht codecentric AG genau richtig!
+		oder einfach Agilität im Allgemeinen austauschen? Dann sind Sie beim  
+		Agilen Stammtisch Frankfurt von codecentric AG genau richtig!
 		In entspannter Atmosphäre können knifflige Probleme aus Ihrem beruflichen Alltag mit 
 		Gleichgesinnten besprochen werden und natürlich wollen wir auch gegenseitig 
 		Erfahrungen und Best Practices austauschen.
@@ -38,7 +38,24 @@
                 <zip>60385</zip>
                 <city>Frankfurt</city>
             </location>
-
+        </meeting>
+		<meeting>
+            <time>2013-07-11T19:00:00+02:00</time>
+            <name>2. Agiler Stammtisch Frankfurt</name>
+            <description>
+				Aufgrund des Feedbacks der Teilnehmer des 1. Stammtisches wird der 2. Agiler Stammtisch 
+				komplett im Lean-Kaffee-Format (www.leancoffee.org) durchgeführt, welches Diskussionen 
+				rund um alle wichtigen Themen der Agilität fördert. Das Format lebt von den Teilnehmern, 
+				Sie sind also herzlich eingeladen, Ihre eigenen Themen mitzubringen.
+				Getränke und Pizza werden von codecentric AG gesponsort.
+            </description>
+			<url>https://www.xing.com/events/2-agiler-stammtisch-frankfurt-1266376</url>
+            <location>
+                <name>Die Zentrale</name>
+                <street>Berger Straße 175</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
         </meeting>
     </schedule>
 </usergroup>
