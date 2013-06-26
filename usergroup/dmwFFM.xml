@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
            plural="true">
-    <name>Digital Media Woman Frankfurt</name>
-    <nickname>dmwFFM</nickname>
+    <name>Digital Media Women Frankfurt</name>
+    <nickname>DMWffm</nickname>
     <description>Die Digital Media Women (DMW) sind ein in Hamburg gegründetes Branchennetzwerk und seit Juli 2012 ein
         eingetragener Verein. Wir arbeiten im und mit dem Netz: als Social Media Managerinnen, Web- und
         Grafikdesignerinnen, Online-Journalistinnen, Bloggerinnen, Programmiererinnen und in vielen anderen Feldern des
@@ -21,12 +21,16 @@
         gemütlichen Austausch unter Gleichgesinnten. In der Community findest du geballte Kompetenz von inzwischen mehr
         als 600 Frauen aus ganz Deutschland – und übrigens auch Männern, die unsere Anliegen unterstützen.
     </description>
-    <url>http://www.digitalmediawomen.de/2013/02/26/2-gruendungstreffen-der-dmwffm/</url>
+    <url>http://www.digitalmediawomen.de/</url>
     <tags>
-        <tag>Social Media</tag>
+        <tag>Media</tag>
+        <tag>Women</tag>
+        <tag>Digital</tag>
     </tags>
     <contact>
+        <twitter>@DigiWomenDE</twitter>
         <hashtag>#dmwFFM</hashtag>
+        <facebook>https://www.facebook.com/DigitalMediaWomen</facebook>
     </contact>
     <schedule>
         <meeting>
