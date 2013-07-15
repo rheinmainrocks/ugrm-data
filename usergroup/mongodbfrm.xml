@@ -13,6 +13,17 @@
     <schedule>
         <meeting>
             <time>2013-04-24T19:00:00+02:00</time>
+            <name>#2 - Sommer-Stammtisch</name>
+            <url>https://www.xing.com/events/mug-rhein-main-2-sommer-stammtisch-1274536</url>
+            <location>
+                <name>Irgendwo in Sachsenhausen</name>
+                <street>TBD</street>
+                <zip>60596</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2013-04-24T19:00:00+02:00</time>
             <name>#1 - MongoDB Replication/Sharding</name>
             <url>http://www.meetup.com/Frankfurt-Rhine-Main-MongoDB-User-Group/events/111519292/</url>
             <location>
