@@ -23,6 +23,12 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-07-25T19:00:00+02:00</time>
+            <name>GDG Rhein-Main Stammtisch - Juli 2013</name>
+            <description>Auch während der Urlaubszeit treffen wir uns wieder. Schnacken über neue Gadgets, neues aus der Welt in und um Google und was uns sonst noch bewegt. Vor Ort gibts Infos zu einer Idee für eine neue GDGRM Eventreihen, Codename "GDGRM Hack'chen" :)</description>
+            <url>https://plus.google.com/events/c683hg0820abl1tpp4egod9tf00</url>
+        </meeting>
+        <meeting>
             <time>2013-06-27T19:00:00+02:00</time>
             <name>GDG Rhein-Main Stammtisch - Juni 2013</name>
             <description>Zu diesem Stammtisch gibt es diesen Monat einige besondere Schmankerls! +Marc Reichelt war dieses Jahr bei der Google I/O in San Francisco dabei und kann aus dem Nähkästchen plaudern – etwa über Glass, WebP, Android und viele weitere Themen.

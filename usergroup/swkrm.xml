@@ -21,6 +21,19 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-07-30T19:00:00+02:00</time>
+            <name>Treffen #20</name>
+            <description>Wir treffen uns nun schon zum 20.Mal und wollen dieses Mal einen Mini-Coderetreat mit der FizzBuzz Kata machen. D.h. wir wollen FizzBuzz mindesten 3mal, in wechselnden Paaren lösen. Ob wir bei den Sessions Constraints anwenden, klären wir am Abend selbst. Vorab wird es natürlich noch die üblichen Lightning Talks geben.</description>
+            <url>http://www.softwerkskammer.org/activities/treffen-20-softwerkskammer-rhein-main</url>
+            <location>
+                <name>Unterschied &amp; Macher</name>
+                <url>http://unterschiedundmacher.com/</url>
+                <street>Stuttgarter Str. 25</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-06-24T19:00:00+02:00</time>
             <name>Treffen #19</name>
             <description>Siehe Wiki-Seite des Treffens</description>
