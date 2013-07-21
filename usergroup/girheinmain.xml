@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>GI Rhein-Main</name> <nickname>GI Rhein-Main</nickname>
+    <description>Die GI-Rhein-Main ist eine Regionalgruppe der
+    Gesellschaft für Informatik, der IEEE Computer Society und des
+    German Chapter of the ACM, der deutschen Abteilung der Association
+    of Computing Machinery. Die GI-Rhein-Main organisiert seit 1989
+    Veranstaltungen zu aktuellen Themen der Informatik. Die
+    Veranstaltungen sind öffentlich, eine Mitgliedschaft ist nicht
+    erforderlich.
+    </description>
+    <url>http://www.gi-rhein-main.de/</url>
+    <tags>
+        <tag>Informatik</tag>
+        <tag>ACM</tag>
+    </tags>
+    <contact>
+        <email>joachim.rix@igd.fraunhofer.de</email>
+    </contact>
+    <team>
+        <person>
+	    <!-- Sprecher -->
+            <name>Dr. Joachim Rix</name>
+            <email>joachim.rix@igd.fraunhofer.de</email>
+        </person>
+        <person>
+            <name>Klaus Schröter</name>
+            <email>schroeter@gi-rhein-main.de</email>
+        </person>
+        <person>
+            <name>Dr. Marion Kremer</name>
+            <email>marion.kremer@capgemini.com</email>
+        </person>
+        <person>
+            <name>Jan Thielscher</name>
+            <email>jan.thielscher@eacg.de</email>
+        </person>
+        <person>
+            <name>Gerd Aschemann</name>
+            <url>http://aschemann.net/</url>
+            <email>gerd@aschemann.net</email>
+            <twitter>@GerdAschemann</twitter>
+        </person>
+    </team>
+</usergroup>
