@@ -57,5 +57,23 @@
                 <city>Frankfurt</city>
             </location>
         </meeting>
+		<meeting>
+            <time>2013-08-01T19:00:00+02:00</time>
+            <name>3. Agiler Stammtisch Frankfurt</name>
+            <description>
+				Nach Erfolg des 2. Agiler Stammtisches wird den 3. Agiler Stammtisch weiter  
+				in einen Lean-Kaffee Format (www.leancoffee.org) fortgesetz. Dieser Format 
+				fördert Diskussionen rund um alle wichtigen Themen der Agilität und lebt von 
+				den Teilnehmern, Sie sind also herzlich eingeladen, Ihre eigenen Themen mitzubringen.
+				Getränke und Pizza werden von codecentric AG gesponsort.
+            </description>
+			<url>https://www.xing.com/events/3-agiler-stammtisch-frankfurt-1277022</url>
+            <location>
+                <name>Die Zentrale</name>
+                <street>Berger Straße 175</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
     </schedule>
 </usergroup>
