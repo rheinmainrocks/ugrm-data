@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>Software Test User Group Rhein Main</name>
+    <nickname>STUGRM</nickname>
+    <description>Die Gruppe STUGRM - Software Test User Group Rhein Main soll ein Ort sein, in dem sich Menschen rund um das Thema Software Testing und Software Qualitätssicherung austauschen sowohl online als auch offline. 
+Ziel ist es, sich innerhalb der Gruppe Trends, Technologien, Ideen und Fragen zum Thema Software Testing auszutauschen und dabei ein Netzwerk aus Software Testern aufzubauen. 
+Bei regelmäßigen User Group Treffen im Rhein Main Gebiet können aktuelle Themen besprochen werden. 
+Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
+    </description>
+    <url>http://www.stugrm.de/</url>
+    <tags>
+        <tag>Software Test</tag>
+        <tag>Testing</tag>
+		<tag>Software Qualitätssicherung</tag>
+    </tags>
+	<contact>
+        <twitter>@stugrm</twitter>
+        <hashtag>#stugrm</hashtag>
+        <xing>https://www.xing.com/net/pri4ab89cx/stugrm/</xing>
+    </contact>
+	<schedule>
+		<meeting>
+            <time>2013-07-18T19:00:00+02:00</time>
+            <name>#1 - Erstes Treffen der STUGRM</name>
+            <url>https://www.xing.com/events/treffen-stugrm-18-juli-2013-1269398</url>
+            <location>
+                <name>AOE GmbH</name>
+				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
+                <street>Borsigstr. 3</street>
+                <zip>65205</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+	</schedule>
+	<team>
+        <person>
+            <name>Daniel Knott</name>
+            <url>http://www.adventuresinqa.com</url>
+            <twitter>@dnlkntt</twitter>
+        </person>
+    </team>
+</usergroup>
