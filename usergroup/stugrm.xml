@@ -21,18 +21,6 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
     </contact>
 	<schedule>
 		<meeting>
-            <name>#2 - September Treffen der STUGRM</name>
-			<description>Thema wird das Testen von Embedded Systems sein. Genauer Termin und Details folgen</description>
-            <url>https://www.xing.com/net/pri4ab89cx/stugrm/</url>
-            <location>
-                <name>AOE GmbH</name>
-				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
-                <street>Borsigstr. 3</street>
-                <zip>65205</zip>
-                <city>Wiesbaden</city>
-            </location>
-        </meeting>
-        <meeting>
             <time>2013-07-18T19:00:00+02:00</time>
             <name>#1 - Erstes Treffen der STUGRM</name>
             <url>https://www.xing.com/events/treffen-stugrm-18-juli-2013-1269398</url>
