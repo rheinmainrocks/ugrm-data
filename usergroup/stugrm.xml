@@ -14,6 +14,31 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
         <tag>Testing</tag>
 		<tag>Software Qualitätssicherung</tag>
     </tags>
+	<schedule>
+		<meeting>
+            <time>TBA</time>
+            <name>#2 - September Treffen der STUGRM</name>
+			<description>Thema wird das Testen von Embedded Systems sein. Genauer Termin und Details folgen</description>
+            <url>https://www.xing.com/net/pri4ab89cx/stugrm/</url>
+            <location>
+                <name>AOE GmbH</name>
+                <street>Borsigstr. 3</street>
+                <zip>65205</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2013-07-18T19:00:00+02:00</time>
+            <name>#1 - Erstes Treffen der STUGRM</name>
+            <url>https://www.xing.com/events/treffen-stugrm-18-juli-2013-1269398</url>
+            <location>
+                <name>AOE GmbH</name>
+                <street>Borsigstr. 3</street>
+                <zip>65205</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+	</schedule>
     <contact>
         <twitter>@stugrm</twitter>
         <hashtag>#stugrm</hashtag>
@@ -26,5 +51,4 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
         <zip>65205</zip>
         <city>Wiesbaden</city>
     </defaultmeetinglocation>
-    <schedule usedefaultmeetinglocation="true"></schedule>
 </usergroup>
