@@ -14,14 +14,19 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
         <tag>Testing</tag>
 		<tag>Software Qualitätssicherung</tag>
     </tags>
+	<contact>
+        <twitter>@stugrm</twitter>
+        <hashtag>#stugrm</hashtag>
+        <xing>https://www.xing.com/net/pri4ab89cx/stugrm/</xing>
+    </contact>
 	<schedule>
 		<meeting>
-            <time>TBA</time>
             <name>#2 - September Treffen der STUGRM</name>
 			<description>Thema wird das Testen von Embedded Systems sein. Genauer Termin und Details folgen</description>
             <url>https://www.xing.com/net/pri4ab89cx/stugrm/</url>
             <location>
                 <name>AOE GmbH</name>
+				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
                 <street>Borsigstr. 3</street>
                 <zip>65205</zip>
                 <city>Wiesbaden</city>
@@ -33,22 +38,18 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
             <url>https://www.xing.com/events/treffen-stugrm-18-juli-2013-1269398</url>
             <location>
                 <name>AOE GmbH</name>
+				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
                 <street>Borsigstr. 3</street>
                 <zip>65205</zip>
                 <city>Wiesbaden</city>
             </location>
         </meeting>
 	</schedule>
-    <contact>
-        <twitter>@stugrm</twitter>
-        <hashtag>#stugrm</hashtag>
-        <xing>https://www.xing.com/net/pri4ab89cx/stugrm/</xing>
-    </contact>
-    <defaultmeetinglocation>
-        <name>AOE GmbH</name>
-        <publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
-        <street>Borsigstr. 3</street>
-        <zip>65205</zip>
-        <city>Wiesbaden</city>
-    </defaultmeetinglocation>
+	<team>
+        <person>
+            <name>Daniel Knott</name>
+            <url>http://www.adventuresinqa.com</url>
+            <twitter>@dnlkntt</twitter>
+        </person>
+    </team>
 </usergroup>
