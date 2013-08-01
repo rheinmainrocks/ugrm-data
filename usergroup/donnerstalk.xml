@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>Donnerstalk im Heimathafen Wiesbaden</name>
+    <description>
+        Der Donnerstalk ist ein angeregter Austausch zwischen sympathischen Leuten aus der Region in entspannter Atmosphäre, bei dem Wissenstransfer und Networking auf gelungene Weise kombiniert werden.
+    </description>
+    <url>http://heimathafen-wiesbaden.de/category/donnerstalk/</url>
+    <tags>
+        <tag>Talk</tag>
+        <tag>Ideas</tag>
+        <tag>Beer</tag>
+    </tags>
+    <contact>
+        <twitter>@heimathafenWI</twitter>
+        <hashtag>#donnerstalk</hashtag>
+    </contact>
+    <defaultmeetinglocation>
+        <name>heimathafen Wiesbaden</name>
+        <description>Der heimathafen Wiesbaden ist ein Coworking Space &amp; Café. Wir vermieten Arbeitsplätze an Kreative &amp; Selbständige, Konferenzräume an Firmen &amp; Agenturen - und verkaufen Kaffee an jedermann.</description>
+        <url>http://heimathafen-wiesbaden.de/</url>
+        <foursquare>https://de.foursquare.com/heimathafenwi</foursquare>
+        <twitter>@heimathafenWI</twitter>
+        <publictransport>Hauptbahnhof Wiesbaden</publictransport>
+        <street>Karlstraße 22 (Adelheidstraße)</street>
+        <zip>65185</zip>
+        <city>Wiesbaden</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-08-01T18:30:00+02:00</time>
+            <name>Donnerstalk plus 1 Jahr heimathafen-Feier am 01. August</name>
+            <description>
+                Das Thema im August: "Design (your) Thinking"
+                Design Thinking ist eine Art Kreativ-Methode, mit der sich innerhalb kurzer Zeit kreative Ideen &amp; innovative Lösungen entwickeln lassen. Wir lernen den strukturierten, interdisziplinären Prozess des Design Thinking kennen &amp; wenden ihn im konkreten Fall an. Mehr Kreativität? Mehr Innovation? Design (your) Thinking!
+
+                Für den Donnerstalk ist die Anmeldung über XING ist notwendig.
+            </description>
+			<url>https://www.xing.com/events/donnerstalkplus-design-your-thinking-1-heimathafen-feier-1279534</url>
+        </meeting>
+    </schedule>
+</usergroup>
