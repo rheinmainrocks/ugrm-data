@@ -10,7 +10,7 @@
 		Gleichgesinnten besprochen werden und natürlich wollen wir auch gegenseitig 
 		Erfahrungen und Best Practices austauschen.
     </description>
-    <url/>
+    <url>http://usergroups.rheinmainrocks.de/~agilerstammtischffm</url>
     <tags>
         <tag>Agile</tag>
         <tag>Scrum</tag>
@@ -19,7 +19,20 @@
     <contact>
         <hashtag>#agileFFM</hashtag>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>Die Zentrale</name>
+        <description>Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+            Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+        </description>
+        <url>http://www.die-zentrale-ffm.de/#section-n6</url>
+        <foursquare>https://de.foursquare.com/zentrale_ffm</foursquare>
+        <twitter>@zentrale_ffm</twitter>
+        <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+        <street>Berger Straße 175</street>
+        <zip>60385</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
         <meeting>
             <time>2013-06-13T18:30:00+02:00</time>
             <name>1. Agiler Stammtisch Frankfurt</name>
@@ -32,12 +45,6 @@
                 Getränke werden von codecentric AG gesponsort.
             </description>
 			<url>https://www.xing.com/events/1-agiler-stammtisch-frankfurt-1252844</url>
-            <location>
-                <name>Die Zentrale</name>
-                <street>Berger Straße 175</street>
-                <zip>60385</zip>
-                <city>Frankfurt</city>
-            </location>
         </meeting>
 		<meeting>
             <time>2013-07-11T19:00:00+02:00</time>
@@ -50,12 +57,6 @@
 				Getränke und Pizza werden von codecentric AG gesponsort.
             </description>
 			<url>https://www.xing.com/events/2-agiler-stammtisch-frankfurt-1266376</url>
-            <location>
-                <name>Die Zentrale</name>
-                <street>Berger Straße 175</street>
-                <zip>60385</zip>
-                <city>Frankfurt</city>
-            </location>
         </meeting>
 		<meeting>
             <time>2013-08-01T19:00:00+02:00</time>
@@ -68,12 +69,6 @@
 				Getränke und Pizza werden von codecentric AG gesponsort.
             </description>
 			<url>https://www.xing.com/events/3-agiler-stammtisch-frankfurt-1277022</url>
-            <location>
-                <name>Die Zentrale</name>
-                <street>Berger Straße 175</street>
-                <zip>60385</zip>
-                <city>Frankfurt</city>
-            </location>
         </meeting>
     </schedule>
 </usergroup>

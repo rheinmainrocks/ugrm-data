@@ -24,7 +24,7 @@
                         </xs:documentation>
                     </xs:annotation>
                 </xs:element>
-                <xs:element name="url" type="xs:anyURI">
+                <xs:element name="url" type="nonEmptyURI">
                     <xs:annotation>
                         <xs:documentation>Die URL der Homepage der Usergroup.
                         </xs:documentation>
@@ -43,7 +43,7 @@
                             <xs:element name="mailinglist" minOccurs="0" maxOccurs="unbounded">
                                 <xs:complexType>
                                     <xs:sequence>
-                                        <xs:element name="url" type="xs:anyURI"/>
+                                        <xs:element name="url" type="nonEmptyURI"/>
                                         <xs:element name="label" type="nonEmptyString"/>
                                         <xs:element name="description" type="nonEmptyString" minOccurs="0"/>
                                     </xs:sequence>
@@ -75,7 +75,7 @@
                             </xs:documentation>
                         </xs:annotation>
                         <xs:choice>
-                            <xs:element name="ical" type="xs:anyURI"/>
+                            <xs:element name="ical" type="nonEmptyURI"/>
                             <xs:element name="meeting" maxOccurs="unbounded" type="meeting"/>
                         </xs:choice>
                         <xs:attribute name="usedefaultmeetinglocation" type="xs:boolean"
@@ -103,7 +103,7 @@
                                 <xs:complexType>
                                     <xs:sequence>
                                         <xs:element name="name" type="nonEmptyString"/>
-                                        <xs:element name="url" type="xs:anyURI"/>
+                                        <xs:element name="url" type="nonEmptyURI"/>
                                     </xs:sequence>
                                 </xs:complexType>
                             </xs:element>
@@ -175,7 +175,7 @@
             <xs:documentation>Definiert eine URL auf facebook.com
             </xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:anyURI">
+        <xs:restriction base="nonEmptyURI">
             <xs:pattern value="https*://www\.facebook\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
@@ -184,7 +184,7 @@
             <xs:documentation>Definiert eine URL auf xing.com
             </xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:anyURI">
+        <xs:restriction base="nonEmptyURI">
             <xs:pattern value="https*://www\.xing\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
@@ -193,7 +193,7 @@
             <xs:documentation>Definiert eine URL auf Google+
             </xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:anyURI">
+        <xs:restriction base="nonEmptyURI">
             <xs:pattern value="https://plus\.google\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
@@ -202,7 +202,7 @@
             <xs:documentation>Definiert eine URL auf foursquare.com
             </xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:anyURI">
+        <xs:restriction base="nonEmptyURI">
             <xs:pattern value="https*://([a-z]{2}\.)*foursquare\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
@@ -211,6 +211,14 @@
             <xs:documentation>Ein nicht-leerer String</xs:documentation>
         </xs:annotation>
         <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="nonEmptyURI">
+        <xs:annotation>
+            <xs:documentation>Eine nicht-leere URL</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:anyURI">
             <xs:minLength value="1"/>
         </xs:restriction>
     </xs:simpleType>
@@ -224,7 +232,7 @@
             <xs:element name="time" type="xs:dateTime"/>
             <xs:element name="name" type="nonEmptyString"/>
             <xs:element name="description" type="nonEmptyString" minOccurs="0"/>
-            <xs:element name="url" type="xs:anyURI" minOccurs="0"/>
+            <xs:element name="url" type="nonEmptyURI" minOccurs="0"/>
             <xs:element name="location" type="location" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
@@ -258,7 +266,7 @@
                     </xs:documentation>
                 </xs:annotation>
             </xs:element>
-            <xs:element name="url" type="xs:anyURI" minOccurs="0">
+            <xs:element name="url" type="nonEmptyURI" minOccurs="0">
                 <xs:annotation>
                     <xs:documentation>z.B. http://offenraum.de/#lage
                     </xs:documentation>
@@ -323,7 +331,7 @@
                     <xs:documentation>z.B. Markus Tacker</xs:documentation>
                 </xs:annotation>
             </xs:element>
-            <xs:element name="url" type="xs:anyURI" minOccurs="0">
+            <xs:element name="url" type="nonEmptyURI" minOccurs="0">
                 <xs:annotation>
                     <xs:documentation>z.B. http://tckr.cc/</xs:documentation>
                 </xs:annotation>
