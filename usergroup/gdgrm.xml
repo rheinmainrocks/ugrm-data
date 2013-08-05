@@ -23,6 +23,18 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-08-23T18:00:00+02:00</time>
+            <name>GDG RheinMain Talks Android 4.3</name>
+            <description>Stephan Linzner (Android Advocate @ Google) will join us to share some insights into what's new in 4.3 and give us an update on his perspective of the dev ecosystem which he has helped create in London.</description>
+            <url>https://plus.google.com/events/c7t17968h5b7rdjukr1vlh891qc?authkey=COSdiqaqsfHsFA</url>
+            <location>
+                <name>TBA</name>
+                <street>TBA</street>
+                <zip>60000</zip>
+                <city>TBA</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-07-25T19:00:00+02:00</time>
             <name>GDG Rhein-Main Stammtisch - Juli 2013</name>
             <description>Auch während der Urlaubszeit treffen wir uns wieder. Schnacken über neue Gadgets, neues aus der Welt in und um Google und was uns sonst noch bewegt. Vor Ort gibts Infos zu einer Idee für eine neue GDGRM Eventreihen, Codename "GDGRM Hack'chen" :)</description>
