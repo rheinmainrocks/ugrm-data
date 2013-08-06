@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" incubator="true">
+    <name>Bitcoin Frankfurt</name>
+    <nickname>BitcoinFFM</nickname>
+    <description>Aleksander möchte die Bitcoin-Community für Frankfurt und Rhein-Main aufbauen.</description>
+    <url>http://www.bitcoin-frankfurt.de/</url>
+    <tags>
+        <tag>Bitcoin</tag>
+    </tags>
+    <contact>
+        <facebook>https://www.facebook.com/BitcoinFrankfurt</facebook>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Die Zentrale</name>
+        <description>Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+            Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+        </description>
+        <url>http://www.die-zentrale-ffm.de/#section-n6</url>
+        <foursquare>https://de.foursquare.com/zentrale_ffm</foursquare>
+        <twitter>@zentrale_ffm</twitter>
+        <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+        <street>Berger Straße 175</street>
+        <zip>60385</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-08-08T19:00:00+01:00</time>
+            <name>1. Treffen der Bitcoin-Community Frankfurt</name>
+            <url>http://www.bitcoin-frankfurt.de/?p=23</url>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <logo>Logo: [Aleksander Winter](http://www.bitcoin-frankfurt.de/)</logo>
+    </photocredits>
+</usergroup>
