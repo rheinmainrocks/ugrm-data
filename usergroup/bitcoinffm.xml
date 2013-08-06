@@ -26,7 +26,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2013-08-08T19:00:00+01:00</time>
+            <time>2013-08-08T19:00:00+02:00</time>
             <name>1. Treffen der Bitcoin-Community Frankfurt</name>
             <url>http://www.bitcoin-frankfurt.de/?p=23</url>
         </meeting>
