@@ -21,6 +21,21 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-08-28T19:00:00+02:00</time>
+            <name>Treffen #21</name>
+            <description>Für dieses Treffen steht kein gesondertes Thema fest. Bringt also mit, was euch interessiert, über das ihr erzählen wollt oder mehr wissen wollt. Evtl. probieren wir auch das Lean Coffee Format aus.</description>
+            <url>http://www.softwerkskammer.org/activities/treffen-21-softwerkskammer-rhein-main</url>
+            <location>
+                <name>1xINTERNET</name>
+                <url>http://www.1xinternet.com/</url>
+                <twitter>@1xINTERNET</twitter>
+                <publictransport>U6: Hausener Weg</publictransport>
+                <street>Seelenberger Str. 2</street>
+                <zip>60489</zip>
+                <city>60489</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-07-30T19:00:00+02:00</time>
             <name>Treffen #20</name>
             <description>Wir treffen uns nun schon zum 20.Mal und wollen dieses Mal einen Mini-Coderetreat mit der FizzBuzz Kata machen. D.h. wir wollen FizzBuzz mindesten 3mal, in wechselnden Paaren lösen. Ob wir bei den Sessions Constraints anwenden, klären wir am Abend selbst. Vorab wird es natürlich noch die üblichen Lightning Talks geben.</description>
