@@ -15,6 +15,20 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-08-15T19:00:00+02:00</time>
+            <name>August Treffen der Agile Rhein-Main Usergroup:Show me the money, or: How to pay employees in an agile organisation</name>
+            <description>Wir laden herzlich zum  August Treffen der Agile Usergroup Rhein-Main ein.
+                Show me the money, or: How to pay employees in an agile organisation.
+                Vortrag von Christof Braun.</description>
+            <location>
+                <name>AOE media GmbH</name>
+                <url>http://www.aoemedia.de/anfahrtsbeschreibung.html</url>
+                <street>Borsigstraße 3</street>
+                <zip>65205</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-05-16T18:00:00+02:00</time>
             <name>Mai-Treffen der Agile Usergroup Rhein-Main</name>
             <description>Einführung agiler Arbeitsweisen in der Produktentwicklung der Deutschen Telekom / E-Mail
