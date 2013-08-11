@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>#SchnitzelOF</name>
+    <description>Gemütliches Beisammensein bei Schnitzel. Frankfurter sind natürlich Willkommen!</description>
+    <url>http://usergroups.rheinmainrocks.de/~schnitzelof</url>
+    <tags>
+        <tag>Schnitzel</tag>
+        <tag>Offenbach</tag>
+    </tags>
+    <contact>
+        <twitter>@SchnitzelOF</twitter>
+        <hashtag>#SchnitzelOF</hashtag>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-08-16T19:00:00+02:00</time>
+            <name>#SchnitzelOF August 2013</name>
+            <location>
+                <name>Hessewirtschaft</name>
+                <url>http://hessewirtschaft.de/Offenbach/</url>
+                <foursquare>https://de.foursquare.com/v/hessewirtschaft/4baba519f964a52054bc3ae3</foursquare>
+                <street>Senefelderstr. 100</street>
+                <zip>63069</zip>
+                <city>Offenbach</city>
+            </location>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <group>Foto: [@xaeron](https://twitter.com/xaeron)</group>
+    </photocredits>
+</usergroup>
