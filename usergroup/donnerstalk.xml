@@ -27,6 +27,12 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-09-05T18:30:00+02:00</time>
+            <name>Donnerstalk im September: „Entfalte dein (kreatives) Potential!“</name>
+            <description>Welches sind die größten Kreativitätskiller und wann schlagen diese in der Regel zu? Wie viel von unserem (kreativen) Potential leben wir überhaupt aus? Und wie sehr entfalten sich eigentlich „Kreative“ – oder gibt’s da auch noch Luft nach oben? Der Impulsvortrag hat nicht nur Antworten und Mut machen auf Lager. Neben einem ordentlichen Perspektivwechsel wird kräftig reflektiert, um am Ende sagen zu können, „Wow, da steckt wohl auch in mir noch viel mehr, als mir vermeintlich bewusst ist…! Denk- und Umdenkanstöße inklusive.</description>
+            <url>https://www.xing.com/events/donnerstalk-september-entfalte-kreatives-potential-1281242</url>
+        </meeting>
+        <meeting>
             <time>2013-08-01T18:30:00+02:00</time>
             <name>Donnerstalk plus 1 Jahr heimathafen-Feier am 01. August</name>
             <description>
