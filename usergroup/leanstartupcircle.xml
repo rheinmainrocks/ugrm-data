@@ -12,6 +12,20 @@
     </tags>
     <schedule>
         <meeting>
+            <time>2013-09-11T19:00:00+02:00</time>
+            <name>Lean Startup Circle: "Life’s too short to build something nobody wants." - Ash Maurya</name>
+            <description>Mit Blick auf den Running Lean Workshop von Ash Maurya in Frankfurt wollen wir uns (noch einmal) näher mit seinen Methoden und Werkzeugen befassen: Lean Canvas, Lean Stack, 3 principles of running lean. Idealerweise sind wir im Anschluss alle so up-to-date in den Basics der Methodik, dass wir in seinem Workshop am 23/24.9. ein offenes Ohr für seine Beispiele, Lessons und Schlussfolgerungen haben. Paul Herwarth und ich werden etwas vorstellen. Bringt eure Ergänzungen und Fragen gern mit. Wenn es klappt, schalten wir Ash kurz zur Beantwortung von Fragen dazu.</description>
+            <url>https://www.xing.com/events/lean-startup-circle-life-too-short-to-build-something-nobody-wants-ash-maurya-1282045</url>
+            <location>
+                <name>StartFFM Coworking Space</name>
+                <url>http://www.start-ffm.de/</url>
+                <publictransport>U-Bahn U6, Bus 34, N1, N11, N2, 34, N1, N11, N2</publictransport>
+                <street>Seelenberger Str. 2</street>
+                <zip>60489</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-02-25T18:30:00+01:00</time>
             <name>6. Treffen des Lean Startup Circle Rhein-Main in Wiesbaden</name>
             <url>https://www.xing.com/events/6-treffen-lean-startup-circle-rhein-main-wiesbaden-1191900</url>
