@@ -27,6 +27,23 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-08-28T18:00:00+02:00</time>
+            <name>Talk about Neo4j, Structr, have some Beers and Pizzas</name>
+            <description>This meetup wil take place directly after the [Neo4j tutorial](http://info.neotechnology.com/0828-frankfurt-register.html)
+
+                Agenda:
+                * Sneak preview of the talk about "Building Graph-Based Web Applications with Structr 1.0"
+                * Hands-on demo how to build a web app with Structr
+                * Update with news from the Neo4j community </description>
+            <url>http://www.meetup.com/graphdb-frankfurt/events/133716462/</url>
+            <location>
+                <name>structr Office, c/o Morgner UG, 2. OG</name>
+                <street>Hanauer Landstraße 291a</street>
+                <zip>60314</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-05-16T09:00:00+02:00</time>
             <name>Neo4j Tutorial - Frankfurt</name>
             <description>Dieser Neo4j Workshop führt in die Funktionsweise und Nutzung der Neo4j Graphendatenbank ein.
