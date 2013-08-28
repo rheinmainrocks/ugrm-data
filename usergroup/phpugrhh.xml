@@ -28,6 +28,17 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-10-01T19:00:00+02:00</time>
+            <name>28. Treffen der PHPUG Rheinhessen</name>
+            <description>Diesmal wollen wir einen Blick über den PHP-Tellerrand hinaus wagen und uns zwei Deployment-Tools aus der Ruby- und Python-Welt ansehen. Zwei Vorträge sind geplant:
+                "Deployment mit Capistrano" von Stefan Husch
+                "Deployment mit Fabric" (tbc)
+                Bitte nutzt die Anmeldung hier auf der Event-Seite in Xing. Das hilft uns bei der Planung und Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt.
+
+                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung! Die Teilnahme ist wie immer kostenlos.</description>
+            <url>https://www.xing.com/events/28-treffen-phpug-rheinhessen-1291473</url>
+        </meeting>
+        <meeting>
             <time>2013-08-20T19:00:00+02:00</time>
             <name>27. Treffen der PHPUG Rheinhessen</name>
             <description>Wir treffen uns diesmal wieder im schönen Bretzenheim. Themenschwerpunkt soll diesmal Unit Testing/TDD bzw. Testing allgemein sein, weil das in den letzten Treffen immer mal wieder angesprochen wurde. Wir haben zwar keinen Vortrag zum Thema, aber wenn aller ihre Notebooks bzw. eine Idee mitbringen, dann dürfte das auch so ein interessanter Abend werden. Bitte nutzt die Anmeldung hier auf der Event-Seite in Xing. Das hilft uns bei der Planung und Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt. Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung! Die Teilnahme ist wie immer kostenlos. Bitte teilt das Event auch in anderen Sozialen Netzwerken und euren Blogs. Danke!</description>
