@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>TuXCamp – Das Linux-BarCamp</name>
+    <nickname>TuXCamp</nickname>
+    <description>Das TuXCamp ist ein BarCamp auf dem es vor allem um das freie Betriebssystem Linux geht; es richtet
+        sich dabei besondes an Schüler und Studenten um diese schon früh mit der OpenSource-Bewegung in Kontakt zu
+        bringen.</description>
+    <url>http://rhscamp.mixxt.de/</url>
+    <tags>
+        <tag>BarCamp</tag>
+        <tag>Linux</tag>
+        <tag>Open Source</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2013-09-28T09:00:00+02:00</time>
+            <name>TuXCamp 2013 – Freiheit und Sicherheit im Netz</name>
+            <description><![CDATA[Warum OpenSource? Warum GNU/Linux? Warum an der Schule? Wir laden die Communities ein und geben Antwort auf dem TuxCamp 2013! Für Catering und Übernachtungsmöglichkeit von Freitag auf Samstag wird gesorgt werden.
+
+            Vorträge & Sessions
+            -----------------------
+
+            * Einführung in die Arbeit mit GNU/Linux für Anfänger
+            * Linux Essentials (LPI)
+            * Live-Hacking (noch nicht sicher)
+            * Eine Distribution selbst erstellen - wie geht das?
+            * Programmieren unter Linux
+            * Einführung in TeX (wofür kann man das gebrauchen?)
+            * Vorbereitung auf die Arbeit an der Universität (Welche Tools sind hilfreich?)
+            * Vorbereitung auf die berufliche Bewerbung mithilfe von OpenSource-Plattformen
+            * ... und vieles mehr.
+
+            Am Vorabend findet eine [Installations-Party](http://rhscamp.mixxt.de/networks/events/show_event.81063) statt.
+            ]]></description>
+            <url>http://rhscamp.mixxt.de/networks/events/show_event.81064</url>
+            <location>
+                <name>Ricarda-Huch-Schule</name>
+                <url>http://ricarda-huch.dreieich.schule.hessen.de/</url>
+                <street>Breslauer Str. 15-25</street>
+                <zip>63303</zip>
+                <city>Dreieich - Sprendlingen</city>
+            </location>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <logo>Logo: [rhscamp.mixxt.de](http://rhscamp.mixxt.de/)</logo>
+    </photocredits>
+</usergroup>
