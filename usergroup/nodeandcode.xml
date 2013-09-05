@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>NODE+CODE (Processing Frankfurt)</name>
+    <nickname>N+C</nickname>
+    <description>NODE+CODE is a monthly meetup from the communities of VVVV, Processing and related frameworks. We are
+        interested in discussing what the things are and mean that we build with these frameworks (and other digital
+        means). Since late 2011 we regularly invite artists, thinkers, hackers, ..., to present their views or works and
+        to help us start new discussions and open new fields.
+
+        NODE+CODE is a cooperation between [basis Frankfurt](http://basis-frankfurt.de/) and [NODE Forum for Digital
+        Arts](http://node.vvvv.org/).
+
+        NODE+CODE is part of [Processing Cities](http://www.processingcities.org/).
+    </description>
+    <url>http://www.meetup.com/NODE-CODE-Frankfurt</url>
+    <tags>
+        <tag>VVVV</tag>
+        <tag>Processing</tag>
+    </tags>
+    <contact>
+        <twitter>@p5v4ffm</twitter>
+        <facebook>https://www.facebook.com/pvvvv.frankfurt</facebook>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-08-27T19:00:00+02:00</time>
+            <name>NODE+CODE August - ReCode</name>
+            <description>We have Matthew Epler, initiator of the [ReCode project](http://recodeproject.com/), for a
+                Skype talk from NYC with us at [DAM Gallery Frankfurt](http://goo.gl/maps/zw5Ai). Matthew has set up a
+                website to invite people to
+                get to know and translate works by early digital artists like Manfred Mohr into the Processing
+                programming language based on scans from old [Computer Graphics and
+                Art](http://toplap.org/pdfs-of-computer-graphics-and-art/) magazines. Any work translated
+                there receives an open source license and can be accessed and remixed through the website. ReCode is an
+                attempt to spread, analyse and preserve early artistic work of digital nature - an honourly
+                intent, if there wasn't the ambigious relationship between originality and open access. Additionally, we
+                will discuss if reverse engineering in this case is possible considering that we have just one possible
+                artifact, the one software generated plotter print. Can this be a proper reconstruction of a whole
+                computer artwork? Together with Wolf Lieser, gallerist of DAM, we will be discussing the position,
+                possible scepticism and reluctance of artists whose work is recoded. Join us at NODE + CODE's August
+                edition!
+            </description>
+            <url>http://www.meetup.com/NODE-CODE-Frankfurt/events/132310702/</url>
+            <location>
+                <name>DAM Galerie</name>
+                <url>http://www.dam-gallery.de/index.php?id=60</url>
+                <publictransport>Underground: Willy-Brandt-Platz, Train: Hauptbahnhof Frankfurt</publictransport>
+                <street>Gutleutstraße 17</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>

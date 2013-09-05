@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>Agiler Stammtisch Frankfurt</name>
     <description>
 		Sie sind Entwickler oder Projektleiter im IT-Bereich und möchten sich gern mit 
@@ -10,7 +10,7 @@
 		Gleichgesinnten besprochen werden und natürlich wollen wir auch gegenseitig 
 		Erfahrungen und Best Practices austauschen.
     </description>
-    <url>http://usergroups.rheinmainrocks.de/~agilerstammtischffm</url>
+    <url>https://www.xing.com/net/pri5328c8x/as-frankfurt</url>
     <tags>
         <tag>Agile</tag>
         <tag>Scrum</tag>
@@ -33,6 +33,12 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-09-05T19:00:00+02:00</time>
+            <name>4. Agiler Stammtisch Frankfurt</name>
+            <description>Der 4. Agiler Stammtisch wird weiter  in einen Lean-Kaffee Format (www.leancoffee.org) fortgesetz. Dieses Format fördert Diskussionen rund um alle wichtigen Themen der Agilität und lebt von den Teilnehmern, Sie sind also herzlich eingeladen, Ihre eigenen Themen mitzubringen. Getränke und Essen werden von codecentric AG gesponsort.</description>
+            <url>https://www.xing.com/events/4-agiler-stammtisch-frankfurt-1287513</url>
+        </meeting>
         <meeting>
             <time>2013-06-13T18:30:00+02:00</time>
             <name>1. Agiler Stammtisch Frankfurt</name>
