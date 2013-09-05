@@ -17,7 +17,7 @@
                         </xs:documentation>
                     </xs:annotation>
                 </xs:element>
-                <xs:element name="description" type="nonEmptyString">
+                <xs:element name="description" type="markdownOptional">
                     <xs:annotation>
                         <xs:documentation>Eine Beschreibung der Usergroup. Kann gerne
                             ausführlich sein.
@@ -231,7 +231,7 @@
         <xs:sequence>
             <xs:element name="time" type="xs:dateTime"/>
             <xs:element name="name" type="nonEmptyString"/>
-            <xs:element name="description" type="nonEmptyString" minOccurs="0"/>
+            <xs:element name="description" minOccurs="0" type="markdown"/>
             <xs:element name="url" type="nonEmptyURI" minOccurs="0"/>
             <xs:element name="location" type="location" minOccurs="0"/>
         </xs:sequence>
@@ -347,5 +347,21 @@
                 </xs:annotation>
             </xs:element>
         </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="markdown">
+        <xs:restriction base="nonEmptyString"/>
+    </xs:simpleType>
+    <xs:complexType name="markdownOptional">
+        <xs:simpleContent>
+            <xs:extension base="nonEmptyString">
+                <xs:attribute name="markdown" type="xs:boolean"
+                              default="false" use="optional">
+                    <xs:annotation>
+                        <xs:documentation>Die Beschreibung verwendet Markdown zur Formatierung.
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
     </xs:complexType>
 </xs:schema>
