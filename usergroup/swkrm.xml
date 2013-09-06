@@ -21,6 +21,23 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-09-30T19:00:00+02:00</time>
+            <name>Treffen #22 der Softwerkskammer Rhein-Main</name>
+            <description>*Agenda*
+
+            * Vorstellungsrunde
+            * Lean Coffee + Book Market
+
+            *Eine [Anmeldung](http://www.softwerkskammer.org/activities/treffen-22-softwerkskammer-rhein-main) ist erforderlich!*</description>
+            <url>http://www.softwerkskammer.org/activities/treffen-22-softwerkskammer-rhein-main</url>
+            <location>
+                <name>Deutsche Telekom AG</name>
+                <street>T-Online Allee 1</street>
+                <zip>64295</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-08-28T19:00:00+02:00</time>
             <name>Treffen #21</name>
             <description>Für dieses Treffen steht kein gesondertes Thema fest. Bringt also mit, was euch interessiert, über das ihr erzählen wollt oder mehr wissen wollt. Evtl. probieren wir auch das Lean Coffee Format aus.</description>
