@@ -15,6 +15,41 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-09-19T19:00:00+02:00</time>
+            <name>September-Treffen der Agile Usergroup Rhein-Main: Kanban intermediate</name>
+            <description>
+                ETECTURE lädt uns für unser September-Treffen unter der Moderation von Kurt Jäger zu einem Vortrag von Kurt Häusler zum Thema "Kanban Intermediate" nach Frankfurt ein.
+
+                In seinem Vortrag wird Kurt Häusler, der sich seit vielen Jahren intensiv mit Kanban beschäftigt, unter anderem die folgenden Aspekte ansprechen:
+
+                * Missverständnisse über Kanban
+                * Unterschiedliche Arten von Kanban und Change
+                * Zeigen wie es im Prozess passt, und wie es mit z.B. Scrum zusammenspielt
+                * Warnungen über potentielle Nachteile oder Schwierigkeiten mit Kanban
+                * Berechnungen mit Little’s Law
+                * Interpretation von CFDs und Spectral Analysis Diagramme
+                * Risk Management mit Portfolio Kanban
+                * Projektmanagement mit Kanban
+                * Auslastung / Warum Slack gut ist
+                * Commitment und Optionen
+                * Kanban Werte und Kultur
+                * Training und Zertifizierung
+                * Die neuesten Ideen aus den Konferenzen und Leadership Retreat
+
+                Die Teilnahme ist kostenfrei möglich. Um [Anmeldung](https://www.xing.com/events/september-treffen-agile-usergroup-rhein-main-kanban-intermediate-1289278) wird gebeten.
+            </description>
+            <url>https://www.xing.com/events/september-treffen-agile-usergroup-rhein-main-kanban-intermediate-1289278</url>
+            <location>
+                <name>ETECTURE GmbH</name>
+                <url>http://www.etecture.de/en/Contact</url>
+                <twitter>@etecture</twitter>
+                <publictransport>S-Bahn 3,4,5,6 Lokalbahnhof. Bus 36, 30 Darmstädter Landstraße Mitte.</publictransport>
+                <street>Darmstädter Landstraße 112</street>
+                <zip>60598</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-08-15T19:00:00+02:00</time>
             <name>August Treffen der Agile Rhein-Main Usergroup:Show me the money, or: How to pay employees in an agile organisation</name>
             <description>Wir laden herzlich zum  August Treffen der Agile Usergroup Rhein-Main ein.
