@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>Workschoppe</name>
+    <description markdown="true">„Hopp, Hopp, Hopp, Wisse in de Kopp!“ ist das Motto des Workschoppe, bei der sich vor
+        allem
+        Internetliebhaber treffen – ein Abend um sich auszutauschen, etwas zu lernen und dabei gemeinsam den ein oder
+        anderen Schoppe zu trinken.
+
+        ### Die stecken dahinter.
+
+        Alles begann mit Opa Artur.
+
+        Tobi und Anna suchten ein Geschenk für Annas Opa Artur. Da der Opa zwar ein begeisterter Facebook-Nutzer war,
+        private Nachrichten jedoch nicht von Wall Posts unterscheiden konnte, entschieden sich die beiden ihm
+        Online-Nachhilfe zu schenken. Obendrauf bekam der Opa noch ‘ne Flasche Stöffsche – und tada, der Workschoppe war
+        geboren!
+
+        Die Kollegen fanden die Idee so liebenswert, dass sie beschlossen, den Workschoppe ins Watzeviertel zu tragen.
+
+        Seinen Postkasten hat der Workschoppe bei quäntchen + glück, organisiert wird er längst von vielen weiteren
+        Freunden und freundlichen Bekannten. Komm doch auch dazu!
+    </description>
+    <url>http://workschoppe.de/</url>
+    <tags>
+        <tag>Internet</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2013-09-11T19:30:00+02:00</time>
+            <name>Workshoppe #4</name>
+            <description>Illustrer Themenabend für Geeks, Agenturheiner und Webwatzeviertler.
+
+                ### Spazierender Staatsfeind
+                Daniel Bangert ist Vorsitzender des NSA-Spionschutzbundes
+
+                ### Schützt die Daten!
+                Tobias Lange und Erik Tews sind Datenschutzexperten am CASED (Center for Advanced Security Research
+                Darmstadt) und Mitglied des CCC Darmstadt
+
+                ### Spione und Schnüffler
+                Beim Workschoppe-Spiel sind die Profiler im Publikum gefragt
+            </description>
+            <url>http://workschoppe.de/#programm</url>
+            <location>
+                <name>HoffART Theater e. V.</name>
+                <url>http://www.hoffart-theater.de/hoffart/kontakt-und-anfahrt/</url>
+                <publictransport>Bahn: Darmstadt Hauptbahnhof, Bus H: Kopernikusplatz.</publictransport>
+                <street>Lauteschlägerstr. 28 a</street>
+                <zip>64291</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <logo>Logo: [Workschoppe](http://workschoppe.de/)</logo>
+    </photocredits>
+</usergroup>
