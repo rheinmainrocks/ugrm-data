@@ -28,6 +28,11 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-11-18T19:00:00+02:00</time>
+            <name>Webmontag Offenbach #4</name>
+            <url>http://wemoof.de/4</url>
+        </meeting>
+        <meeting>
             <time>2013-09-23T19:00:00+02:00</time>
             <name>Webmontag Offenbach #3</name>
             <url>http://wemoof.de/3</url>
