@@ -18,4 +18,34 @@
     <tags>
         <tag>R</tag>
     </tags>
+    <schedule>
+        <meeting>
+            <time>2013-09-11T18:00:00+02:00</time>
+            <name>Gruppenvorstellung &amp; Themendiskussion</name>
+            <description>Wir wollen nach der Sommerpause wieder durchstarten und laden Euch herzlich zu einem neuem
+                Meetup der Wiesbaden R Users Group am 11.09.2013 in Wiesbaden ein.
+
+                **Bisherige Punkte auf der Agenda**
+                * Kurzvorstellung der Gruppe
+                * Überblick über bisherige Aktivitäten
+                * Kennenlernen neuer Mitglieder
+                * Planungen für die Zukunft
+                * Eure Themen &amp; Wünsche
+
+                Wir möchten das Treffen nutzen, um die neuen Mitglieder kennenzulernen und mit Euch gemeinsam zukünftige
+                Themenwünsche zu besprechen. Gerne könnt Ihr hierfür auch eigene Fragestellungen oder sonstige
+                Vorschläge und Wünsche rund um das Thema Datenanalyse mitbringen. Wir freuen uns über Eure Vorschläge,
+                zahlreiches Erscheinen und angeregte Diskussionen in lockerer Runde.
+            </description>
+            <url>http://www.meetup.com/Wiesbaden-R-Users-Group/events/136438202</url>
+            <location>
+                <name>masem research institute GmbH</name>
+                <url>http://www.masem.de/</url>
+                <twitter>@masemresearch</twitter>
+                <street>Unter den Eichen 5G</street>
+                <zip>65195</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+    </schedule>
 </usergroup>
