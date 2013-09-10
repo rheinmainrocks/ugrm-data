@@ -26,7 +26,26 @@
         <hashtag>#wemoof</hashtag>
         <facebook>https://www.facebook.com/pages/wemoof/435444859870520</facebook>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>»afip!« — akademie für interdisziplinäre prozesse</name>
+        <description>eine institution für kultur, forschung und lehre. hier treffen sich engagierte menschen, erforschen
+            und diskutieren die strömungen unserer zeit, entwerfen gemeinsam utopien und lassen sie in verschiedensten
+            formaten realität werden.
+
+            experiment, kampagne, happening, installation, film, theater, malerei, zeichnung, vortrag, workshop — ein
+            zusammenspiel vielfältigster kompetenzen, interessen und medien.
+
+            hier ist alles möglich und auch das scheitern ist nicht ausgeschlossen…!
+        </description>
+        <url>http://www.afip-hessen.de/anfahrt.html</url>
+        <foursquare>
+            https://foursquare.com/v/afip--akademie-f%C3%BCr-interdisziplin%C3%A4re-prozesse/5152a734ebca5f53fa64ed90
+        </foursquare>
+        <street>Ludwigstraße 112</street>
+        <zip>63067</zip>
+        <city>Offenbach</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
         <meeting>
             <time>2013-11-18T19:00:00+01:00</time>
             <name>Webmontag Offenbach #4</name>
