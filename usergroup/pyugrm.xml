@@ -34,6 +34,17 @@
         <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
             </ical -->
         <meeting>
+            <time>2013-09-19T19:00:00+02:00</time>
+            <name>9 . Treffen der PyUGRM</name>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20130919</url>
+            <location>
+                <name>Brot &amp; Spiele GmbH</name>
+                <street>Benzstr. 11</street>
+                <zip>61352</zip>
+                <city>Bad Homburg</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-08-20T19:00:00+02:00</time>
             <name>8. Treffen der PyUGRM</name>
             <url>http://wiki.python-forum.de/PyUGRM/Treffen20130820</url>
