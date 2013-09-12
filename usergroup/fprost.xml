@@ -26,6 +26,13 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-09-19T18:00:00+01:00</time>
+            <name>Frankfurter Projekt-Stammtisch #19</name>
+            <url>
+                https://www.xing.com/events/frankfurter-projekt-stammtisch-19-1284229
+            </url>
+        </meeting>
+        <meeting>
             <time>2013-02-21T18:00:00+01:00</time>
             <name>Frankfurter Projekt-Stammtisch #12</name>
             <url>
