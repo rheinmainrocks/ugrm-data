@@ -158,10 +158,14 @@
     </schedule>
     <team>
         <person>
-            <name>Markus Tacker</name>
-            <url>http://tckr.cc/</url>
-            <email>m@tckr.cc</email>
-            <twitter>@markustacker</twitter>
+            <name>Stefan Antoni</name>
+            <url>http://stefan.antoni.io/</url>
+            <email>stefan@antoni.io</email>
+            <twitter>@suchkultur</twitter>
+        </person>
+        <person>
+            <name>Ulrich Petri</name>
+            <twitter>@ulope</twitter>
         </person>
     </team>
     <sponsors>
