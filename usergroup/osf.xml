@@ -31,18 +31,26 @@
         <facebook>http://www.facebook.com/online.stammtisch.frankfurt</facebook>
         <xing>https://www.xing.com/net/online-frankfurt/</xing>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>Mainnizza</name>
+        <url>http://mainnizza.de/</url>
+        <street>Untermainkai 17</street>
+        <zip>60329</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-10-01T19:00:00+02:00</time>
+            <name>OSF 9.0</name>
+            <url>http://frankfurt.online-stammtisch.com/mainnizza-osf-speed-networking-frankfurt-oktober-_id643.html
+            </url>
+        </meeting>
         <meeting>
             <time>2013-03-20T19:00:00+01:00</time>
             <name>OSF 8.0</name>
-            <url>http://frankfurt.online-stammtisch.com/maerz-osf-mainonline-stammtisch-frankfurt-speed-networking-_id596.html</url>
-            <location>
-                <name>Mainnizza</name>
-                <url>http://mainnizza.de/</url>
-                <street>Untermainkai 17</street>
-                <zip>60329</zip>
-                <city>Frankfurt</city>
-            </location>
+            <url>
+                http://frankfurt.online-stammtisch.com/maerz-osf-mainonline-stammtisch-frankfurt-speed-networking-_id596.html
+            </url>
         </meeting>
     </schedule>
 </usergroup>
