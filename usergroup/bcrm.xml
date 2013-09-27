@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>BarCamp RheinMain</name>
+    <nickname>BCRM</nickname>
+    <description>Ein BarCamp ist eine andere Form von Konferenz.
+        Im Gegensatz zu den gewöhnlichen Fachkonferenzen erfolgt der Wissensaustausch bei BarCamps unentgeltlich und
+        gegenseitig. Das heißt, es gibt keine designierten Sprecher, die Beiträge werden allesamt von den Besuchern
+        gestaltet und auch gehalten.
+
+        Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vorträge sind sogar erwünscht. Die
+        Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, um alles andere kümmern sich die
+        Teilnehmer selbst.
+    </description>
+    <url>http://www.barcamp-rheinmain.de/</url>
+    <tags>
+        <tag>BarCamp</tag>
+    </tags>
+    <contact>
+        <email>info@netzkultur-rheinmain.de</email>
+        <twitter>@bc_rm</twitter>
+        <hashtag>#bcrm13</hashtag>
+        <facebook>http://www.facebook.com/BarCampRheinMain</facebook>
+        <googleplus>https://plus.google.com/u/0/106777532284423884475/posts</googleplus>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2013-11-23T08:00:00+01:00</time>
+            <name>BarCamp RheinMain Dieburg 2013</name>
+            <url>http://dieburg2013.barcamp-rheinmain.de/</url>
+            <location>
+                <name>Mediencampus der Hochschule Darmstadt</name>
+                <url>http://mediencampus.h-da.de/campus/anfahrt/</url>
+                <street>Max-Planck-Straße 2</street>
+                <zip>64807</zip>
+                <city>Dieburg</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
