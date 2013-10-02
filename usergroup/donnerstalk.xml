@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
     <name>Donnerstalk im Heimathafen Wiesbaden</name>
     <description>
-        Der Donnerstalk ist ein angeregter Austausch zwischen sympathischen Leuten aus der Region in entspannter Atmosphäre, bei dem Wissenstransfer und Networking auf gelungene Weise kombiniert werden.
+        Der Donnerstalk ist ein angeregter Austausch zwischen sympathischen Leuten aus der Region in entspannter
+        Atmosphäre, bei dem Wissenstransfer und Networking auf gelungene Weise kombiniert werden.
     </description>
     <url>http://heimathafen-wiesbaden.de/category/donnerstalk/</url>
     <tags>
@@ -15,7 +17,9 @@
     </contact>
     <defaultmeetinglocation>
         <name>heimathafen Wiesbaden</name>
-        <description>Der heimathafen Wiesbaden ist ein Coworking Space &amp; Café. Wir vermieten Arbeitsplätze an Kreative &amp; Selbständige, Konferenzräume an Firmen &amp; Agenturen - und verkaufen Kaffee an jedermann.</description>
+        <description>Der heimathafen Wiesbaden ist ein Coworking Space &amp; Café. Wir vermieten Arbeitsplätze an
+            Kreative &amp; Selbständige, Konferenzräume an Firmen &amp; Agenturen - und verkaufen Kaffee an jedermann.
+        </description>
         <url>http://heimathafen-wiesbaden.de/</url>
         <foursquare>https://de.foursquare.com/heimathafenwi</foursquare>
         <twitter>@heimathafenWI</twitter>
@@ -26,9 +30,30 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-10-02T18:30:00+02:00</time>
+            <name>Mittwochs-Donnerstalk zum Thema BIG DATA</name>
+            <description>Snowden, NSA, Prism – die große Datensammelwut ist längst Realität. Doch: Hat sie auch ihr
+                Gutes? Wie kann BIG DATA uns helfen, unsere Produkte, User Experience und Services besser zu machen?
+                Und: Was genau meint BIG DATA eigentlich? Um diese und andere Fragen dreht sich der Donnerstalk im
+                Oktober – diesmal mit einem absoluten Novum: Donnerstalk ist das erste Mal an einem Mittwoch – immerhin
+                wollen wir alle am 03.10. frei haben (dem Tag der deutschen Einheit, an dem unser Café geöffnet sein
+                wird). Der Vortrag lautet: BIG DATA: Zaubertrank für Staaten &amp; Unternehmen, Teufelszeug für Bürger &amp;
+                Kunden?
+
+                Infos und Anmeldung, wie immer, unter http://facebook.com/heimathafenwiesbaden/events
+            </description>
+            <url>http://heimathafen-wiesbaden.de/2013/09/30/premiere-mittwochs-donnerstalk-zum-thema-big-data-am-02-10/</url>
+        </meeting>
+        <meeting>
             <time>2013-09-05T18:30:00+02:00</time>
             <name>Donnerstalk im September: „Entfalte dein (kreatives) Potential!“</name>
-            <description>Welches sind die größten Kreativitätskiller und wann schlagen diese in der Regel zu? Wie viel von unserem (kreativen) Potential leben wir überhaupt aus? Und wie sehr entfalten sich eigentlich „Kreative“ – oder gibt’s da auch noch Luft nach oben? Der Impulsvortrag hat nicht nur Antworten und Mut machen auf Lager. Neben einem ordentlichen Perspektivwechsel wird kräftig reflektiert, um am Ende sagen zu können, „Wow, da steckt wohl auch in mir noch viel mehr, als mir vermeintlich bewusst ist…! Denk- und Umdenkanstöße inklusive.</description>
+            <description>Welches sind die größten Kreativitätskiller und wann schlagen diese in der Regel zu? Wie viel
+                von unserem (kreativen) Potential leben wir überhaupt aus? Und wie sehr entfalten sich eigentlich
+                „Kreative“ – oder gibt’s da auch noch Luft nach oben? Der Impulsvortrag hat nicht nur Antworten und Mut
+                machen auf Lager. Neben einem ordentlichen Perspektivwechsel wird kräftig reflektiert, um am Ende sagen
+                zu können, „Wow, da steckt wohl auch in mir noch viel mehr, als mir vermeintlich bewusst ist…! Denk- und
+                Umdenkanstöße inklusive.
+            </description>
             <url>https://www.xing.com/events/donnerstalk-september-entfalte-kreatives-potential-1281242</url>
         </meeting>
         <meeting>
@@ -36,11 +61,14 @@
             <name>Donnerstalk plus 1 Jahr heimathafen-Feier am 01. August</name>
             <description>
                 Das Thema im August: "Design (your) Thinking"
-                Design Thinking ist eine Art Kreativ-Methode, mit der sich innerhalb kurzer Zeit kreative Ideen &amp; innovative Lösungen entwickeln lassen. Wir lernen den strukturierten, interdisziplinären Prozess des Design Thinking kennen &amp; wenden ihn im konkreten Fall an. Mehr Kreativität? Mehr Innovation? Design (your) Thinking!
+                Design Thinking ist eine Art Kreativ-Methode, mit der sich innerhalb kurzer Zeit kreative Ideen &amp;
+                innovative Lösungen entwickeln lassen. Wir lernen den strukturierten, interdisziplinären Prozess des
+                Design Thinking kennen &amp; wenden ihn im konkreten Fall an. Mehr Kreativität? Mehr Innovation? Design
+                (your) Thinking!
 
-Für den Donnerstalk ist die Anmeldung über XING ist notwendig.
+                Für den Donnerstalk ist die Anmeldung über XING ist notwendig.
             </description>
-	    <url>https://www.xing.com/events/donnerstalkplus-design-your-thinking-1-heimathafen-feier-1279534</url>
+            <url>https://www.xing.com/events/donnerstalkplus-design-your-thinking-1-heimathafen-feier-1279534</url>
         </meeting>
     </schedule>
 </usergroup>
