@@ -35,6 +35,20 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-11-07T19:00:00+01:00</time>
+            <name>6. Agiler Stammtisch Frankfurt</name>
+            <description>Der 6. Agiler Stammtisch wird weiter in einen [Lean-Kaffee/Open Space
+                Format](http://www.leancoffee.org/)
+                fortgesetz. Dieses Format fördert Diskussionen rund um alle wichtigen Themen der
+                Agilität und lebt von den Teilnehmern. Sie sind also herzlich eingeladen, Ihre eigenen Themen
+                mitzubringen.
+
+                Auch werden wir dieses Mal ein Experiment mit ein paar Lightning-Talks am Anfang ausprobieren.
+
+                Getränke und Essen werden von codecentric AG gesponsort.
+            </description>
+        </meeting>
+        <meeting>
             <time>2013-10-02T19:00:00+02:00</time>
             <name>5. Agiler Stammtisch Frankfurt</name>
         </meeting>
