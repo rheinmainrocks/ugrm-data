@@ -21,14 +21,50 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-10-29T19:00:00+01:00</time>
+            <name>Treffen #23 der Softwerkskammer Rhein-Main</name>
+            <description>**Agenda**
+
+                * Vorstellungsrunde
+                * Lightning Talks
+                * Lean Coffee und/oder Book Club
+
+                **Was ist Lean Coffee?**
+
+                Das haben [andere](http://leancoffee.org/) schon sehr gut erklärt. Im Grunde geht es einfach darum, dass
+                wir völlig frei vorab Themen sammeln und diese dann gemeinsam diskutieren. Ihr bestimmt also die Themen
+                selbst.
+
+                **Was ist der Book Club?**
+
+                Hier haben wir einfach unsere vorherige Definition des Book Club angepasst, und lesen nun nicht
+                gemeinsam ein Buch und diskutieren das. Viel mehr kann/soll jeder ein oder mehrere Bücher mitbringen,
+                die er/sie gerne den anderen vorstellen möchte.
+                Du hast also in letzter Zeit ein tolles Buch gelesen, und möchtest anderen darüber erzählen und dich mit
+                ihnen darüber austauschen? Das ist deine Gelegenheit.
+            </description>
+            <url>http://www.softwerkskammer.org/activities/treffen-23-softwerkskammer-rhein-main</url>
+            <location>
+                <name>BridgingIT</name>
+                <description>Die Räume befinden sich im 2. OG unter der o.g. Adresse</description>
+                <url>http://www.bridging-it.de/media/pdf/Wegbeschreibung_Standort_Frankfurt.pdf</url>
+                <twitter>@bridgingIT</twitter>
+                <street>Solmsstraße 4</street>
+                <zip>60486</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-09-30T19:00:00+02:00</time>
             <name>Treffen #22 der Softwerkskammer Rhein-Main</name>
             <description>**Agenda**
 
-            * Vorstellungsrunde
-            * Lean Coffee + Book Market
+                * Vorstellungsrunde
+                * Lean Coffee + Book Market
 
-            **Eine [Anmeldung](http://www.softwerkskammer.org/activities/treffen-22-softwerkskammer-rhein-main) ist erforderlich!**</description>
+                **Eine [Anmeldung](http://www.softwerkskammer.org/activities/treffen-22-softwerkskammer-rhein-main) ist
+                erforderlich!**
+            </description>
             <url>http://www.softwerkskammer.org/activities/treffen-22-softwerkskammer-rhein-main</url>
             <location>
                 <name>Sitewards GmbH</name>
@@ -42,7 +78,9 @@
         <meeting>
             <time>2013-08-28T19:00:00+02:00</time>
             <name>Treffen #21</name>
-            <description>Für dieses Treffen steht kein gesondertes Thema fest. Bringt also mit, was euch interessiert, über das ihr erzählen wollt oder mehr wissen wollt. Evtl. probieren wir auch das Lean Coffee Format aus.</description>
+            <description>Für dieses Treffen steht kein gesondertes Thema fest. Bringt also mit, was euch interessiert,
+                über das ihr erzählen wollt oder mehr wissen wollt. Evtl. probieren wir auch das Lean Coffee Format aus.
+            </description>
             <url>http://www.softwerkskammer.org/activities/treffen-21-softwerkskammer-rhein-main</url>
             <location>
                 <name>1xINTERNET</name>
@@ -57,7 +95,11 @@
         <meeting>
             <time>2013-07-30T19:00:00+02:00</time>
             <name>Treffen #20</name>
-            <description>Wir treffen uns nun schon zum 20.Mal und wollen dieses Mal einen Mini-Coderetreat mit der FizzBuzz Kata machen. D.h. wir wollen FizzBuzz mindesten 3mal, in wechselnden Paaren lösen. Ob wir bei den Sessions Constraints anwenden, klären wir am Abend selbst. Vorab wird es natürlich noch die üblichen Lightning Talks geben.</description>
+            <description>Wir treffen uns nun schon zum 20.Mal und wollen dieses Mal einen Mini-Coderetreat mit der
+                FizzBuzz Kata machen. D.h. wir wollen FizzBuzz mindesten 3mal, in wechselnden Paaren lösen. Ob wir bei
+                den Sessions Constraints anwenden, klären wir am Abend selbst. Vorab wird es natürlich noch die üblichen
+                Lightning Talks geben.
+            </description>
             <url>http://www.softwerkskammer.org/activities/treffen-20-softwerkskammer-rhein-main</url>
             <location>
                 <name>Unterschied &amp; Macher</name>
