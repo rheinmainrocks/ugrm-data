@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
-           female="false">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>TeX-Stammtisch Frankfurt</name>
     <nickname>TeXStammtisch</nickname>
     <description>Austausch zu TeX/LaTeX in Frankfurt.
     </description>
     <url>http://www.lug-frankfurt.de/TeXStammtisch</url>
     <tags>
-        <tag>Latex</tag>
+        <tag>LateX</tag>
         <tag>Tex</tag>
     </tags>
     <contact>
@@ -16,4 +16,19 @@
             <label>Mailingliste</label>
         </mailinglist>
     </contact>
+    <defaultmeetinglocation>
+        <name>Gaststätte Jordan</name>
+        <publictransport>S3, S4, S5 Rödelheim</publictransport>
+        <street>Westerbachstraße 2</street>
+        <zip>60489</zip>
+        <city>Frankfurt am Main</city>
+        <region>Hessen</region>
+        <country>Deutschland</country>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2013-11-28T19:30:00+01:00</time>
+            <name>Stammtisch</name>
+        </meeting>
+    </schedule>
 </usergroup>
