@@ -21,6 +21,44 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-11-27T19:00:00+01:00</time>
+            <name>Treffen #24</name>
+            <description>
+                [Helge Nowak](https://www.xing.com/profile/Helge_Nowak) zeigt uns, was es mit **Wolf-Pack-Programming**
+                auf sich hat!
+
+                Software-Entwicklung ist **Teamarbeit**. Die Kernaufgaben bleiben aber auch in modernen agilen
+                Umgebungen Aufgaben, die von einem Entwickler, oder einem Entwicklerpaar, alleine ausgeführt werden.
+                Nicht nur wir sind der Überzeugung, daß der Übergang zu **Real-Time Collaboration (RTC)**, der
+                synchronen Zusammenarbeitauf feingranularer Ebene, großes Potential für die Verbesserung der Agilität
+                des Teams und der Qualität der Ergebnisse bietet. In diesem Workshop können Entwickler erfahren, wie es
+                ist, Software im Team unter RTC-Bedingungen zu entwickeln.
+
+                Bei Real-Time Collaboration arbeiten die Entwickler gleichzeitig und feingranular an den Artefakten
+                (Tests, Code usw.), separate Integrationsschritte fallen vollständig weg. Das System selbst wird zum
+                Kommunikationskanal. Dieses für Softwareentwickler noch ungewohnte Vorgehen führt zu einer völlig neuen
+                Gruppendynamik und Arbeitsweise. Mit „Wolf Pack Programming“ hat Cincom einen agilen Prozeß für
+                Real-Time Collaboration vorgeschlagen, der verschiedene Rollen und Projektphasen abdeckt. Als Metapher
+                für Wolf Pack Programming dient das Jagdverhalten der Wölfe, bei dem immer das ganze Rudel gemeinsam
+                vorgeht und sehr differenziert auf die jeweilige Situation reagiert.
+
+                In diesem Workshop werden die Teilnehmer eine Programmieraufgabe in einer Web-basierten IDE lösen und
+                dabei die Zusammenarbeit innerhalb eines Teams unter RTC-Bedingungen aus erster Hand erfahren. Im Review
+                am Ende des Workshops können die Teilnehmer ihre Erfahrungen teilen und diskutieren.
+
+                *Voraussetzung für die Teilnahme – neben Spaß an neuen Dingen – sind gute Kenntnisse der
+                objekt-orientierten Konzepte und der sichere Umgang mit modernen IDEs. Jeder Teilnehmer muß einen
+                Rechner mitbringen, der sich in ein lokales WLAN einwählen kann und auf dem ein Firefox-, Safari- oder
+                Chrome-Web-Browser installiert ist.*
+            </description>
+            <location>
+                <name>Telekom AG</name>
+                <street>T-Online-Allee 1</street>
+                <zip>64295</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-10-29T19:00:00+01:00</time>
             <name>Treffen #23 der Softwerkskammer Rhein-Main</name>
             <description>**Agenda**
