@@ -30,6 +30,47 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-11-07T19:00:00+01:00</time>
+            <name>Donnerstalk im November: FUTURE OF WORK</name>
+            <description>
+                Der Donnerstalk im November wird ein Highlight der noch jungen Donnerstalk-Geschichte: Ein
+                hochspannendes Thema - und zwei vielversprechende Speaker: THE FUTURE OF WORK.
+
+                **DAS ENDE DER ARBEIT**
+                Wenn Maschinen uns ersetzen
+                *Johannes Kleske, Co-Founder [ThirdWaveBerlin](http://thirdwaveberlin.com/)*
+
+                Dieser Vortrag hat schon auf der re:publica
+                2013 für Aufsehen gesorgt: Jobs, die bis vor wenigen Jahren noch als sicher galten, können heute von
+                Algorithmen ausgeführt werden. Maschinen übernehmen mehr Arbeit als wir gerade neue schaffen können. Das
+                stellt uns vor die Frage, wie wir eigentlich in Zukunft leben wollen: als Sklaven der Maschinen oder in
+                einem neuen, „digitalen Athen“?
+
+
+                **THE FUTURE OF WORK**
+                Von Human Ressources zu Ressourceful Humans
+                Heiko Fischer, Gründer [Ressourceful Humans](http://www.resourceful-humans.de/)
+
+                Was ist der Sinn und Zweck einer wirtschaftlichen Organisation
+                – Profit, Sinnstiftung, Imagevermehrung, Kunden glücklich machen? Firmen müssen genügend Geld
+                erwirtschaften und Produkte erschaffen, ohne die ihre Kunden etwas vermissen würden. Gute Produkte –
+                geschaffen von Menschen, die Spaß daran haben, sie zu kreieren. Doch wie funktioniert die Balance
+                zwischen ‘Wollen’ und kreativem Schaffen einerseits und ‘Müssen’ und wirtschaftlichem Druck
+                andererseits?
+
+                Der Möglichmacher des Abends, aka Sponsor, liefert gleich selbst das beste Beispiel für den radikalen
+                Versuch eines Neuanfangs in der Arbeitswelt: essquare - we help build organizations of the future
+                by building products for today. http://www.essquare.de/
+
+                Die Vorträge beginnen gegen 19:00 Uhr - die meisten kommen allerdings früher und genießen einen
+                Feierabend-Drink in unserem Café. Nach den Vorträgen wie immer: Feierabendbier (für Durstige) und
+                lockeres Netzwerken (für Jedermann).
+
+                Achtung, Achtung: Bitte über Facebook oder [XING](https://www.xing.com/events/donnerstalk-november-future-of-work-1314977) anmelden!
+            </description>
+            <url>https://www.xing.com/events/donnerstalk-november-future-of-work-1314977</url>
+        </meeting>
+        <meeting>
             <time>2013-10-02T18:30:00+02:00</time>
             <name>Mittwochs-Donnerstalk zum Thema BIG DATA</name>
             <description>Snowden, NSA, Prism – die große Datensammelwut ist längst Realität. Doch: Hat sie auch ihr
@@ -37,12 +78,15 @@
                 Und: Was genau meint BIG DATA eigentlich? Um diese und andere Fragen dreht sich der Donnerstalk im
                 Oktober – diesmal mit einem absoluten Novum: Donnerstalk ist das erste Mal an einem Mittwoch – immerhin
                 wollen wir alle am 03.10. frei haben (dem Tag der deutschen Einheit, an dem unser Café geöffnet sein
-                wird). Der Vortrag lautet: BIG DATA: Zaubertrank für Staaten &amp; Unternehmen, Teufelszeug für Bürger &amp;
+                wird). Der Vortrag lautet: BIG DATA: Zaubertrank für Staaten &amp; Unternehmen, Teufelszeug für Bürger
+                &amp;
                 Kunden?
 
                 Infos und Anmeldung, wie immer, unter http://facebook.com/heimathafenwiesbaden/events
             </description>
-            <url>http://heimathafen-wiesbaden.de/2013/09/30/premiere-mittwochs-donnerstalk-zum-thema-big-data-am-02-10/</url>
+            <url>
+                http://heimathafen-wiesbaden.de/2013/09/30/premiere-mittwochs-donnerstalk-zum-thema-big-data-am-02-10/
+            </url>
         </meeting>
         <meeting>
             <time>2013-09-05T18:30:00+02:00</time>
