@@ -12,10 +12,59 @@
     </tags>
     <schedule>
         <meeting>
+            <time>2013-11-12T19:15:00+01:00</time>
+            <name>Lean Startup Meetup: Value Proposition Canvas für den "Market-Fit"</name>
+            <description>
+                Am 12. November gibt Daniel Bartel uns eine Einführung in den neuen Value Proposition Canvas mit
+                anschließender Diskussion.
+
+                **BESCHREIBUNG ZUM VORTRAG**
+
+                Alexander Osterwalder, Autor des Buches „Business Model Generation“ ist durch das Business Model Canvas
+                bekannt geworden. Das Canvas hilft u.a. Startup-Teams, als gemeinsame Sprache Geschäftsmodelle zu
+                skizzieren und zu iterieren.
+
+                Das neue „Value Proposition Canvas“, welches als „Plug-In“ zum bestehenden Canvas u.a. durch Alexander
+                Osterwalder entwickelt wurde, hilft Teams bei der Erarbeitung der Nutzerversprechen, um „Market-Fit“ zu
+                erlangen.
+
+                Nach einer Einführung mit praktischen Tipps werden wir gemeinsam diese Methode diskutieren und einen
+                Bezug zu Lean Startup, Customer Development &amp; Design Thinking herstellen.
+
+                **REFERENT**
+
+                Als ehemaliger Mitgründer eines erfolgreichen p2p-Carsharing-Startups gilt er mit KoKonsum.org als
+                Experte der Sharing Economy. Als Service Design Thinker berät er und gibt als zertifizierter Trainer im
+                Business Model Canvas u.a. Workshops zu den Themen Lean Startup &amp; Customer Development. Seit 2011
+                organisiert &amp; moderiert er verschiedene Eventformate, u.a. Leancamps, Business Innovation Hackathons &amp;
+                Startup Weekends weltweit. Daniel vertritt zudem den Bundesverbandes Deutsche Startups e.V.
+            </description>
+            <url>https://www.xing.com/events/lean-startup-meetup-value-proposition-canvas-market-fit-1319850</url>
+            <location>
+                <name>Seibert Media GmbH</name>
+                <description>Ganz wichtig! Da der Veranstaltungsort in einem Einkaufszentrum ist, bitte unbedingt die
+                    Wegbeschreibung anschauen.
+                </description>
+                <url>http://www.seibert-media.net/kontakt/wegbeschreibung/index.shtml</url>
+                <twitter>@seibertmedia</twitter>
+                <street>Kirchgasse 6</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-09-11T19:00:00+02:00</time>
             <name>Lean Startup Circle: "Life’s too short to build something nobody wants." - Ash Maurya</name>
-            <description>Mit Blick auf den Running Lean Workshop von Ash Maurya in Frankfurt wollen wir uns (noch einmal) näher mit seinen Methoden und Werkzeugen befassen: Lean Canvas, Lean Stack, 3 principles of running lean. Idealerweise sind wir im Anschluss alle so up-to-date in den Basics der Methodik, dass wir in seinem Workshop am 23/24.9. ein offenes Ohr für seine Beispiele, Lessons und Schlussfolgerungen haben. Paul Herwarth und ich werden etwas vorstellen. Bringt eure Ergänzungen und Fragen gern mit. Wenn es klappt, schalten wir Ash kurz zur Beantwortung von Fragen dazu.</description>
-            <url>https://www.xing.com/events/lean-startup-circle-life-too-short-to-build-something-nobody-wants-ash-maurya-1282045</url>
+            <description>Mit Blick auf den Running Lean Workshop von Ash Maurya in Frankfurt wollen wir uns (noch
+                einmal) näher mit seinen Methoden und Werkzeugen befassen: Lean Canvas, Lean Stack, 3 principles of
+                running lean. Idealerweise sind wir im Anschluss alle so up-to-date in den Basics der Methodik, dass wir
+                in seinem Workshop am 23/24.9. ein offenes Ohr für seine Beispiele, Lessons und Schlussfolgerungen
+                haben. Paul Herwarth und ich werden etwas vorstellen. Bringt eure Ergänzungen und Fragen gern mit. Wenn
+                es klappt, schalten wir Ash kurz zur Beantwortung von Fragen dazu.
+            </description>
+            <url>
+                https://www.xing.com/events/lean-startup-circle-life-too-short-to-build-something-nobody-wants-ash-maurya-1282045
+            </url>
             <location>
                 <name>StartFFM Coworking Space</name>
                 <url>http://www.start-ffm.de/</url>
