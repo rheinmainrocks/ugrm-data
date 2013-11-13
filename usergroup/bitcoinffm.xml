@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" incubator="true">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Bitcoin Frankfurt</name>
     <nickname>BitcoinFFM</nickname>
     <description>Aleksander möchte die Bitcoin-Community für Frankfurt und Rhein-Main aufbauen.</description>
