@@ -27,16 +27,48 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-11-20T19:00:00+01:00</time>
+            <name>Game Programming with Haskell (Part I) - HWebUI Hacking</name>
+            <description>Since many Haskellers actually were not able to join our Hackathon in September and some of
+                them suggested to use the regular meetings for a group hacking event, I thought I take up this idea and
+                present a combined agenda for the next two Meetups as a test.
+
+                To give you additional motivation to join, I added a topic "Game Programming with Haskell" to the agenda
+                of both days. So the plan looks like that:
+
+                20.11. - Game Programming with Haskell (Part I) - HWebUI Hacking
+
+                19:00 Introduction to HGamer3D library (20 min)  
+                Demos of Examples, programmed with HGamer3D (10 min)
+
+                19:30 HWebUI Hacking - bring your laptops
+
+                18.12. - Game Programming with Haskell (Part II) - HWebUI Hacking
+
+                19:00 Cuboid 2 example, a full working geometry game programmed with HGamer3D (30 min)
+
+                19:30 HWebUI Hacking - bring your laptops
+
+                For more information: [hgamer3d.org](http://www.hgamer3d.org), [github.com/frankfurt-haskell-user-group/HWebUI](https://github.com/frankfurt-haskell-user-group/HWebUI).
+            </description>
+            <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/150475662/</url>
+        </meeting>
+        <meeting>
             <time>2013-09-28T10:30:00+02:00</time>
             <name>HWebUI Hackathon</name>
-            <description>Wir treffen uns um 10:30 und starten für einen Tag Haskell. Thema ist HWebUI und Beispielapplikation von Harald.</description>
+            <description>Wir treffen uns um 10:30 und starten für einen Tag Haskell. Thema ist HWebUI und
+                Beispielapplikation von Harald.
+            </description>
             <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/138895112/</url>
         </meeting>
         <meeting>
             <time>2013-06-19T19:00:00+02:00</time>
             <name>FRP mit Netwire + Hackathon Planung</name>
             <description>Da wir beim letzten Meetup mit der Hackathon Planung nicht so richtig weitergekommen sind,
-                diesmal ein neuer Anlauf. Ideen und organisatorische Vorschläge sind gefragt! Damit wir etwas mehr Motivation zum Treffen haben, werde ich außerdem etwas ausführlicher über die netwire bibliothek berichten (http://www.haskell.org/haskellwiki/Netwire). Als "playground" verwende ich eine FRP GUI mit Yesod und netwire als minimaler prototyp!
+                diesmal ein neuer Anlauf. Ideen und organisatorische Vorschläge sind gefragt! Damit wir etwas mehr
+                Motivation zum Treffen haben, werde ich außerdem etwas ausführlicher über die netwire bibliothek
+                berichten (http://www.haskell.org/haskellwiki/Netwire). Als "playground" verwende ich eine FRP GUI mit
+                Yesod und netwire als minimaler prototyp!
             </description>
             <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/122879122/</url>
         </meeting>
