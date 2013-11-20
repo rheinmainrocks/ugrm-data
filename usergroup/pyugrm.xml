@@ -34,6 +34,20 @@
         <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
             </ical -->
         <meeting>
+            <time>2013-11-20T19:00:00+01:00</time>
+            <name>10. Treffen der PyUGRM</name>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20131120</url>
+            <location>
+                <name>Trollhöhle des Chaos Darmstadt</name>
+                <url>https://wiki.chaos-darmstadt.de/wiki/Trollh%C3%B6hle</url>
+                <foursquare>https://foursquare.com/v/trollh%C3%B6hle/5155a0e7e4b0d9a3f3dcde86</foursquare>
+                <twitter>@chaosdarmstadt</twitter>
+                <street>Wilhelm-Leuschner-Straße 36</street>
+                <zip>64293</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-09-19T19:00:00+02:00</time>
             <name>9 . Treffen der PyUGRM</name>
             <url>http://wiki.python-forum.de/PyUGRM/Treffen20130919</url>
@@ -54,7 +68,7 @@
                 <zip>61352</zip>
                 <city>Bad Homburg</city>
             </location>
-        </meeting> 
+        </meeting>
         <meeting>
             <time>2013-06-20T19:00:00+02:00</time>
             <name>7. Treffen der PyUGRM</name>
