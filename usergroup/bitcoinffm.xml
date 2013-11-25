@@ -26,6 +26,11 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-12-12T18:15:00+01:00</time>
+            <name>Treffen Dezember 2013</name>
+            <url>http://www.meetup.com/Bitcoin-Usergroup/events/152611842/</url>
+        </meeting>
+        <meeting>
             <time>2013-11-14T18:15:00+01:00</time>
             <name>Treffen November 2013</name>
             <description>Bundesverband Bitcoin on the road with Jörg Platzer and JF Gallas from Berlin.</description>
