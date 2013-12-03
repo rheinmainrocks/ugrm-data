@@ -35,6 +35,20 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2013-12-05T19:00:00+01:00</time>
+            <name>7. Agiler Stammtisch Frankfurt</name>
+            <description>
+                Der 7. Stammtisch fängt mit einem kurzen Impulsvortrag (Lighting Talk) an.
+                Jeder Teilnehmer darf ein eigene Thema mitbringen und kurz präsentieren.
+                Dann wird der Stammtisch weiter  in einem Lean-Kaffee-Format (www.leancoffee.org) fortgesetzt.
+                Dieses Format fördert Diskussionen rund um alle wichtigen Themen der Agilität und lebt von den Teilnehmern,
+                Sie sind also herzlich eingeladen, Ihre eigenen Themen und  Fälle mitzubringen.
+
+                Getränke und Essen werden von codecentric AG gesponsert.
+            </description>
+            <url>https://www.xing.com/events/7-agiler-stammtisch-frankfurt-1333268</url>
+        </meeting>
+        <meeting>
             <time>2013-11-07T19:00:00+01:00</time>
             <name>6. Agiler Stammtisch Frankfurt</name>
             <description>Der 6. Agiler Stammtisch wird weiter in einen [Lean-Kaffee/Open Space
