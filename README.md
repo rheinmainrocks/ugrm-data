@@ -38,7 +38,7 @@ Also:
 
 ## Tests
 
-[![Build Status](https://travis-ci.org/tacker/ugrm-data.png?branch=master)](https://travis-ci.org/tacker/ugrm-data)
+[![Build Status](https://travis-ci.org/coderbyheart/ugrm-data.png?branch=master)](https://travis-ci.org/coderbyheart/ugrm-data)
 
 Die XML-Daten werden  mithilfe eines ant build-Scripts getestet. 
 Hierzu einfach ``$ ant test`` ausführen. 
