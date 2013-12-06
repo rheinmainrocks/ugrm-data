@@ -21,6 +21,19 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
     </contact>
 	<schedule>
 		<meeting>
+            <time>2014-01-16T19:00:00+01:00</time>
+            <name>#4 - STUGRM Treffen im Januar</name>
+			<description>Diesmal mit dem Vortrag: "Wie wir mehr Tests generieren und warum wir weniger Tests brauchen". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
+            <url>https://www.xing.com/events/januar-treffen-software-test-user-group-rhein-main-1337084</url>
+            <location>
+                <name>AOE GmbH</name>
+				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
+                <street>Borsigstr. 3</street>
+                <zip>65205</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+		<meeting>
             <time>2013-11-21T19:00:00+01:00</time>
             <name>#3 - STUGRM Treffen im November</name>
 			<description>Diesmal mit dem Vortrag: "Modultest mit Tessy". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
