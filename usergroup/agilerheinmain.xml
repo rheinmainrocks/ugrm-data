@@ -15,12 +15,38 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2013-12-19T18:30:00+01:00</time>
+            <name>Weihnachtstreffen der Agile Usergroup bei Amadeus Germany inkl. Lessons Learned von 2013</name>
+            <description>
+                Unser letztes Treffen in diesem Jahr werden wir bei der Amadeus Germany GmbH in Bad Homburg durchführen.
+                Ab 18.30 Uhr treffen wir uns dort, das Programm startet um 19.00 Uhr.
+
+                Unsere Programmpunkte des Abends:
+
+                1. Amadeus stellt sich vor
+                1. Agile bei Amadeus (eventl.)
+                1. Die Methode "Kollektives Coaching" am Beispiel von Lessons Learned aus der Agile Usergroup Rhein Main
+            </description>
+            <url>
+                https://www.xing.com/events/weihnachtstreffen-agile-usergroup-amadeus-germany-inkl-lessons-learned-2013-1336890
+            </url>
+            <location>
+                <name>Amadeus Germany GmbH</name>
+                <twitter>@Amadeus</twitter>
+                <street>Marienbader Platz 1</street>
+                <zip>61348</zip>
+                <city>Bad Homburg</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-09-19T19:00:00+02:00</time>
             <name>September-Treffen der Agile Usergroup Rhein-Main: Kanban intermediate</name>
             <description>
-                ETECTURE lädt uns für unser September-Treffen unter der Moderation von Kurt Jäger zu einem Vortrag von Kurt Häusler zum Thema "Kanban Intermediate" nach Frankfurt ein.
+                ETECTURE lädt uns für unser September-Treffen unter der Moderation von Kurt Jäger zu einem Vortrag von
+                Kurt Häusler zum Thema "Kanban Intermediate" nach Frankfurt ein.
 
-                In seinem Vortrag wird Kurt Häusler, der sich seit vielen Jahren intensiv mit Kanban beschäftigt, unter anderem die folgenden Aspekte ansprechen:
+                In seinem Vortrag wird Kurt Häusler, der sich seit vielen Jahren intensiv mit Kanban beschäftigt, unter
+                anderem die folgenden Aspekte ansprechen:
 
                 * Missverständnisse über Kanban
                 * Unterschiedliche Arten von Kanban und Change
@@ -36,9 +62,12 @@
                 * Training und Zertifizierung
                 * Die neuesten Ideen aus den Konferenzen und Leadership Retreat
 
-                Die Teilnahme ist kostenfrei möglich. Um [Anmeldung](https://www.xing.com/events/september-treffen-agile-usergroup-rhein-main-kanban-intermediate-1289278) wird gebeten.
+                Die Teilnahme ist kostenfrei möglich. Um
+                [Anmeldung](https://www.xing.com/events/september-treffen-agile-usergroup-rhein-main-kanban-intermediate-1289278)
+                wird gebeten.
             </description>
-            <url>https://www.xing.com/events/september-treffen-agile-usergroup-rhein-main-kanban-intermediate-1289278</url>
+            <url>https://www.xing.com/events/september-treffen-agile-usergroup-rhein-main-kanban-intermediate-1289278
+            </url>
             <location>
                 <name>ETECTURE GmbH</name>
                 <url>http://www.etecture.de/en/Contact</url>
@@ -51,10 +80,13 @@
         </meeting>
         <meeting>
             <time>2013-08-15T19:00:00+02:00</time>
-            <name>August Treffen der Agile Rhein-Main Usergroup:Show me the money, or: How to pay employees in an agile organisation</name>
-            <description>Wir laden herzlich zum  August Treffen der Agile Usergroup Rhein-Main ein.
+            <name>August Treffen der Agile Rhein-Main Usergroup:Show me the money, or: How to pay employees in an agile
+                organisation
+            </name>
+            <description>Wir laden herzlich zum August Treffen der Agile Usergroup Rhein-Main ein.
                 Show me the money, or: How to pay employees in an agile organisation.
-                Vortrag von Christof Braun.</description>
+                Vortrag von Christof Braun.
+            </description>
             <location>
                 <name>AOE media GmbH</name>
                 <url>http://www.aoemedia.de/anfahrtsbeschreibung.html</url>
