@@ -15,6 +15,34 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-01-16T19:00:00+01:00</time>
+            <name>Januar-Treffen der Agile Usergroup Rhein-Main: Agile Verträge</name>
+            <description>
+                Wir freuen uns am 16. Januar auf Besuch aus Würzburg. Björn Schotte (MAYFLOWER GmbH) wird einen Vortrag
+                zu agilen Verträgen halten.
+
+                Wir treffen uns ab 19.00 Uhr. Der Vortrag startet um 19.30 Uhr.
+
+                **Das Thema**
+
+                Agile Methoden in Softwareprojekten ergeben ein geändertes Verständnis von Projektarbeit. Vertrauen und
+                Kooperation tritt in den Vordergrund. Wie sich dies auf die Vertragsgestaltung auswirkt und warum
+                klassisch verhandelte Verträge dafür nicht mehr ausreichen, soll dieser Vortrag aufzeigen. Beleuchtet
+                werden verschiedene Vertrags- und Vorgehensmodelle in agilen Softwareprojekten.
+
+                Dabei geben wir den Klassikern "Times &amp; Material" sowie "Werkvertrags-Konstrukt" eine Chance und
+                betrachten, welche Hürden es hierbei zu umschiffen gilt, um Vertrauen und Kooperation in Projekten zu
+                ermöglichen.
+
+                **Der Referent**
+
+                Björn Schotte ist Geschäftsführer der MAYFLOWER GmbH und Senior Consultant. Er berät Kunden bei der
+                Produktentwicklung und dem Einsatz agiler Methoden für Online und Mobile Projekte. Er ist auf twitter
+                unter [@BjoernSchotte](https://twitter.com/BjoernSchotte) oder auf Xing unter
+                https://www.xing.com/profiles/Bjoern_Schotte zu erreichen.
+            </description>
+        </meeting>
+        <meeting>
             <time>2013-12-19T18:30:00+01:00</time>
             <name>Weihnachtstreffen der Agile Usergroup bei Amadeus Germany inkl. Lessons Learned von 2013</name>
             <description>
