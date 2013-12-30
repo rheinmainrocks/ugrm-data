@@ -15,6 +15,27 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-02-20T19:00:00+01:00</time>
+            <name>Februar-Treffen der Agile Usergroup Rhein-Main: Pecha Kucha-Abend</name>
+            <description>Unser Februar-Treffen der Agile Usergroup Rhein-Main findet in Frankfurt am Main bei der
+                Cocomore AG statt.
+
+                Wir werden an diesem Abend verschiedene Themen im Pecha Kucha-Format hören und anschließend in kleineren
+                Gruppen die Themen vertiefen.
+
+                Wer gerne einen Kurzvortrag beisteuern möchte, schreibt bitte kurz an pherwarth@seibert-media.net.
+            </description>
+            <location>
+                <name>Cocomore AG</name>
+                <url>http://www.cocomore.de/ueberuns/frankfurt-am-main</url>
+                <foursquare>https://foursquare.com/v/cocomore-ag/4c2d92cc1683b713eb6326ec</foursquare>
+                <twitter>@CocomoreAG</twitter>
+                <street>Gutleutstraße 30</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-01-16T19:00:00+01:00</time>
             <name>Januar-Treffen der Agile Usergroup Rhein-Main: Agile Verträge</name>
             <description>
