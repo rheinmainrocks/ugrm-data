@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" incubator="true">
+    <name>OpenTechSchool RheinMain</name>
+    <nickname>OTSRM</nickname>
+    <description>The RheinMain area is a huge area around Frankfurt where many web technology startups have their
+        headquarters. Anyone coming from the area is welcomed to join OTS RheinMain! We want to connect the developers,
+        designers and curious people in that area and share knowledge and expertise with them.
+
+        **About OpenTechSchool**
+
+        OpenTechSchool is a community initiative offering free programming workshops and meetups to technology
+        enthusiasts of all genders, backgrounds, and experience levels. It supports volunteer coaches in setting up
+        events by taking care of the organizational details, encouraging coaches to create original teaching material.
+        This material is then openly shared online and can be further developed by contributions from the global OTS
+        community. OTS’ main goal is to create a friendly learning environment where no one feels shy about asking any
+        question. Everyone is invited to participate, whether as a coach or a learner, and get in contact to organize
+        OTS events anywhere in the world.
+    </description>
+    <url>http://www.opentechschool.org/rheinmain/</url>
+    <tags>
+        <tag>Technology</tag>
+        <tag>Programming</tag>
+    </tags>
+    <contact>
+        <twitter>@OTS_RM</twitter>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2014-01-22T18:30:00+01:00</time>
+            <name>Create Visions, Brainstorm &amp; draft a roadmap for 2014</name>
+            <description>Guys,
+
+                here's our 'preliminary' agenda, additional points welcome
+
+                18:30 doors open, socialising
+
+                18:35 Open Soup Buffet (Minestrone &amp; Yummy Bread)
+
+                19:00- 21:00 @OTS_RM Meeting
+
+                - Intros
+                - Agenda review
+                - Brainstorm
+                - Vision
+                - Roadmap
+                - Tasks Q1 2014
+
+                21:00 - 22:00 Networking
+
+                22:15 Tidy up
+
+                22:30 End of Meetup
+            </description>
+            <url>http://www.meetup.com/opentechschool-rheinmain/events/157975632/</url>
+            <location>
+                <name>LAB75 Design</name>
+                <url>http://lab75.jp/de/contact/</url>
+                <street>Arnsburger Strasse 62</street>
+                <zip>60385</zip>
+                <city>Frankfurt am Main</city>
+            </location>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Darren Cooper</name>
+            <email>darren@opentechschool.org</email>
+            <twitter>@dc7590</twitter>
+        </person>
+        <person>
+            <name>Christoph Martens</name>
+            <email>christoph@opentechscool.org</email>
+            <twitter>@martensms</twitter>
+        </person>
+    </team>
+</usergroup>
