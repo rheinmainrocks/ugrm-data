@@ -35,5 +35,33 @@
                 <country>Deutschland</country>
             </location>
         </meeting>
+        <meeting>
+            <time>2014-01-13T19:00:00+01:00</time>
+            <name>Stammtisch</name>
+            <location>
+                <name>Hotel Sandelmühle</name>
+                <url>http://www.sandelmuehle.com/</url>
+                <publictransport>U1, U2, U3, U8 Heddernheim</publictransport>
+                <street>An der Sandelmühle 35</street>
+                <zip>60439</zip>
+                <city>Frankfurt am Main</city>
+                <region>Hessen</region>
+                <country>Deutschland</country>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2014-01-28T19:00:00+01:00</time>
+            <name>Jahreshauptversammlung FraLUG e.V.</name>
+            <location>
+                <name>Saalbau Haus Gallus</name>
+                <url>http://www.saalbau.com/die-frankfurter-saalbauten-raumangebot/saalbau-gallus.html</url>
+                <publictransport>S3, S4, S5, S6 Galluswarte</publictransport>
+                <street>Frankenallee 111</street>
+                <zip>60439</zip>
+                <city>Frankfurt am Main</city>
+                <region>Hessen</region>
+                <country>Deutschland</country>
+            </location>
+        </meeting>
     </schedule>
 </usergroup>
