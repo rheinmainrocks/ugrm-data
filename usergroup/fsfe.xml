@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Free Software Foundation Europe Fellowship Rhein-Main</name>
-<nickname>FSFE</nickname>
-    <description>
-Treffen der Regional-Gruppe Rhein-Main der Free Software Foundation Europe.
-    </description>
+    <nickname>FSFE</nickname>
+    <description>Treffen der Regional-Gruppe Rhein-Main der Free Software Foundation Europe.</description>
     <url>http://wiki.fsfe.org/groups/Rhein-Main</url>
     <tags>
         <tag>Free Software</tag>
         <tag>Open Source</tag>
     </tags>
+    <defaultmeetinglocation>
+        <name>Club Voltaire</name>
+        <publictransport>Hauptwache</publictransport>
+        <street>Kleine Hochstraße 5</street>
+        <zip>60313</zip>
+        <city>Frankfurt am Main</city>
+        <region>Hessen</region>
+        <country>Deutschland</country>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-01-08T19:00:00+01:00</time>
+            <name>Fellowship Meeting</name>
+            <url>https://wiki.fsfe.org/FellowshipEvents/Rhein-Main%202014-01-08</url>
+        </meeting>
+    </schedule>
 </usergroup>
