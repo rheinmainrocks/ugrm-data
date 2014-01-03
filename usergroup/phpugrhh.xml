@@ -28,6 +28,26 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-01-14T19:00:00+01:00</time>
+            <name>30. Treffen der PHPUG Rheinhessen</name>
+            <description>
+                Bei unserem dreißigsten Treffen dreht sich alles um "NoSQL", also um Datenbanken, die einen nicht-relationalen Ansatz verfolgen - und wie man sie unter PHP benutzt.
+                Dazu haben wir zwei Vorträge geplant:
+                - „NoSQL - Überblick und Theorie“ von Achim Liese
+                - „PHP &amp; MongoDB“ von Christian Münch
+                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung! Die Teilnahme ist wie immer kostenlos.
+            </description>
+            <url>https://www.xing.com/events/30-treffen-phpug-rheinhessen-1343762</url>
+            <location>
+                <name>netz98 new media GmbH</name>
+                <url>http://www.netz98.de/</url>
+                <publictransport>Bushaltestellen am Gutenberg-Center</publictransport>
+                <street>Haifa-Allee 2</street>
+                <zip>55128</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-11-12T19:00:00+01:00</time>
             <name>29. Treffen der PHPUG Rheinhessen</name>
             <description>
