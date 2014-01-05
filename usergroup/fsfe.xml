@@ -10,6 +10,7 @@
     </tags>
     <defaultmeetinglocation>
         <name>Club Voltaire</name>
+        <url>http://www.club-voltaire.de/</url>
         <publictransport>Hauptwache</publictransport>
         <street>Kleine Hochstraße 5</street>
         <zip>60313</zip>
@@ -22,6 +23,16 @@
             <time>2014-01-08T19:00:00+01:00</time>
             <name>Fellowship Meeting</name>
             <url>https://wiki.fsfe.org/FellowshipEvents/Rhein-Main%202014-01-08</url>
+            <location>
+                <name>Café Albatros</name>
+                <url>http://www.cafe-albatros.de/</url>
+                <publictransport>U4, U6, U7, Tram 16 Bockenheimer Warte. S3, S4, S5 Frankfurt West</publictransport>
+                <street>Kiesstraße 27</street>
+                <zip>60486</zip>
+                <city>Frankfurt am Main</city>
+                <region>Hessen</region>
+                <country>Deutschland</country>
+            </location>
         </meeting>
     </schedule>
 </usergroup>
