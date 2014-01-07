@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Regionalgruppe RheinMain der Gesellschaft für Informatik e.V.</name>
+    <nickname>GIRM</nickname>
+    <description markdown="true">Die GI-Rhein-Main ist ein Treffpunkt für Informatiker und IT-Experten im
+        Rhein-Main-Gebiet.
+
+        Die GI-Rhein-Main ist eine Regionalgruppe der [Gesellschaft für Informatik](http://www.gi.de/), der [IEEE
+        Computer Society](http://www.computer.org/) und des
+        [German Chapter of the ACM](http://www.informatik.org/), der deutschen Abteilung der [Association of Computing
+        Machinery](http://www.acm.org/).
+
+        Die GI-Rhein-Main organisiert seit 1989 Veranstaltungen zu aktuellen Themen der Informatik. Die Veranstaltungen
+        sind öffentlich, eine Mitgliedschaft ist nicht erforderlich.
+
+        Wichtig ist dabei die praktische Anwendung der Gedankenaustausch. Was bringt das? Welche Erfahrungen und
+        Anforderungen sind in der Praxis relevant?
+
+        Wir haben ein breites Spektrum an Themen aus der Praxis und den Hochschulen. Zu den Veranstaltungen kommen
+        erfahrungsgemäß etwa 20 bis 100 Teilnehmer. Der größte Teil der Teilnehmer kommt aus der EDV-Anwendung (Banken,
+        Versicherungen usw.) und der EDV-Branche (z.B. Software AG, IBM, SAP, Telekom, ...), ein kleinerer Teil von den
+        Hochschulen und Instituten der Region (z.B. TU Darmstadt, Uni Frankfurt, Fraunhofer).
+
+        Der Arbeitskreis Freiberufler und Selbständige in der Regionalgruppe trifft sich ebenfalls regelmäßig. Wer einen
+        Freiberufler sucht oder selbst als Freiberufler tätig ist, ist dort richtig.
+
+        Die Regionalgruppe Rhein-Main ist unbürokratisch organisiert. Das Organisationsteam ist offen für Anregungen,
+        Kritik und neue Ideen. Wollen Sie die Regionalgruppe aktiv mitgestalten? Sie sind herzlich willkommen. Bitte
+        nehmen Sie Kontakt mit uns auf.
+    </description>
+    <url>http://www.gi-rhein-main.de/</url>
+    <tags>
+        <tag>Informatik</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2014-01-30T18:00:00+01:00</time>
+            <name>Apps überall: welche Auswirkungen hat das auf bestehende Kernanwendungen?</name>
+            <description>mit Impulsvorträgen von
+
+                * Susanne Braun (Fraunhofer IGD)
+                * Dr. Marion Kremer (Capgemini)
+                * Claudia Ristow (Deutsche Lufthansa)
+
+                Heute werden bereits mehr mobile Endgeräte verkauft als stationäre PCs, sehr viele Menschen in
+                Deutschland haben ein Smartphone. Kinder und Jugendliche wachsen wie selbstverständlich damit auf.
+                Gleichzeitig haben fast alle großen Unternehmen und Behörden bestehende Anwendungen, die als Host- oder
+                Client-Server-Anwendungen gebaut wurden und die jetzt in diese neue smarte Welt integriert werden sollen
+                und müssen. Im Rahmen dieser Veranstaltung werden wir zunächst in drei Impulsvorträgen unterschiedliche
+                Facetten des Themas beleuchten und freuen uns dann auf eine intensive Diskussion mit Ihnen.
+
+                Der Vortrag richtet sich an alle Interessierten aus Wirtschaft, öffentlicher Verwaltung und
+                Wissenschaft, die sehen möchten, wie die Welt der Apps auch die Bereiche der IT verändern wird, die
+                zunächst gar nicht betroffen wirken.
+
+                Die Teilnahme ist kostenlos. Im Anschluss an den Vortrag lädt das IGD zu einem Get-Together ein.
+            </description>
+            <url>
+                http://www.eventbrite.de/e/apps-uberall-welche-auswirkungen-hat-das-auf-bestehende-kernanwendungen-tickets-9879634252
+            </url>
+            <location>
+                <name>Fraunhofer Institute for Computer Graphics Research IGD</name>
+                <url>https://www.igd.fraunhofer.de/</url>
+                <street>Fraunhoferstr. 5</street>
+                <zip>64283</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Dr. Joachim Rix</name>
+            <email>joachim.rix@igd.fraunhofer.de</email>
+        </person>
+    </team>
+</usergroup>
