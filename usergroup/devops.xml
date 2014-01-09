@@ -31,7 +31,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2013-06-25T19:00:00+02:00</time>
+            <time>2013-06-25T19:00:00+01:00</time>
             <name>Devops FFM - Meetup #3 - Chef Best Practices &amp; Pitfalls</name>
             <url>http://www.meetup.com/DevOps-Frankfurt/events/123859392/</url>
         </meeting>
