@@ -3,7 +3,7 @@
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>#SchnitzelFFM</name>
     <description>Gemütliches Beisammensein bei Frankfurter Schnitzel.</description>
-    <url>http://schnitzelffm.de/</url>
+    <url>http://www.schnitzelffm.de/</url>
     <tags>
         <tag>Schnitzel</tag>
         <tag>Frankfurt</tag>
