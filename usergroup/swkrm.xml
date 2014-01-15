@@ -21,11 +21,30 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-01-27T19:00:00+01:00</time>
+            <name>Treffen #26</name>
+            <description>
+                **Agenda**
+
+                Wir haben noch kein spezielles Thema, daher sieht die Agenda noch sehr übersichtlich aus. Wer Wünsche
+                oder Vorschläge hat, kann die hier natürlich sehr gerne anbringen.
+            </description>
+            <url>http://www.softwerkskammer.org/activities/treffen-26-softwerkskammer-rhein-main</url>
+            <location>
+                <name>Vaamo Finanz AG</name>
+                <url>http://www.vaamo.de/</url>
+                <twitter>@TeamVaamo</twitter>
+                <street>Mainzer Landstr. 250-254</street>
+                <zip>60326</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-12-17T19:00:00+01:00</time>
             <name>Treffen #25</name>
             <description>
                 **Agenda**
-                
+
                 * Vorstellungsrunde
                 * Lightning Talks
                 * Bunt gemischtes, evtl. Lean Coffee
