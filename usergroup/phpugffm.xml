@@ -25,6 +25,27 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-01-30T19:00:00+01:00</time>
+            <name>PHPUGFFM I / 2014</name>
+            <description>
+                **Agenda:**
+
+                * 19:00 Ankommen
+                * 19:10 Intro
+                * 19:15 Stephan Hochdoerfer – PostgreSQL als NoSQL-Datenbank nutzen
+                * 20:00 Pause
+                * 20:15 Andreas Heigl – “… und jetzt machen wir ein PDF!”
+                * ab 21:00 Epilog / Networking
+            </description>
+            <url>http://www.phpugffm.de/veranstaltungen-2/1-treffen-2014/</url>
+            <location>
+                <name>créémedia</name>
+                <street>Hanauer Landstraße 163-171</street>
+                <zip>60314</zip>
+                <city>Frankfurt am Main</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-09-19T19:00:00+02:00</time>
             <name>PHPUGFFM IV / 2013</name>
             <url>http://www.phpugffm.de/veranstaltungen-2/phpugffm-iv-2013/</url>
