@@ -34,5 +34,20 @@
                 <country>Deutschland</country>
             </location>
         </meeting>
+        <meeting>
+            <time>2014-02-05T19:00:00+01:00</time> <!-- FIXME exact time when announced -->
+            <name>Fellowship Meeting</name>
+            <url>https://wiki.fsfe.org/FellowshipEvents/Rhein-Main%202014-02-05</url>
+            <location>
+                <name>Kneipe 41</name>
+                <url>http://www.kneipe41.de/</url>
+                <publictransport>Bus L Kahlertstraße, Bus 751 Bus 5515 Pallaswiesenstraße</publictransport>
+                <street>Kahlertstraße 41</street>
+                <zip>64293</zip>
+                <city>Darmstadt</city>
+                <region>Hessen</region>
+                <country>Deutschland</country>
+            </location>
+        </meeting>
     </schedule>
 </usergroup>
