@@ -27,6 +27,21 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-01-22T19:00:00+01:00</time>
+            <name>Elixir - Erlang für das 21ste Jahrhundert</name>
+            <description>Wir begrüßen Steffen Bauer aus Karlsruhe:
+
+                Im Vortrag soll es um die junge Programmiersprache Elixir gehen, die auf der Erlang VM aufbaut.
+                Erlang mit der dazugehörigen VM ist eine funktionale Programmiersprache im Produktiveinsatz (z.B.:
+                ejabberd, CouchDB), die speziell für hochverfügbare, verteilte und robuste Systeme geeignet ist.
+
+                Leider ist Erlang doch etwas betagt. Das Elixir Projekt wurde ins Leben gerufen, um die Erlang VM für
+                aktuelle Softwareentwicklung zu modernisieren, mit einer von Ruby inspirierten Syntax, Unterstützung für
+                Metaprogramming und DSLs, sowie Tools für Projektverwaltung, Unit Testing und Automated Documentation.
+            </description>
+            <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/158370652</url>
+        </meeting>
+        <meeting>
             <time>2013-11-20T19:00:00+01:00</time>
             <name>Game Programming with Haskell (Part I) - HWebUI Hacking</name>
             <description>Since many Haskellers actually were not able to join our Hackathon in September and some of
@@ -38,7 +53,7 @@
 
                 20.11. - Game Programming with Haskell (Part I) - HWebUI Hacking
 
-                19:00 Introduction to HGamer3D library (20 min)  
+                19:00 Introduction to HGamer3D library (20 min)
                 Demos of Examples, programmed with HGamer3D (10 min)
 
                 19:30 HWebUI Hacking - bring your laptops
@@ -49,7 +64,8 @@
 
                 19:30 HWebUI Hacking - bring your laptops
 
-                For more information: [hgamer3d.org](http://www.hgamer3d.org), [github.com/frankfurt-haskell-user-group/HWebUI](https://github.com/frankfurt-haskell-user-group/HWebUI).
+                For more information: [hgamer3d.org](http://www.hgamer3d.org),
+                [github.com/frankfurt-haskell-user-group/HWebUI](https://github.com/frankfurt-haskell-user-group/HWebUI).
             </description>
             <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/150475662/</url>
         </meeting>
