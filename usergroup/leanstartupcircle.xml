@@ -12,6 +12,27 @@
     </tags>
     <schedule>
         <meeting>
+            <time>2014-01-29T18:30:00+01:00</time>
+            <name>Januar-Treffen des Lean Startup Circles FrankfurtRheinMain</name>
+            <description>Unser Januar-Treffen des Lean Startup Circles FrankfurtRheinMain findet im Co-Working-Space
+                Königstein statt.
+
+                Zunächst wird Dr. Christiane Gerigk eine kurze Einführung in das Thema "Lean Startup" geben, um auch
+                Neulingen bei unseren Treffen einen thematischen Einstieg zu bieten.
+
+                Es folgt ein Vortrag von Paul Herwarth von Bittenfeld: "Die Geschichte eines Startups - Weshalb Du
+                darüber nachdenken solltest, ein "Lean Startup" zu sein".
+            </description>
+            <url>https://www.xing.com/events/januar-treffen-lean-startup-circles-frankfurtrheinmain-1342227</url>
+            <location>
+                <name>Coworking Space Königstein</name>
+                <url>http://www.coworking-koenigstein.de/kontakt-und-anfahrt/#Anreise</url>
+                <street>Limburger Straße 28</street>
+                <zip>61462</zip>
+                <city>Königstein im Taunus</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-11-12T19:15:00+01:00</time>
             <name>Lean Startup Meetup: Value Proposition Canvas für den "Market-Fit"</name>
             <description>
