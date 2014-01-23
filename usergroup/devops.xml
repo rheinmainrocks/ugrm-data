@@ -31,6 +31,17 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-02-17T19:00:00+01:00</time>
+            <name>Talk DevOps with Mathias Mayer (@roidrage) from Travis CI</name>
+            <description>Mathias Mayer ([@roidrage](https://twitter.com/roidrage)) of Travis CI fame agreed to visit us,
+                and talk DevOps with us.
+
+                The exact topic is not defined yet, but will very likely be in the area of building distributed systems,
+                resilience and human factors in DevOps.
+            </description>
+            <url>http://www.meetup.com/DevOps-Frankfurt/events/161991472/</url>
+        </meeting>
+        <meeting>
             <time>2013-11-26T19:00:00+01:00</time>
             <name>Devops FFM - Meetup #4 - Puppet Best Practices &amp; Pitfalls</name>
             <url>http://www.meetup.com/DevOps-Frankfurt/events/148981502/</url>
