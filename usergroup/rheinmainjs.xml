@@ -3,7 +3,7 @@
     <name>JavaScript User Group für Wiesbaden und Rhein-Main</name>
     <nickname>RheinMainJS</nickname>
     <description>RheinMainJS ist eine User Group zum Thema JavaScript und angrenzende Gebiete wie mobile Entwicklung.
-        Wir treffen uns zurzeit in unregelmäßigen Abständen in Wiesbaden. Die Teilnahme steht dabei offen und ist
+        Wir treffen uns zurzeit in unregelmäßigen Abständen in Wiesbaden und Mainz. Die Teilnahme steht dabei offen und ist
         kostenlos. Bei jedem Treffen werden in der Regel zwei Vorträge mit anschließender Diskussion gehalten.
     </description>
     <url>http://rheinmainjs.de/</url>
@@ -17,14 +17,16 @@
     </contact>
     <schedule>
         <meeting>
-            <time>2012-09-03T19:00:00+02:00</time>
-            <name>1. Treffen der JavaScript User Group Wiesbaden</name>
-            <url>https://plus.google.com/u/0/events/crr2ur59a156c9kfljj24nif6gc</url>
+            <time>2014-02-13T19:00:00+01:00</time>
+            <name>4. Treffen der JavaScript User Group Rhein-Main</name>
+            <url>https://plus.google.com/events/cm473qjqm2e6kqko6dah67ftlhs</url>
             <location>
-                <name>Seibert Media GmbH</name>
-                <street>Kirchgasse 6</street>
-                <zip>65185</zip>
-                <city>Wiesbaden</city>
+                <name>mediaman GmbH, Mainz</name>
+                <url>http://mediaman.com/de/agency/</url>
+                <twitter>@mediamanGroup</twitter>
+                <street>Quintinsstraße 16</street>
+                <zip>55116</zip>
+                <city>Mainz</city>
             </location>
         </meeting>
         <meeting>
@@ -39,24 +41,37 @@
             </location>
         </meeting>
         <meeting>
-            <time>2013-03-04T19:00:00+01:00</time>
-            <name>3. Treffen der JavaScript User Group Wiesbaden</name>
-            <url>https://plus.google.com/events/c0t9i6tbhjarhi95gaijtf492mc</url>
+            <time>2012-09-03T19:00:00+02:00</time>
+            <name>1. Treffen der JavaScript User Group Wiesbaden</name>
+            <url>https://plus.google.com/u/0/events/crr2ur59a156c9kfljj24nif6gc</url>
             <location>
-                <name>heimathafen Wiesbaden</name>
-                <description>
-                    Unsere Vision ist es, eine Plattform zu schaffen. Eine Plattform für Kreative &amp; Wissensarbeiter,
-                    für Freiberufler &amp; Startups, für Selbstständige und Agenturen in Wiesbaden.
-                </description>
-                <url>http://heimathafen-wiesbaden.de/</url>
-                <twitter>@heimathafenWI</twitter>
-                <publictransport>Mit den Buslinien 3, 6, 16, 28, 33, 36, 60, 67 zur Haltestelle Adelheidstraße (2 Minuten Fußweg)</publictransport>
-                <street>Karlstraße 22</street>
+                <name>Seibert Media GmbH</name>
+                <street>Kirchgasse 6</street>
                 <zip>65185</zip>
                 <city>Wiesbaden</city>
             </location>
         </meeting>
     </schedule>
+    <team>
+        <person>
+            <name>Reto Kiefer</name>
+            <url>http://www.retokiefer.com/</url>
+            <email>orga@rheinmainjs.de</email>
+            <twitter>@retokiefer</twitter>
+        </person>
+        <person>
+            <name>Matthias Gutjahr</name>
+            <url>http://matthias-gutjahr.de</url>
+            <email>orga@rheinmainjs.de</email>
+            <twitter>@mattsches</twitter>
+        </person>
+        <person>
+            <name>Carsten Sandtner</name>
+            <url>http://appsbu.de/</url>
+            <email>orga@rheinmainjs.de</email>
+            <twitter>@casarock</twitter>
+        </person>
+    </team>
     <photocredits>
         <logo>[JS Logo By The Community](https://github.com/voodootikigod/logo.js)</logo>
     </photocredits>
