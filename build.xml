@@ -19,9 +19,9 @@
 
 	<target name="test" depends="compile"
 		description="Perform xmllint validation on XML files">
-		<echo message="Running xml lint"/>
-        <apply executable="xmllint" failonerror="true">
-			<arg value="--schema ${basedir}/xsd/usergroup.xsd" />
+		<apply executable="xmllint" failonerror="true">
+			<arg value="--schema" />
+			<arg value="${basedir}/xsd/usergroup.xsd" />
 			<arg value="--noout" />
 			<fileset dir="${basedir}/usergroup">
 				<include name="**/*.xml" />
