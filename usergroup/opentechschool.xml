@@ -26,7 +26,30 @@
     <contact>
         <twitter>@OTS_RM</twitter>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>LAB75 Design</name>
+        <url>http://lab75.jp/de/contact/</url>
+        <street>Arnsburger Strasse 62</street>
+        <zip>60385</zip>
+        <city>Frankfurt am Main</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-02-19T18:30:00+01:00</time>
+            <name>Project Initiation</name>
+            <description>#START
+
+                * Meet &amp; Greet
+                * Tech Talk
+                * Project Initiation
+                * Soup &amp; Beer
+                * Networking
+                * Being Creative
+
+                goto(#START);
+            </description>
+            <url>http://www.meetup.com/opentechschool-rheinmain/events/162443522/</url>
+        </meeting>
         <meeting>
             <time>2014-01-22T18:30:00+01:00</time>
             <name>Create Visions, Brainstorm &amp; draft a roadmap for 2014</name>
@@ -54,13 +77,6 @@
                 22:30 End of Meetup
             </description>
             <url>http://www.meetup.com/opentechschool-rheinmain/events/157975632/</url>
-            <location>
-                <name>LAB75 Design</name>
-                <url>http://lab75.jp/de/contact/</url>
-                <street>Arnsburger Strasse 62</street>
-                <zip>60385</zip>
-                <city>Frankfurt am Main</city>
-            </location>
         </meeting>
     </schedule>
     <team>
