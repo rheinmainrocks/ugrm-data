@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Coding Night</name>
+    <description markdown="true">Mit der *Coding Night* möchte ich Codern, angefangen vom Rookie bis zum Pro, **eine
+        Möglichkeit bieten, sich mit etwas Neuem zu beschäftigen, etwas auszuprobieren und das in einer lockeren
+        Atmosphäre**.
+
+        Du hast also während der *Coding Night* die Gelegenheit, **eine neue Programmiersprache, ein Framework, eine
+        IDE
+        oder eine Programmiertechnik gemeinsam mit anderen Codern auszuprobieren**.
+        Wenn das Projekt an dem du mit der Gruppe arbeitest, etwas größeres ist, dann kannst du dieses auch über die
+        **nächsten Wochen und Monate** gemeinsam mit deiner Gruppe verfolgen. Vielleicht entwickelt sich daraus ein
+        **Team**, was sich dann sogar zu einem **Startup** entwickelt.
+
+        **Wie du siehst, ist die *Coding Night* genau das richtige für dich!**
+
+        **Das geile dabei: du erarbeitest dir in der Gruppe neue Skills und lernst gleichzeitig auch neue Coder
+        kennen.**
+
+        Das ** primäre Ziel** einer *Coding Night* sollte stets **LERNEN** sein. Egal ob das jetzt eine neue
+        Programmiersprache oder ein Framework ist. Du solltest nachdem du die *Coding Night* verlassen hast immer mehr
+        wissen, als davor. :). Zusätzlich wäre es super, wenn du einen **neuen Coder** kennen lernst.
+
+        Das ganze findet stets Abends **ab 19:00 Uhr** statt. Ein Ende gibt es eigentlich nicht, **open end** also. Die
+        Vergangenheit hat aber gezeigt, dass die meisten **ca. 6 Stunden** bleiben. Ergo geht das Event bis ca. 1:00
+        Uhr.
+
+        Das ganze findet aktuell am [Campus Bockenheim der Goethe-Universität in Frankfurt am
+        Main](http://goo.gl/ep7QjO)
+        statt. **Im sogenannten “Juridicum”, 5. Stock, Raum 507 / 508 und zwar alle zwei Wochen (wenn nichts dazwischen
+        kommt^^).**
+
+        ### Ablauf
+
+        **Wie läuft so eine *Coding Night* eigentlich ab?**
+
+        Zu Anfang gibt es eine kleine **Introduction-Runde**, wo sich jeder **vorstellt und erklärt**, worauf er oder
+        sie heute Bock hat. Auf Basis dieser Runde, werden dann **Gruppen** erstellt, die dann schließlich gemeinsam an
+        der zuvor besprochenen Sache arbeiten.
+        Nach der Vorstellungsrunde setzen sich die Gruppen zusammen und diskutieren darüber, an was sie konkret über den
+        Abend/die Nacht arbeiten möchten.
+
+        Etwa zur **Halbzeit des Abends**, werden die **Ergebnisse** der Gruppen vorgestellt. Somit profitieren die
+        anderen Teilnehmer von dem was du und deine Gruppe die letzten Stunden gemacht haben. Vielleicht hast du ja
+        etwas in Erfahrung gebracht, was die anderen interessieren könnte. Ein geiles Tutorial oder eine Besonderheit
+        oder Hindernis beim Coden entdeckt die du gerne teilen möchtest.
+
+        ### Code on
+
+        **Also worauf wartest du?!**
+
+        Wenn du Coder bist, sei es Anfänger oder Profi, oder mit dem Programmieren endlich durchstarten möchtest, **dann
+        komme zur nächsten *Coding Night* und programmiere mit uns.**
+
+    </description>
+    <url>http://www.codingnerd.de/coding-night/</url>
+    <tags>
+        <tag>Coding</tag>
+    </tags>
+    <contact>
+        <facebook>https://www.facebook.com/groups/558417270913303/</facebook>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Juridicum der Goethe-Universität in Frankfurt am Main</name>
+        <url>http://goo.gl/ep7QjO</url>
+        <street>Senckenberganlage 31</street>
+        <zip>60323</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-01-31T19:00:00+01:00</time>
+            <name>4. Coding Night</name>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Pavlos Giannakis</name>
+            <url>http://www.codingnerd.de/ueber-mich/</url>
+            <email>pavlos@codingnerd.de</email>
+            <twitter>@coding_nerd</twitter>
+        </person>
+    </team>
+</usergroup>
