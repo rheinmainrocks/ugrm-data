@@ -2,7 +2,7 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Google Developer Group Rhein-Main</name>
     <nickname>GDGRM</nickname>
-    <description>Everything Google.</description>
+    <description>Everything Google. If you are interested in Android, Chrome(OS), Dart, Glass or any fancy new technologies - join us!</description>
     <url>http://gdgrm.org</url>
     <tags>
         <tag>Google Technologien</tag>
@@ -15,13 +15,19 @@
         <twitter>@gdgrheinmain</twitter>
     </contact>
     <defaultmeetinglocation>
-        <name>SRZ Gastro</name>
-        <url>https://plus.google.com/105879634205744206011/about?hl=de</url>
-        <street>Rotfeder-Ring 13</street>
-        <zip>60327</zip>
+        <name>YOURS Australian Bar</name>
+        <url>https://plus.google.com/106607823405047223008/about?hl=en</url>
+        <street>Rahmhofstraße 2</street>
+        <zip>60313</zip>
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-01-30T19:00:00+01:00</time>
+            <name>GDG Rhein-Main Stammtisch - Januar 2014</name>
+            <description>Wir starten mit einem Stammtisch ins frische Jahr 2014! Na, wer hat sich schon Vorsätze für dieses Jahr gemacht? Wie wär's zum Beispiel eine neue Programmiersprache kennenzulernen - z.B. Dart? Oder mit den aktuellen Google Play Diensten auf Android herausfinden ob der Nutzer zu Fuß oder mit dem Fahrrad unterwegs ist? Oder die Geschwindigkeit eurer Webseite um ein vielfaches zu erhöhen? Zeigt uns was ihr so drauf habt! :-)﻿</description>
+            <url>https://plus.google.com/events/c3f7s2o1llj10khp6s7cnrm52ss</url>
+        </meeting>
         <meeting>
             <time>2013-08-23T18:00:00+02:00</time>
             <name>GDG RheinMain Talks Android 4.3</name>
