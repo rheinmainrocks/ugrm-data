@@ -17,8 +17,34 @@
     <tags>
         <tag>.NET</tag>
         <tag>C#</tag>
+		<tag>Microsoft</tag>
     </tags>
     <contact>
         <twitter>@dnugffm</twitter>
     </contact>
+	   <defaultmeetinglocation>
+        <name>Microsoft Deutschland GmbH (Geschäftsstelle Bad Homburg)</name>
+        <url>https://www.microsoft.com/de-de/corporate/ueber-uns/standorte-directions.aspx</url>
+        <street>Siemensstraße 27</street>
+        <zip>61352</zip>
+        <city>Bad Homburg</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-01-16T18:30:00+01:00</time>
+            <name>.NET User Group Meeting - Von Null über Werbung zum Windows Store</name>
+			<description>			
+Wie starte ich am besten mit der Entwicklung von Windows 8 Apps? Was ist der Weg, um über Werbung in meiner App Geld zu verdienen? Wie bekomme ich meine App in den Windows Store und was passiert dann?
+
+Diese Fragen hat sich Stefan im Sommer 2013 gestellt. In dem Vortrag schildert er seine Erfahrungen vom Erstellen der ersten App über die Nutzung von Werbung bis zum Management im Windows Store. Er geht sowohl auf technische Aspekte und Unterschiede zur "klassischen" Entwicklung von .NET Anwendungen ein als auch auf das Management von Werbung und Windows Store.
+
+Der Vortrag richtet sich an alle, die an der Entwicklung und Veröffentlichung von Windows 8 Apps interessiert sind, selbst aber noch keine Gelegenheit dazu hatten. Natürlich sind auch erfahrene Zuhörer willkommen, die eingeladen sind, mit Ihren Diskussionsbeiträgen das Bild zu ergänzen. Am Ende des Vortrags steht eine umfangreiche Linksammlung zu den angesprochenen Punkten.
+
+Wir freuen uns, dass wir mit Stefan mal wieder einen Sprecher aus unserer User Group mit einem Vortrag bei uns begrüßen dürfen. Sicher wird dies ein interessanter und unterhaltsamer Abend.
+
+Im Anschluss an den Vortrag geht es dann wie gewohnt zum Networking ins Brauhaus. Dort gibt es bei einem kühlen Getränk und leckeren Speisen die Gelegenheit für vertiefende Gespräche und weiteren Austausch.
+            </description>
+            <url>http://www.dnug-frankfurt.de/Event/tabid/119/ID/81/Default.aspx</url>
+        </meeting>
+    </schedule>
 </usergroup>
