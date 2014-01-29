@@ -21,6 +21,19 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
     </contact>
 	<schedule>
 		<meeting>
+            <time>2014-03-13T19:00:00+01:00</time>
+            <name>#5 - STUGRM Treffen im März</name>
+			<description>Diesmal mit dem Vortrag: "Und täglich grüßt der Systemtest". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
+            <url>https://www.xing.com/events/marz-treffen-software-test-user-group-rhein-main-taglich-grusst-systemtest-1356453</url>
+            <location>
+                <name>AOE GmbH</name>
+				<publictransport>Die Adresse (Luisenforum) kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Ausstieg mit dem Bus entweder an der Haltestelle Luisenplatz oder Kirchgasse. Wer mit dem Auto kommt,  kann in das Parkhaus des Luisenforums fahren.</publictransport>
+                <street>Kirchgasse 6</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+		<meeting>
             <time>2014-01-16T19:00:00+01:00</time>
             <name>#4 - STUGRM Treffen im Januar</name>
 			<description>Diesmal mit dem Vortrag: "Wie wir mehr Tests generieren und warum wir weniger Tests brauchen". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
