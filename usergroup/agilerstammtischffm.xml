@@ -2,7 +2,7 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
            female="false">
     <name>Agiler Stammtisch Frankfurt</name>
-    <description>
+    <description markdown="true">
         Sie sind Entwickler oder Projektleiter im IT-Bereich und möchten sich gern mit
         Gleichgesinnten über agiles Testen, agile Entwicklung, agiles Projektmanagement
         oder einfach Agilität im Allgemeinen austauschen? Dann sind Sie beim
@@ -10,6 +10,14 @@
         In entspannter Atmosphäre können knifflige Probleme aus Ihrem beruflichen Alltag mit
         Gleichgesinnten besprochen werden und natürlich wollen wir auch gegenseitig
         Erfahrungen und Best Practices austauschen.
+
+        Der Stammtisch fängt mit einem kurzen Impulsvortrag (Lighting Talk) an.
+        Jeder Teilnehmer darf ein eigene Thema mitbringen und kurz präsentieren.
+        Dann wird der Stammtisch weiter in einem [Lean-Kaffee](http://www.leancoffee.org/) fortgesetzt.
+        Dieses Format fördert Diskussionen rund um alle wichtigen Themen der Agilität und lebt von den Teilnehmern,
+        Sie sind also herzlich eingeladen, Ihre eigenen Themen und Fälle mitzubringen.
+
+        Getränke und Essen werden von codecentric AG gesponsert.
     </description>
     <url>https://www.xing.com/net/pri5328c8x/as-frankfurt</url>
     <tags>
@@ -35,14 +43,20 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-02-06T19:00:00+01:00</time>
+            <name>8. Agiler Stammtisch Frankfurt</name>
+            <url>https://www.xing.com/events/8-agiler-stammtisch-frankfurt-1354697</url>
+        </meeting>
+        <meeting>
             <time>2013-12-05T19:00:00+01:00</time>
             <name>7. Agiler Stammtisch Frankfurt</name>
             <description>
                 Der 7. Stammtisch fängt mit einem kurzen Impulsvortrag (Lighting Talk) an.
                 Jeder Teilnehmer darf ein eigene Thema mitbringen und kurz präsentieren.
-                Dann wird der Stammtisch weiter  in einem Lean-Kaffee-Format (www.leancoffee.org) fortgesetzt.
-                Dieses Format fördert Diskussionen rund um alle wichtigen Themen der Agilität und lebt von den Teilnehmern,
-                Sie sind also herzlich eingeladen, Ihre eigenen Themen und  Fälle mitzubringen.
+                Dann wird der Stammtisch weiter in einem Lean-Kaffee-Format (www.leancoffee.org) fortgesetzt.
+                Dieses Format fördert Diskussionen rund um alle wichtigen Themen der Agilität und lebt von den
+                Teilnehmern,
+                Sie sind also herzlich eingeladen, Ihre eigenen Themen und Fälle mitzubringen.
 
                 Getränke und Essen werden von codecentric AG gesponsert.
             </description>
