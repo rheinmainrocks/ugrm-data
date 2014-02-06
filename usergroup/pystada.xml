@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>Python Stammtisch Darmstadt</name>
+    <nickname>PyStaDa</nickname>
+    <description markdown="true">In Darmstadt gibt es Februar 2014 einen Stammtisch zum
+        Thema Python.
+
+        Die Treffen finden alle zwei Wochen in der so
+        genannten Trollhöhle statt und sind für alle Interessierten offen. Sie haben keine festgelegte Agenda, alles
+        rund um Python geht. In Wochen in denen die [PyUGRM](http://usergroups.rheinmainrocks.de/~pyugrm) statt findet,
+        fallen die Treffen aus.
+
+        Wer mag setzt sich einfach dazu und codet eine Runde.
+
+        Es sollen auch Themen zur Sprache kommen können, die nicht direkt mit
+        Python zu tun haben - bspw. git oder Scrum.
+    </description>
+    <url>http://usergroups.rheinmainrocks.de/~pystada</url>
+    <tags>
+        <tag>Python</tag>
+    </tags>
+    <contact>
+        <twitter>@PyStaDa</twitter>
+        <hashtag>#PyStaDa</hashtag>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Trollhöhle des Chaos Darmstadt</name>
+        <url>https://wiki.chaos-darmstadt.de/wiki/Trollh%C3%B6hle</url>
+        <foursquare>https://foursquare.com/v/trollh%C3%B6hle/5155a0e7e4b0d9a3f3dcde86</foursquare>
+        <twitter>@chaosdarmstadt</twitter>
+        <street>Wilhelm-Leuschner-Straße 36</street>
+        <zip>64293</zip>
+        <city>Darmstadt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-02-12T19:00:00+01:00</time>
+            <name>Treffen des PyStaDa</name>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Zoran Zaric</name>
+            <twitter>@zoranzaric</twitter>
+        </person>
+        <person>
+            <name>Niko Wenselowski</name>
+            <twitter>@amokleben</twitter>
+        </person>
+    </team>
+</usergroup>
