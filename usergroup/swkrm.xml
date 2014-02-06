@@ -21,6 +21,25 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-02-25T19:00:00+01:00</time>
+            <name>Treffen #27</name>
+            <description>**Agenda**
+
+                Wir haben noch kein spezielles Thema, daher sieht die Agenda noch sehr übersichtlich aus. Wer Wünsche
+                oder Vorschläge hat, kann die hier natürlich sehr gerne anbringen.
+            </description>
+            <url>http://www.softwerkskammer.org/activities/Treffen_27_der_Softwerkskammer_Rhein_Main</url>
+            <location>
+                <name>Namics</name>
+                <url>http://www.namics.com/namics/standorte/frankfurt/</url>
+                <twitter>@Namics</twitter>
+                <publictransport>Frankfurt Südbahnhof. S3, S4, S5, S6, U1, U2, U3</publictransport>
+                <street>Hedderichstrasse 108 - 110</street>
+                <zip>60596</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-01-27T19:00:00+01:00</time>
             <name>Treffen #26</name>
             <description>
