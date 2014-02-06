@@ -3,7 +3,7 @@
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>Python Stammtisch Darmstadt</name>
     <nickname>PyStaDa</nickname>
-    <description markdown="true">In Darmstadt gibt es Februar 2014 einen Stammtisch zum
+    <description markdown="true">In Darmstadt gibt es seit Februar 2014 einen Stammtisch zum
         Thema Python.
 
         Die Treffen finden alle zwei Wochen in der so
