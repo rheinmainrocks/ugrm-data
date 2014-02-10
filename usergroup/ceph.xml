@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Ceph Frankfurt</name>
+    <description>This is a group for anyone interested in [Ceph](http://ceph.com/). All skills levels are welcome. There
+        is a growing user community around this Free Software distributed storage. Participants are expected to share
+        their use cases, tips and tricks, projects, have a good time in a friendly and informal atmosphere.
+    </description>
+    <url>http://www.meetup.com/Ceph-Frankfurt/</url>
+    <tags>
+        <tag>Ceph</tag>
+        <tag>Distributed storage</tag>
+        <tag>Cloud</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2014-02-26T19:00:00+01:00</time>
+            <name>Drink and talk before the Ceph day</name>
+            <description>Inktank organizes the [Ceph day February
+                27th](http://www.eventbrite.com/e/ceph-day-frankfurt-tickets-10173269523). Let's take this opportunity
+                to meet and discuss Ceph the evening before.
+            </description>
+            <url>http://www.meetup.com/Ceph-Frankfurt/events/164620852/</url>
+        </meeting>
+    </schedule>
+</usergroup>
