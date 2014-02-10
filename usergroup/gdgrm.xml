@@ -23,6 +23,28 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-02-27T20:00:00+01:00</time>
+            <name>Talk Time: Google Glass, Chromecast and Web/App Performance!</name>
+            <description>As promised, we have something very special coming up!
+                We have not one, not two, but three awesome talks for you:
+                Sebastian Kaspari will talk about Google Glass! He actually brings a device with him from Munich so you
+                might get a hands-on… :-)
+                Jochen Bachmann will give a live-demo of Chromecast! Now that the SDK has finally launched it got more
+                interesting than ever.
+                And Marc Reichelt will show you how to make the web and apps faster! Because todays performance is still
+                far from perfect.
+
+                The location will be announced soon. Follow us to get the latest updates!
+            </description>
+            <url>https://plus.google.com/u/0/events/cp0e0ldgoe15907r1jqh33008bc</url>
+            <location>
+                <name>TBA</name>
+                <street>TBA</street>
+                <zip>60000</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-01-30T19:00:00+01:00</time>
             <name>GDG Rhein-Main Stammtisch - Januar 2014</name>
             <description>Wir starten mit einem Stammtisch ins frische Jahr 2014! Na, wer hat sich schon Vorsätze für dieses Jahr gemacht? Wie wär's zum Beispiel eine neue Programmiersprache kennenzulernen - z.B. Dart? Oder mit den aktuellen Google Play Diensten auf Android herausfinden ob der Nutzer zu Fuß oder mit dem Fahrrad unterwegs ist? Oder die Geschwindigkeit eurer Webseite um ein vielfaches zu erhöhen? Zeigt uns was ihr so drauf habt! :-)﻿</description>
