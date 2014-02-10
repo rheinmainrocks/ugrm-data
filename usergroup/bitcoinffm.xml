@@ -26,6 +26,11 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-02-13T19:00:00+01:00</time>
+            <name>Treffen Februar 2014</name>
+            <url>http://www.meetup.com/Bitcoin-Usergroup/events/162340032/</url>
+        </meeting>
+        <meeting>
             <time>2013-12-12T19:00:00+01:00</time>
             <name>Treffen Dezember 2013</name>
             <url>http://www.meetup.com/Bitcoin-Usergroup/events/152611842/</url>
