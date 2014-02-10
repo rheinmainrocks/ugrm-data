@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>Frankfurter Freiberufler-Stammtisch</name>
+    <description markdown="true">Den Frankfurter Freiberufler-Stammtisch habe ich Anfang 2010 ins Leben gerufen. Ziel
+        war, mich mit Gleichgesinnten über Chancen und Hindernisse der Selbstständigkeit auszutauschen.
+
+        Aus einer kleinen Runde wurde schnell eine Gruppe von mittlerweile 200 Mitgliedern aus verschiedensten Branchen.
+        Heute treffen wir uns ca. alle 2 Monate in einer Apfelweinkneipe in Frankfurt und halten Kontakt über die
+        Xing-Gruppe [Frankfurter Freiberufler-Stammtisch](https://www.xing.com/net/prifde35ex/freiberuflerffm/).
+    </description>
+    <url>http://yvonnepioch.de/frankfurter-freiberufler-stammtisch</url>
+    <tags>
+        <tag>Business</tag>
+        <tag>Freiberufler</tag>
+        <tag>XING</tag>
+    </tags>
+    <contact>
+        <email>freiberufler@yvonnepioch.de</email>
+        <xing>https://www.xing.com/net/prifde35ex/freiberuflerffm/</xing>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2014-02-10T18:00:00+01:00</time>
+            <name>Frankfurter Freiberufler-Stammtisch</name>
+            <url>https://www.xing.com/events/frankfurter-freiberufler-stammtisch-1356709</url>
+            <location>
+                <name>Erbgut - das moderne Wirtshaus</name>
+                <street>Hans-Thoma-Str. 1</street>
+                <zip>60596</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Yvonne Pioch</name>
+            <url>http://yvonnepioch.de/</url>
+            <email>lektorat@yvonnepioch.de</email>
+        </person>
+    </team>
+</usergroup>
