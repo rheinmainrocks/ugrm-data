@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Freifunk Darmstadt</name>
+    <nickname>ffda</nickname>
+    <description>Wir wollen in Darmstadt eine Ortsgruppe für Freifunk aufbauen. 
+         Unser Ziel ist es, ein vermeschtes WLAN-Netz über große Bereiche von
+         Darmstadt in Betrieb zu nehmen.
+    </description>
+    <url>http://freifunk-darmstadt.de</url>
+    <tags>
+        <tag>Freifunk</tag>
+        <tag>Darmstadt</tag>
+        <tag>WLAN</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net</url>
+            <label>Mailingliste</label>
+            <description>Unsere Mailingliste für Diskussionen und aktuelle Informationen
+            </description>
+        </mailinglist>
+        <twitter>@FreifunkDA</twitter>
+        <hashtag>#FreifunkDA</hashtag>
+    </contact>
+    <schedule>
+        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
+            </ical -->
+        <meeting>
+            <time>2014-02-11T19:30:00+01:00</time>
+            <name>Erstes Treffen von Freifunk Darmstadt</name>
+            <location>
+                <name>Trollhöhle Chaos Darmstadt</name>
+                <url>http://chaos-darmstadt.de</url>
+                <publictransport>Straßenbahn Linien 5,6,7 und 8 Haltestelle Pallaswiesenstraße</publictransport>
+                <street>Wilhem-Leuschner-Str. 36</street>
+                <zip>64293</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <logo>Offizilles [Freifunk-Logo](https://wiki.freifunk.net/Datei:175x170_freifunknet.png)</logo>
+    </photocredits>
+</usergroup>
