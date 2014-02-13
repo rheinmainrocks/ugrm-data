@@ -19,70 +19,44 @@ Die Teilnahme an den Treffen ist selbstverständlich kostenlos.
         <hashtag>#stugrm</hashtag>
         <xing>https://www.xing.com/net/pri4ab89cx/stugrm/</xing>
     </contact>
-	<schedule>
-		<meeting>
+    <defaultmeetinglocation>
+        <name>AOE GmbH</name>
+        <publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien
+            15,16 und 28 halten fast vor dem Büro.
+        </publictransport>
+        <street>Borsigstr. 3</street>
+        <zip>65205</zip>
+        <city>Wiesbaden</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+    <meeting>
             <time>2014-03-13T19:00:00+01:00</time>
             <name>#5 - STUGRM Treffen im März</name>
 			<description>Diesmal mit dem Vortrag: "Und täglich grüßt der Systemtest". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
             <url>https://www.xing.com/events/marz-treffen-software-test-user-group-rhein-main-taglich-grusst-systemtest-1356453</url>
-            <location>
-                <name>AOE GmbH</name>
-				<publictransport>Die Adresse (Luisenforum) kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Ausstieg mit dem Bus entweder an der Haltestelle Luisenplatz oder Kirchgasse. Wer mit dem Auto kommt,  kann in das Parkhaus des Luisenforums fahren.</publictransport>
-                <street>Kirchgasse 6</street>
-                <zip>65185</zip>
-                <city>Wiesbaden</city>
-            </location>
         </meeting>
 		<meeting>
             <time>2014-01-16T19:00:00+01:00</time>
             <name>#4 - STUGRM Treffen im Januar</name>
 			<description>Diesmal mit dem Vortrag: "Wie wir mehr Tests generieren und warum wir weniger Tests brauchen". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
             <url>https://www.xing.com/events/januar-treffen-software-test-user-group-rhein-main-1337084</url>
-            <location>
-                <name>AOE GmbH</name>
-				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
-                <street>Borsigstr. 3</street>
-                <zip>65205</zip>
-                <city>Wiesbaden</city>
-            </location>
         </meeting>
 		<meeting>
             <time>2013-11-21T19:00:00+01:00</time>
             <name>#3 - STUGRM Treffen im November</name>
 			<description>Diesmal mit dem Vortrag: "Modultest mit Tessy". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
             <url>https://www.xing.com/events/november-treffen-software-test-user-group-rhein-main-1310690</url>
-            <location>
-                <name>AOE GmbH</name>
-				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
-                <street>Borsigstr. 3</street>
-                <zip>65205</zip>
-                <city>Wiesbaden</city>
-            </location>
         </meeting>
 		<meeting>
             <time>2013-09-12T19:00:00+02:00</time>
             <name>#2 - STUGRM Treffen im September</name>
 			<description>Diesmal mit dem Vortrag: "Softwaretests in der Medizintechnik". Weitere Details in der XING Gruppe oder auf www.stugrm.de</description>
             <url>https://www.xing.com/events/2-treffen-software-test-user-group-rhein-main-1283777</url>
-            <location>
-                <name>AOE GmbH</name>
-				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
-                <street>Borsigstr. 3</street>
-                <zip>65205</zip>
-                <city>Wiesbaden</city>
-            </location>
         </meeting>
 		<meeting>
             <time>2013-07-18T19:00:00+02:00</time>
             <name>#1 - Erstes Treffen der STUGRM</name>
             <url>https://www.xing.com/events/treffen-stugrm-18-juli-2013-1269398</url>
-            <location>
-                <name>AOE GmbH</name>
-				<publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien 15,16 und 28 halten fast vor dem Büro.</publictransport>
-                <street>Borsigstr. 3</street>
-                <zip>65205</zip>
-                <city>Wiesbaden</city>
-            </location>
         </meeting>
 	</schedule>
 	<team>
