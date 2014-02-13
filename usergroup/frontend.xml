@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Frontend-Meetup Wiesbaden</name>
+    <description>Beim Frontend-Meetup Wiesbaden geht es um Frontend-Kernthemen gehen wie HTML(5), CSS(3),
+        OOCSS-/BEM-Patterns, SASS, Webstandards, Responsive Design, Accessibility, Arbeitsweisen, Kommunikation,
+        Styleguides, Deployment etc pp. …
+    </description>
+    <url>http://usergroup.rheinmainrocks.de/~frontend</url>
+    <tags>
+        <tag>Frontend</tag>
+        <tag>Webstandards</tag>
+        <tag>Webdesign</tag>
+    </tags>
+    <defaultmeetinglocation>
+        <name>AOE GmbH</name>
+        <publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien
+            15,16 und 28 halten fast vor dem Büro.
+        </publictransport>
+        <street>Borsigstr. 3</street>
+        <zip>65205</zip>
+        <city>Wiesbaden</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-02-25T19:00:00+01:00</time>
+            <name>1. Frontend-Meetup in Wiesbaden</name>
+            <description>
+                **Agenda**
+
+                * Marc Dix wird uns “DalekJS – automatisiertes Frontend-Testing mit Javascript” vorstellen,
+                * Jens Grochtdreis zeigt uns “Praktische SASS-Tipps“
+                * und Jan Deppisch erzählt, was ihm über dieses Meetup hinaus noch vorschwebt.
+                * schnitzel.html: Danach können wir den Abend noch gemütlich im Schnitzel’s nebenan ausklingen lassen.
+
+                Der Eintritt ist natürlich frei.
+            </description>
+            <url>http://netzartist.de/blog/2014/02/frontend-meetup-in-wiesbaden/</url>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Jan Deppisch</name>
+            <url>http://netzartist.de/</url>
+            <email>mail@netzartist.de</email>
+            <twitter>@netzartist</twitter>
+        </person>
+    </team>
+</usergroup>
