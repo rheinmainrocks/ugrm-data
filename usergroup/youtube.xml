@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>YouTube Stammtisch RheinMain</name>
+    <description>Was gibts neues bei YouTube? Alexander Boerger und Christian Bareis laden dich zum Youtube Stammtisch
+        RheinMain in Wiesbaden ein.
+    </description>
+    <url>http://usergroup.rheinmainrocks.de/~youtube</url>
+    <tags>
+        <tag>YouTube</tag>
+    </tags>
+    <defaultmeetinglocation>
+        <name>//SEIBERT/MEDIA GmbH</name>
+        <url>http://www.seibert-media.net/kontakt/wegbeschreibung/index.shtml</url>
+        <twitter>@seibertmedia</twitter>
+        <street>Kirchgasse 6 / LuisenForum</street>
+        <zip>65185</zip>
+        <city>Wiesbaden</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-02-18T18:00:00+01:00</time>
+            <name>2. YouTube Stammtisch RheinMain</name>
+            <description>Was gibts neues bei YouTube?
+                Wir tauschen uns über die neuen Funktionen aus.
+
+                Danach zeigt jeder was er so macht
+            </description>
+            <url>https://www.facebook.com/events/1435421276693270</url>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Alex Boerger</name>
+            <email>alex@alexboerger.de</email>
+        </person>
+        <person>
+            <name>Christian Bareis</name>
+            <url>https://www.youtube.com/user/LtCmdrBareik</url>
+        </person>
+    </team>
+</usergroup>
