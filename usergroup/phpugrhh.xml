@@ -28,14 +28,39 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-02-25T19:00:00+01:00</time>
+            <name>31. Treffn der PHPUG Rheinhessen</name>
+            <description>
+                Wir treffen uns diesmal wieder im Alten Weinlager bei der NIDAG GmbH. Thematisch dreht sich alles um die
+                kleinen Einplatinen-Computer Arduino und Raspberry Pi. Dabei geht es auch, aber nicht nur um PHP,
+                sondern vor allem um die zahlreichen Einsatzmöglichkeiten der Bastel-Geräte :)
+
+                Wir haben zwei Vorträge geplant, und im Anschluss ist noch genug Zeit, um sich auszutauschen und zu
+                fachsimpeln.
+
+                * Praktische Experimente mit dem Raspberry Pi von Peter Eulberg
+                * Arduino spricht PHP und JS von Matthias Gutjahr
+
+                Bitte nutzt die Anmeldung via Xing. Das hilft uns bei der Planung und
+                Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt.
+
+                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung!
+                Die Teilnahme ist wie immer kostenlos. Bitte teilt das Event auch in anderen Sozialen Netzwerken und
+                euren Blogs. Danke!
+            </description>
+            <url>https://www.xing.com/events/31-treffen-phpug-rheinhessen-1365098</url>
+        </meeting>
+        <meeting>
             <time>2014-01-14T19:00:00+01:00</time>
             <name>30. Treffen der PHPUG Rheinhessen</name>
             <description>
-                Bei unserem dreißigsten Treffen dreht sich alles um "NoSQL", also um Datenbanken, die einen nicht-relationalen Ansatz verfolgen - und wie man sie unter PHP benutzt.
+                Bei unserem dreißigsten Treffen dreht sich alles um "NoSQL", also um Datenbanken, die einen
+                nicht-relationalen Ansatz verfolgen - und wie man sie unter PHP benutzt.
                 Dazu haben wir zwei Vorträge geplant:
                 - „NoSQL - Überblick und Theorie“ von Achim Liese
                 - „PHP &amp; MongoDB“ von Christian Münch
-                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung! Die Teilnahme ist wie immer kostenlos.
+                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung!
+                Die Teilnahme ist wie immer kostenlos.
             </description>
             <url>https://www.xing.com/events/30-treffen-phpug-rheinhessen-1343762</url>
         </meeting>
