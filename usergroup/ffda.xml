@@ -23,22 +23,17 @@
         <twitter>@FreifunkDA</twitter>
         <hashtag>#FreifunkDA</hashtag>
     </contact>
-    <schedule>
-        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
-        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
-            </ical -->
-        <meeting>
-            <time>2014-02-13T19:30:00+01:00</time>
-            <name>Erstes Treffen von Freifunk Darmstadt</name>
-            <location>
-                <name>Trollhöhle Chaos Darmstadt</name>
-                <url>http://chaos-darmstadt.de</url>
-                <publictransport>Straßenbahn Linien 5,6,7 und 8 Haltestelle Pallaswiesenstraße</publictransport>
-                <street>Wilhem-Leuschner-Str. 36</street>
-                <zip>64293</zip>
-                <city>Darmstadt</city>
-            </location>
-        </meeting>
+    <defaultmeetinglocation>
+        <name>Trollhöhle Chaos Darmstadt</name>
+	<description>Im Hinterhof, die Treppe rauf, am roten Buzzer klingeln.</description>
+        <url>https://chaos-darmstadt.de</url>
+        <publictransport>Straßenbahn Linien 5,6,7 und 8 Haltestelle Pallaswiesenstraße</publictransport>
+        <street>Wilhem-Leuschner-Str. 36</street>
+        <zip>64293</zip>
+        <city>Darmstadt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <ical>http://freifunk-darmstadt.de/events.ics</ical>
     </schedule>
     <photocredits>
         <logo>Offizilles [Freifunk-Logo](https://wiki.freifunk.net/Datei:175x170_freifunknet.png)</logo>
