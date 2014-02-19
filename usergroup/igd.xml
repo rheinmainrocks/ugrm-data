@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Independent Game Developers Rhein-Main</name>
+    <description>This group is for everyone in the Rhein-Main area who is interested in game development and would like
+        to exchange with other developers and game designers. The goal is to meet once a month, get to know each other
+        and talk about various topics, e.g. frameworks and tools, marketing your game, monetization or just the love for
+        game development.
+    </description>
+    <url>http://www.meetup.com/Independent-Game-Developers-Rhein-Main-Meetup</url>
+    <tags>
+        <tag>Game Development</tag>
+        <tag>Programming</tag>
+        <tag>Indie Games</tag>
+    </tags>
+    <team>
+        <person>
+            <name>Ali Banani</name>
+            <url>http://banani.de/</url>
+            <twitter>@AliBanani</twitter>
+        </person>
+    </team>
+</usergroup>
