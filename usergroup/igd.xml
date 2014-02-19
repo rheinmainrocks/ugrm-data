@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" incubator="true">
     <name>Independent Game Developers Rhein-Main</name>
     <description>This group is for everyone in the Rhein-Main area who is interested in game development and would like
         to exchange with other developers and game designers. The goal is to meet once a month, get to know each other
