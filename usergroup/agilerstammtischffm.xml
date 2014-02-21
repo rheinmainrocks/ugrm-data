@@ -43,6 +43,11 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-03-06T19:00:00+01:00</time>
+            <name>9. Agiler Stammtisch Frankfurt</name>
+            <url>https://www.xing.com/events/9-agiler-stammtisch-frankfurt-1368417</url>
+        </meeting>
+        <meeting>
             <time>2014-02-06T19:00:00+01:00</time>
             <name>8. Agiler Stammtisch Frankfurt</name>
             <url>https://www.xing.com/events/8-agiler-stammtisch-frankfurt-1354697</url>
