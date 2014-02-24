@@ -24,23 +24,21 @@
     <schedule usedefaultmeetinglocation="true">
         <meeting>
             <time>2014-02-27T20:00:00+01:00</time>
-            <name>Talk Time: Google Glass, Chromecast and Web/App Performance!</name>
+            <name>Talk Time: Google Glass, Chromecast, Web/App Performance and MDM!</name>
             <description>As promised, we have something very special coming up!
-                We have not one, not two, but three awesome talks for you:
-                Sebastian Kaspari will talk about Google Glass! He actually brings a device with him from Munich so you
-                might get a hands-on… :-)
-                Jochen Bachmann will give a live-demo of Chromecast! Now that the SDK has finally launched it got more
-                interesting than ever.
-                And Marc Reichelt will show you how to make the web and apps faster! Because todays performance is still
-                far from perfect.
+We have four awesome talks for you:
+Sebastian Kaspari will talk about Google Glass! He actually brings a device with him from Munich so you might get a hands-on… :-)
+Marc Reichelt will give a live-demo of Chromecast! Now that the SDK has finally launched it got more interesting than ever.
+He will also show you how to make the web and apps faster! Because todays performance is still far from perfect.
+And finally Martin Harndt will top it off by presenting mobile device management for companies!
 
-                The location will be announced soon. Follow us to get the latest updates!
+Location is the silvertower in Frankfurt, near Willy-Brandt-Platz. Please RSVP to the event if you want to come! Otherwise you won't be able to enter.
             </description>
             <url>https://plus.google.com/u/0/events/cp0e0ldgoe15907r1jqh33008bc</url>
             <location>
-                <name>TBA</name>
-                <street>TBA</street>
-                <zip>60000</zip>
+                <name>DB Systel Silberturm</name>
+                <street>Jürgen-Ponto-Platz 1</street>
+                <zip>60329</zip>
                 <city>Frankfurt</city>
             </location>
         </meeting>
