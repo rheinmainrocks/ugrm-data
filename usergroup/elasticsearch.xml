@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           incubator="true">
+    <name>ElasticSearch User Group Frankfurt</name>
+    <description>Eine Gruppe um Benutzer, Entwickler oder einfach nur Interessierte zum Thema Elasticsearch
+        zusammenzubringen. Ziel der Gruppe ist es, eine offene und freundschaftliche Plattform zu schaffen in der
+        Erfahrungen ausgetauscht werden, Fragen gestellt und beantwortet werden und man sich ab und an auch zum
+        persönlichen Kennenlernen trifft. Alte Hasen die Elasticsearch seit Jahren verwenden sind genauso willkommen wie
+        diejenigen, die den Namen heute zum ersten Mal gehört haben, das Thema aber spannend finden und tiefer
+        einsteigen wollen.
+    </description>
+    <url>http://www.meetup.com/ElasticSearch-Usergroup-Frankfurt</url>
+    <tags>
+        <tag>ElasticSearch</tag>
+        <tag>Lucene</tag>
+        <tag>Solr</tag>
+    </tags>
+    <team>
+        <person>
+            <name>Sönke Liebau</name>
+        </person>
+    </team>
+</usergroup>
