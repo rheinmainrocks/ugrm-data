@@ -34,6 +34,19 @@
         <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
             </ical -->
         <meeting>
+            <time>2014-03-19T19:30:00+01:00</time>
+            <name>12. Treffen der PyUGRM</name>
+            <url>http://wiki.python-forum.de/PyUGRM/Treffen20140319</url>
+            <location>
+                <name>CoSee GmbH</name>
+                <url>https://www.cosee.biz</url>
+                <publictransport>Buslinie 6A Haltestelle Adlerstraße</publictransport>
+                <street>Lise-Meitner-Straße 10 (im TIZ)</street>
+                <zip>64293</zip>
+                <city>Darmstadt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-01-16T19:00:00+01:00</time>
             <name>11. Treffen der PyUGRM</name>
             <url>http://wiki.python-forum.de/PyUGRM/Treffen20140116</url>
