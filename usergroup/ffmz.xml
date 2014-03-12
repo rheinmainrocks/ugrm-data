@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Freifunk Mainz</name>
+    <nickname>ffmz</nickname>
+    <description>Wir sind die lokale Ortsgruppe für Freifunk in Mainz.
+         Unser Ziel ist es, ein vermaschtes WLAN-Netz über große Bereiche von
+         Mainz in Betrieb zu nehmen und zu unterhalten.
+         Darüber hinaus kümmern wir uns um die Abdeckung von Parteinheim und Wiesbaden.
+    </description>
+    <url>http://freifunk-mainz.de</url>
+    <tags>
+        <tag>Freifunk</tag>
+        <tag>Mainz</tag>
+        <tag>WLAN</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://lists.freifunk.net/mailman/listinfo/mainz-freifunk.net</url>
+            <label>Mailingliste</label>
+            <description>Unsere Mailingliste für Diskussionen und aktuelle Informationen</description>
+        </mailinglist>
+        <email>kontakt@freifunk-mainz.de</email>
+        <twitter>@FreifunkMainz</twitter>
+        <hashtag>#FreifunkMz</hashtag>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Holzturm Mainz</name>
+        <description>Im Hinterhof, die Treppe rauf, am roten Buzzer klingeln.</description>
+        <url>http://www.openstreetmap.org/#map=18/49.99699/8.27833</url>
+        <street>Rheinstraße 19</street>
+        <zip>55116</zip>
+        <city>Mainz</city>
+    </defaultmeetinglocation>
+    <schedule>
+        <ical>http://blog.freifunk-mainz.de/?feed=my-calendar-ics</ical>
+    </schedule>
+</usergroup>
