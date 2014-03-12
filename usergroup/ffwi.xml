@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" incubator="true">
+    <name>Freifunk Wiesbaden</name>
+    <nickname>ffwi</nickname>
+    <description>Wir sind die Ortsgruppe für Freifunk in Wiesbaden.
+         Im Stadtgebiet soll nach und nach ein vermaschtes WLAN-Netz entstehen.
+         Wir sind ein ableger von Freifunk-Mainz, und mit diesem eng verbandelt.
+         Interessenten sind immer willkommen.
+    </description>
+    <url>http://freifunk-wiesbaden.de</url>
+    <tags>
+        <tag>Freifunk</tag>
+        <tag>Wiesbaden</tag>
+        <tag>WLAN</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://lists.freifunk.net/mailman/listinfo/wiesbaden-freifunk.net</url>
+            <label>Mailingliste</label>
+            <description>Unsere Mailingliste für Diskussionen und aktuelle Informationen</description>
+        </mailinglist>
+        <email>kontakt@freifunk-wiesbaden.de</email>
+        <twitter>@FreifunkWI</twitter>
+        <hashtag>#FreifunkWI</hashtag>
+    </contact>
+    <defaultmeetinglocation>
+        <name>CCC MZ/WI</name>
+        <description>Chaos Computer Club Mainz/Wiesbaden</description>
+        <url>https://www.cccmz.de/</url>
+        <street>Sedanplatz 7</street>
+        <zip>65183</zip>
+        <city>Wiesbaden</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <ical>http://blog.freifunk-wiesbaden.de/?feed=my-calendar-ics</ical>
+    </schedule>
+</usergroup>
