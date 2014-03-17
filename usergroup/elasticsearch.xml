@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
-           incubator="true">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>ElasticSearch User Group Frankfurt</name>
     <description>Eine Gruppe um Benutzer, Entwickler oder einfach nur Interessierte zum Thema Elasticsearch
         zusammenzubringen. Ziel der Gruppe ist es, eine offene und freundschaftliche Plattform zu schaffen in der
@@ -15,6 +14,27 @@
         <tag>Lucene</tag>
         <tag>Solr</tag>
     </tags>
+    <schedule>
+        <meeting>
+            <time>2014-04-14T19:00:00+02:00</time>
+            <name>First Meetup</name>
+            <description>Hi everybody,
+
+                as everybody seems to be able to make this date, so lets meet up and get to know each other a bit.
+
+                Any new members are of course more than welcome to join as well.
+
+                Since no one objected to Bornheim as a place in general I selected a homey place.
+            </description>
+            <url>http://www.meetup.com/ElasticSearch-Usergroup-Frankfurt/events/171109922/</url>
+            <location>
+                <name>Apfelwein Solzer</name>
+                <street>Berger Strasse 260</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
     <team>
         <person>
             <name>Sönke Liebau</name>
