@@ -25,6 +25,35 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-03-20T19:00:00+01:00</time>
+            <name>PHPUGFFM II/2014</name>
+            <description>
+                **Agenda**
+
+                * 19:00 Ankommen
+                * 19:10 Intro
+                * 19:15 Christian Nielebock: Compass und SASS – DAS Team für die Frontendentwicklung
+                * 20:00 Pause
+                * 20:15 (offen)
+                * ab 21:00 Epilog / Networking
+
+                **Parken und Anreise**
+
+                Parken ist in der Nähe der Location sehr schwierig und meistens findet man keinen Platz.
+                Daher empfehlen wir dringend die Anfahrt mit öffentlichen Verkehrsmitteln.
+                Vom Frankfurter Hauptbahnhof oder der U-Bahn-Haltestelle “Willy-Brandt-Platz” sind es nur etwa 15
+                Gehminuten, bis man das Ziel erreicht hat.
+            </description>
+            <location>
+                <name>Sitewards GmbH</name>
+                <url>http://www.sitewards.com/</url>
+                <foursquare>https://de.foursquare.com/v/sitewards/4fe19e43e4b0aaff315747c2</foursquare>
+                <street>Untermainkai 30</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-01-30T19:00:00+01:00</time>
             <name>PHPUGFFM I / 2014</name>
             <description>
