@@ -43,7 +43,22 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-03-06T19:00:00+01:00</time>
+            <time>2014-04-03T19:00:00+01:00</time>
+            <name>10. Agiler Stammtisch Frankfurt</name>
+            <description>Der Agile Stammtisch Frankfurt feiert sein erstes rundes Jubiläum.
+
+                Wir werden mit einem Lightning Talk zum Thema "Impact Mapping" starten. (Die Teilnehmer dürfen gerne
+                auch ein eigenes Thema mitbringen und kurz präsentieren)
+
+                Die weitere Diskussion wird im beliebten Lean-Coffee-Format fortgesetzt. Alle Teilnehmer sind auch hier
+                herzlich eingeladen, ihre eigene Themen und Fälle mitzubringen.
+
+                Getränke und Essen werden wie immer von der codecentric AG gesponsert.
+            </description>
+            <url>https://www.xing.com/events/10-agiler-stammtisch-frankfurt-1381156</url>
+        </meeting>
+        <meeting>
+        <time>2014-03-06T19:00:00+01:00</time>
             <name>9. Agiler Stammtisch Frankfurt</name>
             <url>https://www.xing.com/events/9-agiler-stammtisch-frankfurt-1368417</url>
         </meeting>
