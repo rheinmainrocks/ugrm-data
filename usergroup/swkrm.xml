@@ -21,6 +21,33 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-03-26T19:00:00+01:00</time>
+            <name>Treffen #28</name>
+            <description>
+                **Agenda**
+
+                * Vorstellungsrunde
+                * Lightning Talks
+                * One line of code ... jeder bringt eine (und nur eine) Zeile Code mit und stellt sie den anderen vor.
+                * [IBAN Kata](https://github.com/rradczewski/iban-kata)
+            </description>
+            <url>http://www.softwerkskammer.org/activities/treffen-28-softwerkskammer-rhein-main</url>
+            <location>
+                <name>iBrams GmbH &amp; Co. KG</name>
+                <description>Die Firma befindet sich im „Jadehaus", im vorderen Teil ist ein Fitnessstudio (McFit). Der
+                    Firmeneingang ist am hinteren Ende des Gebäudes. Parkmöglichkeiten für Autos gibt es vor dem
+                    Gebäude.
+                </description>
+                <url>http://www.ibrams.com/en/ibrams-company-information/</url>
+                <publictransport>Die nächste Straßenbahnhaltestelle ist Cassellastraße (Linie 11), von dort sind es zu
+                    Fuß ca. 300m.
+                </publictransport>
+                <street>Hanauer Landstraße 135-137</street>
+                <zip>60314</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-02-25T19:00:00+01:00</time>
             <name>Treffen #27</name>
             <description>**Agenda**
