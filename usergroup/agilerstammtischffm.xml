@@ -19,14 +19,16 @@
 
         Getränke und Essen werden von codecentric AG gesponsert.
     </description>
-    <url>https://www.xing.com/net/pri5328c8x/as-frankfurt</url>
+    <url>http://asffm.blogspot.de/</url>
     <tags>
         <tag>Agile</tag>
         <tag>Scrum</tag>
         <tag>Kanban</tag>
     </tags>
     <contact>
+        <twitter>@as_ffm</twitter>
         <hashtag>#agileFFM</hashtag>
+        <xing>https://www.xing.com/net/pri5328c8x/as-frankfurt</xing>
     </contact>
     <defaultmeetinglocation>
         <name>Die Zentrale</name>
@@ -58,7 +60,7 @@
             <url>https://www.xing.com/events/10-agiler-stammtisch-frankfurt-1381156</url>
         </meeting>
         <meeting>
-        <time>2014-03-06T19:00:00+01:00</time>
+            <time>2014-03-06T19:00:00+01:00</time>
             <name>9. Agiler Stammtisch Frankfurt</name>
             <url>https://www.xing.com/events/9-agiler-stammtisch-frankfurt-1368417</url>
         </meeting>
