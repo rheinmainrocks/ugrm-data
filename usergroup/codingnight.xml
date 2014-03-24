@@ -61,6 +61,11 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-03-28T19:00:00+01:00</time>
+            <name>8. Coding Night</name>
+            <url>http://www.meetup.com/Coding-Night-Frankfurt/events/171554682/</url>
+        </meeting>
+        <meeting>
             <time>2014-01-31T19:00:00+01:00</time>
             <name>4. Coding Night</name>
         </meeting>
