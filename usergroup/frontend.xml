@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-    <name>Frontend-Meetup Wiesbaden</name>
-    <description>Beim Frontend-Meetup Wiesbaden geht es um Frontend-Kernthemen gehen wie HTML(5), CSS(3),
-        OOCSS-/BEM-Patterns, SASS, Webstandards, Responsive Design, Accessibility, Arbeitsweisen, Kommunikation,
-        Styleguides, Deployment etc pp. …
+    <name>Frontend RheinMain</name>
+    <description>Frontend RheinMain ist der Community-Hub für Frontend-Entwickler im Rhein-Main-Gebiet. Dabei geht es um
+        Frontend-Kernthemen gehen wie HTML(5), CSS(3), OOCSS-/BEM-Patterns, SASS, Webstandards, Responsive Design,
+        Accessibility, Arbeitsweisen, Kommunikation, Styleguides, Deployment etc pp. …
     </description>
-    <url>http://usergroup.rheinmainrocks.de/~frontend</url>
+    <url>http://frontend-rheinmain.de/</url>
     <tags>
         <tag>Frontend</tag>
         <tag>Webstandards</tag>
         <tag>Webdesign</tag>
     </tags>
+    <contact>
+        <twitter>@frontend_rm</twitter>
+    </contact>
     <defaultmeetinglocation>
         <name>AOE GmbH</name>
         <publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien
@@ -46,4 +49,7 @@
             <twitter>@netzartist</twitter>
         </person>
     </team>
+    <photocredits>
+        <logo>Logo: [@frontend_rm](https://twitter.com/frontend_rm)</logo>
+    </photocredits>
 </usergroup>
