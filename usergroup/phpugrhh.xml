@@ -28,6 +28,22 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-04-08T19:00:00+02:00</time>
+            <name>32. Treffn der PHPUG Rheinhessen</name>
+            <description>
+                Liebe PHPUGler,
+
+Wir wollen uns diesmal über alternative PHP-Implementierungen unterhalten, insbesondere natürlich über Facebooks HHVM und Hack, die bessere Performance und neue Features versprechen. In deren Schatten gedeihen noch weitere PHP-Interpreter, die einen genaueren Blick lohnen.
+
+Aber wie sinnvoll sind diese Entwicklungen, die über das „reine“ PHP hinausgehen? Läuft die PHP-Gemeinde Gefahr, zu zersplittern, oder können Optimierungen und Weiterentwicklungen das PHP-Ökosystem nachhaltig stärken? Diese und weitere Fragen wollen wir bei unserem User Group-Treffen diskutieren!
+
+Bitte nutzt die Anmeldung hier auf der Event-Seite in Xing. Das hilft uns bei der Planung und Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt.
+
+Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung! Die Teilnahme ist wie immer kostenlos. Bitte teilt das Event auch in anderen Sozialen Netzwerken und euren Blogs. Danke!
+            </description>
+            <url>https://www.xing.com/events/32-treffen-phpug-rheinhessen-1385110</url>
+        </meeting>
+	<meeting>
             <time>2014-02-25T19:00:00+01:00</time>
             <name>31. Treffn der PHPUG Rheinhessen</name>
             <description>
