@@ -25,6 +25,22 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-04-02T19:00:00+02:00</time>
+            <name>Magento Stammtisch Rhein-Main</name>
+            <description>Ein Monat vor der nächsten Meet Magento in Leipzig treffen wir uns noch ein mal im
+                Sitewards-Büro in Frankfurt. Tobias empfängt uns dort vielleicht mit einigen Snacks, denn seit seinem
+                letzten Barcamp weiß er, was seine Gäste zwischen die Kiemen wollen. ;-)
+
+                Bisher anstehende Themen:
+
+                1. PHPIDS und Magento (Christoph Frenes)
+                2. Using System XML Config in Magento Tipps &amp; Tricks (Oleksii)
+
+                Ich hoffe auf zahlreiches Erscheinen. Bis bald. :-)
+            </description>
+            <url>https://www.xing.com/events/magento-stammtisch-rhein-main-1364585</url>
+        </meeting>
+        <meeting>
             <time>2013-12-11T19:00:00+01:00</time>
             <name>Magento Stammtisch Rhein-Main</name>
             <description>Erstmalig werden wir dieses Jahr einen Stammtisch auf dem Frankfurter Weihnachtsmarkt
