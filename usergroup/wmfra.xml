@@ -35,19 +35,6 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-04-14T19:00:00+02:00</time>
-            <name>Webmontag #59: Ignite</name>
-            <description>15 Sekunden bestimmen den Rhythmus des nächsten Webmontag Frankfurt: 15 Sekunden – genau so
-                lange hat jeder Sprecher Zeit, jede seiner 20 Vortragsfolien in einer 5-minütigen Präsentation zu
-                kommentieren, bevor automatisch auf die nächste Folie gewechselt wird.
-
-                Dieses Veranstaltungsformat nennt sich Ignite und lässt die Sprecher das Wesentliche in kürzester Zeit
-                auf den Punkt bringen. Den Zuhörern bringt es ein Feuerwerk an Inspirationen zu zahlreichen
-                interessanten Themen rund um’s Web.
-            </description>
-            <url>http://www.wmfra.de/programm/webmontag-frankfurt-59-ignite.html</url>
-        </meeting>
-        <meeting>
             <time>2014-01-13T19:00:00+01:00</time>
             <name>Webmontag #56: Aufbruch</name>
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-56-schwerpunkt-aufbruch.html</url>
@@ -62,7 +49,51 @@
             <name>Webmontag #58: Un:Normal</name>
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-58-schwerpunkt-un-normal.html</url>
         </meeting>
-        <!-- 2013 -->
+        <meeting>
+            <time>2014-05-12T19:00:00+02:00</time>
+            <name>Webmontag #60: Wahrheit oder Pflicht</name>
+        </meeting>
+        <meeting>
+            <time>2014-06-16T19:00:00+02:00</time>
+            <name>Webmontag #61: Summer Games</name>
+        </meeting>
+        <meeting>
+            <time>2014-07-14T19:00:00+02:00</time>
+            <name>Webmontag #62: Was Hänschen nicht lernt…</name>
+        </meeting>
+        <meeting>
+            <time>2014-08-11T19:00:00+02:00</time>
+            <name>Webmontag #63: World Wide Web</name>
+        </meeting>
+        <meeting>
+            <time>2014-09-08T19:00:00+02:00</time>
+            <name>Webmontag #64: Bei Risiken und Nebenwirkungen</name>
+        </meeting>
+        <meeting>
+            <time>2014-10-13T19:00:00+02:00</time>
+            <name>Webmontag #65: Der Geist in der Maschine</name>
+        </meeting>
+        <meeting>
+            <time>2014-11-10T19:00:00+01:00</time>
+            <name>Webmontag #66: Geld oder Liebe</name>
+        </meeting>
+        <meeting>
+            <time>2014-12-08T19:00:00+01:00</time>
+            <name>Webmontag #67: Super Webmontag 67</name>
+        </meeting>
+        <meeting>
+            <time>2014-04-14T19:00:00+02:00</time>
+            <name>Webmontag #59: Ignite</name>
+            <description>15 Sekunden bestimmen den Rhythmus des nächsten Webmontag Frankfurt: 15 Sekunden – genau so
+                lange hat jeder Sprecher Zeit, jede seiner 20 Vortragsfolien in einer 5-minütigen Präsentation zu
+                kommentieren, bevor automatisch auf die nächste Folie gewechselt wird.
+
+                Dieses Veranstaltungsformat nennt sich Ignite und lässt die Sprecher das Wesentliche in kürzester Zeit
+                auf den Punkt bringen. Den Zuhörern bringt es ein Feuerwerk an Inspirationen zu zahlreichen
+                interessanten Themen rund um’s Web.
+            </description>
+            <url>http://www.wmfra.de/programm/webmontag-frankfurt-59-ignite.html</url>
+        </meeting>
         <meeting>
             <time>2013-03-11T19:00:00+01:00</time>
             <name>Webmontag #46: Cloud &amp; Big Data</name>
