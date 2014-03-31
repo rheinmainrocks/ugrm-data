@@ -35,6 +35,19 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-04-14T19:00:00+02:00</time>
+            <name>Webmontag #59: Ignite</name>
+            <description>15 Sekunden bestimmen den Rhythmus des nächsten Webmontag Frankfurt: 15 Sekunden – genau so
+                lange hat jeder Sprecher Zeit, jede seiner 20 Vortragsfolien in einer 5-minütigen Präsentation zu
+                kommentieren, bevor automatisch auf die nächste Folie gewechselt wird.
+
+                Dieses Veranstaltungsformat nennt sich Ignite und lässt die Sprecher das Wesentliche in kürzester Zeit
+                auf den Punkt bringen. Den Zuhörern bringt es ein Feuerwerk an Inspirationen zu zahlreichen
+                interessanten Themen rund um’s Web.
+            </description>
+            <url>http://www.wmfra.de/programm/webmontag-frankfurt-59-ignite.html</url>
+        </meeting>
+        <meeting>
             <time>2014-01-13T19:00:00+01:00</time>
             <name>Webmontag #56: Aufbruch</name>
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-56-schwerpunkt-aufbruch.html</url>
@@ -73,13 +86,21 @@
         <meeting>
             <time>2013-08-12T19:00:00+02:00</time>
             <name>Webmontag Frankfurt #51, Schwerpunkt Neuland</name>
-            <description>PRISM, Tempora, Supergrundrecht, Datenschutz und das alles im Neuland. Aus aktuellem Anlass ändern wir unser Programm für den Monat August und laden Sprecher ein, die euch zum Thema Datenschutz, Netzpolitik und Internet auf den neusten Stand bringen und euch praktische Tipps im Umgang mit euren Daten geben.</description>
+            <description>PRISM, Tempora, Supergrundrecht, Datenschutz und das alles im Neuland. Aus aktuellem Anlass
+                ändern wir unser Programm für den Monat August und laden Sprecher ein, die euch zum Thema Datenschutz,
+                Netzpolitik und Internet auf den neusten Stand bringen und euch praktische Tipps im Umgang mit euren
+                Daten geben.
+            </description>
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-51-schwerpunkt-neuland.html</url>
         </meeting>
         <meeting>
             <time>2013-09-09T19:00:00+02:00</time>
             <name>Webmontag #52: Mobility</name>
-            <description>Taxi, Bahn, Flug und sogar die Raumfahrt, das breite Spektrum der Mobilität kombiniert mit digitaler Technologie, sozialen Medien und dem vernetzten Leben verspricht Spannung, Leidenschaft und Innovationen. An diesem Abend möchten wir euch einige interessante Aspekte der Mobilität in 2013 näher bringen.</description>
+            <description>Taxi, Bahn, Flug und sogar die Raumfahrt, das breite Spektrum der Mobilität kombiniert mit
+                digitaler Technologie, sozialen Medien und dem vernetzten Leben verspricht Spannung, Leidenschaft und
+                Innovationen. An diesem Abend möchten wir euch einige interessante Aspekte der Mobilität in 2013 näher
+                bringen.
+            </description>
         </meeting>
         <meeting>
             <time>2013-10-14T19:00:00+02:00</time>
