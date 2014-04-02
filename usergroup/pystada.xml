@@ -33,6 +33,19 @@
             <time>2014-02-12T19:00:00+01:00</time>
             <name>Treffen des PyStaDa</name>
         </meeting>
+        <meeting>
+            <time>2014-04-09T19:30:00+01:00</time>
+            <name>Treffen des PyStaDa</name>
+            <url>https://pads.ccc.de/pystada-2014-04-09</url>
+        </meeting>
+        <meeting>
+            <time>2014-04-23T19:30:00+01:00</time>
+            <name>Treffen des PyStaDa</name>
+        </meeting>
+        <meeting>
+            <time>2014-05-07T19:30:00+01:00</time>
+            <name>Treffen des PyStaDa</name>
+        </meeting>
     </schedule>
     <team>
         <person>
