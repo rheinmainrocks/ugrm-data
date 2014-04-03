@@ -3,20 +3,15 @@
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
     <name>Python Stammtisch Darmstadt</name>
     <nickname>PyStaDa</nickname>
-    <description markdown="true">In Darmstadt gibt es seit Februar 2014 einen Stammtisch zum
-        Thema Python.
+    <description markdown="true">In Darmstadt gibt es seit Februar 2014 einen Stammtisch zum Thema Python.
 
-        Die Treffen finden alle zwei Wochen in der so
-        genannten Trollhöhle statt und sind für alle Interessierten offen. Sie haben keine festgelegte Agenda, alles
-        rund um Python geht. In Wochen in denen die [PyUGRM](http://usergroups.rheinmainrocks.de/~pyugrm) statt findet,
-        fallen die Treffen aus.
+	Wir verstehen uns als lockere Gemeinschaft, die sich zum Austausch über Projekte, Probleme und Ideen Rund um die Programmiersprache Python trifft. Der Plan ist immer mal wieder einen Vortrag über ein Python Projekt oder ein Software-Handwerks-Thema wie Version Control, Projektmanagement oder Ähnliches zu haben.
 
-        Wer mag setzt sich einfach dazu und codet eine Runde.
-
-        Es sollen auch Themen zur Sprache kommen können, die nicht direkt mit
-        Python zu tun haben - bspw. git oder Scrum.
+        Die Treffen finden alle zwei Wochen in der so genannten Trollhöhle statt und sind für alle Interessierten offen.
+	Sie haben keine festgelegte Agenda, alles rund um Python geht.
+	In Wochen in denen die [PyUGRM](http://usergroups.rheinmainrocks.de/~pyugrm) statt findet, fallen die Treffen aus.
     </description>
-    <url>http://usergroups.rheinmainrocks.de/~pystada</url>
+    <url>http://pystada.github.io/</url>
     <tags>
         <tag>Python</tag>
     </tags>
@@ -28,7 +23,7 @@
         <name>Trollhöhle des Chaos Darmstadt</name>
         <url>https://wiki.chaos-darmstadt.de/wiki/Trollh%C3%B6hle</url>
         <foursquare>https://foursquare.com/v/trollh%C3%B6hle/5155a0e7e4b0d9a3f3dcde86</foursquare>
-        <twitter>@chaosdarmstadt</twitter>
+        <twitter>@trollhoehle</twitter>
         <street>Wilhelm-Leuschner-Straße 36</street>
         <zip>64293</zip>
         <city>Darmstadt</city>
@@ -36,6 +31,19 @@
     <schedule usedefaultmeetinglocation="true">
         <meeting>
             <time>2014-02-12T19:00:00+01:00</time>
+            <name>Treffen des PyStaDa</name>
+        </meeting>
+        <meeting>
+            <time>2014-04-09T19:30:00+02:00</time>
+            <name>Treffen des PyStaDa</name>
+            <url>https://pads.ccc.de/pystada-2014-04-09</url>
+        </meeting>
+        <meeting>
+            <time>2014-04-23T19:30:00+02:00</time>
+            <name>Treffen des PyStaDa</name>
+        </meeting>
+        <meeting>
+            <time>2014-05-07T19:30:00+02:00</time>
             <name>Treffen des PyStaDa</name>
         </meeting>
     </schedule>
