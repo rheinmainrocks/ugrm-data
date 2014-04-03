@@ -21,6 +21,30 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-04-28T19:00:00+02:00</time>
+            <name>Treffen #29</name>
+            <description>**Agenda**
+
+                * Vorstellungsrunde
+                * Lightning Talks
+                * One line of code
+                * ...
+            </description>
+            <location>
+                <name>dkd Internet Service GmbH</name>
+                <description>Die dkd Internet Service GmbH ist eine auf TYPO3 spezialisierte
+                    Full-Service-Internetagentur, die komplexe Firmen-Websites plant, erstellt und betreibt.
+                </description>
+                <url>http://goo.gl/maps/4aN83</url>
+                <foursquare>https://foursquare.com/v/dkd-internet-service-gmbh/4b0a7674f964a520362423e3</foursquare>
+                <twitter>@dkd_de</twitter>
+                <publictransport>Hauptbahnof Frankfurt, fast alles</publictransport>
+                <street>Kaiserstrasse 73</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-03-26T19:00:00+01:00</time>
             <name>Treffen #28</name>
             <description>
