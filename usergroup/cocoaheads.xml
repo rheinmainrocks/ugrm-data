@@ -34,6 +34,10 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-04-07T19:00:00+02:00</time>
+            <name>April-Treffen</name>
+        </meeting>
+        <meeting>
             <time>2013-08-05T19:00:00+02:00</time>
             <name>August-Treffen</name>
         </meeting>
