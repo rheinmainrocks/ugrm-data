@@ -18,6 +18,11 @@
     <contact>
         <twitter>@PyStaDa</twitter>
         <hashtag>#PyStaDa</hashtag>
+        <mailinglist>
+            <url>https://lists.chaos-darmstadt.de/mailman/listinfo/pystada</url>
+            <label>Mailingliste</label>
+            <description>Mailingliste für Termin-Ankündigungen und Austausch.</description>
+        </mailinglist>
     </contact>
     <defaultmeetinglocation>
         <name>Trollhöhle des Chaos Darmstadt</name>
