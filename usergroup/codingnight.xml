@@ -61,6 +61,30 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-04-11T19:00:00+02:00</time>
+            <name>9. Coding Night</name>
+            <description>
+                As always, we're going to play around with code, try new stuff and extend our coding knowledge. BUT this
+                time we're going to focus on programmable gadgets.
+
+                I'm going to bring the Sphero Robot Ball to the meetup. More information about Sphero can be found here:
+                http://www.gosphero.com. Further information on how to program the ball are here:
+                https://developer.gosphero.com/. During the 7th Coding Night we already wrote a small program in Python
+                were we let the ball move in circles and changed its colors. The repository with the code can be found
+                on GitHub: https://github.com/CodingNight/SpheroPython
+
+                Furthermore I'm going to bring Karotz (http://store.karotz.com/). Those gadgets are lent from the
+                Open-Tech-School Rhein Main (http://www.opentechschool.org/rheinmain/). Thanks a lot for the support!
+                In the last Coding Night Gregor brought the Cleware Traffic Light along. Information about this
+                programmable gadget can be found here: http://www.cleware.net/produkte/p-clewarecontrol-E.html. For this
+                project there is also a GitHub repository: https://github.com/CodingNight/cleware-hudson-jenkins
+
+                So if you have also any other programmable gadget, you can bring it along to the Coding Night, so we
+                have more toys to play with! :)
+            </description>
+            <url>http://www.meetup.com/Coding-Night-Frankfurt/events/174165652/</url>
+        </meeting>
+        <meeting>
             <time>2014-03-28T19:00:00+01:00</time>
             <name>8. Coding Night</name>
             <url>http://www.meetup.com/Coding-Night-Frankfurt/events/171554682/</url>
