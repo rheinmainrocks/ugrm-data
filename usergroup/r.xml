@@ -20,7 +20,36 @@
     </tags>
     <schedule>
         <meeting>
-            <time>2013-09-11T18:00:00+02:00</time>
+            <time>2014-09-04T18:00:00+02:00</time>
+            <name>Treffen der R-Users</name>
+            <description>
+                **Bisherige Agendapunkte**
+
+                * Vorstellung der Gruppe für Neumitglieder
+                * Ideen &amp; Themen für 2014
+                * Terminplanung
+                * FuxCon und Themen dort
+                * Sonstiges
+
+                Wir freuen uns auf Ihre/Eure Teilnahme.
+            </description>
+            <location>
+                <name>heimathafen Wiesbaden</name>
+                <description>Der heimathafen Wiesbaden ist ein Coworking Space &amp; Café. Wir vermieten Arbeitsplätze
+                    an Kreative &amp; Selbständige, Konferenzräume an Firmen &amp; Agenturen - und verkaufen Kaffee an
+                    jedermann.
+                </description>
+                <url>http://heimathafen-wiesbaden.de/</url>
+                <foursquare>https://de.foursquare.com/heimathafenwi</foursquare>
+                <twitter>@heimathafenWI</twitter>
+                <publictransport>Hauptbahnhof Wiesbaden</publictransport>
+                <street>Karlstraße 22 (Adelheidstraße)</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
+        <time>2013-09-11T18:00:00+02:00</time>
             <name>Gruppenvorstellung &amp; Themendiskussion</name>
             <description>Wir wollen nach der Sommerpause wieder durchstarten und laden Euch herzlich zu einem neuem
                 Meetup der Wiesbaden R Users Group am 11.09.2013 in Wiesbaden ein.
