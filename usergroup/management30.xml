@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>Management 3.0 Stammtisch</name>
+    <description markdown="true">
+        Diese Gruppe richtet sich an alle, die sich mit Management und Führungsverantwortung in agilen Organisationen
+        beschäftigen.
+    </description>
+    <url>https://www.xing.com/de/communities/groups/management-3-dot-0-stammtisch-frankfurt-d80b-1003992/</url>
+    <tags>
+        <tag>Management3.0</tag>
+        <tag>Agile</tag>
+    </tags>
+    <contact>
+        <xing>https://www.xing.com/de/communities/groups/management-3-dot-0-stammtisch-frankfurt-d80b-1003992/</xing>
+    </contact>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-04-17T19:00:00+02:00</time>
+            <name>April - Management 3.0 Stammtisch</name>
+        </meeting>
+    </schedule>
+</usergroup>
