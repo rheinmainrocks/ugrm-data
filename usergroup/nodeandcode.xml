@@ -23,6 +23,33 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-04-24T19:00:00+02:00</time>
+            <name>NODE+CODE _ field framework with Nick Rothwell</name>
+            <description>We are entering a series of meetups that revolve around the theme of "embodiment" as it relates
+                to technology, code, digital art and the other things we do.
+
+                The first talk in this series is by [Nick Rothwell](http://www.cassiel.com/), a composer, performer,
+                software architect, programmer
+                and sound artist. Nick is going to introduce the [field framework](http://openendedgroup.com/field/) by
+                the OpenEndedGroup through a set of
+                projects that he worked on.
+
+                Nick has a long history of projects that relate to dance and performance. He has worked with major
+                companies in that field and on large installations. Please see his website for a detailed list.
+
+                The field framework has long been sort of a ghost in the area of creative coding environments. It is
+                very unique as it is a true polyglot (Java, Python, Clojure, ...) system that enables both visual and
+                text based (live) coding.
+            </description>
+            <location>
+                <name>basis Frankfurt</name>
+                <url>http://www.basis-frankfurt.de/de/standorte</url>
+                <street>Gutleutstraße 8-12</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-08-27T19:00:00+02:00</time>
             <name>NODE+CODE August - ReCode</name>
             <description>We have Matthew Epler, initiator of the [ReCode project](http://recodeproject.com/), for a
