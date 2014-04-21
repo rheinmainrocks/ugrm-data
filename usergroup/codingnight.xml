@@ -44,7 +44,8 @@
         **Also worauf wartest du? Code on!**
 
         Wenn du Coder bist, sei es Anfänger oder Profi, oder mit dem Programmieren endlich durchstarten möchtest, dann
-        komme zur nächsten *Coding Night* und programmiere mit uns.</description>
+        komme zur nächsten *Coding Night* und programmiere mit uns.
+    </description>
     <url>http://www.codingnerd.de/coding-night/</url>
     <tags>
         <tag>Coding</tag>
@@ -60,6 +61,10 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-04-25T19:00:00+02:00</time>
+            <name>10. Coding Night: workshop special</name>
+        </meeting>
         <meeting>
             <time>2014-04-11T19:00:00+02:00</time>
             <name>9. Coding Night</name>
