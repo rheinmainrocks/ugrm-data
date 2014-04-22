@@ -31,6 +31,31 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-05-21T19:00:00</time>
+            <name>Meetup #6</name>
+            <description>Hi all,
+
+                our last meetup happened way too long ago, so it's time to meet again.
+
+                For this meetup we don't have a talk or topic yet. If any of you'd like to hold a talk or would like to
+                invite someone to hold a talk in front of the group, you're more than welcome to do so.
+
+                If we don't come up with a specific topic and/or talk, let's just meet for drinks and snacks and have
+                some nice chats with fellow members of the group.
+
+                Looking forward to meeting you again!
+            </description>
+            <url>http://www.meetup.com/DevOps-Frankfurt/events/178428302/</url>
+            <location>
+                <name>Vaamo Finanz AG</name>
+                <url>http://www.vaamo.de/</url>
+                <twitter>@TeamVaamo</twitter>
+                <street>Mainzer Landstr. 250-254</street>
+                <zip>60326</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-02-17T19:00:00+01:00</time>
             <name>Talk DevOps with Mathias Mayer (@roidrage) from Travis CI</name>
             <description>Mathias Mayer ([@roidrage](https://twitter.com/roidrage)) of Travis CI fame agreed to visit us,
