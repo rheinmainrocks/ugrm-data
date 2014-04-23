@@ -17,6 +17,20 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-04-24T19:00:00+02:00</time>
+            <name>5. Treffen der JavaScript User Group Rhein-Main</name>
+            <url>https://plus.google.com/u/0/events/c71f6m1pu105h5ba5i43vh0vb64</url>
+            <location>
+                <name>AOE GmbH</name>
+                <publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien
+                    15,16 und 28 halten fast vor dem Büro.
+                </publictransport>
+                <street>Borsigstr. 3</street>
+                <zip>65205</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-02-13T19:00:00+01:00</time>
             <name>4. Treffen der JavaScript User Group Rhein-Main</name>
             <url>https://plus.google.com/events/cm473qjqm2e6kqko6dah67ftlhs</url>
