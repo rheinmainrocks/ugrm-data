@@ -2,7 +2,9 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Google Developer Group Rhein-Main</name>
     <nickname>GDGRM</nickname>
-    <description>Everything Google. If you are interested in Android, Chrome(OS), Dart, Glass or any fancy new technologies - join us!</description>
+    <description>Everything Google. If you are interested in Android, Chrome(OS), Dart, Glass or any fancy new
+        technologies - join us!
+    </description>
     <url>http://gdgrm.org</url>
     <tags>
         <tag>Google Technologien</tag>
@@ -23,16 +25,29 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-04-24T19:00:00+02:00</time>
+            <name>GDG Rhein-Main Stammtisch April 2014</name>
+            <description>Ihr seid herzlich zu unserem GDG Rhein-Main Stammtisch eingeladen! Wir treffen uns am
+                Donnerstag um 19 Uhr in der Yours Australian Bar in Frankfurt (nahe Hauptwache).
+                Uuund, habt ihr eure Chromecasts schon sinnvoll eingesetzt? :-)
+            </description>
+            <url>https://plus.google.com/events/c6dkf6qu1c4fifugs58mh5h4fbo</url>
+        </meeting>
+        <meeting>
             <time>2014-02-27T20:00:00+01:00</time>
             <name>Talk Time: Google Glass, Chromecast, Web/App Performance and MDM!</name>
             <description>As promised, we have something very special coming up!
-We have four awesome talks for you:
-Sebastian Kaspari will talk about Google Glass! He actually brings a device with him from Munich so you might get a hands-on… :-)
-Marc Reichelt will give a live-demo of Chromecast! Now that the SDK has finally launched it got more interesting than ever.
-He will also show you how to make the web and apps faster! Because todays performance is still far from perfect.
-And finally Martin Harndt will top it off by presenting mobile device management for companies!
+                We have four awesome talks for you:
+                Sebastian Kaspari will talk about Google Glass! He actually brings a device with him from Munich so you
+                might get a hands-on… :-)
+                Marc Reichelt will give a live-demo of Chromecast! Now that the SDK has finally launched it got more
+                interesting than ever.
+                He will also show you how to make the web and apps faster! Because todays performance is still far from
+                perfect.
+                And finally Martin Harndt will top it off by presenting mobile device management for companies!
 
-Location is the silvertower in Frankfurt, near Willy-Brandt-Platz. Please RSVP to the event if you want to come! Otherwise you won't be able to enter.
+                Location is the silvertower in Frankfurt, near Willy-Brandt-Platz. Please RSVP to the event if you want
+                to come! Otherwise you won't be able to enter.
             </description>
             <url>https://plus.google.com/u/0/events/cp0e0ldgoe15907r1jqh33008bc</url>
             <location>
@@ -45,13 +60,21 @@ Location is the silvertower in Frankfurt, near Willy-Brandt-Platz. Please RSVP t
         <meeting>
             <time>2014-01-30T19:00:00+01:00</time>
             <name>GDG Rhein-Main Stammtisch - Januar 2014</name>
-            <description>Wir starten mit einem Stammtisch ins frische Jahr 2014! Na, wer hat sich schon Vorsätze für dieses Jahr gemacht? Wie wär's zum Beispiel eine neue Programmiersprache kennenzulernen - z.B. Dart? Oder mit den aktuellen Google Play Diensten auf Android herausfinden ob der Nutzer zu Fuß oder mit dem Fahrrad unterwegs ist? Oder die Geschwindigkeit eurer Webseite um ein vielfaches zu erhöhen? Zeigt uns was ihr so drauf habt! :-)﻿</description>
+            <description>Wir starten mit einem Stammtisch ins frische Jahr 2014! Na, wer hat sich schon Vorsätze für
+                dieses Jahr gemacht? Wie wär's zum Beispiel eine neue Programmiersprache kennenzulernen - z.B. Dart?
+                Oder mit den aktuellen Google Play Diensten auf Android herausfinden ob der Nutzer zu Fuß oder mit dem
+                Fahrrad unterwegs ist? Oder die Geschwindigkeit eurer Webseite um ein vielfaches zu erhöhen? Zeigt uns
+                was ihr so drauf habt! :-)﻿
+            </description>
             <url>https://plus.google.com/events/c3f7s2o1llj10khp6s7cnrm52ss</url>
         </meeting>
         <meeting>
             <time>2013-08-23T18:00:00+02:00</time>
             <name>GDG RheinMain Talks Android 4.3</name>
-            <description>Stephan Linzner (Android Advocate @ Google) will join us to share some insights into what's new in 4.3 and give us an update on his perspective of the dev ecosystem which he has helped create in London.</description>
+            <description>Stephan Linzner (Android Advocate @ Google) will join us to share some insights into what's new
+                in 4.3 and give us an update on his perspective of the dev ecosystem which he has helped create in
+                London.
+            </description>
             <url>https://plus.google.com/events/c7t17968h5b7rdjukr1vlh891qc?authkey=COSdiqaqsfHsFA</url>
             <location>
                 <name>TBA</name>
@@ -63,21 +86,29 @@ Location is the silvertower in Frankfurt, near Willy-Brandt-Platz. Please RSVP t
         <meeting>
             <time>2013-07-25T19:00:00+02:00</time>
             <name>GDG Rhein-Main Stammtisch - Juli 2013</name>
-            <description>Auch während der Urlaubszeit treffen wir uns wieder. Schnacken über neue Gadgets, neues aus der Welt in und um Google und was uns sonst noch bewegt. Vor Ort gibts Infos zu einer Idee für eine neue GDGRM Eventreihen, Codename "GDGRM Hack'chen" :)</description>
+            <description>Auch während der Urlaubszeit treffen wir uns wieder. Schnacken über neue Gadgets, neues aus der
+                Welt in und um Google und was uns sonst noch bewegt. Vor Ort gibts Infos zu einer Idee für eine neue
+                GDGRM Eventreihen, Codename "GDGRM Hack'chen" :)
+            </description>
             <url>https://plus.google.com/events/c683hg0820abl1tpp4egod9tf00</url>
         </meeting>
         <meeting>
             <time>2013-06-27T19:00:00+02:00</time>
             <name>GDG Rhein-Main Stammtisch - Juni 2013</name>
-            <description>Zu diesem Stammtisch gibt es diesen Monat einige besondere Schmankerls! +Marc Reichelt war dieses Jahr bei der Google I/O in San Francisco dabei und kann aus dem Nähkästchen plaudern – etwa über Glass, WebP, Android und viele weitere Themen.
+            <description>Zu diesem Stammtisch gibt es diesen Monat einige besondere Schmankerls! +Marc Reichelt war
+                dieses Jahr bei der Google I/O in San Francisco dabei und kann aus dem Nähkästchen plaudern – etwa über
+                Glass, WebP, Android und viele weitere Themen.
 
-Außerdem: Ihr wollt ein älteres Android-Handy mit neuer Software versehen? Wir zeigen wie es geht und geben Tipps worauf man achten sollte! Eventuell sogar live an einem mitgebrachten Gerät… ;-)
+                Außerdem: Ihr wollt ein älteres Android-Handy mit neuer Software versehen? Wir zeigen wie es geht und
+                geben Tipps worauf man achten sollte! Eventuell sogar live an einem mitgebrachten Gerät… ;-)
 
-Und vielleicht bekommen wir noch ein Händchen auf einen Tolino Shine um diesen gleich mal mit eigenen Apps zu bestücken. Man darf gespannt sein!
+                Und vielleicht bekommen wir noch ein Händchen auf einen Tolino Shine um diesen gleich mal mit eigenen
+                Apps zu bestücken. Man darf gespannt sein!
 
-Sommer, Sonne, Apfelwein und brandaktuelle Technik-Themen!
+                Sommer, Sonne, Apfelwein und brandaktuelle Technik-Themen!
 
-Wir freuen uns auf euch! :-)</description>
+                Wir freuen uns auf euch! :-)
+            </description>
             <url>https://plus.google.com/events/c62ba1o0j2ipdqc3f7gkq95e7ek</url>
         </meeting>
         <meeting>
