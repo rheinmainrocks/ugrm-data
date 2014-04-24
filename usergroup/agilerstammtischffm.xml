@@ -45,6 +45,22 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-05-08T19:00:00+01:00</time>
+            <name>11. Agiler Stammtisch Frankfurt</name>
+            <description>Der 11. Agilen Stammtisch Frankfurt findet am 8. Mai wie gewohnt um 19 Uhr im Coworking-Space
+                "Die Zentrale" statt.
+
+                Wir werden mit einem Lightning Talk zum Thema "Agile Engineering Methoden - ein kurzer Überblick"
+                starten. (Die Teilnehmer dürfen gerne auch ein eigenes Thema mitbringen und kurz präsentieren)
+
+                Die weitere Diskussion wird im beliebten Lean-Coffee-Format fortgesetzt. Alle Teilnehmer sind auch hier
+                herzlich eingeladen, ihre eigene Themen und Fälle mitzubringen.
+
+                Getränke und Essen werden wie immer von der codecentric AG gesponsert.
+            </description>
+            <url>https://www.xing.com/events/11-agiler-stammtisch-frankfurt-1395848</url>
+        </meeting>
+        <meeting>
             <time>2014-04-03T19:00:00+02:00</time>
             <name>10. Agiler Stammtisch Frankfurt</name>
             <description>Der Agile Stammtisch Frankfurt feiert sein erstes rundes Jubiläum.
