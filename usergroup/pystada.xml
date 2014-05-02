@@ -36,40 +36,40 @@
     <schedule usedefaultmeetinglocation="true">
         <meeting>
             <time>2014-01-29T19:00:00+01:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>1. Treffen des PyStaDa</name>
         </meeting>
         <meeting>
             <time>2014-02-12T19:30:00+01:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>2. Treffen des PyStaDa</name>
         </meeting>
         <meeting>
             <time>2014-02-26T19:30:00+01:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>3. Treffen des PyStaDa</name>
         </meeting>
         <meeting>
             <time>2014-02-12T19:30:00+01:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>4. Treffen des PyStaDa</name>
         </meeting>
         <meeting>
             <time>2014-03-12T19:30:00+01:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>5. Treffen des PyStaDa</name>
         </meeting>
         <meeting>
             <time>2014-03-26T19:30:00+01:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>6. Treffen des PyStaDa</name>
         </meeting>
         <meeting>
             <time>2014-04-09T19:30:00+02:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>7. Treffen des PyStaDa</name>
             <url>https://pads.ccc.de/pystada-2014-04-09</url>
         </meeting>
         <meeting>
             <time>2014-04-23T19:30:00+02:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>8. Treffen des PyStaDa</name>
         </meeting>
         <meeting>
             <time>2014-05-07T19:30:00+02:00</time>
-            <name>Treffen des PyStaDa</name>
+            <name>9. Treffen des PyStaDa</name>
         </meeting>
     </schedule>
     <team>
