@@ -3,8 +3,8 @@
            female="false">
     <name>Management 3.0 Stammtisch</name>
     <description markdown="true">
-        Diese Gruppe richtet sich an alle, die sich mit Management und Führungsverantwortung in agilen Organisationen
-        beschäftigen.
+        Dieser Stammtisch bietet eine Plattform für Menschen, die sich bzgl. moderner und agiler Managementformen
+        austauschen möchten. Das Buch "Management 3.0" von Jurgen Appelo ist hier Ausgangspunkt.
     </description>
     <url>https://www.xing.com/de/communities/groups/management-3-dot-0-stammtisch-frankfurt-d80b-1003992/</url>
     <tags>
@@ -14,7 +14,31 @@
     <contact>
         <xing>https://www.xing.com/de/communities/groups/management-3-dot-0-stammtisch-frankfurt-d80b-1003992/</xing>
     </contact>
+    <defaultmeetinglocation>
+        <name>Cocomore AG</name>
+        <url>http://www.cocomore.de/ueberuns/frankfurt-am-main</url>
+        <foursquare>https://foursquare.com/v/cocomore-ag/4c2d92cc1683b713eb6326ec</foursquare>
+        <twitter>@CocomoreAG</twitter>
+        <street>Gutleutstraße 30</street>
+        <zip>60329</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-05-22T19:00:00+02:00</time>
+            <name>Mai - Management 3.0 Stammtisch</name>
+            <description>
+                **Schwerpunkt-Thema:** Aufgabendeligation
+
+                **Agenda**
+
+                * Begrüßung
+                * Kennenlernen und Vorstellung
+                * Vortrag: Tbd
+                * Erfahrungsaustausch
+            </description>
+            <url>https://www.xing.com/events/mai-management-3-0-stammtisch-frankfurt-1395055</url>
+        </meeting>
         <meeting>
             <time>2014-04-17T19:00:00+02:00</time>
             <name>April - Management 3.0 Stammtisch</name>
