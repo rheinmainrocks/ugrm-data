@@ -25,7 +25,37 @@
     </contact>
     <schedule>
         <meeting>
-            <time>2014-03-20T19:00:00+01:00</time>
+            <time>2014-05-08T19:00:00+02:00</time>
+            <name>PHPUGFFM III/2014</name>
+            <description>
+                Die PHPUG trifft sich zum 3. Mal in 2014.
+
+                Wir sind wieder bei Sitewards am Untermainkai 30 zu Gast.
+
+                Tobias Zander wird uns Magento 2 vorstellen und Michelangelo van Dam wird einen bisher noch nicht
+                bekannten Vortrag halten.
+
+                Da wir mit Michelangelo einen internationalen Gast haben werden, wird ein Großteil der UG in englischer
+                Sprache stattfinden.
+
+                * 19:00 Uhr Ankommen
+                * 19:30 Uhr Tobias Zander: Magento 2
+                * 20:15 Uhr Pause
+                * 20:30 Uhr Michelangelo van Dam: To be announced
+                * 21:15 Uhr Open End
+            </description>
+            <url>http://www.phpugffm.de/veranstaltungen-2/phpugffm-iii2014/</url>
+            <location>
+                <name>Sitewards GmbH</name>
+                <url>http://www.sitewards.com/</url>
+                <foursquare>https://de.foursquare.com/v/sitewards/4fe19e43e4b0aaff315747c2</foursquare>
+                <street>Untermainkai 30</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
+        <time>2014-03-20T19:00:00+01:00</time>
             <name>PHPUGFFM II/2014</name>
             <description>
                 **Agenda**
