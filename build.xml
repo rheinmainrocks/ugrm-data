@@ -19,15 +19,9 @@
 
 	<target name="test" depends="compile"
 		description="Perform xmllint validation on XML files">
-		<apply executable="xmllint" failonerror="true">
-			<arg value="--schema" />
-			<arg value="${basedir}/xsd/usergroup.xsd" />
-			<arg value="--noout" />
-			<fileset dir="${basedir}/usergroup">
-				<include name="**/*.xml" />
-				<modified />
-			</fileset>
-		</apply>
+		<schemavalidate>
+			<fileset dir="${basedir}/usergroup" includes="**/*.xml" />
+		</schemavalidate>
 		<mkdir dir="${reportdir}/junit" />
 		<junit fork="yes" printsummary="on" haltonfailure="yes">
 			<jvmarg value="-Dbuildmode=true" />
