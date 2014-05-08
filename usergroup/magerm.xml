@@ -25,7 +25,25 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-04-02T19:00:00+02:00</time>
+            <time>2014-05-28T19:00:00+02:00</time>
+            <name>Magento Stammtisch Rhein-Main</name>
+            <description>Es ist wieder Stammtischzeit. Diesmal empfängt uns netz98 in seinen Räumen. Wir dürfen uns auf
+                interessante Vorträge und Diskussionen freuen. Ich hoffe also auf zahlreiches Erscheinen. :-)
+            </description>
+            <url>https://www.xing.com/events/magento-stammtisch-rhein-main-1400752</url>
+            <location>
+                <name>netz98 new media GmbH</name>
+                <url>http://www.netz98.de/kontakt/anfahrt/</url>
+                <foursquare>https://foursquare.com/v/netz98-new-media/4c8df67fd68c6dcbb1e3f7a1</foursquare>
+                <twitter>@netz98</twitter>
+                <publictransport>Bus: Gutenberg-Center (Nord, Ost)</publictransport>
+                <street>Haifa-Allee 2</street>
+                <zip>55128</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
+        <meeting>
+        <time>2014-04-02T19:00:00+02:00</time>
             <name>Magento Stammtisch Rhein-Main</name>
             <description>Ein Monat vor der nächsten Meet Magento in Leipzig treffen wir uns noch ein mal im
                 Sitewards-Büro in Frankfurt. Tobias empfängt uns dort vielleicht mit einigen Snacks, denn seit seinem
