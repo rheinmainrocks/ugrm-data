@@ -21,6 +21,24 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-05-27T19:00:00+02:00</time>
+            <name>Treffen #30</name>
+            <description>**Agenda**
+
+                * Vorstellungsrunde
+                * Lightning Talks
+                * ...
+            </description>
+            <url>https://www.softwerkskammer.org/activities/Treffen_30_der_Softwerkskammer_Rhein-Main</url>
+            <location>
+                <name>Unterschied &amp; Macher</name>
+                <url>http://unterschiedundmacher.com/</url>
+                <street>Stuttgarter Str. 25</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-04-28T19:00:00+02:00</time>
             <name>Treffen #29</name>
             <description>**Agenda**
