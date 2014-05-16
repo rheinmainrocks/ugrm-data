@@ -14,6 +14,29 @@
     </tags>
     <schedule>
         <meeting>
+            <time>2014-06-12T19:00:00+02:00</time>
+            <name>Vaadin Frankfurt - Drittes Meetup</name>
+            <description>
+				Entwickeln Sie Webanwendungen mit Vaadin oder möchten Sie dies in Zukunft tun? Dann kommen Sie doch zu 
+				unserem Meetup in Frankfurt am Main.
+				Es ist mal wieder so weit. Die codecentric AG veranstaltet das 3. offizielle Vaadin Meetup. Hier können
+				Sie sich mit anderen Gleichgesinnten über alle Themen rund um Vaadin austauschen. Vom Einsteiger bis zum
+				absoluten Experten sind hier alle willkommen. Wir wollen uns über Erfahrungen und Best Practices
+				austauschen. Des Weiteren möchten wir gemeinsam über Probleme und Lösungen aus der täglichen Arbeit mit
+				Vaadin diskutieren. Das Meetup beginnt mit einer kurzen, lockeren Vorstellungsrunde und einem kleinen
+				Vortrag über ein Thema aus dem Bereich Anwendungsarchitektur. Sie sind natürlich herzlich dazu eingeladen
+				eigene Themen mitzubringen, die wir im Laufe des Abends diskutieren können.
+				Getränke und Essen werden von der codecentric AG gesponsort.
+            </description>
+            <url>https://www.xing.com/events/3-vaadin-meetup-frankfurt-main-1405140</url>
+            <location>
+                <name>Die Zentrale</name>
+                <street>Berger Str. 175</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-12-17T17:30:00+01:00</time>
             <name>Vaadin Frankfurt - First meetup</name>
             <description>Lets have the first Vaadin meet-up at the same evening we are having the GWT.create venue.
