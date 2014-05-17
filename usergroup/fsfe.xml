@@ -11,6 +11,12 @@
         <tag>Free Society</tag>
         <tag>Open Source</tag>
     </tags>
+    <contact>
+        <twitter>@FSFErm</twitter>
+        <hashtag>#FSFErm</hashtag>
+        <mailinglist>
+            <url>https://lists.fsfe.org/mailman/listinfo/rhein-main</url>
+    </contact>
     <defaultmeetinglocation>
         <name>Café Albatros</name>
         <url>http://www.cafe-albatros.de/</url>
