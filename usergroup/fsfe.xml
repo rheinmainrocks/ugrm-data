@@ -2,27 +2,38 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Free Software Foundation Europe Fellowship Rhein-Main</name>
     <nickname>FSFE</nickname>
-    <description>Treffen der Regional-Gruppe Rhein-Main der Free Software Foundation Europe.</description>
+    <description>
+     Treffen der Regional-Gruppe Rhein-Main der Free Software Foundation Europe
+    </description>
     <url>http://wiki.fsfe.org/groups/Rhein-Main</url>
     <tags>
         <tag>Free Software</tag>
+        <tag>Free Society</tag>
         <tag>Open Source</tag>
     </tags>
+    <contact>
+	<mailinglist>
+            <url>https://lists.fsfe.org/mailman/listinfo/rhein-main</url>
+		<label>Mailingliste</label>
+	</mailinglist>
+        <twitter>@FSFErm</twitter>
+        <hashtag>#FSFErm</hashtag>
+    </contact>
     <defaultmeetinglocation>
-        <name>Club Voltaire</name>
-        <url>http://www.club-voltaire.de/</url>
-        <publictransport>Hauptwache</publictransport>
-        <street>Kleine Hochstraße 5</street>
-        <zip>60313</zip>
+        <name>Café Albatros</name>
+        <url>http://www.cafe-albatros.de/</url>
+        <publictransport>U4, U6, U7, Tram 16 Bockenheimer Warte. S3, S4, S5 Frankfurt West</publictransport>
+        <street>Kiesstrasse 27</street>
+        <zip>60468</zip>
         <city>Frankfurt am Main</city>
         <region>Hessen</region>
         <country>Deutschland</country>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-01-08T19:00:00+01:00</time>
-            <name>Fellowship Meeting</name>
-            <url>https://wiki.fsfe.org/FellowshipEvents/Rhein-Main%202014-01-08</url>
+            <time>2014-06-04T19:00:00+02:00</time>
+            <name>FSFE Fellowship Meeting</name>
+            <url>https://wiki.fsfe.org/FellowshipEvents/Rhein-Main%202014-06-04</url>
             <location>
                 <name>Café Albatros</name>
                 <url>http://www.cafe-albatros.de/</url>
