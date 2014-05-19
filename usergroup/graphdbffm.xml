@@ -27,7 +27,23 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2013-08-28T18:00:00+02:00</time>
+            <time>2014-05-21T18:00:00+02:00</time>
+            <name>Master Data Management mit Neo4j</name>
+            <description>Intro Neo4j
+
+                **Presentation (45min):**
+
+                * Der Aufbau eines big data Systems auf Basis von Neo4J.
+                * Das Ganze anhand eines aktuellem Projektbeispiels.
+
+                **Discussions:**
+
+                Diskussion und Erfahrungsaustausch bei Finger Food und Bier
+            </description>
+            <url>http://www.meetup.com/graphdb-frankfurt/events/176584682/</url>
+        </meeting>
+        <meeting>
+        <time>2013-08-28T18:00:00+02:00</time>
             <name>Talk about Neo4j, Structr, have some Beers and Pizzas</name>
             <description>This meetup wil take place directly after the [Neo4j tutorial](http://info.neotechnology.com/0828-frankfurt-register.html)
 
