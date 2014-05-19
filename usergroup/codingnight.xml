@@ -62,6 +62,11 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-05-23T19:00:00+02:00</time>
+            <name>12. Coding Night [last session before summer break]</name>
+            <url>http://www.meetup.com/Coding-Night-Frankfurt/events/183220672/</url>
+        </meeting>
+        <meeting>
             <time>2014-05-09T19:00:00+02:00</time>
             <name>11. Coding Night: code together // share knowledge // share code</name>
             <url>http://www.meetup.com/Coding-Night-Frankfurt/events/180042082/</url>
