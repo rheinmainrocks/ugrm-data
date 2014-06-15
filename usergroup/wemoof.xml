@@ -47,6 +47,11 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-06-30T19:00:00+02:00</time>
+            <name>Webmontag Offenbach #7</name>
+            <url>http://wemoof.de/7</url>
+        </meeting>
+        <meeting>
             <time>2014-04-28T19:00:00+02:00</time>
             <name>Webmontag Offenbach #6</name>
             <url>http://wemoof.de/6</url>
