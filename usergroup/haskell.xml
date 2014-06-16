@@ -27,6 +27,14 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-06-18T19:00:00+02:00</time>
+            <name>Einleitung Haskell - Code Beispiel XMonad</name>
+            <description>Max Hines started mit einer Einführung in Haskell. Damit es nicht ganz so trocken wird, schauen
+                wir uns auch den Code von XMonad an.
+            </description>
+            <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/187138782/</url>
+        </meeting>
+        <meeting>
             <time>2014-02-26T19:00:00+01:00</time>
             <name>Generic Programming with Haskell</name>
             <description>Generic programming with Haskell can come in many different styles. In this presentation an
