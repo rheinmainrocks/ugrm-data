@@ -45,19 +45,26 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2014-07-03T19:00:00+02:00</time>
+            <name>13. Agiler Stammtisch Frankfurt</name>
+            <description>Das Lightning Talk Thema ist "Team Development Models"
+            </description>
+            <url>https://www.xing.com/events/13-agiler-stammtisch-frankfurt-1420009</url>
+        </meeting>
+        <meeting>
             <time>2014-06-05T19:00:00+02:00</time>
             <name>12. Agiler Stammtisch Frankfurt</name>
             <description>Der 12. Agilen Stammtisch Frankfurt findet am 5. Juni wie gewohnt
-                 um 19 Uhr im Coworking-Space "Die Zentrale" statt.
-                 
-                 Christof Braun wird den Stammtisch mit einem Lightning Talk 
-                 zum Thema "Management 3.0" starten. (Die Teilnehmer dürfen gerne auch ein 
-                 eigenes Thema mitbringen und kurz präsentieren)
-                 
-                 Die weitere Diskussion wird im beliebten Lean-Coffee-Format fortgesetzt. 
-                 Alle Teilnehmer sind auch hier herzlich eingeladen, ihre eigene Themen und Fälle mitzubringen.
+                um 19 Uhr im Coworking-Space "Die Zentrale" statt.
 
-                 Getränke und Essen werden wie immer von der codecentric AG gesponsert.
+                Christof Braun wird den Stammtisch mit einem Lightning Talk
+                zum Thema "Management 3.0" starten. (Die Teilnehmer dürfen gerne auch ein
+                eigenes Thema mitbringen und kurz präsentieren)
+
+                Die weitere Diskussion wird im beliebten Lean-Coffee-Format fortgesetzt.
+                Alle Teilnehmer sind auch hier herzlich eingeladen, ihre eigene Themen und Fälle mitzubringen.
+
+                Getränke und Essen werden wie immer von der codecentric AG gesponsert.
             </description>
             <url>https://www.xing.com/events/12-agiler-stammtisch-frankfurt-1406545</url>
         </meeting>
