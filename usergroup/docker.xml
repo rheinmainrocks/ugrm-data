@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Docker Frankfurt</name>
+    <description>Docker - An open platform for distributed applications for developers and sysadmins.
+    </description>
+    <url>http://www.meetup.com/Docker-Frankfurt/</url>
+    <tags>
+        <tag>Docker</tag>
+        <tag>DevOps</tag>
+        <tag>Cloud Computing</tag>
+    </tags>
+    <contact>
+        <twitter>@mkadenbach</twitter>
+    </contact>
+    <defaultmeetinglocation>
+        <name>basis Frankfurt</name>
+        <url>http://www.basis-frankfurt.de/de/standorte</url>
+        <street>Gutleutstraße 8-12</street>
+        <zip>60329</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2014-07-16T19:00:00+02:00</time>
+            <name>First Docker Meetup Frankfurt</name>
+            <description>
+                Der Termin für das erste Docker Meetup in Frankfurt steht.
+
+                Würde die Orga im Sinne eines Barcamps halten, aber schon jetzt mal abfragen, wer gerne etwas erzählen/
+                präsentieren möchte?
+
+                Hier mal gesammelt Themenvorschläge:
+
+                - Basics: Installation und "wie nutze ich Docker".
+                - Logging
+                - Orchestrierung, Deployment und "Wie/wo hosten"?
+                - App Entwicklung mithilfe von Docker
+                - Chroot Env durch Docker ersetzen
+                - Kostenvorteile durch Einsatz von Docker
+
+                Alle Themen schaffen wir nicht ;-) Wo brennt es am meisten?
+            </description>
+            <url>http://www.meetup.com/Docker-Frankfurt/events/182122512/</url>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Matthias Kadenbach</name>
+            <twitter>@mkadenbach</twitter>
+        </person>
+    </team>
+</usergroup>
