@@ -25,10 +25,31 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-07-24T19:00:00+02:00</time>
+            <name>PHPUGFFM VI/2014</name>
+            <description>Am 24. Juli ist es wieder soweit: Die PHP-Usergroup in Frankfurt trifft sich zum 4. Mal in
+                2014.
+
+                Diesmal geht es um Vagrant sowie neue Features in PHP
+
+                Alex wird uns von seinen Erfahrungen berichten, die er mit Vagrant gesammelt hat und Andreas wird uns
+                die neuen Funktionen vorstellen, die uns mit PHP5.6 erwarten.
+
+                Daneben werden wir eine persönliche Lizenz eines JetBrains-Produktes und das ein oder andere Buch von
+                O'Reilly verlosen können und nette Gespräche und einen schönen Abend haben.
+
+                Offen ist noch der Ort des Geschehens. Wir suchen daher noch jemanden, der uns am vorletzten Donnerstag
+                des Monats ein Heim gibt. Klarer Vorteil für den Gastgeber: keine langen Anfahrtswege zur UG.
+
+                Damit wir etwas besser planen können, meldet euch bitte über die Webseite an.
+            </description>
+            <url>http://www.phpugffm.de/veranstaltungen-2/phpugffm-iv2014/</url>
+        </meeting>
+        <meeting>
             <time>2014-05-08T19:00:00+02:00</time>
             <name>PHPUGFFM III/2014</name>
             <description>
-                Die PHPUG trifft sich zum 3. Mal in 2014.
+                Die PHPUG trifft sich zum 4. Mal in 2014.
 
                 Wir sind wieder bei Sitewards am Untermainkai 30 zu Gast.
 
@@ -55,7 +76,7 @@
             </location>
         </meeting>
         <meeting>
-        <time>2014-03-20T19:00:00+01:00</time>
+            <time>2014-03-20T19:00:00+01:00</time>
             <name>PHPUGFFM II/2014</name>
             <description>
                 **Agenda**
