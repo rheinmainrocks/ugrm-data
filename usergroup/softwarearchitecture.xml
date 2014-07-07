@@ -10,7 +10,7 @@
         <tag>Software Design</tag>
     </tags>
     <schedule>
-	 <ical>webcal://www.meetup.com/Frankfurt-Software-Architecture-Meetup/events/ical/</ical>
+	 <ical>http://www.meetup.com/Frankfurt-Software-Architecture-Meetup/events/ical/</ical>
     </schedule>
     <team>
         <person>
