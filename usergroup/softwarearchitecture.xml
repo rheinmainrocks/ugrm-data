@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"  incubator="true">
     <name>Software Architecture Meetup Frankfurt</name>
     <nickname>SAFFM</nickname>
     <description>This group is for anyone interested in the architecture of software systems. I started this group to create a place where software engineers and architects can share their learnings and discuss topics related to software architecture.
@@ -12,6 +12,13 @@
     <schedule>
 	 <ical>webcal://www.meetup.com/Frankfurt-Software-Architecture-Meetup/events/ical/</ical>
     </schedule>
+    <team>
+        <person>
+            <name>Johannes Seitz</name>
+            <url>https://www.printhelloworld.de</url>
+            <twitter>@ookami86</twitter>
+        </person>
+    </team>
     <photocredits>
     </photocredits>
 </usergroup>
