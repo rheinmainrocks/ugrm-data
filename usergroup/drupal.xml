@@ -14,6 +14,19 @@
     </tags>
     <schedule>
         <meeting>
+            <time>2014-07-10T19:00:00+02:00</time>
+            <name>Drupal-Donnerstag 2014-07 in Frankfurt am Main: Stammtisch</name>
+            <url>https://groups.drupal.org/node/432238</url>
+            <location>
+                <name>basis Frankfurt</name>
+                <url>http://www.basis-frankfurt.de/de/standorte</url>
+                <twitter>@basisffm</twitter>
+                <street>Gutleutstraße 8-12</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-05-16T19:00:00+02:00</time>
             <name>Drupal-Donnerstag 2013-05 in Frankfurt am Main: Meetup</name>
             <url>http://groups.drupal.org/node/296998</url>
