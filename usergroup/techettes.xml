@@ -81,4 +81,23 @@
             <url>http://www.techettes-frankfurt.com/essays/2014/07/event-1/</url>
         </meeting>
     </schedule>
+    <team>
+        <person>
+            <name>Daniella Zimmermann</name>
+        </person>
+        <person>
+            <name>Verena Brodbeck</name>
+            <twitter>@viddity</twitter>
+        </person>
+        <person>
+            <name>Thais Coehlo</name>
+        </person>
+        <person>
+            <name>Svenja Wagner</name>
+        </person>
+        <person>
+            <name>Silvia Hundegger</name>
+            <twitter>@SilviaHundegger</twitter>
+        </person>
+    </team>
 </usergroup>
