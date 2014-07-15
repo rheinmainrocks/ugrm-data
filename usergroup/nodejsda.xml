@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           incubator="true">
+    <name>Darmstadt node.js</name>
+    <description>node.js ist in der Vergangenheit immer interessanter zur Entwicklung von Next Level Anwendungen
+        geworden. Gibt es im Rhein-Main Gebiet Interessierte die ihr wissen an andere weitergeben wollen? Oder gibt es
+        Interessierte die mehr über node.js und das Ökosystem dahinter erfahren wollen?
+    </description>
+    <url>http://www.meetup.com/Darmstadt-node-js-Meetup/</url>
+    <tags>
+        <tag>NodeJS</tag>
+        <tag>JavaScript</tag>
+    </tags>
+</usergroup>
