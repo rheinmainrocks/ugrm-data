@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Frankfurt Gophers</name>
+    <description>This is a group for anyone interested in the Go programming language and living or staying in
+        Rhein-Main area.
+    </description>
+    <url>http://www.meetup.com/Frankfurt-Gophers-Meetup/</url>
+    <tags>
+        <tag>Go</tag>
+        <tag>Functional Programming</tag>
+        <tag>OpenSource</tag>
+    </tags>
+    <contact>
+        <hashtag>#golang</hashtag>
+    </contact>
+    <schedule>
+        <ical>http://www.meetup.com/Frankfurt-Gophers-Meetup/events/ical/</ical>
+    </schedule>
+</usergroup>
