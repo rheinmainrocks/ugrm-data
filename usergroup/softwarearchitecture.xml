@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"  incubator="true">
     <name>Software Architecture Meetup Frankfurt</name>
-    <nickname>SAFFM</nickname>
+    <nickname>SArchFFM</nickname>
     <description>This group is for anyone interested in the architecture of software systems. I started this group to create a place where software engineers and architects can share their learnings and discuss topics related to software architecture.
     </description>
     <url>http://www.meetup.com/Frankfurt-Software-Architecture-Meetup/</url>
@@ -9,6 +9,9 @@
         <tag>Software Architecture</tag>
         <tag>Software Design</tag>
     </tags>
+	<contact>
+		<twitter>@SArchFFM</twitter>
+	</contact>
     <schedule>
 	 <ical>http://www.meetup.com/Frankfurt-Software-Architecture-Meetup/events/ical/</ical>
     </schedule>
@@ -20,5 +23,7 @@
         </person>
     </team>
     <photocredits>
+        <logo>Logo: Artua</logo>
+        <group>Foto: Markus Knittig.</group>
     </photocredits>
 </usergroup>
