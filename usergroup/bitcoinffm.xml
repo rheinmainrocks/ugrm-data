@@ -3,7 +3,10 @@
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Bitcoin Frankfurt</name>
     <nickname>BitcoinFFM</nickname>
-    <description>Aleksander möchte die Bitcoin-Community für Frankfurt und Rhein-Main aufbauen.</description>
+    <description>Wir sind die Bitcoin-Usergroup Frankfurt. Wir möchten Wissen und Hintergründe des Bitcoin im gesamten
+        Rhein-Main-Gebiet mehren und sind offen für jegliche Interessenten. Derzeit trifft sich die Gruppe einmal im
+        Monat im Coworking Space Die Zentrale in Frankfurt am Main.
+    </description>
     <url>http://www.bitcoin-frankfurt.de/</url>
     <tags>
         <tag>Bitcoin</tag>
