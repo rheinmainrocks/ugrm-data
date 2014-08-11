@@ -13,35 +13,16 @@
         <tag>Programming</tag>
         <tag>Indie Games</tag>
     </tags>
-    <schedule>
-        <meeting>
-            <time>2014-05-02T16:00:00+02:00</time>
-            <name>Get together and talk about game development ...</name>
-            <description>
-                Hi,
-
-                let's meet up again and talk about our indie game dev endeavours.
-
-                This meetup is supposed to be a casual get-together again like last time but in a more quiet
-                environment.
-
-                Marc and Norbert from Sanid offered their office space for the next meetup.
-
-                Since Thursday, May 1st is a holiday I thought we could meet on Friday, May 2nd at 4pm, which gives us a
-                little more time to talk and maybe showcase some of the work in progress.
-
-                cheers ali
-            </description>
-            <url>http://www.meetup.com/Independent-Game-Developers-Rhein-Main-Meetup/events/178750212/</url>
-            <location>
-                <name>Sanid GmbH</name>
-                <url>http://www.sanid.com/</url>
-                <twitter>@SANIDcom</twitter>
-                <street>Kruppstr. 105</street>
-                <zip>60388</zip>
-                <city>Frankfurt</city>
-            </location>
-        </meeting>
+    <defaultmeetinglocation>
+        <name>Sanid GmbH</name>
+        <url>http://www.sanid.com/</url>
+        <twitter>@SANIDcom</twitter>
+        <street>Kruppstr. 105</street>
+        <zip>60388</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <ical>http://www.meetup.com/Independent-Game-Developers-Rhein-Main-Meetup/events/ical/</ical>
     </schedule>
     <team>
         <person>
