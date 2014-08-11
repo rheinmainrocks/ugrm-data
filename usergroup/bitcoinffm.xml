@@ -25,37 +25,7 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
-        <meeting>
-            <time>2014-05-08T19:00:00+02:00</time>
-            <name>Treffen Mai 2014</name>
-            <url>http://www.meetup.com/Bitcoin-Usergroup/events/177913062/</url>
-        </meeting>
-        <meeting>
-            <time>2014-04-10T19:00:00+02:00</time>
-            <name>Treffen April 2014</name>
-            <url>http://www.meetup.com/Bitcoin-Usergroup/events/172588662/</url>
-        </meeting>
-        <meeting>
-            <time>2014-02-13T19:00:00+01:00</time>
-            <name>Treffen Februar 2014</name>
-            <url>http://www.meetup.com/Bitcoin-Usergroup/events/162340032/</url>
-        </meeting>
-        <meeting>
-            <time>2013-12-12T19:00:00+01:00</time>
-            <name>Treffen Dezember 2013</name>
-            <url>http://www.meetup.com/Bitcoin-Usergroup/events/152611842/</url>
-        </meeting>
-        <meeting>
-            <time>2013-11-14T18:15:00+01:00</time>
-            <name>Treffen November 2013</name>
-            <description>Bundesverband Bitcoin on the road with Jörg Platzer and JF Gallas from Berlin.</description>
-            <url>http://www.meetup.com/Bitcoin-Usergroup/events/150013732/</url>
-        </meeting>
-        <meeting>
-            <time>2013-08-08T19:00:00+02:00</time>
-            <name>1. Treffen der Bitcoin-Community Frankfurt</name>
-            <url>http://www.bitcoin-frankfurt.de/?p=23</url>
-        </meeting>
+        <ical>http://www.meetup.com/Bitcoin-Usergroup/events/ical/</ical>
     </schedule>
     <photocredits>
         <logo>Logo: [Aleksander Winter](http://www.bitcoin-frankfurt.de/)</logo>
