@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
-    <name>Frontend RheinMain</name>
+    <name>Frontend Usergroup RheinMain</name>
     <description>Frontend RheinMain ist der Community-Hub für Frontend-Entwickler im Rhein-Main-Gebiet. Dabei geht es um
-        Frontend-Kernthemen gehen wie HTML(5), CSS(3), OOCSS-/BEM-Patterns, SASS, Webstandards, Responsive Design,
+        Frontend-Kernthemen wie HTML(5), CSS(3), OOCSS-/BEM-Patterns, SASS, Webstandards, Responsive Design,
         Accessibility, Arbeitsweisen, Kommunikation, Styleguides, Deployment etc pp. …
     </description>
     <url>http://frontend-rheinmain.de/</url>
@@ -17,11 +17,10 @@
     </contact>
     <defaultmeetinglocation>
         <name>AOE GmbH</name>
-        <publictransport>Die Adresse kann sehr gut mit Bussen ab dem Wiesbadener Hbf erreicht werden. Die Bus Linien
-            15,16 und 28 halten fast vor dem Büro.
+        <publictransport>Direkt in der Wiesbadener Innenstadt mit Parkmöglichkeit im Luisenforum (2 Min. Fussweg entfernt von der Location). Anfahrtsbeschreibung mit Auto + ÖPNV: http://www.aoe.com/de/anfahrt/hauptsitz.html
         </publictransport>
-        <street>Borsigstr. 3</street>
-        <zip>65205</zip>
+        <street>LuisenForum, Kirchgasse 6</street>
+        <zip>65185</zip>
         <city>Wiesbaden</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
@@ -44,9 +43,9 @@
     <team>
         <person>
             <name>Jan Deppisch</name>
-            <url>http://netzartist.de/</url>
-            <email>mail@netzartist.de</email>
-            <twitter>@netzartist</twitter>
+            <url>http://www.frontend-rheinmain.de/</url>
+            <email>info@frontend-rheinmain.de</email>
+            <twitter>@frontend_rm</twitter>
         </person>
     </team>
     <photocredits>
