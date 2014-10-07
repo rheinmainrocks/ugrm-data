@@ -17,6 +17,31 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-10-16T19:00:00+02:00</time>
+            <name>7. Treffen der JavaScript User Group RheinMainJS</name>
+            <url>https://plus.google.com/u/0/events/ciud4asgib53lsqd6r2o5o1i3b8</url>
+            <location>
+                <name>//SEIBERT/MEDIA</name>
+                <url>http://www.seibert-media.net/</url>
+                <twitter>@seibertmedia</twitter>
+                <street>Kirchgasse 6</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2014-06-05T19:00:00+02:00</time>
+            <name>6. Treffen der JavaScript User Group Rhein-Main</name>
+            <url>https://plus.google.com/u/0/events/crd5kcifge9oa3037acju7j8a88</url>
+            <location>
+                <name>UDG, Mainz</name>
+                <url>http://www.udg.de/rhein-main/</url>
+                <street>Taunusstraße 59-61</street>
+                <zip>55120</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-04-24T19:00:00+02:00</time>
             <name>5. Treffen der JavaScript User Group Rhein-Main</name>
             <url>https://plus.google.com/u/0/events/c71f6m1pu105h5ba5i43vh0vb64</url>
