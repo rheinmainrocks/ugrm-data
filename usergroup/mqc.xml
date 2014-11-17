@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Rhein Main Mobile Quality Crew</name>
+    <description>
+        Die Entwicklung und der Test von Devices und Apps ist eine eigene anspruchsvolle Disziplin, die Experten mit
+        Pioniergeist und Ideenreichtum erfordert. Es ist doch eine andere Welt als bislang im traditionellen
+        Softwareumfeld. Kommst Du aus dieser oder bist an ihr interessiert? Dann mach mit und networke mit
+        Gleichgesinnten!
+
+        - Lerne Neues von Mobile Experten, teile dein Wissen
+        - Testen, Testautomation von Apps &amp; Mobile Web Applications
+        - User Experience
+        - Usability
+        - Interaction Design
+        - Mobile Environments
+        - uvm.
+
+        Informiere Dich über neue Tools, Devices und Technologien rund um Mobile. Die Rhein Main Mobile Quality Crew
+        vereint all diejenigen, die ihre Erfahrungen und ihr Wissen rund um Mobile austauschen wollen. Wir sind Teil der
+        Fachgruppe Mobile Devices &amp; Apps beim ASQF.
+    </description>
+    <url>http://www.meetup.com/Rhein-Main-Mobile-Quality-Crew/</url>
+    <tags>
+        <tag>Mobile</tag>
+        <tag>Apps</tag>
+        <tag>Mobile Web Applications</tag>
+    </tags>
+    <schedule usedefaultmeetinglocation="true">
+        <ical>http://www.meetup.com/Rhein-Main-Mobile-Quality-Crew/events/ical/</ical>
+    </schedule>
+    <team>
+        <person>
+            <name>Daniel Knott</name>
+            <url>http://www.meetup.com/Rhein-Main-Mobile-Quality-Crew/members/132690142/</url>
+            <twitter>@dnlkntt</twitter>
+        </person>
+        <person>
+            <name>Erwin Probst</name>
+            <url>http://www.meetup.com/Rhein-Main-Mobile-Quality-Crew/members/170155282/</url>
+        </person>
+    </team>
+</usergroup>
