@@ -17,6 +17,19 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2014-12-04T19:00:00+01:00</time>
+            <name>8. Treffen der JavaScript User Group RheinMainJS</name>
+            <url>https://plus.google.com/events/cot8qfaf4049138q2pqgaohd1rg</url>
+            <location>
+                <name>mediaman GmbH, Mainz</name>
+                <url>http://mediaman.com/de/agency/</url>
+                <twitter>@mediamanGroup</twitter>
+                <street>Quintinsstraße 16</street>
+                <zip>55116</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-10-16T19:00:00+02:00</time>
             <name>7. Treffen der JavaScript User Group RheinMainJS</name>
             <url>https://plus.google.com/u/0/events/ciud4asgib53lsqd6r2o5o1i3b8</url>
