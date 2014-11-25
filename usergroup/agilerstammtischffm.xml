@@ -44,6 +44,14 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+    
+        <meeting>
+            <time>2014-12-04T19:00:00+02:00</time>
+            <name>17. Agiler Stammtisch Frankfurt</name>
+            <description>Das Lightning Talk Thema ist "Agility und BPMN"
+            </description>
+            <url>https://www.xing.com/events/17-agiler-stammtisch-frankfurt-1479551</url>
+        </meeting>           
         <meeting>
             <time>2014-07-03T19:00:00+02:00</time>
             <name>13. Agiler Stammtisch Frankfurt</name>
