@@ -25,6 +25,14 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2015-01-29T19:00:00+02:00</time>
+            <name>PHPUGFFM I/2015</name>
+            <description>Die PHP-Usergroup Frankfurt am Main trifft sich zum ersten Mal in 2015
+                <!-- More info TBA, I guess? -->
+            </description>
+            <url>http://www.phpugffm.de/veranstaltungen-2/phpugffm-i2015/</url>
+        </meeting>
+        <meeting>
             <time>2014-07-24T19:00:00+02:00</time>
             <name>PHPUGFFM VI/2014</name>
             <description>Am 24. Juli ist es wieder soweit: Die PHP-Usergroup in Frankfurt trifft sich zum 4. Mal in
