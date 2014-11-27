@@ -35,7 +35,7 @@
             <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/187138782/</url>
         </meeting>
         <meeting>
-            <time>2014-02-26T19:00:00+01:00</time>
+            <time>2014-02-26T19:00:00</time>
             <name>Generic Programming with Haskell</name>
             <description>Generic programming with Haskell can come in many different styles. In this presentation an
                 overview is given, typical characteristics of the common approaches are discussed and hopefully some
@@ -46,7 +46,7 @@
             <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/166764532/</url>
         </meeting>
         <meeting>
-            <time>2014-01-22T19:00:00+01:00</time>
+            <time>2014-01-22T19:00:00</time>
             <name>Elixir - Erlang für das 21ste Jahrhundert</name>
             <description>Wir begrüßen Steffen Bauer aus Karlsruhe:
 
@@ -61,7 +61,7 @@
             <url>http://www.meetup.com/Frankfurt-Haskell-User-Group/events/158370652</url>
         </meeting>
         <meeting>
-            <time>2013-11-20T19:00:00+01:00</time>
+            <time>2013-11-20T19:00:00</time>
             <name>Game Programming with Haskell (Part I) - HWebUI Hacking</name>
             <description>Since many Haskellers actually were not able to join our Hackathon in September and some of
                 them suggested to use the regular meetings for a group hacking event, I thought I take up this idea and

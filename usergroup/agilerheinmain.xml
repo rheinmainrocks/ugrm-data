@@ -15,7 +15,7 @@
     </contact>
     <schedule>
         <meeting>
-            <time>2014-02-20T19:00:00+01:00</time>
+            <time>2014-02-20T19:00:00</time>
             <name>Februar-Treffen der Agile Usergroup Rhein-Main: Pecha Kucha-Abend</name>
             <description>Unser Februar-Treffen der Agile Usergroup Rhein-Main findet in Frankfurt am Main bei der
                 Cocomore AG statt.
@@ -37,7 +37,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-01-16T19:00:00+01:00</time>
+            <time>2014-01-16T19:00:00</time>
             <name>Januar-Treffen der Agile Usergroup Rhein-Main: Agile Verträge</name>
             <description>
                 Wir freuen uns am 16. Januar auf Besuch aus Würzburg. Björn Schotte (MAYFLOWER GmbH) wird einen Vortrag
@@ -73,7 +73,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2013-12-19T18:30:00+01:00</time>
+            <time>2013-12-19T18:30:00</time>
             <name>Weihnachtstreffen der Agile Usergroup bei Amadeus Germany inkl. Lessons Learned von 2013</name>
             <description>
                 Unser letztes Treffen in diesem Jahr werden wir bei der Amadeus Germany GmbH in Bad Homburg durchführen.
@@ -179,7 +179,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2013-02-04T18:30:00+01:00</time>
+            <time>2013-02-04T18:30:00</time>
             <name>The S.O.L.I.D. Principles of OO and Agile Design</name>
             <description>Robert "Uncle Bob" Martin spricht am 4.2. in Frankfurt über “The S.O.L.I.D. Principles of OO
                 and Agile Design”

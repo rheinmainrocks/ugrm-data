@@ -26,7 +26,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2013-03-22T20:00:00+01:00</time>
+            <time>2013-03-22T20:00:00</time>
             <name>Ortsverbandsabend mit Jahreshauptversammlung</name>
             <url>http://www.landolt.de/termine/termine.htm</url>
         </meeting>

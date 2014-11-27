@@ -19,7 +19,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-02-18T18:00:00+01:00</time>
+            <time>2014-02-18T18:00:00</time>
             <name>2. YouTube Stammtisch RheinMain</name>
             <description>Was gibts neues bei YouTube?
                 Wir tauschen uns über die neuen Funktionen aus.

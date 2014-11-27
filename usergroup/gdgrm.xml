@@ -34,7 +34,7 @@
             <url>https://plus.google.com/events/c6dkf6qu1c4fifugs58mh5h4fbo</url>
         </meeting>
         <meeting>
-            <time>2014-02-27T20:00:00+01:00</time>
+            <time>2014-02-27T20:00:00</time>
             <name>Talk Time: Google Glass, Chromecast, Web/App Performance and MDM!</name>
             <description>As promised, we have something very special coming up!
                 We have four awesome talks for you:
@@ -58,7 +58,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-01-30T19:00:00+01:00</time>
+            <time>2014-01-30T19:00:00</time>
             <name>GDG Rhein-Main Stammtisch - Januar 2014</name>
             <description>Wir starten mit einem Stammtisch ins frische Jahr 2014! Na, wer hat sich schon Vorsätze für
                 dieses Jahr gemacht? Wie wär's zum Beispiel eine neue Programmiersprache kennenzulernen - z.B. Dart?
@@ -130,12 +130,12 @@
             <url>https://plus.google.com/events/c4i2a5t6vm4t4ud8e2v1de5h1kg</url>
         </meeting>
         <meeting>
-            <time>2013-03-28T19:00:00+01:00</time>
+            <time>2013-03-28T19:00:00</time>
             <name>GDG RheinMain Stammtisch - März 2013</name>
             <url>https://plus.google.com/events/cn7le5nalpljb5a6eoce3fpcv3o</url>
         </meeting>
         <meeting>
-            <time>2013-03-01T19:00:00+01:00</time>
+            <time>2013-03-01T19:00:00</time>
             <name>GDG RheinMain Stammtisch - Februar 2013</name>
             <url>https://plus.google.com/u/0/events/cj6qaa8m2df9gvmv1v6bp5g43t0</url>
         </meeting>

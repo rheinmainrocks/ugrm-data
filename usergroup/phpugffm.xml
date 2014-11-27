@@ -25,7 +25,7 @@
     </contact>
     <schedule>
         <meeting>
-            <time>2015-01-29T19:00:00+01:00</time>
+            <time>2015-01-29T19:00:00</time>
             <name>PHPUGFFM I/2015</name>
             <description>Die PHP-Usergroup Frankfurt am Main trifft sich zum ersten Mal in 2015
                 <!-- More info TBA, I guess? -->
@@ -84,7 +84,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-03-20T19:00:00+01:00</time>
+            <time>2014-03-20T19:00:00</time>
             <name>PHPUGFFM II/2014</name>
             <description>
                 **Agenda**
@@ -113,7 +113,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-01-30T19:00:00+01:00</time>
+            <time>2014-01-30T19:00:00</time>
             <name>PHPUGFFM I / 2014</name>
             <description>
                 **Agenda:**
@@ -147,7 +147,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2013-03-21T19:00:00+01:00</time>
+            <time>2013-03-21T19:00:00</time>
             <name>PHPUGFFM II / 2013</name>
             <url>http://www.phpugffm.de/?event=phpugffm-ii-2013</url>
             <location>
@@ -178,7 +178,7 @@
             <url>http://www.phpugffm.de/?event=phpugffm-iii-iv-2013-php-bbq</url>
         </meeting>
         <meeting>
-            <time>2013-11-21T19:00:00+01:00</time>
+            <time>2013-11-21T19:00:00</time>
             <name>PHPUGFFM V / 2013</name>
             <url>http://www.phpugffm.de/?event=phpugffm-v-2013</url>
         </meeting>
