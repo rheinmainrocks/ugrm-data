@@ -35,17 +35,17 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-01-13T19:00:00+01:00</time>
+            <time>2014-01-13T19:00:00</time>
             <name>Webmontag #56: Aufbruch</name>
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-56-schwerpunkt-aufbruch.html</url>
         </meeting>
         <meeting>
-            <time>2014-02-10T19:00:00+01:00</time>
+            <time>2014-02-10T19:00:00</time>
             <name>Webmontag #57: Sicherheit</name>
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-57-schwerpunkt-sicherheit.html</url>
         </meeting>
         <meeting>
-            <time>2014-03-10T19:00:00+01:00</time>
+            <time>2014-03-10T19:00:00</time>
             <name>Webmontag #58: Un:Normal</name>
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-58-schwerpunkt-un-normal.html</url>
         </meeting>
@@ -74,11 +74,11 @@
             <name>Webmontag #65: Der Geist in der Maschine</name>
         </meeting>
         <meeting>
-            <time>2014-11-10T19:00:00+01:00</time>
+            <time>2014-11-10T19:00:00</time>
             <name>Webmontag #66: Geld oder Liebe</name>
         </meeting>
         <meeting>
-            <time>2014-12-08T19:00:00+01:00</time>
+            <time>2014-12-08T19:00:00</time>
             <name>Webmontag #67: Super Webmontag 67</name>
         </meeting>
         <meeting>
@@ -95,7 +95,7 @@
             <url>http://www.wmfra.de/programm/webmontag-frankfurt-59-ignite.html</url>
         </meeting>
         <meeting>
-            <time>2013-03-11T19:00:00+01:00</time>
+            <time>2013-03-11T19:00:00</time>
             <name>Webmontag #46: Cloud &amp; Big Data</name>
         </meeting>
         <meeting>
@@ -138,11 +138,11 @@
             <name>Webmontag #53: ignite</name>
         </meeting>
         <meeting>
-            <time>2013-11-11T19:00:00+01:00</time>
+            <time>2013-11-11T19:00:00</time>
             <name>Webmontag #54: Future of Work</name>
         </meeting>
         <meeting>
-            <time>2013-12-09T19:00:00+01:00</time>
+            <time>2013-12-09T19:00:00</time>
             <name>Webmontag #55: RheinMainRocks</name>
         </meeting>
     </schedule>

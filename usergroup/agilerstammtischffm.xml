@@ -46,7 +46,7 @@
     <schedule usedefaultmeetinglocation="true">
     
         <meeting>
-            <time>2014-12-04T19:00:00+01:00</time>
+            <time>2014-12-04T19:00:00</time>
             <name>17. Agiler Stammtisch Frankfurt</name>
             <description>Das Lightning Talk Thema ist "Agility und BPMN"
             </description>
@@ -108,17 +108,17 @@
             <url>https://www.xing.com/events/10-agiler-stammtisch-frankfurt-1381156</url>
         </meeting>
         <meeting>
-            <time>2014-03-06T19:00:00+01:00</time>
+            <time>2014-03-06T19:00:00</time>
             <name>9. Agiler Stammtisch Frankfurt</name>
             <url>https://www.xing.com/events/9-agiler-stammtisch-frankfurt-1368417</url>
         </meeting>
         <meeting>
-            <time>2014-02-06T19:00:00+01:00</time>
+            <time>2014-02-06T19:00:00</time>
             <name>8. Agiler Stammtisch Frankfurt</name>
             <url>https://www.xing.com/events/8-agiler-stammtisch-frankfurt-1354697</url>
         </meeting>
         <meeting>
-            <time>2013-12-05T19:00:00+01:00</time>
+            <time>2013-12-05T19:00:00</time>
             <name>7. Agiler Stammtisch Frankfurt</name>
             <description>
                 Der 7. Stammtisch fängt mit einem kurzen Impulsvortrag (Lighting Talk) an.
@@ -133,7 +133,7 @@
             <url>https://www.xing.com/events/7-agiler-stammtisch-frankfurt-1333268</url>
         </meeting>
         <meeting>
-            <time>2013-11-07T19:00:00+01:00</time>
+            <time>2013-11-07T19:00:00</time>
             <name>6. Agiler Stammtisch Frankfurt</name>
             <description>Der 6. Agiler Stammtisch wird weiter in einen [Lean-Kaffee/Open Space
                 Format](http://www.leancoffee.org/)

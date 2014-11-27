@@ -25,7 +25,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-02-25T19:00:00+01:00</time>
+            <time>2014-02-25T19:00:00</time>
             <name>1. Frontend-Meetup in Wiesbaden</name>
             <description>
                 **Agenda**

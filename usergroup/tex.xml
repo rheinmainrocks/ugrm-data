@@ -27,7 +27,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2013-11-28T19:30:00+01:00</time>
+            <time>2013-11-28T19:30:00</time>
             <name>Stammtisch</name>
         </meeting>
     </schedule>

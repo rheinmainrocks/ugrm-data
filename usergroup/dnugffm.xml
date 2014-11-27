@@ -31,7 +31,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-01-16T18:30:00+01:00</time>
+            <time>2014-01-16T18:30:00</time>
             <name>.NET User Group Meeting - Von Null über Werbung zum Windows Store</name>
 			<description>			
 Wie starte ich am besten mit der Entwicklung von Windows 8 Apps? Was ist der Weg, um über Werbung in meiner App Geld zu verdienen? Wie bekomme ich meine App in den Windows Store und was passiert dann?

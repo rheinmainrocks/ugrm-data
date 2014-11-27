@@ -12,7 +12,7 @@
     </tags>
     <schedule>
         <meeting>
-            <time>2014-01-29T18:30:00+01:00</time>
+            <time>2014-01-29T18:30:00</time>
             <name>Januar-Treffen des Lean Startup Circles FrankfurtRheinMain</name>
             <description>Unser Januar-Treffen des Lean Startup Circles FrankfurtRheinMain findet im Co-Working-Space
                 Königstein statt.
@@ -33,7 +33,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2013-11-12T19:15:00+01:00</time>
+            <time>2013-11-12T19:15:00</time>
             <name>Lean Startup Meetup: Value Proposition Canvas für den "Market-Fit"</name>
             <description>
                 Am 12. November gibt Daniel Bartel uns eine Einführung in den neuen Value Proposition Canvas mit
@@ -96,7 +96,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2013-02-25T18:30:00+01:00</time>
+            <time>2013-02-25T18:30:00</time>
             <name>6. Treffen des Lean Startup Circle Rhein-Main in Wiesbaden</name>
             <url>https://www.xing.com/events/6-treffen-lean-startup-circle-rhein-main-wiesbaden-1191900</url>
             <location>

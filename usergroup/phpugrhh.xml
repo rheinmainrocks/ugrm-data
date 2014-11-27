@@ -44,7 +44,7 @@ Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rh
             <url>https://www.xing.com/events/32-treffen-phpug-rheinhessen-1385110</url>
         </meeting>
 	<meeting>
-            <time>2014-02-25T19:00:00+01:00</time>
+            <time>2014-02-25T19:00:00</time>
             <name>31. Treffn der PHPUG Rheinhessen</name>
             <description>
                 Wir treffen uns diesmal wieder im Alten Weinlager bei der NIDAG GmbH. Thematisch dreht sich alles um die
@@ -67,7 +67,7 @@ Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rh
             <url>https://www.xing.com/events/31-treffen-phpug-rheinhessen-1365098</url>
         </meeting>
         <meeting>
-            <time>2014-01-14T19:00:00+01:00</time>
+            <time>2014-01-14T19:00:00</time>
             <name>30. Treffen der PHPUG Rheinhessen</name>
             <description>
                 Bei unserem dreißigsten Treffen dreht sich alles um "NoSQL", also um Datenbanken, die einen
@@ -81,7 +81,7 @@ Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rh
             <url>https://www.xing.com/events/30-treffen-phpug-rheinhessen-1343762</url>
         </meeting>
         <meeting>
-            <time>2013-11-12T19:00:00+01:00</time>
+            <time>2013-11-12T19:00:00</time>
             <name>29. Treffen der PHPUG Rheinhessen</name>
             <description>
                 wir treffen uns diesmal ohne feste Themenvorgabe, um uns über Neues und Interessantes aus der PHP-Welt
@@ -142,7 +142,7 @@ Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rh
             <url>https://www.xing.com/events/24-treffen-phpug-rheinhessen-1230613</url>
         </meeting>
         <meeting>
-            <time>2013-03-05T19:00:00+01:00</time>
+            <time>2013-03-05T19:00:00</time>
             <name>23. Treffen der PHP User Group Rheinhessen</name>
             <url>https://www.xing.com/events/23-treffen-phpug-rheinhessen-1205190</url>
             <location>
