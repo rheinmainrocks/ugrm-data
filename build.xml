@@ -22,17 +22,6 @@
 		<schemavalidate>
 			<fileset dir="${basedir}/usergroup" includes="**/*.xml" />
 		</schemavalidate>
-		<mkdir dir="${reportdir}/junit" />
-		<junit fork="yes" printsummary="on" haltonfailure="yes">
-			<jvmarg value="-Dbuildmode=true" />
-			<sysproperty key="ugdatadir" value="${basedir}/usergroup"/>
-			<classpath location="${bindir}" />
-			<classpath refid="junitcp" />
-			<formatter type="xml" />
-			<batchtest todir="${reportdir}/junit">
-				<fileset dir="${srcdir}" includes="**/*Test.java" />
-			</batchtest>
-		</junit>
 	</target>
 
 </project>
