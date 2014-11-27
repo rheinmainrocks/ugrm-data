@@ -17,7 +17,7 @@
     </contact>
     <schedule>
         <meeting>
-            <time>2014-12-04T19:00:00+01:00</time>
+            <time>2014-12-04T19:00:00</time>
             <name>8. Treffen der JavaScript User Group RheinMainJS</name>
             <url>https://plus.google.com/events/cot8qfaf4049138q2pqgaohd1rg</url>
             <location>
@@ -69,7 +69,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-02-13T19:00:00+01:00</time>
+            <time>2014-02-13T19:00:00</time>
             <name>4. Treffen der JavaScript User Group Rhein-Main</name>
             <url>https://plus.google.com/events/cm473qjqm2e6kqko6dah67ftlhs</url>
             <location>
@@ -82,7 +82,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2012-12-10T19:00:00+01:00</time>
+            <time>2012-12-10T19:00:00</time>
             <name>2. Treffen der JavaScript User Group Wiesbaden</name>
             <url>https://plus.google.com/u/0/events/cum4br4i9a0qou8mik98rjmv9m4</url>
             <location>

@@ -46,11 +46,11 @@
             <name>April-Treffen</name>
         </meeting>
         <meeting>
-            <time>2013-03-04T19:00:00+01:00</time>
+            <time>2013-03-04T19:00:00</time>
             <name>März-Treffen</name>
         </meeting>
         <meeting>
-            <time>2013-02-04T18:30:00+01:00</time>
+            <time>2013-02-04T18:30:00</time>
             <name>Februar-Treffen</name>
         </meeting>
     </schedule>

@@ -46,7 +46,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-02-05T19:00:00+01:00</time> <!-- FIXME exact time when announced -->
+            <time>2014-02-05T19:00:00</time> <!-- FIXME exact time when announced -->
             <name>Fellowship Meeting</name>
             <url>https://wiki.fsfe.org/FellowshipEvents/Rhein-Main%202014-02-05</url>
             <location>
@@ -61,7 +61,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-03-05T19:00:00+01:00</time>
+            <time>2014-03-05T19:00:00</time>
             <name>Fellowship Meeting</name>
             <url>https://wiki.fsfe.org/FellowshipEvents/Rhein-Main%202014-03-05</url>
             <location>

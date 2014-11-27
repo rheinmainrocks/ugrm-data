@@ -26,14 +26,14 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-01-09T18:00:00+01:00</time>
+            <time>2014-01-09T18:00:00</time>
             <name>Frankfurter Projekt-Stammtisch #232</name>
             <url>
                 https://www.xing.com/events/frankfurter-projekt-stammtisch-23-1336981
             </url>
         </meeting>
         <meeting>
-            <time>2013-12-05T18:00:00+01:00</time>
+            <time>2013-12-05T18:00:00</time>
             <name>Frankfurter Projekt-Stammtisch #22</name>
             <url>
                 https://www.xing.com/events/frankfurter-projekt-stammtisch-22-1328312
@@ -54,14 +54,14 @@
             </url>
         </meeting>
         <meeting>
-            <time>2013-02-21T18:00:00+01:00</time>
+            <time>2013-02-21T18:00:00</time>
             <name>Frankfurter Projekt-Stammtisch #12</name>
             <url>
                 https://www.xing.com/events/frankfurter-projekt-stammtisch-12-1183762
             </url>
         </meeting>
         <meeting>
-            <time>2013-03-14T18:00:00+01:00</time>
+            <time>2013-03-14T18:00:00</time>
             <name>Frankfurter Projekt-Stammtisch #13</name>
             <url>
                 https://www.xing.com/events/frankfurter-projekt-stammtisch-13-1188754

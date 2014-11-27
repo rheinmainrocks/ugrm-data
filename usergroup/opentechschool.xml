@@ -35,7 +35,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-02-19T18:30:00+01:00</time>
+            <time>2014-02-19T18:30:00</time>
             <name>Project Initiation</name>
             <description>#START
 
@@ -51,7 +51,7 @@
             <url>http://www.meetup.com/opentechschool-rheinmain/events/162443522/</url>
         </meeting>
         <meeting>
-            <time>2014-01-22T18:30:00+01:00</time>
+            <time>2014-01-22T18:30:00</time>
             <name>Create Visions, Brainstorm &amp; draft a roadmap for 2014</name>
             <description>Guys,
 

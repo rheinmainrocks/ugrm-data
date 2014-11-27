@@ -22,7 +22,7 @@
     </contact>
     <schedule>
         <meeting>
-            <time>2013-11-11T19:00:00+01:00</time>
+            <time>2013-11-11T19:00:00</time>
             <name>Stammtisch</name>
             <location>
                 <name>Hotel Sandelmühle</name>
@@ -36,7 +36,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-01-13T19:00:00+01:00</time>
+            <time>2014-01-13T19:00:00</time>
             <name>Stammtisch</name>
             <location>
                 <name>Hotel Sandelmühle</name>
@@ -50,7 +50,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2014-01-28T19:00:00+01:00</time>
+            <time>2014-01-28T19:00:00</time>
             <name>Jahreshauptversammlung FraLUG e.V.</name>
             <location>
                 <name>Saalbau Haus Gallus</name>
