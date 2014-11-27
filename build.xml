@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="pyugrm-data" default="test">
 
-	<property name="srcdir" value="${basedir}/src" />
-	<property name="bindir" value="${basedir}/bin" />
-	<property name="libdir" value="${basedir}/lib" />
-	<property name="reportdir" value="${basedir}/report" />
+    <property name="reportdir" value="${basedir}/report"/>
 
-	<path id="junitcp">
-		<pathelement path="${libdir}/junit-4.11.jar" />
-		<pathelement path="${libdir}/hamcrest-core-1.3.jar" />
-	</path>
-
-	<target name="compile" description="Java-Sourcen compilieren">
-		<mkdir dir="${bindir}" />
-		<javac srcdir="${srcdir}" destdir="${bindir}" debug="on"
-			classpathref="junitcp" includeantruntime="false" />
-	</target>
-
-	<target name="test" depends="compile"
-		description="Perform xmllint validation on XML files">
-		<schemavalidate>
-			<fileset dir="${basedir}/usergroup" includes="**/*.xml" />
-		</schemavalidate>
-	</target>
-
+    <target name="test"
+            description="Perform xmllint validation on XML files">
+        <schemavalidate>
+            <fileset dir="${basedir}/usergroup" includes="**/*.xml"/>
+        </schemavalidate>
+    </target>
 </project>
