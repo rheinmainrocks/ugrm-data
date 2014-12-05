@@ -17,69 +17,15 @@
         <tag>DevOps</tag>
     </tags>
     <defaultmeetinglocation>
-        <name>dkd Internet Service GmbH</name>
-        <description>Die dkd Internet Service GmbH ist eine auf TYPO3 spezialisierte
-            Full-Service-Internetagentur, die komplexe Firmen-Websites plant, erstellt und betreibt.
-        </description>
-        <url>http://goo.gl/maps/4aN83</url>
-        <foursquare>https://foursquare.com/v/dkd-internet-service-gmbh/4b0a7674f964a520362423e3</foursquare>
-        <twitter>@dkd_de</twitter>
-        <publictransport>Hauptbahnof Frankfurt, fast alles</publictransport>
-        <street>Kaiserstrasse 73</street>
-        <zip>60329</zip>
+        <name>Vaamo Finanz AG</name>
+        <description>The building is located in the back courtyard of a Post building. So once you found that, enter the back courtyard by passing by one of the barriers on the left and right of the Post building.</description>
+        <url>http://www.vaamo.de/</url>
+        <twitter>@TeamVaamo</twitter>
+        <street>Mainzer Landstr. 250-254</street>
+        <zip>60326</zip>
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
-        <meeting>
-            <time>2014-05-21T19:00:00+02:00</time>
-            <name>Meetup #6</name>
-            <description>Hi all,
-
-                our last meetup happened way too long ago, so it's time to meet again.
-
-                For this meetup we don't have a talk or topic yet. If any of you'd like to hold a talk or would like to
-                invite someone to hold a talk in front of the group, you're more than welcome to do so.
-
-                If we don't come up with a specific topic and/or talk, let's just meet for drinks and snacks and have
-                some nice chats with fellow members of the group.
-
-                Looking forward to meeting you again!
-            </description>
-            <url>http://www.meetup.com/DevOps-Frankfurt/events/178428302/</url>
-            <location>
-                <name>Vaamo Finanz AG</name>
-                <url>http://www.vaamo.de/</url>
-                <twitter>@TeamVaamo</twitter>
-                <street>Mainzer Landstr. 250-254</street>
-                <zip>60326</zip>
-                <city>Frankfurt</city>
-            </location>
-        </meeting>
-        <meeting>
-            <time>2014-02-17T19:00:00+01:00</time>
-            <name>Talk DevOps with Mathias Mayer (@roidrage) from Travis CI</name>
-            <description>Mathias Mayer ([@roidrage](https://twitter.com/roidrage)) of Travis CI fame agreed to visit us,
-                and talk DevOps with us.
-
-                The exact topic is not defined yet, but will very likely be in the area of building distributed systems,
-                resilience and human factors in DevOps.
-            </description>
-            <url>http://www.meetup.com/DevOps-Frankfurt/events/161991472/</url>
-        </meeting>
-        <meeting>
-            <time>2013-11-26T19:00:00+01:00</time>
-            <name>Devops FFM - Meetup #4 - Puppet Best Practices &amp; Pitfalls</name>
-            <url>http://www.meetup.com/DevOps-Frankfurt/events/148981502/</url>
-        </meeting>
-        <meeting>
-            <time>2013-06-25T19:00:00+02:00</time>
-            <name>Devops FFM - Meetup #3 - Chef Best Practices &amp; Pitfalls</name>
-            <url>http://www.meetup.com/DevOps-Frankfurt/events/123859392/</url>
-        </meeting>
-        <meeting>
-            <time>2013-04-17T19:00:00+02:00</time>
-            <name>2. Treffen der DevOps FFM</name>
-            <url>http://www.meetup.com/DevOps-Frankfurt/events/109294502/</url>
-        </meeting>
+        <ical>http://www.meetup.com/DevOps-Frankfurt/events/ical/</ical>
     </schedule>
 </usergroup>
