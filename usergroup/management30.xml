@@ -25,7 +25,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-05-22T19:00:00+02:00</time>
+            <time>2014-05-22T19:00:00</time>
             <name>Mai - Management 3.0 Stammtisch</name>
             <description>
                 **Schwerpunkt-Thema:** Aufgabendeligation
@@ -40,7 +40,7 @@
             <url>https://www.xing.com/events/mai-management-3-0-stammtisch-frankfurt-1395055</url>
         </meeting>
         <meeting>
-            <time>2014-04-17T19:00:00+02:00</time>
+            <time>2014-04-17T19:00:00</time>
             <name>April - Management 3.0 Stammtisch</name>
         </meeting>
     </schedule>

@@ -27,7 +27,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-05-21T18:00:00+02:00</time>
+            <time>2014-05-21T18:00:00</time>
             <name>Master Data Management mit Neo4j</name>
             <description>Intro Neo4j
 
@@ -43,7 +43,7 @@
             <url>http://www.meetup.com/graphdb-frankfurt/events/176584682/</url>
         </meeting>
         <meeting>
-        <time>2013-08-28T18:00:00+02:00</time>
+        <time>2013-08-28T18:00:00</time>
             <name>Talk about Neo4j, Structr, have some Beers and Pizzas</name>
             <description>This meetup wil take place directly after the [Neo4j tutorial](http://info.neotechnology.com/0828-frankfurt-register.html)
 
@@ -60,7 +60,7 @@
             </location>
         </meeting>
         <meeting>
-            <time>2013-05-16T09:00:00+02:00</time>
+            <time>2013-05-16T09:00:00</time>
             <name>Neo4j Tutorial - Frankfurt</name>
             <description>Dieser Neo4j Workshop führt in die Funktionsweise und Nutzung der Neo4j Graphendatenbank ein.
                 Durch eine Mischung aus Theorie und praktischen Übungen können die Teilnehmer schnell erlernen, wie
@@ -69,7 +69,7 @@
             <url>http://www.meetup.com/graphdb-frankfurt/events/118706232/</url>
         </meeting>
         <meeting>
-            <time>2013-05-16T19:00:00+02:00</time>
+            <time>2013-05-16T19:00:00</time>
             <name>Let's spread some graph love :-)</name>
         </meeting>
     </schedule>

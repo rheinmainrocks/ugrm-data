@@ -20,7 +20,7 @@
     </tags>
     <schedule>
         <meeting>
-            <time>2014-09-04T18:00:00+02:00</time>
+            <time>2014-09-04T18:00:00</time>
             <name>Treffen der R-Users</name>
             <description>
                 **Bisherige Agendapunkte**
@@ -50,7 +50,7 @@
             </location>
         </meeting>
         <meeting>
-        <time>2013-09-11T18:00:00+02:00</time>
+        <time>2013-09-11T18:00:00</time>
             <name>Gruppenvorstellung &amp; Themendiskussion</name>
             <description>Wir wollen nach der Sommerpause wieder durchstarten und laden Euch herzlich zu einem neuem
                 Meetup der Wiesbaden R Users Group am 11.09.2013 in Wiesbaden ein.

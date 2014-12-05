@@ -20,7 +20,7 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-07-16T19:00:00+02:00</time>
+            <time>2014-07-16T19:00:00</time>
             <name>First Docker Meetup Frankfurt</name>
             <description>
                 Der Termin für das erste Docker Meetup in Frankfurt steht.
