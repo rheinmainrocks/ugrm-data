@@ -10,6 +10,28 @@
     </tags>
     <schedule>
         <meeting>
+            <time>2015-01-15T18:30:00</time>
+            <name>Rhein-Main AUG Treffen in Wiesbaden</name>
+            <description>Dieser Abend hat ein neues Format und soll mehr Zeit für den Erfahrungsaustausch im 
+            Open-Space Stil bieten. Gleichzeitig gibt es einen bunten Mix aus Neuigkeiten und kleinen Demos. 
+            Wir werden viele kleine Kurzvorträge zu interessanten und neuen Plugins rundum JIRA, 
+            Confluence und Bamboo beisteuern. Sobald die Planung fortschreitet gibt es weitere Details.</description>
+            <url>
+                https://www.xing.com/events/atlassian-usergroup-extendible-wiesbaden-1485064
+            </url>
+            <location>
+                <name>Seibert Media GmbH</name>
+                <description>Ganz wichtig! Da der Veranstaltungsort in einem Einkaufszentrum ist, bitte unbedingt die
+                    Wegbeschreibung anschauen.
+                </description>
+                <url>http://www.seibert-media.net/kontakt/wegbeschreibung/index.shtml</url>
+                <twitter>@seibertmedia</twitter>
+                <street>Kirchgasse 6</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2013-04-22T18:30:00</time>
             <name>Rhein-Main AUG Treffen in Wiesbaden</name>
             <description>Das 3. Treffen der Atlassian User Group Rhein-Main findet in Wiesbaden in den Räumen von
