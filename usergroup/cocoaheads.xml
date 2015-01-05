@@ -4,18 +4,13 @@
     <description>CocoaHeads is a group devoted to discussion of Apple Computer's Cocoa Framework for programming on
         MacOS X (including the iPhone). During monthly meetings, members present on their projects and offer tutorials
         on various programming topics. We meet each 1st Monday. We usually have one presentation and some discussions
-        and then go for beers.
+        and then go for beers. For details of each meeting, please visit our website or follow us on twitter :-)
     </description>
-    <url>http://cocoaheads.org/de/Frankfurt/index.html</url>
+    <url>http://cocoaheadsffm.github.io/cocoaheadsffm/</url>
     <tags>
-        <tag>iOS</tag>
+        <tag>ios, osx, cocoa, swift, objc, objectivec</tag>
     </tags>
     <contact>
-        <mailinglist>
-            <url>http://groups.google.com/group/cocoaheads-frankfurt/</url>
-            <label>Google Group</label>
-            <description>We use this Google group to organize the meetings.</description>
-        </mailinglist>
         <twitter>@CocoaHeadsFFM</twitter>
         <facebook>http://www.facebook.com/groups/cocoaheads.frankfurt</facebook>
     </contact>
@@ -33,6 +28,86 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2015-12-07T19:00:00+02:00</time>
+            <name>Dezember-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-11-02T19:00:00+02:00</time>
+            <name>November-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-10-05T19:00:00+02:00</time>
+            <name>Oktober-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-09-07T19:00:00+02:00</time>
+            <name>September-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-08-03T19:00:00+02:00</time>
+            <name>August-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-07-06T19:00:00+02:00</time>
+            <name>Juli-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-06-01T19:00:00+02:00</time>
+            <name>Juni-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-05-04T19:00:00+02:00</time>
+            <name>Mai-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-04-06T19:00:00+02:00</time>
+            <name>April-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-03-02T19:00:00+02:00</time>
+            <name>März-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-02-02T19:00:00+02:00</time>
+            <name>Februar-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2015-01-05T19:00:00+02:00</time>
+            <name>Januar-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-12-01T19:00:00+02:00</time>
+            <name>Dezember-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-11-03T19:00:00+02:00</time>
+            <name>November-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-10-06T19:00:00+02:00</time>
+            <name>Oktober-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-00-01T19:00:00+02:00</time>
+            <name>September-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-08-04T19:00:00+02:00</time>
+            <name>August-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-07-07T19:00:00+02:00</time>
+            <name>Juli-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-06-02T19:00:00+02:00</time>
+            <name>Juni-Treffen</name>
+        </meeting>
+        <meeting>
+            <time>2014-05-05T19:00:00+02:00</time>
+            <name>Mai-Treffen</name>
+        </meeting>
         <meeting>
             <time>2014-04-07T19:00:00+02:00</time>
             <name>April-Treffen</name>
