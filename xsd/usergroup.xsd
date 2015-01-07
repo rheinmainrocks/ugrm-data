@@ -55,6 +55,7 @@
                             <xs:element name="facebook" minOccurs="0" type="facebook"/>
                             <xs:element name="googleplus" minOccurs="0" type="googleplus"/>
                             <xs:element name="xing" minOccurs="0" type="xing"/>
+                            <xs:element name="meetup" minOccurs="0" type="meetup"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
@@ -186,6 +187,15 @@
         </xs:annotation>
         <xs:restriction base="nonEmptyURI">
             <xs:pattern value="https*://www\.xing\.com/.*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="meetup">
+        <xs:annotation>
+            <xs:documentation>Definiert eine URL auf meetup.com
+            </xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="nonEmptyURI">
+            <xs:pattern value="http://www\.meetup\.com/.*"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="googleplus">
