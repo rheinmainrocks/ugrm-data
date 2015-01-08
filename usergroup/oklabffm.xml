@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>OK Lab Frankfurt am Main</name>
+    <nickname>OKLabFfm</nickname>
+    <description markdown="true">**Stadtentwickler gesucht!**
+
+        Wir sind eine Gruppe, die sich aktiv mit Open Data und Civic Hacking beschäftigt. Wir
+        überlegen uns, wie Code dabei helfen kann unsere Stadt, Region und Nachbarschaft auch digital schöner und
+        besser zu gestalten. Wir tauschen Wissen aus, erstellen freie Daten, Visualisierungen und Anwendungen und
+        veröffentlichen Analysen. Dazu treffen wir uns regelmäßig - derzeit einmal Anfang des Monats. Schaut einfach
+        vorbei! Wir freuen uns über neue Gesichter, die eigene Ideen mitbringen und uns unterstützen.
+
+        **Code for Frankfurt am Main!**
+    </description>
+    <url>http://codefor.de/frankfurt/</url>
+    <tags>
+        <tag>Open Data</tag>
+        <tag>Civic Hacking</tag>
+        <tag>Data Visualization</tag>
+    </tags>
+    <contact>
+        <twitter>@codeforffm</twitter>
+        <meetup>http://www.meetup.com/OKLabFfm/</meetup>
+    </contact>
+    <schedule>
+        <ical>http://www.meetup.com/OKLabFfm/events/ical</ical>
+    </schedule>
+    <team>
+        <person>
+            <name>Mischa Zöller</name>
+            <url>http://www.zoeller.biz</url>
+            <email>mischa@zoeller.biz</email>
+            <twitter>@zoellerm</twitter>
+        </person>
+    </team>
+</usergroup>
