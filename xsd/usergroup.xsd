@@ -232,6 +232,24 @@
             <xs:minLength value="1"/>
         </xs:restriction>
     </xs:simpleType>
+    <xs:simpleType name="latitude">
+        <xs:annotation>
+            <xs:documentation>Der Breitengrad einer Geo-Koordinate</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:float">
+            <xs:maxInclusive value="90.0"/>
+            <xs:minInclusive value="-90.0"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="longitude">
+        <xs:annotation>
+            <xs:documentation>Der Längengrad einer Geo-Koordinate</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:float">
+            <xs:maxInclusive value="180.0"/>
+            <xs:minInclusive value="-180.0"/>
+        </xs:restriction>
+    </xs:simpleType>
     <xs:complexType name="meeting">
         <xs:annotation>
             <xs:documentation>Definiert einen Datentyp für Meetings (zukünftige
@@ -244,6 +262,15 @@
             <xs:element name="description" minOccurs="0" type="markdown"/>
             <xs:element name="url" type="nonEmptyURI" minOccurs="0"/>
             <xs:element name="location" type="location" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="geolocation">
+        <xs:annotation>
+            <xs:documentation>Geo-Location</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="latitude" type="latitude"/>
+            <xs:element name="longitude" type="longitude"/>
         </xs:sequence>
     </xs:complexType>
     <xs:simpleType name="plz">
@@ -327,6 +354,11 @@
                         minOccurs="0">
                 <xs:annotation>
                     <xs:documentation>z.B. Deutschland</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="geolocation" type="geolocation" minOccurs="0">
+                <xs:annotation>
+                    <xs:documentation>Die Geo-Koordinaten des Ortes</xs:documentation>
                 </xs:annotation>
             </xs:element>
         </xs:sequence>
