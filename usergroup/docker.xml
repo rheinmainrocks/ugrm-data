@@ -19,28 +19,7 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
-        <meeting>
-            <time>2014-07-16T19:00:00</time>
-            <name>First Docker Meetup Frankfurt</name>
-            <description>
-                Der Termin für das erste Docker Meetup in Frankfurt steht.
-
-                Würde die Orga im Sinne eines Barcamps halten, aber schon jetzt mal abfragen, wer gerne etwas erzählen/
-                präsentieren möchte?
-
-                Hier mal gesammelt Themenvorschläge:
-
-                - Basics: Installation und "wie nutze ich Docker".
-                - Logging
-                - Orchestrierung, Deployment und "Wie/wo hosten"?
-                - App Entwicklung mithilfe von Docker
-                - Chroot Env durch Docker ersetzen
-                - Kostenvorteile durch Einsatz von Docker
-
-                Alle Themen schaffen wir nicht ;-) Wo brennt es am meisten?
-            </description>
-            <url>http://www.meetup.com/Docker-Frankfurt/events/182122512/</url>
-        </meeting>
+        <ical>http://www.meetup.com/Docker-Frankfurt/events/ical</ical>
     </schedule>
     <team>
         <person>
