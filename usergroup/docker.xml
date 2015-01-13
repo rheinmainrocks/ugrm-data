@@ -10,14 +10,6 @@
         <tag>DevOps</tag>
         <tag>Cloud Computing</tag>
     </tags>
-    <defaultmeetinglocation>
-        <name>basis Frankfurt</name>
-        <url>http://www.basis-frankfurt.de/de/standorte</url>
-        <twitter>@basisffm</twitter>
-        <street>Gutleutstraße 8-12</street>
-        <zip>60329</zip>
-        <city>Frankfurt</city>
-    </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <ical>http://www.meetup.com/Docker-Frankfurt/events/ical</ical>
     </schedule>
