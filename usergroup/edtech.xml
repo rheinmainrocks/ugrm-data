@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>EdTech Rhein-Main</name>
+    <description markdown="true">This group is for all people who are interested in education and #EdTech (education
+        technology)
+        especially. And it is all about networking and discussing trends and ideas in this vibrant and fast evolving
+        field of education. At the same time this meetup is meant to be the hub for all educational start-ups in the
+        Rhein-Main area working on the next big thing in education! And yes, the goal is to bring you all (teachers,
+        entrepreneurs, politicians, parents, students, ...) together, all at one table! And never forget
+        [#RheinMainRocks](https://twitter.com/search?q=%23RheinMainRocks) - Be part of it!
+    </description>
+    <url>http://www.meetup.com/Education-Technology-Rhein-Main/</url>
+    <tags>
+        <tag>EdTech</tag>
+        <tag>Education</tag>
+        <tag>Technology</tag>
+    </tags>
+    <contact>
+        <meetup>http://www.meetup.com/Education-Technology-Rhein-Main/</meetup>
+    </contact>
+    <schedule>
+        <ical>http://www.meetup.com/Education-Technology-Rhein-Main/events/ical</ical>
+    </schedule>
+    <team>
+        <person>
+            <name>Christian Roth</name>
+            <url>http://talkreal.org/</url>
+            <email>info@talkREAL.org</email>
+            <twitter>@SIMPLIFYmatters</twitter>
+        </person>
+    </team>
+</usergroup>
