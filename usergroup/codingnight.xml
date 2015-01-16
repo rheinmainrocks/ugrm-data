@@ -2,56 +2,23 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>Coding Night</name>
-    <description markdown="true">Mit der *Coding Night* möchte ich Codern, angefangen vom Rookie bis zum Pro, eine
-        Möglichkeit bieten, sich mit etwas Neuem zu beschäftigen, etwas auszuprobieren und das in einer lockeren
-        Atmosphäre.
+    <description>
+        Coding Night Frankfurt is an Open event where you're going to write code together with other enthusiasts. It
+        doesn't matter, if you're not a geek or a male or a female. Everyone is welcome to try new things: programming
+        languages, frameworks, programming techniques, libraries, IDEs. We accept Newbies, Novices and Experts.
 
-        Du hast also während der *Coding Night* die Gelegenheit, eine neue Programmiersprache, ein Framework, eine
-        IDE oder eine Programmiertechnik gemeinsam mit anderen Codern auszuprobieren.
-
-        Wenn das Projekt an dem du mit der Gruppe arbeitest, etwas größeres ist, dann kannst du dieses auch über die
-        nächsten Wochen und Monate gemeinsam mit deiner Gruppe verfolgen. Vielleicht entwickelt sich daraus ein
-        Team, was sich dann sogar zu einem Startup entwickelt.
-
-        Wie du siehst, ist die *Coding Night* genau das richtige für dich!
-
-        **Das geile dabei: du erarbeitest dir in der Gruppe neue Skills und lernst gleichzeitig auch neue Coder
-        kennen.**
-
-        Das primäre Ziel einer *Coding Night* sollte stets LERNEN sein. Egal ob das jetzt eine neue
-        Programmiersprache oder ein Framework ist. Du solltest nachdem du die *Coding Night* verlassen hast immer mehr
-        wissen, als davor. :). Zusätzlich wäre es super, wenn du einen neuen Coder kennen lernst.
-
-
-        **Wie läuft so eine *Coding Night* eigentlich ab?**
-
-        Das ganze findet stets Abends ab 19:00 Uhr statt. Ein Ende gibt es eigentlich nicht, open end also. Die
-        Vergangenheit hat aber gezeigt, dass die meisten ca. 6 Stunden bleiben. Ergo geht das Event bis ca. 1:00
-        Uhr.
-
-        Zu Anfang gibt es eine kleine Introduction-Runde, wo sich jeder vorstellt und erklärt, worauf er oder
-        sie heute Bock hat. Auf Basis dieser Runde, werden dann Gruppen erstellt, die dann schließlich gemeinsam an
-        der zuvor besprochenen Sache arbeiten.
-
-        Nach der Vorstellungsrunde setzen sich die Gruppen zusammen und diskutieren darüber, an was sie konkret über den
-        Abend/die Nacht arbeiten möchten.
-
-        Etwa zur Halbzeit des Abends, werden die Ergebnisse der Gruppen vorgestellt. Somit profitieren die
-        anderen Teilnehmer von dem was du und deine Gruppe die letzten Stunden gemacht haben. Vielleicht hast du ja
-        etwas in Erfahrung gebracht, was die anderen interessieren könnte. Ein geiles Tutorial oder eine Besonderheit
-        oder Hindernis beim Coden entdeckt die du gerne teilen möchtest.
-
-        **Also worauf wartest du? Code on!**
-
-        Wenn du Coder bist, sei es Anfänger oder Profi, oder mit dem Programmieren endlich durchstarten möchtest, dann
-        komme zur nächsten *Coding Night* und programmiere mit uns.
+        You will get the chance to experiment without any pressure in a friendly and open environment. It's up to you or
+        your group to decide what you are going to do during a Coding Night. You can simply try out a new small
+        programming library or getting help to tweak your own IDE or work on challenging projects.
     </description>
-    <url>http://www.codingnerd.de/coding-night/</url>
+    <url>http://codingnight.co/</url>
     <tags>
         <tag>Coding</tag>
     </tags>
     <contact>
+        <twitter>@coding_night</twitter>
         <facebook>https://www.facebook.com/groups/558417270913303/</facebook>
+        <meetup>http://www.meetup.com/Coding-Night-Frankfurt/</meetup>
     </contact>
     <defaultmeetinglocation>
         <name>Juridicum der Goethe-Universität in Frankfurt am Main</name>
@@ -61,60 +28,18 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
-        <meeting>
-            <time>2014-05-23T19:00:00+02:00</time>
-            <name>12. Coding Night [last session before summer break]</name>
-            <url>http://www.meetup.com/Coding-Night-Frankfurt/events/183220672/</url>
-        </meeting>
-        <meeting>
-            <time>2014-05-09T19:00:00+02:00</time>
-            <name>11. Coding Night: code together // share knowledge // share code</name>
-            <url>http://www.meetup.com/Coding-Night-Frankfurt/events/180042082/</url>
-        </meeting>
-        <meeting>
-            <time>2014-04-25T19:00:00+02:00</time>
-            <name>10. Coding Night: workshop special</name>
-        </meeting>
-        <meeting>
-            <time>2014-04-11T19:00:00+02:00</time>
-            <name>9. Coding Night</name>
-            <description>
-                As always, we're going to play around with code, try new stuff and extend our coding knowledge. BUT this
-                time we're going to focus on programmable gadgets.
-
-                I'm going to bring the Sphero Robot Ball to the meetup. More information about Sphero can be found here:
-                http://www.gosphero.com. Further information on how to program the ball are here:
-                https://developer.gosphero.com/. During the 7th Coding Night we already wrote a small program in Python
-                were we let the ball move in circles and changed its colors. The repository with the code can be found
-                on GitHub: https://github.com/CodingNight/SpheroPython
-
-                Furthermore I'm going to bring Karotz (http://store.karotz.com/). Those gadgets are lent from the
-                Open-Tech-School Rhein Main (http://www.opentechschool.org/rheinmain/). Thanks a lot for the support!
-                In the last Coding Night Gregor brought the Cleware Traffic Light along. Information about this
-                programmable gadget can be found here: http://www.cleware.net/produkte/p-clewarecontrol-E.html. For this
-                project there is also a GitHub repository: https://github.com/CodingNight/cleware-hudson-jenkins
-
-                So if you have also any other programmable gadget, you can bring it along to the Coding Night, so we
-                have more toys to play with! :)
-            </description>
-            <url>http://www.meetup.com/Coding-Night-Frankfurt/events/174165652/</url>
-        </meeting>
-        <meeting>
-            <time>2014-03-28T19:00:00</time>
-            <name>8. Coding Night</name>
-            <url>http://www.meetup.com/Coding-Night-Frankfurt/events/171554682/</url>
-        </meeting>
-        <meeting>
-            <time>2014-01-31T19:00:00</time>
-            <name>4. Coding Night</name>
-        </meeting>
+        <ical>http://www.meetup.com/Coding-Night-Frankfurt/events/ical</ical>
     </schedule>
     <team>
         <person>
             <name>Pavlos Giannakis</name>
             <url>http://www.codingnerd.de/ueber-mich/</url>
-            <email>pavlos@codingnerd.de</email>
+            <email>pavlos@codingnight.co</email>
             <twitter>@coding_nerd</twitter>
+        </person>
+        <person>
+            <name>Adam Azani</name>
+            <email>adam@codingnight.co</email>
         </person>
     </team>
 </usergroup>
