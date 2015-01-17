@@ -7,6 +7,7 @@
             description="Perform xmllint validation on XML files">
         <schemavalidate>
             <fileset dir="${basedir}/usergroup" includes="**/*.xml"/>
+            <fileset dir="${basedir}/venue" includes="**/*.xml"/>
         </schemavalidate>
     </target>
 </project>
