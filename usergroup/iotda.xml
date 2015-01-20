@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="true">
+    <name>Internet of Things Darmstadt</name>
+    <description>
+        This is a group to develop and share knowledge in the space of Internet of Things, Microcontrollers and
+        Bluetooth Low Energy (Bluetooth Smart) communication. Meetups will cover knowledge sharing and hacking
+        workshops. I started this group because I want to dig deeper into this topic, and don't want to wait for other
+        people creating a meetup like this. I look forward to meet like minded people who want to experiment and build
+        intelligent devices and systems as well to gain and pass on knowledge.
+    </description>
+    <url>http://www.meetup.com/Darmstadt-Internet-of-Things-BLE-Meetup/</url>
+    <tags>
+        <tag>IoT</tag>
+        <tag>BLE</tag>
+    </tags>
+    <contact>
+        <meetup>http://www.meetup.com/Darmstadt-Internet-of-Things-BLE-Meetup/</meetup>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Cowo21 in Darmstadt</name>
+        <url>http://cowo21.de/</url>
+        <twitter>@CoWo21</twitter>
+        <street>Holzhofallee 21</street>
+        <zip>64295</zip>
+        <city>Darmstadt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <ical>http://www.meetup.com/Darmstadt-Internet-of-Things-BLE-Meetup/events/ical</ical>
+    </schedule>
+</usergroup>
