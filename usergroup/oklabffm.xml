@@ -2,15 +2,28 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>OK Lab Frankfurt am Main</name>
     <nickname>OKLabFfm</nickname>
-    <description markdown="true">**Stadtentwickler gesucht!**
+    <description markdown="true">**Urban Developers in Frankfurt/M. wanted!**
 
-        Wir sind eine Gruppe, die sich aktiv mit Open Data und Civic Hacking beschäftigt. Wir
-        überlegen uns, wie Code dabei helfen kann unsere Stadt, Region und Nachbarschaft auch digital schöner und
-        besser zu gestalten. Wir tauschen Wissen aus, erstellen freie Daten, Visualisierungen und Anwendungen und
-        veröffentlichen Analysen. Dazu treffen wir uns regelmäßig - derzeit einmal Anfang des Monats. Schaut einfach
-        vorbei! Wir freuen uns über neue Gesichter, die eigene Ideen mitbringen und uns unterstützen.
+	We are a local group that is actively engaged in open data and civic hacking. We consider how code and data can help 
+	our city, region and neighborhood in digital ways to make better and more beautiful. We share knowledge, create free 
+	data, visualizations and applications and publish analyzes. For this purpose, we meet regularly.
 
-        **Code for Frankfurt am Main!**
+	Just look over! We welcome new faces who bring their own ideas and support us.
+
+	**Code and Data for Frankfurt am Main!**
+
+	---       
+
+	**Stadtentwickler in Frankfurt/M. gesucht!**
+
+	Wir sind eine lokale Gruppe, die sich aktiv mit Open Data und Civic Hacking beschäftigt. Wir überlegen uns, wie Code 
+	und Daten dabei helfen können unsere Stadt, Region und Nachbarschaft auch digital schöner und besser zu gestalten. 
+	Wir tauschen Wissen aus, erstellen freie Daten, Visualisierungen und Anwendungen und veröffentlichen Analysen. Dazu 
+	treffen wir uns regelmäßig.
+
+	Schaut einfach vorbei! Wir freuen uns über neue Gesichter, die eigene Ideen mitbringen und uns unterstützen.
+
+        **Code und Daten for Frankfurt am Main!**
     </description>
     <url>http://codefor.de/frankfurt/</url>
     <tags>
@@ -19,7 +32,14 @@
         <tag>Data Visualization</tag>
     </tags>
     <contact>
+        <mailinglist>
+            <url>https://lists.okfn.org/mailman/listinfo/codeforffm</url>
+            <label>Mailingliste</label>
+            <description>Zum Austausch von Informationen und Terminen.</description>
+        </mailinglist>
+        <email>frankfurt@codefor.de</email>
         <twitter>@codeforffm</twitter>
+        <hashtag>#opendataffm</hashtag>
         <meetup>http://www.meetup.com/OKLabFfm/</meetup>
     </contact>
     <schedule>
@@ -33,4 +53,14 @@
             <twitter>@zoellerm</twitter>
         </person>
     </team>
+    <sponsors>
+        <sponsor>
+            <name>Die Zentrale</name>
+            <url>http://www.die-zentrale-ffm.de/</url>
+        </sponsor>
+        <sponsor>
+            <name>Wirtschaftsförderung Frankfurt GmbH</name>
+            <url>http://frankfurt-business.net/standort-frankfurt/branchenfokus/kreativwirtschaft/</url>
+        </sponsor>
+    </sponsors>
 </usergroup>
