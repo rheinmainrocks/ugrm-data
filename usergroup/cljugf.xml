@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Clojure Users Group Frankfurt am Main</name>
+    <nickname>CLJUGF</nickname>
+    <description>
+        Ziel dieser user group ist es die Sprache
+        Clojure im Speziellen, funktionale
+        Programmierung im Allgemeinen besser zu
+        verstehen. Hierzu planen wir ein sogenanntes
+        Coding Dojo. Das heißt, wir werden aktiv Code
+        schreiben.
+
+        Ferner planen wir theoretische und praktische
+        Vorträge zu interessanten Themen.
+        Beispielsweise auch von Entwicklern, die
+        Clojure bereits seit einiger Zeit einsetzen.
+        So ergibt sich die Möglichkeit zum
+        Erfahrungsaustausch aus erster Hand.
+    </description>
+    <url>http://kotka.de/cljugf.html</url>
+    <tags>
+        <tag>Clojure</tag>
+        <tag>Funktionales Programmieren</tag>
+    </tags>
+    <contact>
+        <twitter>@cljugf</twitter>
+        <email>mb@kotka.de</email>
+    </contact>
+    <schedule>
+        <ical>http://kotka.de/cljugf.ics</ical>
+    </schedule>
+</usergroup>
