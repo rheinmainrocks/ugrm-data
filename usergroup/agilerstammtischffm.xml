@@ -44,7 +44,13 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
-    
+        <meeting>
+            <time>2015-02-05T19:00:00</time>
+            <name>18. Agiler Stammtisch Frankfurt</name>
+            <description>Das Lightning Talk Thema ist "User Story Mapping"
+            </description>
+            <url>https://www.xing.com/events/18-agiler-stammtisch-frankfurt-1499112/</url>
+        </meeting>
         <meeting>
             <time>2014-12-04T19:00:00</time>
             <name>17. Agiler Stammtisch Frankfurt</name>
