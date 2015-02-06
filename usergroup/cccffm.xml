@@ -52,7 +52,7 @@
         <zip>60326</zip>
         <city>Frankfurt am Main</city>
     </defaultmeetinglocation>
-    <schedule usedefaultmeetinglocation="true">
+    <!-- schedule usedefaultmeetinglocation="true">
         <ical>https://ccc-ffm.de/feed/my-calendar-ics/</ical>
-    </schedule>
+    </schedule -->
 </usergroup>
