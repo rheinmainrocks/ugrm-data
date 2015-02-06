@@ -26,7 +26,20 @@
         <email>mb@kotka.de</email>
         <twitter>@cljugf</twitter>
     </contact>
-    <schedule>
+    <defaultmeetinglocation>
+        <name>Die Zentrale</name>
+        <description>Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+            Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+        </description>
+        <url>http://www.die-zentrale-ffm.de/#section-n6</url>
+        <foursquare>https://de.foursquare.com/zentrale_ffm</foursquare>
+        <twitter>@zentrale_ffm</twitter>
+        <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+        <street>Berger Straße 175</street>
+        <zip>60385</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true"
         <ical>http://kotka.de/cljugf.ics</ical>
     </schedule>
 </usergroup>
