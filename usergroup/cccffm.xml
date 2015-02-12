@@ -36,19 +36,10 @@
         <name>CCCFFM - HQ</name>
         <description>Unsere Treffen finden in unserem Hackerspace dem sog. HQ statt</description>
         <url>https://ccc-ffm.de/hackerspace/</url>
-        <publictransport>Vom Hauptbahnhof kommend erreicht man das Hackquarter mit den 
-            Staßenbahnlinien 11 (Richtung Zuckschwerdtstraße) oder 21 (Richtung Mönchhofstraße oder Nied Kirche)  
-            bis zur Haltestelle Mönchhofstraße.
-            An der Ampel, die sich direkt an die Haltestelle anschließt überquert man die Mainzer Straße,
-            nach rechts (von der Tram kommend) und folgt dann der Schmidtstraße für ca. 300 Meter. 
-            Schließlich erreicht man eine große Einfahrt mit zwei (offenen) Schranken. Dort läuft man in den Hof und geht in den “Haupteingang”
-        
-            Kommt man mit der S3, S4, S5 oder S6  fährt man mit der S-Bahn bis zur Haltestelle Galluswarte und steigt dort in eine der oben genannten Straßenbahnen um.
-
-           Aus der Innenstadt kommend ist es sinnvoll mit einer der genannten S-Bahnen bis zur Galluswarte zu fahren und dort in eine der entsprechenden Straßenbahnen umzusteigen.
-                   
+        <publictransport>
+                   UBahn Station Kirchplatz ist um die Ecke, wo U6 und U7 halten.
         </publictransport>
-        <street>Schmidtstraße 12</street>
+        <street>Häusergasse 2</street>
         <zip>60326</zip>
         <city>Frankfurt am Main</city>
     </defaultmeetinglocation>
