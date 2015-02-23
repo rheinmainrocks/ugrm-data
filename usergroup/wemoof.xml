@@ -47,17 +47,32 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
-            <time>2014-08-25T19:00:00+02:00</time>
+            <time>2015-04-27T19:00:00</time>
+            <name>Webmontag Offenbach #11</name>
+            <url>http://wemoof.de/11</url>
+        </meeting>
+        <meeting>
+            <time>2015-02-23T19:00:00</time>
+            <name>Webmontag Offenbach #10</name>
+            <url>http://wemoof.de/10</url>
+        </meeting>
+        <meeting>
+            <time>2014-10-27T19:00:00</time>
+            <name>Webmontag Offenbach #9</name>
+            <url>http://wemoof.de/9</url>
+        </meeting>
+        <meeting>
+            <time>2014-08-25T19:00:00</time>
             <name>Webmontag Offenbach #8</name>
             <url>http://wemoof.de/8</url>
         </meeting>
         <meeting>
-            <time>2014-06-30T19:00:00+02:00</time>
+            <time>2014-06-30T19:00:00</time>
             <name>Webmontag Offenbach #7</name>
             <url>http://wemoof.de/7</url>
         </meeting>
         <meeting>
-            <time>2014-04-28T19:00:00+02:00</time>
+            <time>2014-04-28T19:00:00</time>
             <name>Webmontag Offenbach #6</name>
             <url>http://wemoof.de/6</url>
         </meeting>
