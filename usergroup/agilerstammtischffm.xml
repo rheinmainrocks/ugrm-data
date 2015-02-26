@@ -45,6 +45,13 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2015-03-05T19:00:00</time>
+            <name>19. Agiler Stammtisch Frankfurt</name>
+            <description>Das Lightning Talk Thema ist "Theory of Constraints, ConWIP, Kanban - different ways for organising a pull"
+            </description>
+            <url>https://www.xing.com/events/19-agiler-stammtisch-frankfurt-1525582</url>
+        </meeting>
+        <meeting>
             <time>2015-02-05T19:00:00</time>
             <name>18. Agiler Stammtisch Frankfurt</name>
             <description>Das Lightning Talk Thema ist "User Story Mapping"
