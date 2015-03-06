@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" plural="true" incubator="true">
+    <name>Micropreneurs am Main (Frankfurt)</name>
+    <description>I’m a budding micropreneur striving to earn a living by selling products I created. I am currently launching a one-man product (http://gemba.io) with no aspirations of getting investor funding or growing this into a full-fledged company.
+
+    I’d like to share with like-minded folks the joy, the hardships and the lessons learned in building a one-man business. So let’s meet up regularly over dinner or beers and learn from each other!
+    </description>
+    <url>http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/</url>
+    <tags>
+        <tag>micropreneurs</tag>
+        <tag>bootstrapping</tag>
+        <tag>micro-isv</tag>
+        <tag>lean-startup</tag>
+        <tag>customer-development</tag>
+        <tag>value-proposition-design</tag>
+        <tag>lean-startup</tag>
+    </tags>
+    <contact>
+        <meetup>http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/</meetup>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Die Zentrale ? (tbd)</name>
+        <description>Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+            Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+        </description>
+        <url>http://www.die-zentrale-ffm.de/#section-n6</url>
+        <foursquare>https://de.foursquare.com/zentrale_ffm</foursquare>
+        <twitter>@zentrale_ffm</twitter>
+        <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+        <street>Berger Straße 175</street>
+        <zip>60385</zip>
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+    <team>
+        <person>
+            <name>Yang Meyer</name>
+            <url>http://yangmeyer.de</url>
+            <email>yang@gemba.io</email>
+            <twitter>@yangmeyer</twitter>
+        </person>
+    </team>
+</usergroup>
