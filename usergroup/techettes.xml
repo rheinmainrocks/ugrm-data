@@ -60,6 +60,24 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+           <meeting>
+                      <time>2015-03-28T10:00:00</time>
+                      <name>Creative Coding per Drag &amp; Drop.</name>
+                      <description>
+                                 Unser Zwei-Tages-Workshop für Einsteigerinnen zeigt die Grundlagen der visuellen Programmiersprache vvvv.
+                                 
+                                 Datum: Sa 28. / So 29. März 2015  
+Dauer: 10.00 bis 18.00 Uhr  
+Ort: Frankfurt, Bahnhofsnähe  
+Kosten: 30 EUR (*20 EUR)  
+                                 
+                                 VVVV ist eine grafische Entwicklungsumgebung für &quot;Creative Coding&quot; und dient der Erzeugung und Manipulation von Video-, Grafik- und Datenströmen in Echtzeit. In unserem Workshop werden anhand von eigenen Musik-Visualisierung die wichtigsten Bausteine und Prinzipien von vvvv vorgestellt und ein Einblick in die vielen Möglichkeiten von vvvv vermittelt. Genutzt wird vvvv von verschiedensten Anwendern, z.B. Künstlern, Designern, Technologen. Also eine sehr coole Sache um ins coding reinzuschnuppern. Es sind keinerlei Vorkenntnisse nötig, nur ein Notebook solltet Ihr mitbringen.
+
+Anmelden könnt Ihr Euch unter http://goo.gl/forms/SH6Kblx4TT
+
+Limitierte Plätze, First Come, First Served
+                      </description>
+           </meeting>
         <meeting>
             <time>2014-07-31T19:00:00</time>
             <name>Was macht eine Scrum Masterin?</name>
