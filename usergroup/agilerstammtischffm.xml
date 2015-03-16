@@ -45,6 +45,12 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2015-04-02T19:00:00</time>
+            <name>20. Agiler Stammtisch Frankfurt</name>
+            <description>#futureofwork in the wild: Beispiele für außergewöhnliche Unternehmenskulturen</description>
+            <url>https://www.xing.com/events/20-agiler-stammtisch-frankfurt-1532963</url>
+        </meeting>
+        <meeting>
             <time>2015-03-05T19:00:00</time>
             <name>19. Agiler Stammtisch Frankfurt</name>
             <description>Das Lightning Talk Thema ist "Theory of Constraints, ConWIP, Kanban - different ways for organising a pull"
