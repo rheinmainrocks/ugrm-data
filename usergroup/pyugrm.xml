@@ -30,10 +30,7 @@
         <hashtag>#PyUGRM</hashtag>
     </contact>
     <schedule>
-        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
-        <ical>
-            https://www.google.com/calendar/ical/ke60km0ljqrjdtdpdo8irchfu0%40group.calendar.google.com/public/basic.ics
-        </ical>
+        <ical>http://www.meetup.com/Python-User-Group-Rhein-Main/events/ical</ical>
     </schedule>
     <team>
         <person>
