@@ -27,6 +27,9 @@
         <zip>60385</zip>
         <city>Frankfurt</city>
     </defaultmeetinglocation>
+    <schedule>
+        <ical>http://www.meetup.com/Micropreneurs-am-Main-Frankfurt/events/ical</ical>
+    </schedule>
     <team>
         <person>
             <name>Yang Meyer</name>
