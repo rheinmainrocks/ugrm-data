@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="false">
+    <name>Webdev Meetup Taunus</name>
+    <description>Ziel ist es, das Kennenlernen und den kollegialen sowie fachlichen Austausch zwischen
+        Webdevelopment-Profis im Taunus zu fördern.
+    </description>
+    <url>https://www.xing.com/communities/groups/webdev-meetup-taunus-2906-1074740</url>
+    <tags>
+        <tag>Webdevelopment</tag>
+    </tags>
+    <contact>
+        <xing>https://www.xing.com/communities/groups/webdev-meetup-taunus-2906-1074740</xing>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Coworking Space Königstein</name>
+        <url>http://www.coworking-koenigstein.de/</url>
+        <publictransport>Mit der Frankfurt-Königsteiner-Eisenbahn (FKE) von der Fernbahnhof-Ebene des Hauptbahnhofs
+            Frankfurt am Main direkt nach Königstein.
+
+            Mit der S-Bahn von der Tiefbahnhof-Ebene des Hauptbahnhofs Frankfurt am Main entweder nach Kronberg (S 4)
+            oder nach Bad Soden (S 3), von der jeweiligen Endstation in Kronberg oder Bad Soden mit dem Bus bis
+            Königstein “Stadtmitte”.
+        </publictransport>
+        <street>Limburger Str. 28</street>
+        <zip>61642</zip>
+        <city>Königstein</city>
+    </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2015-04-09T18:00:00</time>
+            <name>Webdev Meetup Taunus April 2015</name>
+            <description>
+                Mach dem erfolgreichen Kick-off-Meeting im Februar, wollen wir das Webdeveloper Meetup Taunus erst
+                einmal in einem zweitmonatigen Rhytmus fortsetzen.
+
+                Ziel ist es, das Kennenlernen und den kollegialen sowie fachlichen Austausch zwischen
+                Webdevelopment-Profis im Taunus zu fördern.
+
+                Wir freuen uns auf das Kennenleren/Wiedersehen im April.
+            </description>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <group>Source: [xing.com](https://www.xing.com/communities/groups/webdev-meetup-taunus-2906-1074740)</group>
+    </photocredits>
+</usergroup>
