@@ -31,19 +31,20 @@
         <xing>https://www.xing.com/net/pri5328c8x/as-frankfurt</xing>
     </contact>
     <defaultmeetinglocation>
-        <name>Die Zentrale</name>
-        <description>Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
-            Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
-        </description>
-        <url>http://www.die-zentrale-ffm.de/#section-n6</url>
-        <foursquare>https://de.foursquare.com/zentrale_ffm</foursquare>
-        <twitter>@zentrale_ffm</twitter>
-        <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
-        <street>Berger Straße 175</street>
-        <zip>60385</zip>
+        <name>codecentric AG, Niederlassung Frankfurt</name>
+        <url>https://www.codecentric.de/ueber-codecentric/standorte-codecentric/</url>
+        <publictransport>S3, S4, S5, S6 - bis Frankfurt West,  Tram 17 - Kuhwaldstraße </publictransport>
+        <street>Kreuznacher Straße 30, 6. Stock</street>
+        <zip>60486</zip>
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2015-05-06T19:00:00</time>
+            <name>21. Agiler Stammtisch Frankfurt</name>
+            <description>Leadership Spiel</description>
+            <url>https://www.xing.com/events/21-agiler-stammtisch-frankfurt-1551428</url>
+        </meeting>               
         <meeting>
             <time>2015-04-02T19:00:00</time>
             <name>20. Agiler Stammtisch Frankfurt</name>
