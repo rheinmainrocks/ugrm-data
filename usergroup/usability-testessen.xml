@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>Usability Testessen</name>
+    <description markdown="true">Pizza, Bier und Usability Testing. 
+Das Usability Testessen bringt Entwickler und Nutzer an einen Tisch. Bei Pizza, Bier und Brause werden Prototypen, Websites oder Apps auf ihre Gebrauchstauglichkeit getestet.
+    </description>
+    <url>http://www.usability-testessen.de/</url>
+    <tags>
+        <tag>Usability</tag>
+    </tags>
+    <schedule>
+        <meeting>
+            <time>2015-05-07T19:00:00</time>
+            <name>Usability Testessen bei compeople</name>
+            <description>Usability Testessen bei compeople in Frankfurt! Wir freuen uns auf eure Anmeldungen und Projekte. 
+            </description>
+            <url>http://www.usability-testessen.de/frankfurt</url>
+            <location>
+                <name>compeople, Frankfurt</name>
+                <url>https://www.compeople.de/</url>
+                <publictransport>Bahn: U-Bahn Willy-Brandt-Platz</publictransport>
+                <street>Untermainanlage 8</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <photocredits>
+        <logo>Logo: [usabilitytestessen](http://usability-testessen.de/)</logo>
+    </photocredits>
+</usergroup>
