@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>FrankfurtJS</name>
+    <description>FrankfurtJS is a JavaScript, HTML5 and NodeJS user group in Frankfurt currently organized by Kahlil
+        Lechelt, Christoph Martens and Eugene Terehov.
+    </description>
+    <url>http://www.frankfurtjs.org/</url>
+    <tags>
+        <tag>JavaScript</tag>
+        <tag>HTML5</tag>
+        <tag>NodeJS</tag>
+    </tags>
+    <contact>
+        <twitter>@FrankfurtJS</twitter>
+        <hashtag>#FrankfurtJS</hashtag>
+        <facebook>https://www.facebook.com/frankfurtJS</facebook>
+        <meetup>http://www.meetup.com/frankfurtJS/</meetup>
+    </contact>
+    <schedule>
+        <ical>http://www.meetup.com/frankfurtJS/events/ical/</ical>
+    </schedule>
+</usergroup>
