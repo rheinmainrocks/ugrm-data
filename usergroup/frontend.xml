@@ -15,15 +15,43 @@
     <contact>
         <twitter>@frontend_rm</twitter>
     </contact>
-    <defaultmeetinglocation>
-        <name>AOE GmbH</name>
-        <publictransport>Direkt in der Wiesbadener Innenstadt mit Parkmöglichkeit im Luisenforum (2 Min. Fussweg entfernt von der Location). Anfahrtsbeschreibung mit Auto + ÖPNV: http://www.aoe.com/de/anfahrt/hauptsitz.html
-        </publictransport>
-        <street>LuisenForum, Kirchgasse 6</street>
-        <zip>65185</zip>
-        <city>Wiesbaden</city>
-    </defaultmeetinglocation>
-    <schedule usedefaultmeetinglocation="true">
+    <schedule>
+        <meeting>
+            <time>2014-05-21T19:00:00</time>
+            <name>2. Frontend-Meetup in Wiesbaden</name>
+            <description>
+                Der Termin für das nächste Treffen steht jetzt fest! Diesmal findet es erneut in Frankfurt statt :-)
+
+                **Talks:**
+
+                - “SVG Icons mit SASS und Gulp” (Raphael Rychetsky)
+                - Slot noch frei! Interesse?
+
+                Wir haben einen Sponsor, der uns freundlicherweise mit Pizza und Getränken versorgen wird: Herzlichen
+                Dank an die [Fintura GmbH](https://fintura.de/)!
+
+                Bitte gerne weitersagen an alle Frontend-Entwickler und -Interessierten in Frankfurt, wir freuen uns auf
+                zahlreiche Teilnehmer.
+
+                Damit wir die ungefähre Teilnehmerzahl abschätzen können bitten wir euch, bei
+                [XING](https://www.xing.com/events/mai-treffen-frontend-usergroup-rheinmain-1555838) zuzusagen. Danke
+                und bis bald!
+            </description>
+            <url>https://www.xing.com/events/mai-treffen-frontend-usergroup-rheinmain-1555838</url>
+            <location>
+                <name>Die Zentrale</name>
+                <description>Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+                    Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+                </description>
+                <url>http://www.die-zentrale-ffm.de/#section-n6</url>
+                <foursquare>https://de.foursquare.com/zentrale_ffm</foursquare>
+                <twitter>@zentrale_ffm</twitter>
+                <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+                <street>Berger Straße 175</street>
+                <zip>60385</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
         <meeting>
             <time>2014-02-25T19:00:00</time>
             <name>1. Frontend-Meetup in Wiesbaden</name>
@@ -38,6 +66,16 @@
                 Der Eintritt ist natürlich frei.
             </description>
             <url>http://netzartist.de/blog/2014/02/frontend-meetup-in-wiesbaden/</url>
+            <location>
+                <name>AOE GmbH</name>
+                <publictransport>Direkt in der Wiesbadener Innenstadt mit Parkmöglichkeit im Luisenforum (2 Min. Fussweg
+                    entfernt von der Location). Anfahrtsbeschreibung mit Auto + ÖPNV:
+                    http://www.aoe.com/de/anfahrt/hauptsitz.html
+                </publictransport>
+                <street>LuisenForum, Kirchgasse 6</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
         </meeting>
     </schedule>
     <team>
