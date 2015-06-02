@@ -40,6 +40,12 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2015-06-11T18:30:00</time>
+            <name>22. Agiler Stammtisch Frankfurt</name>
+            <description>Kanban-Spiele</description>
+            <url>https://www.xing.com/events/22-agiler-stammtisch-frankfurt-1563899</url>
+        </meeting>
+        <meeting>
             <time>2015-05-06T19:00:00</time>
             <name>21. Agiler Stammtisch Frankfurt</name>
             <description>Leadership Spiel</description>
