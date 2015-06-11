@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Objektforum FFM</name>
+    <nickname>ObjektforumFFM</nickname>
+    <description>Für Sie ist agile Softwareentwicklung nicht ausschließlich Scrum? Und Code-Qualität kein Luxus, sondern elementar? Dann finden Sie beim ObjektForum Frankfurt regelmäßig passende Themen und Zeit für den direkten Austausch mit anderen Entwicklerinnen und Entwicklern. Agile Software Engineering, Agile Projektmanagement und Agile Requirements Engineering sind die drei Themengebiete, über die wir beim ObjektForum reden. Miteinander und mit Referentinnen und Referenten, die ein bestimmtes Gebiet intensiv beleuchten.
+
+Dazu kombiniert jedes ObjektForum Frankfurt einen Fachvortrag und die anschließende Diskussion der Teilnehmenden bei Getränken und Snacks. Die Teilnahme am ObjektForum ist kostenfrei, wer möchte, kann eine kleine Spende für die Frankfurter Tafel machen.
+    </description>
+    <url>https://www.andrena.de/objektforum-frankfurt</url>
+    <tags>
+        <tag>Agile</tag>
+        <tag>Scrum</tag>
+        <tag>Software Engineering</tag>
+    </tags>
+    <contact>
+        <hashtag>#objektforum</hashtag>
+        <twitter>@objektforum</twitter>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2015-06-23T18:30:00</time>
+            <name>The New Job of QA – was ein Quality Engineer zukünftig können muss</name>
+            <description>Die Entwicklung und der Betrieb von Software haben sich in den vergangenen Jahren deutlich verändert. Agile Vorgehensweisen, Test-Driven Development, Continuous Integration und DevOps sind erwachsen geworden und werden in immer mehr Unternehmen eingesetzt. Wie positioniert sich aber die Qualitätssicherung (QA) in diesem stark veränderten Umfeld?
+
+Software-Craftsmanship sorgt dafür, dass Software-Entwickler und Architekten die Verantwortung für die technische Qualität ihrer Software übernehmen. Product Owner und Business Analysten behalten die fachliche Qualität im Auge. Fehler tun auch längst nicht mehr so weh, wenn Software-Änderungen mehrmals täglich live gehen können. Und bei Releases im Minutentakt kann sowieso nur noch automatisiert getestet werden. Was macht denn jetzt die QA? James Whittaker, Autor von “How Google Tests Software”, provozierte sein Auditorium schon 2011 mit der Aussage: Test is dead! Welche Rolle spielt QA dann zukünftig in der Produktentwicklung?
+
+Ausgehend vom überkommenen Verständnis von Qualität und Qualitätssicherung zeigt der Vortrag auf, was es morgen heißen wird, Quality Assurance oder, weiter gefasst, Quality Engineering zu betreiben und was ein guter Quality Engineer zukünftig können muss. Die Arbeit in cross-funktionalen Teams erfordert zunehmend T-shaped Professionals, gleichzeitig sollte in einem Produkt-Team, das den gesamten Entwicklungszyklus betreut, eine Rolle existieren, die durchgehend Qualitätsaspekte im Auge behält und im Team vertritt.
+
+Quality Engineering heißt Quality Assurance über alle Stationen des Software-Lebenszyklus, angefangen bei Product Discovery über UX, Development und Operations bis hin zu den notwendigen Aufräumarbeiten beim Abschalten eines Produktes. Wir verstehen den Quality Engineer in allen diesen Phasen als einen “generalizing specialist” im Dienste des Kunden. Gleichzeitig bilden diese Phasen aber auch die Struktur einer modernen Softwareentwicklungsorganisation ab. Die Übernahme von Qualitätsverantwortung durch multifunktionale Teams weist einen Weg hin zur Qualitäts-getriebenen Organisation. Heute schon gibt es vermehrt Unternehmen, die diese Gedanken in ihre DNA übernommen haben. Dabei ist Qualität zu einem kulturellen Wert der Organisation geworden.
+
+Der Vortrag soll zu einer Diskussion darüber anregen, wie sich Quality Assurance zu einem ganzheitlichen Quality Engineering erweitern muss, um den veränderten externen als auch internen Rahmenbedingungen zu genügen. Dem Zuhörer wird ein mögliches, neues Bild von Quality Assurance und Quality Engineering als Fundament einer Qualitäts-getriebenen Organisation vorgestellt und ein Pfad für diese Veränderung aufgezeigt.</description>
+            <url>https://www.andrena.de/event/objektforum-ffm-juni2015</url>
+            <location>
+                <name>DGB Gewerkschaftshaus</name>
+                <street>Wilhelm-Leuschner-Straße 69-77</street>
+                <zip>60329</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <sponsors>
+        <sponsor>
+            <name>andrena objects ag</name>
+            <url>https://www.andrena.de</url>
+        </sponsor>
+    </sponsors>
+</usergroup>
