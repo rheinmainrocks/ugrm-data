@@ -22,12 +22,12 @@
         <meetup>http://www.meetup.com/wp-fra/</meetup>
     </contact>
     <defaultmeetinglocation>
-        <name>conmoto</name>
-        <url>http://www.conmo.to/</url>
-        <publictransport>Das Conmoto liegt in angenehmer Laufdistanz vom Südbahnhof.</publictransport>
-        <street>Wallstr. 22</street>
-        <zip>60594</zip>
-        <city>Frankfurt - Sachsenhausen</city>
+        <name>Dreimorgen</name>
+	<url>http://dreimorgen.com/</url>
+        <publictransport>Die Räumlichkeiten von Dreimorgen finden sich in der Nähe des Hauptbahnhofs.</publictransport>
+        <street>Taunusstr. 29</street>
+        <zip>60329</zip>
+        <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <ical>http://www.meetup.com/wp-fra/events/ical</ical>
