@@ -39,7 +39,7 @@
         <zip>60385</zip>
         <city>Frankfurt</city>
     </defaultmeetinglocation>
-    <schedule usedefaultmeetinglocation="true">
+    <!-- schedule usedefaultmeetinglocation="true">
         <ical>http://kotka.de/cljugf.ics</ical>
-    </schedule>
+    </schedule -->
 </usergroup>
