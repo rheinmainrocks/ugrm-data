@@ -10,15 +10,15 @@
     </tags>
     <schedule>
         <meeting>
-            <time>2013-05-21T18:00:00</time>
-            <name>Mai-Treffen 2013</name>
+            <time>2015-10-21T18:00:00</time>
+            <name>Oktober-Treffen 2015</name>
             <location>
-                <name>Namics (Deutschland) GmbH</name>
-                <twitter>@namics</twitter>
-                <publictransport>RB, U-Bahn, S-Bahn Frankfurt/Main Südbahnhof</publictransport>
-                <street>Hedderichstrasse 108-110</street>
-                <zip>60596</zip>
-                <city>Frankfurt</city>
+                <name>dkd Internet Service GmbH</name>
+                <twitter>@dkd_de</twitter>
+                <publictransport>ICE, IC, RB, U-Bahn, S-Bahn Frankfurt am Main Hauptbahnhof</publictransport>
+                <street>Kaiserstraße 73</street>
+                <zip>60329</zip>
+                <city>Frankfurt am Main</city>
             </location>
         </meeting>
     </schedule>
