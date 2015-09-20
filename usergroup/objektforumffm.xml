@@ -38,6 +38,31 @@ Der Vortrag soll zu einer Diskussion darüber anregen, wie sich Quality Assuranc
                 <city>Frankfurt</city>
             </location>
         </meeting>
+        <meeting>
+            <time>2015-09-22T18:30:00</time>
+            <name>Pragmatische Architektur</name>
+            <description>
+Grundlagen von Jan Baumann
+
+In vielen Gesprächen mit Kollegen habe ich gemerkt, dass bei dem Thema Software Architektur die unterschiedlichsten Vorstellungen, Definitionen und Bilder vorhanden sind. Auch darüber, was zur Architektur gehört und was nicht, was Tätigkeiten eines Architekten sind, was überhaupt ein Architekt ist, gibt es oftmals soviele Meinungen wie Anwesende. Und gerade im agilen Umfeld existieren oft auch sehr abenteuerliche Vorstellungen. Vom Schreckgespenst des Elfenbeinturms der Architektur aus dem fernab der Projektrealität Diagramme entstehen, welche die Entwicklerknechte umzusetzen hätten, bis zu der Vorstellung der emergenten Architektur die sich ohne zutun automatisch herausbildet. 
+
+Dass Architektur ein sehr weites Feld mit vielen Teilaspekten ist, ist natürlich eine der Ursachen für diesen Zustand. Mit diesem Vortrag möchte ich deswegen etwas Orientierung in diesem großen Gebiet geben. Es wird eine Tour auf einer recht hohen Flughöhe, denn die Thematik ist riesig und unsere Zeit nur kurz. Mein Ziel ist es dabei, nicht im Detail ein oder zwei Themen zu beleuchten, sondern einen Überblick über verschiedenste Aspekte zu geben. Und wenn ich es schaffe, dadurch das Interesse an diesem Thema zu wecken, oder sogar die eine oder andere Inspiration zum Mitnehmen zu geben, dann war die Tour in meinen Augen bereits ein Erfolg.
+
+Mein Name ist Jan Baumann, ich habe Informatik an der Universität Karlsruhe (TH) studiert mit den Schwerpunkten Softwaretechnik, Mensch-Maschine Dialog und Psychologie im Nebenfach. Anschließend habe ich als Software Entwickler bei der andrena objects die agile Entwicklung sozusagen von der Pike auf gelernt und bin seit 7 Jahren dort als Software Entwickler, Trainer für agile Softwaretechniken (Stichwort ASE) und Coach unterwegs. Als typisches „T“ bin ich aktuell noch mit der Breitenweiterbildung beschäftigt und habe mich schon in den Bereichen Scrum Master, Product Owner, Requirements Engineer, Kollegiales Coaching und Architektur vertieft umgeschaut. 
+Vortrag von Frank Pientka
+
+Die Anforderungen an Software steigen ständig. Selbst einfache Anforderungen können zu aufwändigen und komplizierten Lösungen führen. Neben der Kommunikation stellt die bedarfsorientierte Dokumentation einer besonderen Herausforderung in agilen Projekten dar.Damit Projekte langfristig gelingen können, stellt eine bedarfsorientierte Architekturdokumentation und die nachhaltige Verfolgung der Qualitätsziele einen wesentlichen Erfolgsfaktor dar.Es werden Antworten und Lösungen auf folgende Fragen vorgestellt unddiskutiert: Wo sind die Stärken und Schwächen von "Malen, schreiben oder basteln"? Darf`s ein bisschen weniger sein? Wie gelingt der Architekturentwurf im Team? Was ist bei der Erstellung einer "guten"Architekturdokumentation zu beachten? Welche wichtige Rolle spielt Architekturdokumentation bei langlaufenden Produktentwicklungen mit vielen Stakeholdern?
+
+Frank Pientka ist als Dipl.-Informatiker (TH Karlsruhe). Senior Software Architect bei der MATERNA GmbH in Dortmund und Gründungsmitglied des iSAQB. Seit über zwanzig Jahren unterstützt er Firmen bei der Umsetzung tragfähiger Software-Architekturen. Dabei führt er externe Reviews und Architekturbewertungen als Gutachter durch.
+</description>
+            <url>https://www.andrena.de/event/objektforum-frankfurt-september2015</url>
+            <location>
+                <name>Saalbau Gutleut</name>
+                <street>Rottweiler Straße 32</street>
+                <zip>60327</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
     </schedule>
     <sponsors>
         <sponsor>
