@@ -16,15 +16,6 @@
     <tags>
         <tag>DevOps</tag>
     </tags>
-    <defaultmeetinglocation>
-        <name>Vaamo Finanz AG</name>
-        <description>The building is located in the back courtyard of a Post building. So once you found that, enter the back courtyard by passing by one of the barriers on the left and right of the Post building.</description>
-        <url>http://www.vaamo.de/</url>
-        <twitter>@TeamVaamo</twitter>
-        <street>Mainzer Landstr. 250-254</street>
-        <zip>60326</zip>
-        <city>Frankfurt</city>
-    </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <ical>http://www.meetup.com/DevOps-Frankfurt/events/ical/</ical>
     </schedule>
