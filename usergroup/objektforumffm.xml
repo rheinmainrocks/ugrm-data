@@ -18,51 +18,7 @@ Dazu kombiniert jedes ObjektForum Frankfurt einen Fachvortrag und die anschließ
         <hashtag>#objektforum</hashtag>
     </contact>
     <schedule>
-        <meeting>
-            <time>2015-06-23T18:30:00</time>
-            <name>The New Job of QA – was ein Quality Engineer zukünftig können muss</name>
-            <description>Die Entwicklung und der Betrieb von Software haben sich in den vergangenen Jahren deutlich verändert. Agile Vorgehensweisen, Test-Driven Development, Continuous Integration und DevOps sind erwachsen geworden und werden in immer mehr Unternehmen eingesetzt. Wie positioniert sich aber die Qualitätssicherung (QA) in diesem stark veränderten Umfeld?
-
-Software-Craftsmanship sorgt dafür, dass Software-Entwickler und Architekten die Verantwortung für die technische Qualität ihrer Software übernehmen. Product Owner und Business Analysten behalten die fachliche Qualität im Auge. Fehler tun auch längst nicht mehr so weh, wenn Software-Änderungen mehrmals täglich live gehen können. Und bei Releases im Minutentakt kann sowieso nur noch automatisiert getestet werden. Was macht denn jetzt die QA? James Whittaker, Autor von “How Google Tests Software”, provozierte sein Auditorium schon 2011 mit der Aussage: Test is dead! Welche Rolle spielt QA dann zukünftig in der Produktentwicklung?
-
-Ausgehend vom überkommenen Verständnis von Qualität und Qualitätssicherung zeigt der Vortrag auf, was es morgen heißen wird, Quality Assurance oder, weiter gefasst, Quality Engineering zu betreiben und was ein guter Quality Engineer zukünftig können muss. Die Arbeit in cross-funktionalen Teams erfordert zunehmend T-shaped Professionals, gleichzeitig sollte in einem Produkt-Team, das den gesamten Entwicklungszyklus betreut, eine Rolle existieren, die durchgehend Qualitätsaspekte im Auge behält und im Team vertritt.
-
-Quality Engineering heißt Quality Assurance über alle Stationen des Software-Lebenszyklus, angefangen bei Product Discovery über UX, Development und Operations bis hin zu den notwendigen Aufräumarbeiten beim Abschalten eines Produktes. Wir verstehen den Quality Engineer in allen diesen Phasen als einen “generalizing specialist” im Dienste des Kunden. Gleichzeitig bilden diese Phasen aber auch die Struktur einer modernen Softwareentwicklungsorganisation ab. Die Übernahme von Qualitätsverantwortung durch multifunktionale Teams weist einen Weg hin zur Qualitäts-getriebenen Organisation. Heute schon gibt es vermehrt Unternehmen, die diese Gedanken in ihre DNA übernommen haben. Dabei ist Qualität zu einem kulturellen Wert der Organisation geworden.
-
-Der Vortrag soll zu einer Diskussion darüber anregen, wie sich Quality Assurance zu einem ganzheitlichen Quality Engineering erweitern muss, um den veränderten externen als auch internen Rahmenbedingungen zu genügen. Dem Zuhörer wird ein mögliches, neues Bild von Quality Assurance und Quality Engineering als Fundament einer Qualitäts-getriebenen Organisation vorgestellt und ein Pfad für diese Veränderung aufgezeigt.</description>
-            <url>https://www.andrena.de/event/objektforum-ffm-juni2015</url>
-            <location>
-                <name>DGB Gewerkschaftshaus</name>
-                <street>Wilhelm-Leuschner-Straße 69-77</street>
-                <zip>60329</zip>
-                <city>Frankfurt</city>
-            </location>
-        </meeting>
-        <meeting>
-            <time>2015-09-22T18:30:00</time>
-            <name>Pragmatische Architektur</name>
-            <description>
-Grundlagen von Jan Baumann
-
-In vielen Gesprächen mit Kollegen habe ich gemerkt, dass bei dem Thema Software Architektur die unterschiedlichsten Vorstellungen, Definitionen und Bilder vorhanden sind. Auch darüber, was zur Architektur gehört und was nicht, was Tätigkeiten eines Architekten sind, was überhaupt ein Architekt ist, gibt es oftmals soviele Meinungen wie Anwesende. Und gerade im agilen Umfeld existieren oft auch sehr abenteuerliche Vorstellungen. Vom Schreckgespenst des Elfenbeinturms der Architektur aus dem fernab der Projektrealität Diagramme entstehen, welche die Entwicklerknechte umzusetzen hätten, bis zu der Vorstellung der emergenten Architektur die sich ohne zutun automatisch herausbildet. 
-
-Dass Architektur ein sehr weites Feld mit vielen Teilaspekten ist, ist natürlich eine der Ursachen für diesen Zustand. Mit diesem Vortrag möchte ich deswegen etwas Orientierung in diesem großen Gebiet geben. Es wird eine Tour auf einer recht hohen Flughöhe, denn die Thematik ist riesig und unsere Zeit nur kurz. Mein Ziel ist es dabei, nicht im Detail ein oder zwei Themen zu beleuchten, sondern einen Überblick über verschiedenste Aspekte zu geben. Und wenn ich es schaffe, dadurch das Interesse an diesem Thema zu wecken, oder sogar die eine oder andere Inspiration zum Mitnehmen zu geben, dann war die Tour in meinen Augen bereits ein Erfolg.
-
-Mein Name ist Jan Baumann, ich habe Informatik an der Universität Karlsruhe (TH) studiert mit den Schwerpunkten Softwaretechnik, Mensch-Maschine Dialog und Psychologie im Nebenfach. Anschließend habe ich als Software Entwickler bei der andrena objects die agile Entwicklung sozusagen von der Pike auf gelernt und bin seit 7 Jahren dort als Software Entwickler, Trainer für agile Softwaretechniken (Stichwort ASE) und Coach unterwegs. Als typisches „T“ bin ich aktuell noch mit der Breitenweiterbildung beschäftigt und habe mich schon in den Bereichen Scrum Master, Product Owner, Requirements Engineer, Kollegiales Coaching und Architektur vertieft umgeschaut. 
-Vortrag von Frank Pientka
-
-Die Anforderungen an Software steigen ständig. Selbst einfache Anforderungen können zu aufwändigen und komplizierten Lösungen führen. Neben der Kommunikation stellt die bedarfsorientierte Dokumentation einer besonderen Herausforderung in agilen Projekten dar.Damit Projekte langfristig gelingen können, stellt eine bedarfsorientierte Architekturdokumentation und die nachhaltige Verfolgung der Qualitätsziele einen wesentlichen Erfolgsfaktor dar.Es werden Antworten und Lösungen auf folgende Fragen vorgestellt unddiskutiert: Wo sind die Stärken und Schwächen von "Malen, schreiben oder basteln"? Darf`s ein bisschen weniger sein? Wie gelingt der Architekturentwurf im Team? Was ist bei der Erstellung einer "guten"Architekturdokumentation zu beachten? Welche wichtige Rolle spielt Architekturdokumentation bei langlaufenden Produktentwicklungen mit vielen Stakeholdern?
-
-Frank Pientka ist als Dipl.-Informatiker (TH Karlsruhe). Senior Software Architect bei der MATERNA GmbH in Dortmund und Gründungsmitglied des iSAQB. Seit über zwanzig Jahren unterstützt er Firmen bei der Umsetzung tragfähiger Software-Architekturen. Dabei führt er externe Reviews und Architekturbewertungen als Gutachter durch.
-</description>
-            <url>https://www.andrena.de/event/objektforum-frankfurt-september2015</url>
-            <location>
-                <name>Saalbau Gutleut</name>
-                <street>Rottweiler Straße 32</street>
-                <zip>60327</zip>
-                <city>Frankfurt</city>
-            </location>
-        </meeting>
+        <ical>https://calendar.google.com/calendar/ical/9o1vcd2a8unprf6o4jk87qe9b4%40group.calendar.google.com/public/basic.ics</ical>
     </schedule>
     <sponsors>
         <sponsor>
