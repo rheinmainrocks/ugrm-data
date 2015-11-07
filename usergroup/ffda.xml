@@ -32,9 +32,6 @@
         <zip>64293</zip>
         <city>Darmstadt</city>
     </defaultmeetinglocation>
-    <schedule usedefaultmeetinglocation="true">
-        <ical>http://freifunk-darmstadt.de/events.ics</ical>
-    </schedule>
     <photocredits>
         <logo>Offizilles [Freifunk-Logo](https://wiki.freifunk.net/Datei:175x170_freifunknet.png)</logo>
     </photocredits>
