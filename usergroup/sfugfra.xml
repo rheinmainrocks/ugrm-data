@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Symfony Usergroup Frankfurt am Main</name>
+    <nickname>SfUgFRA</nickname>
+    <description>
+        Die erste Symfony UserGroup im Rhein-Main-Gebiet.
+    </description>
+    <url>http://sfugfra.github.io</url>
+    <tags>
+        <tag>PHP</tag>
+        <tag>Symfony</tag>
+    </tags>
+    <contact>
+        <twitter>@sfugfra</twitter>
+        <hashtag>#sfugfra</hashtag>
+    </contact>
+    <team>
+        <person>
+            <name>Christian Nielebock</name>
+            <url>http://ravetracer.de/</url>
+            <twitter>@ravetracer</twitter>
+        </person>
+    </team>
+</usergroup>
