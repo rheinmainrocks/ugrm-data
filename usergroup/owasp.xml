@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>OWASP Stammtisch Frankfurt</name>
+    <nickname>OWASP</nickname>
+    <description>OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die Bedeutung der Sicherheit von Webanwendungen "sichtbar zu machen". Know-How zur Entwicklung und den Betrieb sicherer Webanwendungen zu verbreiten und frei zur Verfugung zu stellen. </description>
+    <url>https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Frankfurt</url>
+    <tags>
+        <tag>Security</tag>
+        <tag>OWASP</tag>
+    </tags>
+    <contact>
+        <twitter>@OWASP_de</twitter>
+    </contact>
+    <team>
+        <person>
+            <name>Alexios Fakos</name>
+        </person>
+    </team>
+</usergroup>
