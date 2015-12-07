@@ -40,6 +40,24 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <meeting>
+            <time>2016-02-04T18:00:00</time>
+            <name>29. Agiler Stammtisch Frankfurt</name>
+            <description>The Challenge Of Egypt</description>
+            <url>https://www.xing.com/events/29-agiler-stammtisch-frankfurt-1628491</url>
+        </meeting>
+        <meeting>
+            <time>2016-01-14T18:00:00</time>
+            <name>28. Agiler Stammtisch Frankfurt</name>
+            <description>Verteilte Arbeit</description>
+            <url>https://www.xing.com/events/28-agiler-stammtisch-frankfurt-1628476</url>
+        </meeting>               
+        <meeting>
+            <time>2015-12-10T18:00:00</time>
+            <name>27. Agiler Stammtisch Frankfurt</name>
+            <description>The Product Owner Challenge</description>
+            <url>https://www.xing.com/events/27-agiler-stammtisch-frankfurt-1627777</url>
+        </meeting>
+        <meeting>
             <time>2015-06-11T18:30:00</time>
             <name>22. Agiler Stammtisch Frankfurt</name>
             <description>Kanban-Spiele</description>
