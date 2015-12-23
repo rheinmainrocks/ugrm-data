@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           female="false">
+    <name>Mobile Usergroup Frankfurt</name>
+    <nickname>mobileffm</nickname>
+    <description>This usergroup is organizing regular meetups connecting all kinds of people working in the mobile industry.
+        We're here for developers, marketeers, ux experts, project managers, strategists, growth hackers, architects and everyone else!
+        All platforms are welcome: Android, iOS, Windows Phone and Hybrid including Cordova, Xamarin, React ...
+    </description>
+    <url>http://mobileffm.com/</url>
+    <tags>
+        <tag>Internet</tag>
+    </tags>
+    <contact>
+        <twitter>@mobiledevffm</twitter>
+        <hashtag>#mobileffm</hashtag>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2016-01-28T19:00:00</time>
+            <name>Mobile Usergroup Frankfurt</name>
+            <url>http://eventbrite.de/e/mobile-usergroup-frankfurt-tickets-19906863966</url>
+            <location>
+                <name>savedroid AG, Frankfurt</name>
+                <url>http://www.savedroid.de</url>
+                <twitter>@savedroidAG</twitter>
+                <street>Schleusenstraße 15 - 17</street>
+                <zip>60327</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+    <team>
+        <person>
+            <name>Tobias Zander</name>
+            <url>http://www.tobiaszander.de/</url>
+            <email>tobias@savedroid.de</email>
+            <twitter>@airbone42</twitter>
+        </person>
+    </team>
+</usergroup>
