@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" female="true" plural="false" incubator="false">
     <name>PHP UG Rheinhessen</name>
     <nickname>PHPUGRHH</nickname>
-    <description>Wir sind eine Gruppe von PHP interessierten Entwicklern. Unser Interesse besteht im gegenseitigen
-        Austausch von Wissen und Erfahrungsberichten. Jeder Interessierte ist willkommen, sich bei unserer Gruppe zu
-        beteiligen.
+    <description>Die PHP User Group Rheinhessen ermöglicht den Austausch von Wissen und Erfahrungsberichten zum Thema PHP.
+        Wir organisieren Vorträge zu PHP- und anderen Themen. Jede/r Interessierte ist willkommen, sich miteinzubringen.
     </description>
     <url>http://www.phpug-rheinhessen.de/</url>
     <tags>
@@ -25,144 +24,34 @@
         <street>Haifa-Allee 2</street>
         <zip>55128</zip>
         <city>Mainz</city>
+        <geolocation>
+          <latitude>49.97000</latitude>
+          <longitude>8.22938</longitude>
+        </geolocation>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
-        <meeting>
-            <time>2014-04-08T19:00:00+02:00</time>
-            <name>32. Treffn der PHPUG Rheinhessen</name>
-            <description>
-                Liebe PHPUGler,
-
-Wir wollen uns diesmal über alternative PHP-Implementierungen unterhalten, insbesondere natürlich über Facebooks HHVM und Hack, die bessere Performance und neue Features versprechen. In deren Schatten gedeihen noch weitere PHP-Interpreter, die einen genaueren Blick lohnen.
-
-Aber wie sinnvoll sind diese Entwicklungen, die über das „reine“ PHP hinausgehen? Läuft die PHP-Gemeinde Gefahr, zu zersplittern, oder können Optimierungen und Weiterentwicklungen das PHP-Ökosystem nachhaltig stärken? Diese und weitere Fragen wollen wir bei unserem User Group-Treffen diskutieren!
-
-Bitte nutzt die Anmeldung hier auf der Event-Seite in Xing. Das hilft uns bei der Planung und Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt.
-
-Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung! Die Teilnahme ist wie immer kostenlos. Bitte teilt das Event auch in anderen Sozialen Netzwerken und euren Blogs. Danke!
-            </description>
-            <url>https://www.xing.com/events/32-treffen-phpug-rheinhessen-1385110</url>
-        </meeting>
-	<meeting>
-            <time>2014-02-25T19:00:00</time>
-            <name>31. Treffn der PHPUG Rheinhessen</name>
-            <description>
-                Wir treffen uns diesmal wieder im Alten Weinlager bei der NIDAG GmbH. Thematisch dreht sich alles um die
-                kleinen Einplatinen-Computer Arduino und Raspberry Pi. Dabei geht es auch, aber nicht nur um PHP,
-                sondern vor allem um die zahlreichen Einsatzmöglichkeiten der Bastel-Geräte :)
-
-                Wir haben zwei Vorträge geplant, und im Anschluss ist noch genug Zeit, um sich auszutauschen und zu
-                fachsimpeln.
-
-                * Praktische Experimente mit dem Raspberry Pi von Peter Eulberg
-                * Arduino spricht PHP und JS von Matthias Gutjahr
-
-                Bitte nutzt die Anmeldung via Xing. Das hilft uns bei der Planung und
-                Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt.
-
-                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung!
-                Die Teilnahme ist wie immer kostenlos. Bitte teilt das Event auch in anderen Sozialen Netzwerken und
-                euren Blogs. Danke!
-            </description>
-            <url>https://www.xing.com/events/31-treffen-phpug-rheinhessen-1365098</url>
-        </meeting>
-        <meeting>
-            <time>2014-01-14T19:00:00</time>
-            <name>30. Treffen der PHPUG Rheinhessen</name>
-            <description>
-                Bei unserem dreißigsten Treffen dreht sich alles um "NoSQL", also um Datenbanken, die einen
-                nicht-relationalen Ansatz verfolgen - und wie man sie unter PHP benutzt.
-                Dazu haben wir zwei Vorträge geplant:
-                - „NoSQL - Überblick und Theorie“ von Achim Liese
-                - „PHP &amp; MongoDB“ von Christian Münch
-                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung!
-                Die Teilnahme ist wie immer kostenlos.
-            </description>
-            <url>https://www.xing.com/events/30-treffen-phpug-rheinhessen-1343762</url>
-        </meeting>
-        <meeting>
-            <time>2013-11-12T19:00:00</time>
-            <name>29. Treffen der PHPUG Rheinhessen</name>
-            <description>
-                wir treffen uns diesmal ohne feste Themenvorgabe, um uns über Neues und Interessantes aus der PHP-Welt
-                zu unterhalten. Spontane Vorträge oder Demos sind aber immer willkommen :)
-
-                Bitte nutzt die Anmeldung hier auf der Event-Seite in Xing. Das hilft uns bei der Planung und
-                Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt.
-
-                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung!
-                Die Teilnahme ist wie immer kostenlos.
-            </description>
-            <url>https://www.xing.com/events/29-treffen-phpug-rheinhessen-1326099</url>
-            <location>
-                <name>NIDAG GmbH</name>
-                <url>http://www.nidag.com/</url>
-                <publictransport>Bus 58 und 70 bis Haltestelle Feldbergplatz/Stadtwerke Mainz AG</publictransport>
-                <street>Taunusstraße 59-61</street>
-                <zip>55120</zip>
-                <city>Mainz</city>
-            </location>
-        </meeting>
-        <meeting>
-            <time>2013-10-01T19:00:00+02:00</time>
-            <name>28. Treffen der PHPUG Rheinhessen</name>
-            <description>Diesmal wollen wir einen Blick über den PHP-Tellerrand hinaus wagen und uns zwei
-                Deployment-Tools aus der Ruby- und Python-Welt ansehen. Zwei Vorträge sind geplant:
-                "Deployment mit Capistrano" von Stefan Husch
-                "Deployment mit Fabric" (tbc)
-                Bitte nutzt die Anmeldung hier auf der Event-Seite in Xing. Das hilft uns bei der Planung und
-                Vorbereitung des Treffens. Tragt euch daher auch bitte wieder aus, falls ich nicht kommen könnt.
-                Eingeladen sind neben den Gruppenmitgliedern auch alle PHP-Interessierten aus Rheinhessen und Umgebung!
-                Die Teilnahme ist wie immer kostenlos.
-            </description>
-            <url>https://www.xing.com/events/28-treffen-phpug-rheinhessen-1291473</url>
-        </meeting>
-        <meeting>
-            <time>2013-08-20T19:00:00+02:00</time>
-            <name>27. Treffen der PHPUG Rheinhessen</name>
-            <description>Wir treffen uns diesmal wieder im schönen Bretzenheim. Themenschwerpunkt soll diesmal Unit
-                Testing/TDD bzw. Testing allgemein sein, weil das in den letzten Treffen immer mal wieder angesprochen
-                wurde. Wir haben zwar keinen Vortrag zum Thema, aber wenn aller ihre Notebooks bzw. eine Idee
-                mitbringen, dann dürfte das auch so ein interessanter Abend werden. Bitte nutzt die Anmeldung hier auf
-                der Event-Seite in Xing. Das hilft uns bei der Planung und Vorbereitung des Treffens. Tragt euch daher
-                auch bitte wieder aus, falls ich nicht kommen könnt. Eingeladen sind neben den Gruppenmitgliedern auch
-                alle PHP-Interessierten aus Rheinhessen und Umgebung! Die Teilnahme ist wie immer kostenlos. Bitte teilt
-                das Event auch in anderen Sozialen Netzwerken und euren Blogs. Danke!
-            </description>
-            <url>https://www.xing.com/events/27-treffen-phpug-rheinhessen-1285322</url>
-        </meeting>
-        <meeting>
-            <time>2013-05-28T19:00:00+02:00</time>
-            <name>25. Treffen der PHPUG Rheinhessen</name>
-            <url>https://www.xing.com/events/25-treffen-phpug-rheinhessen-1247180</url>
-        </meeting>
-        <meeting>
-            <time>2013-04-16T19:00:00+02:00</time>
-            <name>24. Treffen der PHPUG Rheinhessen</name>
-            <url>https://www.xing.com/events/24-treffen-phpug-rheinhessen-1230613</url>
-        </meeting>
-        <meeting>
-            <time>2013-03-05T19:00:00</time>
-            <name>23. Treffen der PHP User Group Rheinhessen</name>
-            <url>https://www.xing.com/events/23-treffen-phpug-rheinhessen-1205190</url>
-            <location>
-                <name>NIDAG GmbH</name>
-                <url>http://www.nidag.com/</url>
-                <publictransport>Bus 58 und 70 bis Haltestelle Feldbergplatz/Stadtwerke Mainz AG</publictransport>
-                <street>Taunusstraße 59-61</street>
-                <zip>55120</zip>
-                <city>Mainz</city>
-            </location>
-        </meeting>
+        <ical>https://calendar.google.com/calendar/ical/5mji2dluqeq0m44i3i8su12dlk%40group.calendar.google.com/public/basic.ics</ical>
     </schedule>
+    <team>
+        <person>
+            <name>Christian Münch</name>
+            <url>http://blog.muench-worms.de/</url>
+            <twitter>@cmuench</twitter>
+        </person>
+        <person>
+            <name>Matthias Gutjahr</name>
+            <url>https://matthias-gutjahr.de/</url>
+            <twitter>@mattsches</twitter>
+        </person>
+    </team>
     <sponsors>
         <sponsor>
             <name>netz98 new media GmbH</name>
             <url>http://www.netz98.de/</url>
         </sponsor>
         <sponsor>
-            <name>NIDAG GmbH</name>
-            <url>http://www.nidag.com/</url>
+            <name>UDG Rhein-Main GmbH</name>
+            <url>https://www.udg.de/rhein-main/</url>
         </sponsor>
     </sponsors>
     <photocredits>
