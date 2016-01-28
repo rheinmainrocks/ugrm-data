@@ -29,9 +29,9 @@
         <zip>65183</zip>
         <city>Wiesbaden</city>
     </defaultmeetinglocation>
-    <schedule usedefaultmeetinglocation="true">
+    <!-- schedule usedefaultmeetinglocation="true">
         <ical>https://www.cccmz.de/feed/my-calendar-ics/</ical>
-    </schedule>
+    </schedule -->
     <photocredits>
         <logo>Vielen Dank an [@miracula_de](https://twitter.com/miracula_de) für unser Logo.</logo>
     </photocredits>
