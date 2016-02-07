@@ -15,20 +15,6 @@
         <facebook>http://www.facebook.com/group.php?gid=192655655785</facebook>
         <xing>https://www.xing.com/net/pri3a328cx/phpugrhh/</xing>
     </contact>
-    <defaultmeetinglocation>
-        <name>netz98 new media GmbH</name>
-        <url>http://www.netz98.de/kontakt/anfahrt/</url>
-        <foursquare>https://foursquare.com/v/netz98-new-media/4c8df67fd68c6dcbb1e3f7a1</foursquare>
-        <twitter>@netz98</twitter>
-        <publictransport>Bus: Gutenberg-Center (Nord, Ost)</publictransport>
-        <street>Haifa-Allee 2</street>
-        <zip>55128</zip>
-        <city>Mainz</city>
-        <geolocation>
-          <latitude>49.97000</latitude>
-          <longitude>8.22938</longitude>
-        </geolocation>
-    </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
         <ical>https://calendar.google.com/calendar/ical/5mji2dluqeq0m44i3i8su12dlk%40group.calendar.google.com/public/basic.ics</ical>
     </schedule>
