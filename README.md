@@ -1,4 +1,4 @@
-# [![UGRM Usergroups RheinMain](https://raw.github.com/coderbyheart/ugrm-data/master/logo.png)](http://usergroups.rheinmainrocks.de/)
+# [![UGRM Usergroups RheinMain](https://raw.github.com/rheinmainrocks/ugrm-data/master/logo.png)](http://usergroups.rheinmainrocks.de/)
 
 In diesem Repository finden sich mittels XML strukturierte Information zu Technologie-Usergroups im RheinMain-Gebiet. 
 Eine Technologie-Usergroup hat im weitesten Sinne etwas mit dem Internet, Software oder Hardware zu tun.
@@ -8,7 +8,7 @@ nehmen, dieser sollte vom Treffpunkt einer Usergroup mit dem ÖPNV in weniger al
 ## Aufbau der Daten
 
 Die Informationen zu den Usergroups liegen im XML-Format vor. 
-Das Format ist in [diesem Schema](https://github.com/coderbyheart/ugrm-data/blob/master/xsd/usergroup.xsd) definiert.  
+Das Format ist in [diesem Schema](https://github.com/rheinmainrocks/ugrm-data/blob/master/xsd/usergroup.xsd) definiert.  
 Zusätzlich werden Bilder der Gruppe und deren Logo als Bilder hinterlegt.
 
 Jeder Usergroup legt ihre Daten als ``<handle>.xml`` im Ordner ``usergroup`` ab.
@@ -19,9 +19,9 @@ entsprechen. Unterstützte Bildformate für ``<format>`` sind PNG, JPEG und GIF.
 
 ### Beispiel
 
-Ein ausführlicher Datensatz, der als Beispiel verwendet werden kann, ist der [Eintrag der PyUGRM](https://github.com/coderbyheart/ugrm-data/blob/master/usergroup/pyugrm.xml).
-Das Logo findet sich unter [pyugrm.logo.png](https://github.com/coderbyheart/ugrm-data/blob/master/usergroup/pyugrm.logo.png).
-Das Gruppenfoto findet sich unter [pyugrm.group.jpg](https://github.com/coderbyheart/ugrm-data/blob/master/usergroup/pyugrm.group.jpgl).
+Ein ausführlicher Datensatz, der als Beispiel verwendet werden kann, ist der [Eintrag der PyUGRM](https://github.com/rheinmainrocks/ugrm-data/blob/master/usergroup/pyugrm.xml).
+Das Logo findet sich unter [pyugrm.logo.png](https://github.com/rheinmainrocks/ugrm-data/blob/master/usergroup/pyugrm.logo.png).
+Das Gruppenfoto findet sich unter [pyugrm.group.jpg](https://github.com/rheinmainrocks/ugrm-data/blob/master/usergroup/pyugrm.group.jpgl).
 
 ## Usergroup eintragen oder Eintrag aktualisieren
 
@@ -38,7 +38,7 @@ Also:
 
 ## Tests
 
-[![Build Status](https://travis-ci.org/coderbyheart/ugrm-data.png?branch=master)](https://travis-ci.org/coderbyheart/ugrm-data)
+[![Build Status](https://travis-ci.org/rheinmainrocks/ugrm-data.png?branch=master)](https://travis-ci.org/rheinmainrocks/ugrm-data)
 
 Die XML-Daten werden  mithilfe eines ant build-Scripts getestet. 
 Hierzu einfach ``$ ant test`` ausführen. 
