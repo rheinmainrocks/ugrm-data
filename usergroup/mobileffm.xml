@@ -14,6 +14,10 @@
     <contact>
         <twitter>@mobiledevffm</twitter>
         <hashtag>#mobileffm</hashtag>
+        <mailinglist>
+            <url>http://eepurl.com/bR8utH</url>
+            <label>Mailingliste</label>
+        </mailinglist>
     </contact>
     <schedule>
         <meeting>
@@ -24,7 +28,20 @@
                 <name>savedroid AG, Frankfurt</name>
                 <url>http://www.savedroid.de</url>
                 <twitter>@savedroidAG</twitter>
-                <street>Schleusenstraße 15 - 17</street>
+                <street>Schleusenstraße 17</street>
+                <zip>60327</zip>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2016-03-30T19:00:00</time>
+            <name>Mobile Usergroup Frankfurt</name>
+            <url>https://www.eventbrite.de/e/mobile-usergroup-frankfurt-tickets-21108847130</url>
+            <location>
+                <name>savedroid AG, Frankfurt</name>
+                <url>http://www.savedroid.de</url>
+                <twitter>@savedroidAG</twitter>
+                <street>Schleusenstraße 17</street>
                 <zip>60327</zip>
                 <city>Frankfurt</city>
             </location>
