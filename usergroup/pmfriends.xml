@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd"
+           plural="true">
+    <name>#PMFriends Onsite</name>
+    <nickname>PMFriends</nickname>
+    <description>
+        #PMFriends Onsite-Veranstaltungen sind community-getriebene Networking-Events im Rhein-Main-Gebiet der
+        Freunde des PM Camps.
+
+        Die Teilnahme an den Networking-Veranstaltungen ist kostenfrei. Eine Registrierung ist jedoch zwingend
+        erforderlich. Detailinfos zum jeweiligen Event erhältst Du mit Deiner Anmeldebestätigung.
+    </description>
+    <url>http://rhein-main.pm-camp.org/pmfriends-onsite/</url>
+    <tags>
+        <tag>Projektmanagement</tag>
+    </tags>
+    <contact>
+        <twitter>@pmcamprm</twitter>
+        <facebook>https://www.facebook.com/PMCampRheinMain</facebook>
+        <googleplus>https://plus.google.com/u/0/106829491991043304815</googleplus>
+        <hashtag>#PMFriends</hashtag>
+        <email>rhein-main@pm-camp.org</email>
+    </contact>
+    <schedule>
+        <meeting>
+            <time>2016-04-21T18:30:00</time>
+            <name>Agile Portfoliosteuerung - ein Werkstattbericht</name>
+            <description>Für das kommenden #PMfriends Onsite hat die DENIC als unser freundlicher Location Sponsor, ein
+                spannendes Thema eingebracht. Mit dem Thema „Agile Portfoliosteuerung – ein Werkstattbericht“ geht es am
+                21.04. um ein Feedback aus der gelebten Realität. Nach einem kurzen Vortrag könnt ihr in interaktiven
+                Formaten über Thema „Portfoliosteuerung“ diskutieren. Sichert euch jetzt einen Platz bei dieser
+                kostenlosen #PMFriends Veranstaltung und nutzt diesen Termin gern auch als Teilgeberimpuls für das
+                #PMcampRM. Im Anschluss haben wir in einem Restaurant in der Nähe einen Tisch reserviert, so dass
+                Interessierte weiter diskutieren, klönen, netzwerken, … können.
+            </description>
+            <url>http://rhein-main.pm-camp.org/pmfriends-onsite/</url>
+        </meeting>
+    </schedule>
+    <sponsors>
+        <sponsor>
+            <name>DENIC</name>
+            <url>https://www.denic.de/</url>
+        </sponsor>
+    </sponsors>
+</usergroup>
