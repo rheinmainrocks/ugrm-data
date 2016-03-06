@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>IT-Stammtisch Darmstadt</name>
-    <description>Der IT-Stammtisch Darmstadt besteht seit 8 Jahren und aus derzeit ca. 190 Personen (in jedem Alter, vom
-        Azubi/Studenten über Festangestellte, Arbeitssuchende bis zu Selbststandigen/Firmeninhabern) hauptsachlich aus
-        Darmstadt und Umgebung. Zu den Treffen erscheinen davon meist ca. 20 bis 30 Personen.
+    <description>
+        Den IT-Stammtisch Darmstadt gibt es seit November 2005.
+        Er ist eine nicht-kommerzielle Vereinigung von Leuten aus der IT.
 
-        Man trifft sich einmal im Monat um in gemütlicher Atmosphäre über Computer und anderes zu plauschen. Gedacht ist
-        dieses Treffen nicht als reine Networking-Veranstaltung, sondern dient in erster Linie zum Knüpfen sozialer
-        Kontakte bei einem gemütlichen Feierabendbier, wobei sich natürlich aber auch hin und wieder berufliche Kontakte
-        ergeben.
+        Wir treffen uns regulär an jedem zweiten Dienstag des Monats in einer Kneipe oder im Sommer auch im Biergarten,
+        um uns über Computer und alles mögliche zu unterhalten. Gedacht ist dieses Treffen nicht als reine Networking-Veranstaltung, 
+        sondern dient in erster Linie zum Knüpfen sozialer Kontakte bei einem gemütlichen Feierabendbier, 
+        obei sich natürlich aber auch hin und wieder berufliche Kontakte ergeben.
 
-        In unregelmäßigen Abständen gibt es außerdem kostenlose fachliche Vorträge, Workshops und Veranstaltungen, zu
-        denen auch befreundete Computergruppen, die Mitglieder der IHK und die Studenten der FH und TUD eingeladen
-        werden. Die Veranstaltungen sind in der Regel kostenlos und stehen auch allen Interessierten offen.
+        Unser "harter Kern" umfasst derzeit ca. 190 Personen (in jedem Alter, vom Azubi/Studenten über Festangestellte, 
+        Arbeitssuchende bis zu Selbstständigen/Firmeninhabern) hauptsächlich aus Darmstadt und Umgebung. 
+        Zu den Treffen erscheinen davon meist ca. 20 bis 30 Personen.
+
+        Der IT-Stammtisch Darmstadt unterhält freundschaftliche Beziehungen zur GUUG (German Unix User Group) 
+        und der DaLUG (Darmstadt Linux User Group), sowie der DaTeX (Darmstaedter Anwendervereinigung TeX/LaTeX und Typografie), 
+        dem IT-Stammtisch Bensheim, DevDusk (Technology for Techies from Dusk til Dawn), der PHP Usergroup Frankfurt a.M. 
+        und der FRAOSUG (Frankfurt Area OpenSolaris User Group). 
+        Die DaTUG (Darmstadt Typo3 User Group) hat sich unseren Treffen angeschlossen.
+        
+        In unregelmäßigen Abständen veranstalten wir außerdem kostenlose fachliche Vorträge, Workshops und Veranstaltungen,
+        zu denen wir auch die befreundeten Computergruppen, die Mitglieder der IHK Darmstadt und die Studenten der h_da und TU Darmstadt einladen.
     </description>
     <url>http://www.it-stammtisch-darmstadt.de/</url>
     <tags>
@@ -29,17 +38,59 @@
             </description>
         </mailinglist>
     </contact>
+	<defaultmeetinglocation>
+		<name>Pino's</name>
+		<street>Karlstraße 96</street>
+		<zip>64285</zip>
+		<city>Darmstadt</city>
+	</defaultmeetinglocation>
     <schedule>
         <meeting>
-            <time>2013-04-09T19:30:00</time>
+            <time>2016-03-08T19:30:00</time>
             <name>IT-Stammtisch Darmstadt</name>
-            <url>https://www.xing.com/events/it-stammtisch-darmstadt-1229953</url>
+            <url>https://www.xing.com/events/it-stammtisch-darmstadt-1660531</url>
+        </meeting>
+        <meeting>
+            <time>2016-04-12T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+        </meeting>
+        <meeting>
+            <time>2016-05-10T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+        </meeting>
+        <meeting>
+            <time>2016-06-14T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+        </meeting>
+        <meeting>
+            <time>2016-07-12T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
             <location>
-                <name>Viva El Sol</name>
-                <street>Friedensplatz 11</street>
+                <name>Karagöz (Biergarten)</name>
+                <street>Sandstraße 32</street>
                 <zip>64283</zip>
                 <city>Darmstadt</city>
             </location>
+        </meeting>
+        <meeting>
+            <time>2016-08-09T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+        </meeting>
+        <meeting>
+            <time>2016-09-13T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+        </meeting>
+        <meeting>
+            <time>2016-10-11T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+        </meeting>
+        <meeting>
+            <time>2016-11-08T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
+        </meeting>
+        <meeting>
+            <time>2016-12-13T19:30:00</time>
+            <name>IT-Stammtisch Darmstadt</name>
         </meeting>
     </schedule>
 </usergroup>
