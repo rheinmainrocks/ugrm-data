@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>OpenSource || Share-alike Stammtisch Frankfurt</name>
+    <nickname>OSSTAFFM</nickname>
+    <description>
+        Der OpenSource || Share-alike Stammtisch Frankfurt trifft 
+	sich in geselliger Runde und tauscht sich über Themen wie 
+	beispielsweise Open Source Softwareentwicklung, Open Source 
+	Frameworks, Open Source Hardware, Copyleft, Share-alike ... aus. 
+    </description>
+    <url>http://campus.auge.de/osstaffm.php</url>
+    <tags>
+        <tag>OpenSource</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url></url>
+            <label></label>
+            <description>
+            </description>
+        </mailinglist>
+        <twitter></twitter>
+        <hashtag></hashtag>
+    </contact>
+    <defaultmeetinglocation>
+        <name>Handwerkskammer</name>
+        <street>Lange Str. 26</street>
+        <zip>60311</zip>
+        <city>Frankfurt</city>
+        <geolocation>
+            <latitude></latitude>
+            <longitude></longitude>
+        </geolocation>
+    </defaultmeetinglocation>
+    <schedule>
+        <ical>
+        </ical>
+    </schedule>
+    <team>
+        <person>
+            <name>Marcus Link</name>
+            <url>http://campus.auge.de</url>
+            <email>marcus.link@auge.de</email>
+            <twitter>@manupool</twitter>
+        </person>
+    </team>
+    <sponsors>
+        <sponsor>
+            <name></name>
+            <url></url>
+        </sponsor>
+        <sponsor>
+            <name></name>
+            <url></url>
+        </sponsor>
+        <sponsor>
+            <name></name>
+            <url></url>
+        </sponsor>
+        <sponsor>
+            <name></name>
+            <url></url>
+        </sponsor>
+    </sponsors>
+    <photocredits>
+        <logo></logo>
+        <group></group>
+    </photocredits>
+</usergroup>
