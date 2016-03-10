@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>OpenSource || Share-alike Stammtisch Frankfurt</name>
+    <nickname>OSSTAFFM</nickname>
+    <description>Der OpenSource || Share-alike Stammtisch Frankfurt trifft sich in geselliger Runde und tauscht sich über Themen wie beispiels$
+    </description>
+    <url>http://campus.auge.de/osstaffm.php</url>
+    <tags>
+        <tag>OSSTAFFM</tag>
+        <tag>OpenSource</tag>
+    </tags>
+
+    <defaultmeetinglocation>
+        <name>Handwerkskammer</name>
+        <url>http://mainhaus-frankfurt.de/hand-werks-kammer/</url>
+        <street>Lange Str. 26</street>
+        <zip>60311</zip>     
+        <city>Frankfurt</city>
+    </defaultmeetinglocation>
+     <team>
+        <person>
+            <name>Marcus Link</name>
+            <url>http://campus.auge.de/</url>
+            <email>marcus.link@auge.de</email>
+            <twitter>@manupool</twitter>
+        </person>
+     </team>
+ </usergroup>
