@@ -3,14 +3,13 @@
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>OpenSource || Share-alike Stammtisch Frankfurt</name>
     <nickname>OSSTAFFM</nickname>
-    <description>Der OpenSource || Share-alike Stammtisch Frankfurt trifft sich in geselliger Runde und tauscht sich über Themen wie beispielsweise ber Themen sie OpenSource Frameworks, Softwareentwicklung, OpenSource Hardware, Lizenzen und Open Source Anwendungsprogramme aus.
+    <description>Der OpenSource || Share-alike Stammtisch Frankfurt trifft sich in geselliger Runde und tauscht sich über Themen wie beispielsweise OpenSource Frameworks, Softwareentwicklung, OpenSource Hardware, Lizenzen und Open Source Anwendungsprogramme aus.
     </description>
     <url>http://campus.auge.de/osstaffm.php</url>
     <tags>
         <tag>OSSTAFFM</tag>
         <tag>OpenSource</tag>
     </tags>
-
     <defaultmeetinglocation>
         <name>Handwerkskammer</name>
         <url>http://mainhaus-frankfurt.de/hand-werks-kammer/</url>
