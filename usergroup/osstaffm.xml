@@ -3,7 +3,7 @@
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>OpenSource || Share-alike Stammtisch Frankfurt</name>
     <nickname>OSSTAFFM</nickname>
-    <description>Der OpenSource || Share-alike Stammtisch Frankfurt trifft sich in geselliger Runde und tauscht sich über Themen wie beispiels$
+    <description>Der OpenSource || Share-alike Stammtisch Frankfurt trifft sich in geselliger Runde und tauscht sich über Themen wie beispielsweise ber Themen sie OpenSource Frameworks, Softwareentwicklung, OpenSource Hardware, Lizenzen und Open Source Anwendungsprogramme aus.
     </description>
     <url>http://campus.auge.de/osstaffm.php</url>
     <tags>
@@ -18,6 +18,14 @@
         <zip>60311</zip>     
         <city>Frankfurt</city>
     </defaultmeetinglocation>
+    <schedule usedefaultmeetinglocation="true">
+       <meeting>
+            <time>2016-04-01T19:00:00+02:00</time>
+            <name>1. April Treffen des OSSTAFFM</name>
+            <description>Thema: OS E-Mail Programm + Verschlüsselung und Archivierung</description>
+            <url>http://campus.auge.de/osstaffm/termine/</url>
+        </meeting>
+    </schedule>
      <team>
         <person>
             <name>Marcus Link</name>
@@ -27,3 +35,4 @@
         </person>
      </team>
  </usergroup>
+
