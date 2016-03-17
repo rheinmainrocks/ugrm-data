@@ -8,7 +8,9 @@
     </description>
     <url>http://rheinmainjs.de/</url>
     <tags>
-        <tag>Javascript</tag>
+        <tag>JavaScript</tag>
+        <tag>Node.js</tag>
+        <tag>Web Development</tag>
     </tags>
     <contact>
         <twitter>@RheinMainJS</twitter>
@@ -17,9 +19,58 @@
     </contact>
     <schedule>
         <meeting>
+            <time>2016-04-19T19:00:00</time>
+            <name>11. Treffen der JavaScript User Group RheinMainJS</name>
+            <description>Das 11. Meetup findet am 19. April 2016 bei mediaman in Mainz statt.
+
+            Nach einem Jahr Pause findet endlich wieder ein Meetup der JavaScript User Group RheinMainJS statt! Wir freuen uns, euch zwei spannende Talks präsentieren zu können:
+
+            Wie im vergangenen Jahr dürfen wir wieder Oliver Zeigermann begrüßen, der uns unterhaltsam und lehrreich "Machine Learning im Browser" näherbringen wird.
+
+            Martina Kraus und Christoph Martens sind nicht nur dabei, mit RheinNeckarJS eine Schwester-UG in Mannheim zu gründen. Sie berichten vor allem über ihre Erfahrungen und Pläne mit der hacker.schule, in der Interessierten ab 10 Jahren das (JavaScript-)Programmieren beigebracht wird.
+
+            Neben den Talks bleibt natürlich auch ausreichend Zeit, sich zu unterhalten, neue Leute kennenzulernen und den aktuellsten JavaScript-Trends nachzuspüren :)</description>
+            <url>https://plus.google.com/events/circ1m03qbs5abvrvaq81g5t6hk</url>
+            <location>
+                <name>mediaman GmbH, Mainz</name>
+                <url>http://mediaman.com/de/agency/</url>
+                <twitter>@mediamanGroup</twitter>
+                <street>Quintinsstraße 16</street>
+                <zip>55116</zip>
+                <city>Mainz</city>
+                <geolocation>
+                    <latitude>50.00086</latitude>
+                    <longitude>8.27444</longitude>
+                </geolocation>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2015-04-22T19:00:00</time>
+            <name>10. Treffen der JavaScript User Group RheinMainJS</name>
+            <url>https://plus.google.com/u/0/events/csumopr1m181snhck7hrrg3bhd8</url>
+            <location>
+                <name>UDG, Mainz</name>
+                <url>http://www.udg.de/rhein-main/</url>
+                <street>Taunusstraße 59-61</street>
+                <zip>55120</zip>
+                <city>Mainz</city>
+            </location>
+        </meeting>
+        <meeting>
+            <time>2015-02-12T19:00:00</time>
+            <name>9. Treffen der JavaScript User Group RheinMainJS</name>
+            <url>https://plus.google.com/u/0/events/chbb8u5re7d29otoq703itbqqpg</url>
+            <location>
+                <name>AOE GmbH</name>
+                <street>Kirchgasse 6</street>
+                <zip>65185</zip>
+                <city>Wiesbaden</city>
+            </location>
+        </meeting>
+        <meeting>
             <time>2014-12-04T19:00:00</time>
             <name>8. Treffen der JavaScript User Group RheinMainJS</name>
-            <url>https://plus.google.com/events/cot8qfaf4049138q2pqgaohd1rg</url>
+            <url>https://plus.google.com/u/0/events/cot8qfaf4049138q2pqgaohd1rg</url>
             <location>
                 <name>mediaman GmbH, Mainz</name>
                 <url>http://mediaman.com/de/agency/</url>
