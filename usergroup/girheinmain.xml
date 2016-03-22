@@ -17,7 +17,11 @@
         <tag>ACM</tag>
     </tags>
     <contact>
-        <email>joachim.rix@igd.fraunhofer.de</email>
+        <mailinglist>
+            <url>http://groups.google.com/group/gi-rhein-main</url>
+            <label>Mailingliste</label>
+            <description>Termine und Diskussionen</description>
+        </mailinglist>
     </contact>
     <team>
         <person>
