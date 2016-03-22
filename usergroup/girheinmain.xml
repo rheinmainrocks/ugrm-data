@@ -20,39 +20,6 @@
         <email>joachim.rix@igd.fraunhofer.de</email>
     </contact>
     <schedule>
-        <meeting>
-            <time>2014-01-30T18:00:00</time>
-            <name>Apps überall: welche Auswirkungen hat das auf bestehende Kernanwendungen?</name>
-            <description>mit Impulsvorträgen von
-
-                * Susanne Braun (Fraunhofer IGD)
-                * Dr. Marion Kremer (Capgemini)
-                * Claudia Ristow (Deutsche Lufthansa)
-
-                Heute werden bereits mehr mobile Endgeräte verkauft als stationäre PCs, sehr viele Menschen in
-                Deutschland haben ein Smartphone. Kinder und Jugendliche wachsen wie selbstverständlich damit auf.
-                Gleichzeitig haben fast alle großen Unternehmen und Behörden bestehende Anwendungen, die als Host- oder
-                Client-Server-Anwendungen gebaut wurden und die jetzt in diese neue smarte Welt integriert werden sollen
-                und müssen. Im Rahmen dieser Veranstaltung werden wir zunächst in drei Impulsvorträgen unterschiedliche
-                Facetten des Themas beleuchten und freuen uns dann auf eine intensive Diskussion mit Ihnen.
-
-                Der Vortrag richtet sich an alle Interessierten aus Wirtschaft, öffentlicher Verwaltung und
-                Wissenschaft, die sehen möchten, wie die Welt der Apps auch die Bereiche der IT verändern wird, die
-                zunächst gar nicht betroffen wirken.
-
-                Die Teilnahme ist kostenlos. Im Anschluss an den Vortrag lädt das IGD zu einem Get-Together ein.
-            </description>
-            <url>
-                http://www.eventbrite.de/e/apps-uberall-welche-auswirkungen-hat-das-auf-bestehende-kernanwendungen-tickets-9879634252
-            </url>
-            <location>
-                <name>Fraunhofer Institute for Computer Graphics Research IGD</name>
-                <url>https://www.igd.fraunhofer.de/</url>
-                <street>Fraunhoferstr. 5</street>
-                <zip>64283</zip>
-                <city>Darmstadt</city>
-            </location>
-        </meeting>
     </schedule>
     <team>
         <person>
@@ -61,8 +28,8 @@
             <email>joachim.rix@igd.fraunhofer.de</email>
         </person>
         <person>
-            <name>Klaus Schröter</name>
-            <email>schroeter@gi-rhein-main.de</email>
+            <name>Steffen W. Schilke</name>
+            <email>steffen.schilke@gmail.com</email>
         </person>
         <person>
             <name>Dr. Marion Kremer</name>
