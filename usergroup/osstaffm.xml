@@ -19,9 +19,9 @@
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
        <meeting>
-            <time>2016-04-01T19:00:00+02:00</time>
-            <name>1. April Treffen des OSSTAFFM</name>
-            <description>Thema: OS E-Mail Programm + Verschlüsselung und Archivierung</description>
+            <time>2016-04-29T19:00:00+02:00</time>
+            <name>Treffen des OSSTAFFM</name>
+            <description>Thema: Steht noch nicht fest</description>
             <url>http://campus.auge.de/osstaffm.php</url>
         </meeting>
     </schedule>
