@@ -20,7 +20,7 @@
     <schedule usedefaultmeetinglocation="true">
        <meeting>
             <time>2016-04-29T19:00:00+02:00</time>
-            <name>Stammtisch ist am</name>
+            <name>Stammtisch ist</name>
             <description>Thema: Sync Kalender + Adressbuch plattformunabhängig: Linux, W10, MacOS, Android und iOS.</description>
             <url>http://campus.auge.de/osstaffm.php</url>
         </meeting>
