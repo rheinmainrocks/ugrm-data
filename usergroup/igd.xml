@@ -13,15 +13,7 @@
         <tag>Programming</tag>
         <tag>Indie Games</tag>
     </tags>
-    <defaultmeetinglocation>
-        <name>Sanid GmbH</name>
-        <url>http://www.sanid.com/</url>
-        <twitter>@SANIDcom</twitter>
-        <street>Kruppstr. 105</street>
-        <zip>60388</zip>
-        <city>Frankfurt</city>
-    </defaultmeetinglocation>
-    <schedule usedefaultmeetinglocation="true">
+    <schedule>
         <ical>http://www.meetup.com/Independent-Game-Developers-Rhein-Main-Meetup/events/ical/</ical>
     </schedule>
     <team>
