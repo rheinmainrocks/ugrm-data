@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Neos Meetup Rhein/Main</name>
+    <nickname>NeosRM</nickname>
+    <description>
+        Meetup rund um das Neos CMS mit Talks, Showcases, Diskussionen und Hands-On-Sessions.
+        Alle CMS-Interessierten sind herzlich willkommen!
+    </description>
+    <url>http://www.meetup.com/de-DE/NeosCMS-Flow-RheinMain</url>
+    <tags>
+        <tag>NeosCMS</tag>
+        <tag>Flow</tag>
+        <tag>CMS</tag>
+    </tags>
+    <contact>
+        <meetup>http://www.meetup.com/de-DE/NeosCMS-Flow-RheinMain</meetup>
+    </contact>
+    <schedule>
+        <ical>http://www.meetup.com/de-DE/NeosCMS-Flow-RheinMain/events/ical</ical>
+    </schedule>
+    <team>
+        <person>
+            <name>Bastian Heist</name>
+            <url>https://sandstorm.de</url>
+            <email>bh@sandstorm.de</email>
+            <twitter>@beheist</twitter>
+        </person>
+        <person>
+            <name>Hrishikesh Lele</name>
+            <url>https://lelesys.de</url>
+            <email>hrishi.lele@gmail.com</email>
+            <twitter>@lelesys</twitter>
+        </person>
+    </team>
+    <sponsors>
+        <sponsor>
+            <name>Liste der Sponsoren des Neos-Meetups</name>
+            <url>http://www.meetup.com/de-DE/NeosCMS-Flow-RheinMain/sponsors/</url>
+        </sponsor>
+    </sponsors>
+</usergroup>
