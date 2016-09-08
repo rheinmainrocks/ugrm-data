@@ -3,32 +3,22 @@
            female="false">
     <name>Agiler Stammtisch Frankfurt</name>
     <description markdown="true">
-        Sie sind Entwickler oder Projektleiter im IT-Bereich und möchten sich gern mit
-        Gleichgesinnten über agiles Testen, agile Entwicklung, agiles Projektmanagement
-        oder einfach Agilität im Allgemeinen austauschen? Dann sind Sie beim
-        Agilen Stammtisch Frankfurt von codecentric AG genau richtig!
-        In entspannter Atmosphäre können knifflige Probleme aus Ihrem beruflichen Alltag mit
-        Gleichgesinnten besprochen werden und natürlich wollen wir auch gegenseitig
-        Erfahrungen und Best Practices austauschen.
+        Austausch, Lernen und Erleben rund um die agilen Themen. 
+        Beim agilen Stammtisch stellen Speaker ihre agilen Themen und Erfahrungen vor - es wird aber auch der Fokus gelegt auf den gegenseitigen Austausch und das konkrete Erleben von agilen Methoden. 
+        Hierzu werden immer wieder agile Simulationen und Spiele vorgestellt, an denen die graue Theorie direkt ausprobiert werden kann. 
+        Jedes Event bietet außerdem genug Freiraum für den gemeinsamen Austausch.n.
 
-        Der Stammtisch fängt mit einem kurzen Impulsvortrag (Lighting Talk) an.
-        Jeder Teilnehmer darf ein eigene Thema mitbringen und kurz präsentieren.
-        Dann wird der Stammtisch weiter in einem [Lean-Kaffee](http://www.leancoffee.org/) fortgesetzt.
-        Dieses Format fördert Diskussionen rund um alle wichtigen Themen der Agilität und lebt von den Teilnehmern,
-        Sie sind also herzlich eingeladen, Ihre eigenen Themen und Fälle mitzubringen.
-
-        Getränke und Essen werden von codecentric AG gesponsert.
+        Getränke und Snacks werden von codecentric AG gesponsert.
     </description>
-    <url>http://asffm.blogspot.de/</url>
+    <url>https://www.meetup.com/de-DE/Agiler-Stammtisch-Frankfurt/</url>
     <tags>
         <tag>Agile</tag>
         <tag>Scrum</tag>
         <tag>Kanban</tag>
     </tags>
     <contact>
-        <twitter>@as_ffm</twitter>
         <hashtag>#agileFFM</hashtag>
-        <xing>https://www.xing.com/net/pri5328c8x/as-frankfurt</xing>
+        <meetup>http://www.meetup.com/de-DE/Agiler-Stammtisch-Frankfurt/</meetup>
     </contact>
     <defaultmeetinglocation>
         <name>codecentric AG, Niederlassung Frankfurt</name>
@@ -39,6 +29,19 @@
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
+        <meeting>
+            <time>2016-09-27T18:00:00</time>
+            <name>33. Agiler Stammtisch FFM - Impact Mapping</name>
+            <description>Impact Mapping – Geschäftsrelevanz von Agilen Software-Projekten.
+            
+            Der 33. Agile Stammtisch FFM: Impact Mapping ist eine strategische Planungstechnik, die dabei hilft den Fokus eines Software-Projektes auf die Geschäftsrelevanz zu legen. Sie unterstützt gemeinschaftliches, iteratives und agiles Vorgehen.  Impact Maps haben vier hierarchische Level, die das Warum, Wer, Wie und Was einer Anforderung darstellen.
+
+            In dieser Session werden die Teilnehmer die Konzepte des Impact Mappings vorgestellt bekommen und danach gemeinsam eine Impact Map erstellen um das erlernte direkt anzuwenden und zu vertiefen.
+
+            Zum Speaker: Felix Braun ist Agiler Coach und µService-Experte. Er hat 14 Jahren Erfahrung als Java-Entwickler, und entwickelt dort seit vielen Jahren ausschließlich nach agilen Methoden. Er wohnt in Mainz und leitet die Frankfurter Niederlassung der codecentric.   </description>
+            <url>https://www.meetup.com/de-DE/Agiler-Stammtisch-Frankfurt/events/233963393/</url>
+        </meeting>
+        
         <meeting>
             <time>2016-02-04T18:00:00</time>
             <name>29. Agiler Stammtisch Frankfurt</name>
