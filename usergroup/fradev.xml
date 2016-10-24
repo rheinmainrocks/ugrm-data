@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Frankfurt Developers</name>
+    <nickname>fradev</nickname>
+    <description>
+        One big group focusing on coding. We gather all passionated developers in the Frankfurt area who love to code, want to learn something new and want to connect.
+    </description>
+    <url>http://codingnight.co/</url>
+    <tags>
+        <tag>Code</tag>
+    </tags>
+    <contact>
+        <meetup>http://www.meetup.com/de-DE/Frankfurt-Developers/</meetup>
+    </contact>
+    <schedule>
+        <ical>http://www.meetup.com/de-DE/Frankfurt-Developers/events/ical</ical>
+    </schedule>
+    <team>
+        <person>
+            <name>Pavlos Giannakis</name>
+            <url>http://codenomads.co/#about-us</url>
+            <email>pavlos@codenomads.co</email>
+            <twitter>@coding_nerd</twitter>
+        </person>
+    </team>
+</usergroup>
