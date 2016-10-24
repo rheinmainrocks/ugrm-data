@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Women Techmakers Frankfurt</name>
+    <nickname>WTM</nickname>
+    <description>
+      As a part of the Women Techmakers powered by the Google Developer Group we are opening our chapter in the Rhein Main Region.
+      Our goal is to connect, share experiences, learn and improve together.
+    </description>
+    <url>http://www.meetup.com/Women-Techmakers-FRM/</url>
+    <tags>
+        <tag>women</tag>
+        <tag>Technology</tag>
+        <tag>Networking</tag>
+    </tags>
+    <contact>
+        <twitter>@WTM_Frankfurt</twitter>
+        <hashtag>#WomenTechMakers</hashtag>
+        <meetup>http://www.meetup.com/de-DE/Women-Techmakers-FRM/</meetup>
+    </contact>
+    <schedule>
+        <ical>http://www.meetup.com/de-DE/Women-Techmakers-FRM/events/ical/</ical>
+    </schedule>
+</usergroup>
