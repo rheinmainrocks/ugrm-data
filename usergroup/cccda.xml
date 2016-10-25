@@ -5,22 +5,37 @@
     <description>Chaos Darmstadt ist die örtliche Vertretung des Chaos in Darmstadt. Wir sind "ErfA"-Kreis des CCC und
         eine Hochschulgruppe der TU Darmstadt. (Bei uns sind aber natürlich auch nicht studierende Personen herzlich
         willkommen!) Im Rhein-Main-Gebiet fördern wir den Zusammenhalt und Erfahrungsaustausch der Computer- und
-        Chaostreffs (MetaRheinMain). Wir treffen uns jeden Dienstag um 20:00 CEST in unserem Hackerspace - der
+        Chaostreffs (MetaRheinMain). Wir treffen uns jeden Dienstag ab 19:00 Uhr zum Open Chaos in unserem Hackerspace - der
         Trollhöhle - in der Wilhelm-Leuschner-Straße 36 in Darmstadt. Für Anfahrtsbeschreibungen frage bitte den
-        Routingdienstleister deines geringsten Misstrauens. Falls du unsicher bist, ob der Raum offen ist: Ruf' an.
-        Unsere Rufnummer ist 06151 627 4854. Dann die '5' wählen; wenn sich jemand meldet, ist die Wahrscheinlichkeit
-        hoch, daß jemand im Hackerspace ist.
+        Routingdienstleister deines geringsten Misstrauens. Falls du unsicher bist, ob der Raum offen ist, schau einfach auf unserer Webseite nach.
     </description>
-    <url>http://chaos-darmstadt.de/</url>
+    <url>https://chaos-darmstadt.de/</url>
     <tags>
         <tag>Computer</tag>
+		<tag>Chaos-Computer-Club</tag>
+		<tag>Technik-Kultur-Gesellschaft</tag>
         <tag>CCC</tag>
+		<tag>Hackerspace</tag>
     </tags>
     <contact>
         <mailinglist>
             <url>https://lists.metarheinmain.de/mailman/listinfo/darmstadt</url>
-            <label>Die große Liste, offen für alle.</label>
+            <label>Unsere große öffentliche Liste, offen für alle Interessierten.</label>
         </mailinglist>
         <twitter>@chaosdarmstadt</twitter>
     </contact>
+ <defaultmeetinglocation>
+	<name>Hackspace Chaos Darmstadt - Trollhöhle</name>
+	<description>Unsere Treffen finden in unserem Hackspace, der Trollhöhle statt. Diese befindet sich im Hinterhof der Wilhelm-Leuschner-Str. 36 in 64293 Darmstadt. Im Hof gibt es Fahrradständer, wir empfehlen die Anreise mit dem Fahrrad oder öffentlichen Verkehrsmitteln.</description>
+    <url>https://www.chaos-darmstadt.de/hackspace.html</url>
+    <publictransport>
+        Bei der Anfahrt mit öffentlichen Verkehrsmitteln ist es am einfachsten mit dem Bus oder der Straßenbahn bis zum Willy-Brand-Platz zu fahren und von dort zu laufen. Außerdem ist es möglich mit der Bus-Linie L zur Haltestelle Kahlertstraße zu fahren und von dort aus den Fußweg anzutreten.
+</publictransport>
+ <street>Wilhelm-Leuschner-Straße 36</street>
+ <zip>64293</zip>
+ <city>Darmstadt</city>
+ </defaultmeetinglocation>
+ <schedule usedefaultmeetinglocation="true">
+     <ical>http://private.chaos-darmstadt.de/~ultimatefactbot/cal.ics</ical>
+ </schedule>
 </usergroup>
