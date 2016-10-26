@@ -17,6 +17,9 @@
 	</mailinglist>
         <twitter>@OWASP_f</twitter>
     </contact>
+    <schedule>
+	<ical>http://www.meetup.com/de-DE/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/</ical>
+    </schedule>
     <team>
         <person>
             <name>Johannes Schönborn</name>
