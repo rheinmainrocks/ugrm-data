@@ -9,11 +9,17 @@
         <tag>OWASP</tag>
     </tags>
     <contact>
-        <twitter>@OWASP_de</twitter>
+	<mailinglist>
+		<url>https://lists.owasp.org/mailman/listinfo/owasp-frankfurt</url>
+		<label>Mailingliste</label>
+		<description>Mailingliste für Austausch und Terminankündigung</description>
+
+	</mailinglist>
+        <twitter>@OWASP_f</twitter>
     </contact>
     <team>
         <person>
-            <name>Alexios Fakos</name>
+            <name>Johannes Schönborn</name>
         </person>
     </team>
 </usergroup>
