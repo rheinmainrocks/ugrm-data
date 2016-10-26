@@ -2,7 +2,7 @@
 <usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
     <name>OWASP Stammtisch Frankfurt</name>
     <nickname>OWASP</nickname>
-    <description>OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die Bedeutung der Sicherheit von Webanwendungen "sichtbar zu machen". Know-How zur Entwicklung und den Betrieb sicherer Webanwendungen zu verbreiten und frei zur Verfugung zu stellen. </description>
+    <description>OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die Bedeutung der Sicherheit von Webanwendungen "sichtbar zu machen". Know-How zur Entwicklung und den Betrieb sicherer Webanwendungen zu verbreiten und frei zur Verfugung zu stellen. Wir treffen uns jeden letzten Donnerstag im Monat um 19:30 bei einem wechselnden Gastgeber. Üblicherweise gibt es mindestens einen Vortrag mit Erfahrungsaustausch. Danach begeben wir uns zum geselligen Ausklang in eine Lokalität in der Nachbarschaft.</description>
     <url>https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Frankfurt</url>
     <tags>
         <tag>Security</tag>
