@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Microservices Meetup Rhein Main</name>
+    <description markdown="true">
+        Der Treffpunkt für alle, die sich für Microservice Architekturen interessieren. Egal ob ihr Systeme für Google und Netflix oder für den Shop um die Ecke baut, betreibt oder anderweitig betreut. In mehr oder weniger regelmäßigen Abständen wollen wir uns, in freundlicher Atmosphäre treffen und Erfahrungen austauschen sowie neue Ideen in diesem Bereich kennenleren und diskutieren.
+    </description>
+    <url>https://www.meetup.com/de-DE/Microservices-Meetup-Rhein-Main/</url>
+    <tags>
+        <tag>Microservices</tag>
+    </tags>
+    <contact>
+        <twitter>@MicroRheinMain</twitter>
+        <hashtag>#iotffm</hashtag>
+    </contact>
+    <schedule>
+        <ical>https://www.meetup.com/de-DE/Microservices-Meetup-Rhein-Main/events/ical</ical>
+    </schedule>
+</usergroup>
