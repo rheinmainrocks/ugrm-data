@@ -5,22 +5,36 @@
     <description>Chaos Darmstadt ist die örtliche Vertretung des Chaos in Darmstadt. Wir sind "ErfA"-Kreis des CCC und
         eine Hochschulgruppe der TU Darmstadt. (Bei uns sind aber natürlich auch nicht studierende Personen herzlich
         willkommen!) Im Rhein-Main-Gebiet fördern wir den Zusammenhalt und Erfahrungsaustausch der Computer- und
-        Chaostreffs (MetaRheinMain). Wir treffen uns jeden Dienstag um 20:00 CEST in unserem Hackerspace - der
-        Trollhöhle - in der Wilhelm-Leuschner-Straße 36 in Darmstadt. Für Anfahrtsbeschreibungen frage bitte den
-        Routingdienstleister deines geringsten Misstrauens. Falls du unsicher bist, ob der Raum offen ist: Ruf' an.
-        Unsere Rufnummer ist 06151 627 4854. Dann die '5' wählen; wenn sich jemand meldet, ist die Wahrscheinlichkeit
-        hoch, daß jemand im Hackerspace ist.
+        Chaostreffs (MetaRheinMain). Wir treffen uns jeden Dienstag ab 19:00 Uhr zum Open Chaos in unserem Hackspace 
+	- aktueller Arbeitsname "W17" - im dritten Obergeschoss der Wilhelminenstraße 17 in 64283 Darmstadt. Für Anfahrtsbeschreibungen frage bitte den
+        Routingdienstleister deines geringsten Misstrauens. Falls du unsicher bist, ob der Raum offen ist, schau einfach auf unserer Webseite nach.
     </description>
-    <url>http://chaos-darmstadt.de/</url>
+    <url>https://chaos-darmstadt.de/</url>
     <tags>
-        <tag>Computer</tag>
-        <tag>CCC</tag>
+		<tag>Technik-Kultur-Gesellschaft</tag>
+        	<tag>CCC</tag>
+		<tag>Hackerspace</tag>
     </tags>
     <contact>
         <mailinglist>
-            <url>https://lists.metarheinmain.de/mailman/listinfo/darmstadt</url>
-            <label>Die große Liste, offen für alle.</label>
+            <url>https://lists.darmstadt.ccc.de/mailman/listinfo/public</url>
+            <label>Unsere große offene Liste. Diese Mailingliste ist offen für alle, die sich im Umfeld von Darmstadt (z.B. über ihre Projekte) austauschen möchten.</label>
         </mailinglist>
         <twitter>@chaosdarmstadt</twitter>
     </contact>
+ <defaultmeetinglocation>
+	<name>Hackspace Chaos Darmstadt - W17</name>
+	<description>Unsere Treffen finden in unserem Hackspace mit aktuellem Arbeitsname "W17" statt. Diese befindet sich im 3.OG der Wilhelminenstraße 17 in 64283 Darmstadt. Wir empfehlen die Anreise mit dem Fahrrad oder öffentlichen Verkehrsmitteln.</description>
+    <url>https://www.chaos-darmstadt.de/hackspace.html</url>
+    <publictransport>
+        Bei der Anfahrt mit öffentlichen Verkehrsmitteln ist es am einfachsten mit dem Bus oder der Straßenbahn bis zum Luisenplatz zu fahren und von dort zu laufen. Der Luisenplatz ist der zentrale Umstiegspunkt in Darmstadt und wird von fast allen Linien angefahren</publictransport>
+ <street>Wilhelminenstraße 17</street>
+ <zip>64283</zip>
+ <city>Darmstadt</city>
+ </defaultmeetinglocation>
+ <schedule usedefaultmeetinglocation="true">
+     <ical>https://davical.darmstadt.ccc.de/public.php/cda/public/</ical>
+ </schedule>
 </usergroup>
+
+
