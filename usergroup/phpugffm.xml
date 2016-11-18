@@ -22,8 +22,9 @@
         </mailinglist>
         <twitter>@phpugffm</twitter>
         <hashtag>#phpugffm</hashtag>
+               <github>PHP-Usergroup-FFM</github>
     </contact>
-    <defaultmeetinglocation>
+    <!--defaultmeetinglocation>
         <name>sitewards</name>
         <street>Untermainkai 31</street>
         <zip>60000</zip>
@@ -32,7 +33,7 @@
             <latitude>50.125188</latitude>
             <longitude>8.706623</longitude>
         </geolocation>
-    </defaultmeetinglocation>
+    </defaultmeetinglocation-->
     <schedule>
         <ical>
             http://www.phpugffm.de/?ical=1
@@ -42,8 +43,16 @@
         <person>
             <name>Andreas Heigl</name>
             <url>http://andreas.heigl.org</url>
-            <email>andreas@heigl.org</email>
+            <email>andreas@phpugffm.de</email>
             <twitter>@heiglandreas</twitter>
+        </person>
+        <person>
+            <name>Christian Nielebock</name>
+            <email>christian@phpugffm.de</email>
+        </person>
+        <person>
+            <name>Stephan Hochdörfer</name>
+            <email>stephan@phpugffm.de</email>
         </person>
     </team>
     <sponsors>
@@ -54,14 +63,6 @@
         <sponsor>
             <name>Jetbrains</name>
             <url>http://jetbrains.com/</url>
-        </sponsor>
-        <sponsor>
-            <name>Brot und Spiele GmbH</name>
-            <url>http://spieletipps.de/</url>
-        </sponsor>
-        <sponsor>
-            <name>dmr solutions gmbh</name>
-            <url>http://www.dmr-solutions.com/</url>
         </sponsor>
     </sponsors>
     <photocredits>
