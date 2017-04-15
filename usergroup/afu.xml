@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Funkamateure DARC Ortsverband Frankfurt (F05)</name>
+    <nickname>PyUGRM</nickname>
+    <description>Ca. 90 Funkamateure aus Frankfurt und Umgebung, die im DARC organsiert sind, treffen sich 
+    gemeinsam und partizipieren an Funkwettbewerben sowie Bastelprojekten und richten Lehrveranstaltungen aus.
+    </description>
+    <url>http://www.F05.de</url>
+    <tags>
+        <tag>Amateurfunk</tag>
+    </tags>
+    <contact>
+        <mailinglist>
+            <url>http://de.groups.yahoo.com/group/F05/</url>
+            <label>Mailingliste</label>
+            <description>zum Austausch von Informationen und Terminen
+            </description>
+        </mailinglis>
+    </contact>
+    <schedule>
+        <!-- Entweder ical-Feed angeben oder Meetings manuell eintragen -->
+        <!-- ical> https://www.google.com/calendar/ical/q408a75de70rb2ebqka3i18nc0%40group.calendar.google.com/public/basic.ics
+</ical -->
+        <meeting>
+            <time>2013-03-22T20:00:00+01:00</time>
+            <name>Ortsverbandsabend mit Jahreshauptversammlung</name>
+            <url>http://www.landolt.de/termine/termine.htm</url>
+            <location>
+                <name>Saalbau Bürgerhaus Bornheim</name>
+                <url>http://www.landolt.de/termine/termine.htm</url>
+                <publictransport>U4 Höhenstraße</publictransport>
+                <street>Arnsburgerstraße 24</street>
+                <city>Frankfurt</city>
+            </location>
+        </meeting>
+    </schedule>
+</usergroup>
