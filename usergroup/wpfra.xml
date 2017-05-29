@@ -10,7 +10,7 @@
         ausdrücklich keine Akquise-Veranstaltungen! Wir legen Wert auf einen offenen, ungezwungenen Austausch und
         bitten, dass alle Teilnehmenden dies berücksichtigen.
     </description>
-    <url>http://wpmeetup-frankfurt.de/</url>
+    <url>https://wpmeetup-frankfurt.de/</url>
     <tags>
         <tag>WordPress</tag>
         <tag>PHP</tag>
@@ -18,18 +18,17 @@
     <contact>
         <twitter>@WPFRA</twitter>
         <hashtag>#WPFRA</hashtag>
-        <googleplus>https://plus.google.com/b/116393943838212542865/116393943838212542865/posts</googleplus>
-        <meetup>http://www.meetup.com/wp-fra/</meetup>
+        <meetup>http://www.meetup.com/wpmeetup-frankfurt/</meetup>
     </contact>
     <defaultmeetinglocation>
-        <name>Dreimorgen</name>
-	<url>http://dreimorgen.com/</url>
-        <publictransport>Die Räumlichkeiten von Dreimorgen finden sich in der Nähe des Hauptbahnhofs.</publictransport>
-        <street>Taunusstr. 29</street>
-        <zip>60329</zip>
+        <name>moenus+friends</name>
+        <url>https://moenus.net/</url>
+	<publictransport>Die Räumlichkeiten von moenus+friends finden sich in der Nähe vom Zoo Frankfurt/Ostendstraße.</publictransport>
+        <street>Friedberger Anlage 8 (Hinterhaus)</street>
+        <zip>60314</zip>
         <city>Frankfurt</city>
     </defaultmeetinglocation>
     <schedule usedefaultmeetinglocation="true">
-        <ical>http://www.meetup.com/wp-fra/events/ical</ical>
+        <ical>https://www.meetup.com/wpmeetup-frankfurt/events/ical</ical>
     </schedule>
 </usergroup>
