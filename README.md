@@ -1,3 +1,7 @@
+# :skull: NOTE
+
+This project is no longer actively maintained and has been superseeded by <https://github.com/rheinmainrocks/usergroups>.
+
 # [![UGRM Usergroups RheinMain](https://raw.github.com/rheinmainrocks/ugrm-data/master/logo.png)](http://usergroups.rheinmainrocks.de/)
 
 In diesem Repository finden sich mittels XML strukturierte Information zu Technologie-Usergroups im RheinMain-Gebiet. 
