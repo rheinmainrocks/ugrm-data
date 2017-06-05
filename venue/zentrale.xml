@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/venue.xsd">
+    <name>Die Zentrale</name>
+    <description>
+        Coworking in Frankfurt. Echt jetzt. Nein, wirklich. Wir sind kein Business
+        Center. Wir haben nicht nur Schreibtische und Wlan zu vermieten.
+    </description>
+    <url>http://www.die-zentrale-ffm.de/#section-n6</url>
+    <foursquare>https://de.foursquare.com/zentrale_ffm</foursquare>
+    <twitter>@zentrale_ffm</twitter>
+    <publictransport>U4, Tram 12, Bus 34 Bornheim Mitte</publictransport>
+    <street>Berger Straße 175</street>
+    <zip>60385</zip>
+    <city>Frankfurt</city>
+    <geolocation>
+        <latitude>50.125346</latitude>
+        <longitude>8.706184</longitude>
+    </geolocation>
+    <team>
+        <person>
+            <name>Jenny &amp; Lukas</name>
+            <email>info@die-zentrale-ffm.de</email>
+        </person>
+    </team>
+</venue>
